@@ -5,49 +5,49 @@
   "book": "genesis",
   "lang": "mn",
   "chapter": 23,
-  "translation": "And Abraham rose up from before his dead, and spoke to the children of Chet, saying:",
+  "translation": "Аврахам өөрийн үхэгч дээрээс боссон бөгөөд Хетын хөвгүүдэд айлдаж хэлэхэд:",
   "tokens": [
     {
       "surface": "ויקם",
-      "gloss": "and rose up"
+      "gloss": "боссон"
     },
     {
       "surface": "אברהם",
-      "gloss": "Abraham"
+      "gloss": "Аврахам"
     },
     {
       "surface": "מעל",
-      "gloss": "from over"
+      "gloss": "дээрээс"
     },
     {
       "surface": "פני",
-      "gloss": "the face of"
+      "gloss": "өмнөөс"
     },
     {
       "surface": "מתו",
-      "gloss": "his dead"
+      "gloss": "өөрийн үхэгч"
     },
     {
       "surface": "וידבר",
-      "gloss": "and spoke"
+      "gloss": "айлдаж"
     },
     {
       "surface": "אל",
-      "gloss": "to"
+      "gloss": "-д"
     },
     {
       "surface": "בני",
-      "gloss": "the children of"
+      "gloss": "хөвгүүд"
     },
     {
       "surface": "חת",
-      "gloss": "Chet"
+      "gloss": "Хетын"
     },
     {
       "surface": "לאמר",
-      "gloss": "saying"
+      "gloss": "хэлэхэд"
     }
   ],
-  "timestamp": "2026-10-04T09:52:22.528351954Z",
+  "timestamp": "2026-10-04T16:03:46.644198890Z",
   "model": "glm-5.3"
 }

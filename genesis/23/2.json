@@ -5,61 +5,61 @@
   "book": "genesis",
   "lang": "mn",
   "chapter": 23,
-  "translation": "And Sarah died in Kiryath-Arba, which is Hevron in the land of Canaan; and Abraham came in to mourn Sarah and to weep for her.",
+  "translation": "Сарра Кириат-Арбад, өөрөөр хэлбэл Хеврон, Кенааны нутагт нас баржээ; Аврахам Саррыг гашуудан оролтолж, уйлжээ.",
   "tokens": [
     {
       "surface": "ותמת",
-      "gloss": "and died"
+      "gloss": "нас баржээ"
     },
     {
       "surface": "שרה",
-      "gloss": "Sarah"
+      "gloss": "Сарра"
     },
     {
       "surface": "בקרית",
-      "gloss": "in Kiryath"
+      "gloss": "Кириат-Арбад"
     },
     {
       "surface": "ארבע",
-      "gloss": "-Arba"
+      "gloss": "Кириат-Арба"
     },
     {
       "surface": "הוא",
-      "gloss": "which is"
+      "gloss": "өөрөөр хэлбэл"
     },
     {
       "surface": "חברון",
-      "gloss": "Hevron"
+      "gloss": "Хеврон"
     },
     {
       "surface": "בארץ",
-      "gloss": "in the land"
+      "gloss": "нутагт"
     },
     {
       "surface": "כנען",
-      "gloss": "of Canaan"
+      "gloss": "Кенааны"
     },
     {
       "surface": "ויבא",
-      "gloss": "and came in"
+      "gloss": "оролтолжээ"
     },
     {
       "surface": "אברהם",
-      "gloss": "Abraham"
+      "gloss": "Аврахам"
     },
     {
       "surface": "לספד",
-      "gloss": "to mourn"
+      "gloss": "гашуудан"
     },
     {
       "surface": "לשרה",
-      "gloss": "Sarah"
+      "gloss": "Саррыг"
     },
     {
       "surface": "ולבכתה",
-      "gloss": "and to weep for her"
+      "gloss": "уйлжээ"
     }
   ],
-  "timestamp": "2026-10-04T09:52:22.528202761Z",
+  "timestamp": "2026-10-04T16:03:46.644032096Z",
   "model": "glm-5.3"
 }

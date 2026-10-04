@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Долоо сайхан үнээн долоон жил болой, долоо сайхан үртэй судал долоон жил болой: зүүд нэг болой.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "Долоо"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "үнээн"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жил"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "болой"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ба долоо"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "үртэй судал"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жил"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "болой"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "зүүд"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "болой"
+    }
+  ],
+  "timestamp": "2026-10-04T16:03:10.270345170Z",
+  "model": "glm-5.3"
+}

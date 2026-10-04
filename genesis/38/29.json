@@ -5,8 +5,65 @@
   "book": "genesis",
   "lang": "mn",
   "chapter": 38,
-  "translation": "Тэр гарга\/pgar his hand, behold, his brother came out and she said, What a breach you have broken forth! So his name was called Perets.",
-  "tokens": [],
-  "timestamp": "2026-10-04T09:59:40.739235674Z",
+  "translation": "Тэр гараа буцаахад үзэлтийн нөхөр нь гарч ирэв; тэр хэлэхэд: Яагаад чи өөрөө себеэр нэвт гарсан бэ? Гэвэл түүний нэрийг Перец гэж нэрлэжээ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "כמשיב",
+      "gloss": "буцаахад"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гартаа"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "үзэлтийн"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "гарч ирэв"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "нөхөр нь"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "тэр хэлэхэд"
+    },
+    {
+      "surface": "מה",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "чи нэвт гарсан"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "өөрөө себеэр"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "нэвт гарц"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "нэрлэжээ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "түүний нэрийг"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    }
+  ],
+  "timestamp": "2026-10-04T16:03:31.551619436Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,33 @@
   "book": "1-chronicles",
   "lang": "mn",
   "chapter": 27,
-  "translation": "Левийнхөнд Хашавiah Кемуэлийн хүү; Аароныхонд Цадок.",
+  "translation": "Левиуд: Хашавйа Кемуэлийн хүү; Аароных: Цадок.",
   "tokens": [
     {
       "surface": "ללוי",
-      "gloss": "Левийнхөнд"
+      "gloss": "Левиуд"
     },
     {
       "surface": "חשביה",
-      "gloss": "Хашавiah"
+      "gloss": "Хашавйа"
     },
     {
       "surface": "בן",
-      "gloss": "-ийн хүү"
+      "gloss": "хүү"
     },
     {
       "surface": "קמואל",
-      "gloss": "Кемуэл"
+      "gloss": "Кемуэлийн"
     },
     {
       "surface": "לאהרן",
-      "gloss": "Аароныхонд"
+      "gloss": "Аароных"
     },
     {
       "surface": "צדוק",
       "gloss": "Цадок"
     }
   ],
-  "timestamp": "2026-10-04T15:07:14.701975308Z",
+  "timestamp": "2026-10-04T16:11:57.522947394Z",
   "model": "glm-5.3"
 }

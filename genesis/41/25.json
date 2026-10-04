@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Иосиф Параод хэлэв: Параоны зүүд нэг болой: Элохим ⟨את⟩ юу хийхийг Параод зарлав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парао"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "зүүд"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Параоны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "болой"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "юу хийхийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийх"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "зарлав"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Параод"
+    }
+  ],
+  "timestamp": "2026-10-04T16:03:10.270068576Z",
+  "model": "glm-5.3"
+}

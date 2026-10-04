@@ -5,19 +5,19 @@
   "book": "2-chronicles",
   "lang": "mn",
   "chapter": 35,
-  "translation": "Иошиягийн хаанчлалын XVIII жилд энэ Песах хийгдэв.",
+  "translation": "Йошияагийн хаанчлалын арван наймдугаар онд энэ Песах бүтээгдэв.",
   "tokens": [
     {
       "surface": "בשמונה",
-      "gloss": "XVIII"
+      "gloss": "наймдугаар"
     },
     {
       "surface": "עשרה",
-      "gloss": ""
+      "gloss": "арван"
     },
     {
       "surface": "שנה",
-      "gloss": "жилд"
+      "gloss": "онд"
     },
     {
       "surface": "למלכות",
@@ -25,21 +25,21 @@
     },
     {
       "surface": "יאשיהו",
-      "gloss": "Иошиягийн"
+      "gloss": "Йошияагийн"
     },
     {
       "surface": "נעשה",
-      "gloss": "хийгдэв"
+      "gloss": "бүтээгдэв"
     },
     {
       "surface": "הפסח",
-      "gloss": "Песах"
+      "gloss": "энэ Песах"
     },
     {
       "surface": "הזה",
       "gloss": "энэ"
     }
   ],
-  "timestamp": "2026-10-04T15:23:26.224790051Z",
+  "timestamp": "2026-10-04T16:11:54.197448742Z",
   "model": "glm-5.3"
 }

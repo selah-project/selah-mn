@@ -5,8 +5,29 @@
   "book": "deuteronomy",
   "lang": "mn",
   "chapter": 22,
-  "translation": "Үхэр бол илжгийн хамт хагалахгүй.",
-  "tokens": [],
-  "timestamp": "2026-10-04T10:57:32.355101386Z",
+  "translation": "Үхэр болон илжиг хамт бүү хагал.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "хагал"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "болон илжиг"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "хамт"
+    }
+  ],
+  "timestamp": "2026-10-04T16:05:34.577887281Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Анатот, Ноб, Ананя.",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "Анатот"
+    },
+    {
+      "surface": "נב",
+      "gloss": "Ноб"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "Ананя"
+    }
+  ],
+  "timestamp": "2026-10-04T16:11:07.049133121Z",
+  "model": "glm-5.3"
+}

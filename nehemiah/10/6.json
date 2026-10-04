@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "mn",
   "chapter": 10,
-  "translation": "Харим, Мерemoth, Обадиа.",
+  "translation": "Харим, Мермот, Овадья,",
   "tokens": [
     {
       "surface": "חרם",
@@ -13,13 +13,13 @@
     },
     {
       "surface": "מרמות",
-      "gloss": "Мерemoth"
+      "gloss": "Мермот"
     },
     {
       "surface": "עבדיה",
-      "gloss": "Обадиа"
+      "gloss": "Овадья"
     }
   ],
-  "timestamp": "2026-10-04T14:52:58.454864702Z",
+  "timestamp": "2026-10-04T16:11:03.576626620Z",
   "model": "glm-5.3"
 }

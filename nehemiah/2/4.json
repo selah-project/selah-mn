@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хаан над руу хэлэв: Чи юу хүсэж байна? Тэгээд би тэнгэрийн Элохимд залбирлаа.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Хаан ... хэлэв"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Хаан"
+    },
+    {
+      "surface": "על",
+      "gloss": "... тухай"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "хүсэж байна"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "би ... залбирлаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "тэнгэрийн"
+    }
+  ],
+  "timestamp": "2026-10-04T16:11:47.600718945Z",
+  "model": "glm-5.3"
+}

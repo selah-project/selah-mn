@@ -5,11 +5,11 @@
   "book": "ezra",
   "lang": "mn",
   "chapter": 10,
-  "translation": "Ванья, Мерemoth, Эльяшив.",
+  "translation": "Ваньях, Мерemoth, Эльяшив.",
   "tokens": [
     {
       "surface": "וניה",
-      "gloss": "Ванья"
+      "gloss": "Ваньях"
     },
     {
       "surface": "מרמות",
@@ -20,6 +20,6 @@
       "gloss": "Эльяшив"
     }
   ],
-  "timestamp": "2026-10-04T14:48:31.716171174Z",
+  "timestamp": "2026-10-04T16:13:45.777796263Z",
   "model": "glm-5.3"
 }

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Филистчүүд дахин нэмж хөндийд довтолжээ.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "дахин нэмж"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Филистчүүд"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "довтолжээ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "хөндийд"
+    }
+  ],
+  "timestamp": "2026-10-04T16:11:46.333726191Z",
+  "model": "glm-5.3"
+}

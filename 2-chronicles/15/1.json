@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Азарйау, Одэдын хүү дээр Элохимын руах байв.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "Азарйау"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "Одэд"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "байв"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимын"
+    }
+  ],
+  "timestamp": "2026-10-04T16:11:53.716337994Z",
+  "model": "glm-5.3"
+}

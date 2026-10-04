@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Цадик ⟨эси⟩ Яхвэ, ба шүүлтүүд чинь шулуун шударга.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Цадик"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨эси⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "шулуун шударга"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "шүүлтүүд чинь"
+    }
+  ],
+  "timestamp": "2026-10-04T16:10:22.741024299Z",
+  "model": "glm-5.3"
+}

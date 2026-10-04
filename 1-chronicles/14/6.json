@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "mn",
   "chapter": 14,
-  "translation": "ба Ногah... ",
+  "translation": "ба Ногах, ба Нефег, ба Йафиа.",
   "tokens": [
     {
       "surface": "ונגה",
@@ -17,9 +17,9 @@
     },
     {
       "surface": "ויפיע",
-      "gloss": "ба Яфиа"
+      "gloss": "ба Йафиа"
     }
   ],
-  "timestamp": "2026-10-04T15:02:22.902830736Z",
+  "timestamp": "2026-10-04T16:11:48.672824891Z",
   "model": "glm-5.3"
 }

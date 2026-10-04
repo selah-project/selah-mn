@@ -5,8 +5,80 @@
   "book": "judges",
   "lang": "mn",
   "chapter": 1,
-  "translation": "Иехуда went with Шимеон his brother, and they struck the Кенаан who dwelt in Цефат, and they devoted it to destruction; and he called the name of the city Хорма.",
-  "tokens": [],
-  "timestamp": "2026-10-04T11:13:03.419112387Z",
+  "translation": "Яхуд ⟨את⟩ Шимеон ахынхаа хамт явж, Цефатад нутаглаж байсан кенаанчдыг цохив; ⟨את⟩ түүнийг бүрмөсөн устган хэрэм болгож, хотын нэрийг Хорма хэмээн нэрлэв.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Яхуд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шимеон"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимеон"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ах нь"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "цов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кенаанч"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "кенаанч"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "нутаглагч"
+    },
+    {
+      "surface": "צפת",
+      "gloss": "Цефат"
+    },
+    {
+      "surface": "ויחרימו",
+      "gloss": "хэрэм болгов"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ түүнийг"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "нэрлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нэр"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Хорма"
+    }
+  ],
+  "timestamp": "2026-10-04T16:05:55.496133849Z",
   "model": "glm-5.3"
 }

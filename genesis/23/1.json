@@ -5,57 +5,57 @@
   "book": "genesis",
   "lang": "mn",
   "chapter": 23,
-  "translation": "Sarah's life was one hundred and twenty and seven years — the years of Sarah's life.",
+  "translation": "Саррын нас нэг зуун жил болон хорин жил болон долоон жил байв — эдгээр нь Саррын амьдралын жилүүд мөн.",
   "tokens": [
     {
       "surface": "ויהיו",
-      "gloss": "was"
+      "gloss": "байв"
     },
     {
       "surface": "חיי",
-      "gloss": "the life"
+      "gloss": "нас"
     },
     {
       "surface": "שרה",
-      "gloss": "of Sarah"
+      "gloss": "Сарра"
     },
     {
       "surface": "מאה",
-      "gloss": "one hundred"
+      "gloss": "нэг зуун"
     },
     {
       "surface": "שנה",
-      "gloss": "years"
+      "gloss": "жил"
     },
     {
       "surface": "ועשרים",
-      "gloss": "and twenty"
+      "gloss": "болон хорин"
     },
     {
       "surface": "שנה",
-      "gloss": "years"
+      "gloss": "жил"
     },
     {
       "surface": "ושבע",
-      "gloss": "and seven"
+      "gloss": "болон долоон"
     },
     {
       "surface": "שנים",
-      "gloss": "years"
+      "gloss": "жил"
     },
     {
       "surface": "שני",
-      "gloss": "the years of"
+      "gloss": "жилүүд"
     },
     {
       "surface": "חיי",
-      "gloss": "the life"
+      "gloss": "амьдралын"
     },
     {
       "surface": "שרה",
-      "gloss": "of Sarah"
+      "gloss": "Саррын"
     }
   ],
-  "timestamp": "2026-10-04T09:52:22.527890475Z",
+  "timestamp": "2026-10-04T16:03:46.643745583Z",
   "model": "glm-5.3"
 }

@@ -5,57 +5,57 @@
   "book": "genesis",
   "lang": "mn",
   "chapter": 23,
-  "translation": "I am a sojourner and a settler with you; give to me a possession of a burial site among you, and I will bury my dead from before me.",
+  "translation": "Би та нарын дунд зочин ба суугч билээ; та нар надад оршуулгын эзэмшил өг, би өөрийн үхэгчдээ нүднээс холдуулан оршуулъя.",
   "tokens": [
     {
       "surface": "גר",
-      "gloss": "a sojourner"
+      "gloss": "зочин"
     },
     {
       "surface": "ותושב",
-      "gloss": "and a settler"
+      "gloss": "ба суугч"
     },
     {
       "surface": "אנכי",
-      "gloss": "I"
+      "gloss": "Би"
     },
     {
       "surface": "עמכם",
-      "gloss": "with you"
+      "gloss": "та нарын дунд"
     },
     {
       "surface": "תנו",
-      "gloss": "give"
+      "gloss": "өг"
     },
     {
       "surface": "לי",
-      "gloss": "to me"
+      "gloss": "надад"
     },
     {
       "surface": "אחזת",
-      "gloss": "a possession"
+      "gloss": "эзэмшил"
     },
     {
       "surface": "קבר",
-      "gloss": "of a burial site"
+      "gloss": "оршуулгын"
     },
     {
       "surface": "עמכם",
-      "gloss": "among you"
+      "gloss": "та нарын дунд"
     },
     {
       "surface": "ואקברה",
-      "gloss": "and I will bury"
+      "gloss": "би оршуулъя"
     },
     {
       "surface": "מתי",
-      "gloss": "my dead"
+      "gloss": "өөрийн үхэгчдээ"
     },
     {
       "surface": "מלפני",
-      "gloss": "from before me"
+      "gloss": "нүднээс холдуулан"
     }
   ],
-  "timestamp": "2026-10-04T09:52:22.528489553Z",
+  "timestamp": "2026-10-04T16:03:46.644366942Z",
   "model": "glm-5.3"
 }

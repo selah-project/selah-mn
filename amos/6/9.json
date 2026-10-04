@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Ийм болохоор нэг байшинд арван хүн үлдсэн ч тэд бүгд үхнэ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Ийм болохоор"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "үлдсэн"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арван"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "байшинд"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "тэд бүгд үхнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T16:09:58.275949700Z",
+  "model": "glm-5.3"
+}

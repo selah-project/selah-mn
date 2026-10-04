@@ -8,35 +8,35 @@
   "translation": "Зам буй — хүний өмнө шулуун; гэвч түүний төгсгөл бол үхлийн замууд.",
   "tokens": [
     {
-      "surface": "йеш",
+      "surface": "יש",
       "gloss": "буй"
     },
     {
-      "surface": "дерех",
+      "surface": "דרך",
       "gloss": "зам"
     },
     {
-      "surface": "яшар",
+      "surface": "ישר",
       "gloss": "шулуун"
     },
     {
-      "surface": "лифней",
+      "surface": "לפני",
       "gloss": "…-ийн өмнө"
     },
     {
-      "surface": "иш",
+      "surface": "איש",
       "gloss": "хүний"
     },
     {
-      "surface": "ве-ахаритах",
+      "surface": "ואחריתה",
       "gloss": "гэвч түүний төгсгөл"
     },
     {
-      "surface": "дархэй",
+      "surface": "דרכי",
       "gloss": "замууд"
     },
     {
-      "surface": "мавет",
+      "surface": "מות",
       "gloss": "үхлийн"
     }
   ],
