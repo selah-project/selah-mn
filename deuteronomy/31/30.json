@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Моше Израилийн бүх чуулганы чихэнд энэ дууны ⟨את⟩ үгсийг бүрмѳсѳн дуустал хэлэв.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "чихэнд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "чуулганы"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилийн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "дууны"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дуустал"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "бүрмѳсѳн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:34:12.400952364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Шимэоны хөвгүүдээс цэргийн төлөө эрэлхэг эрчүүд, долоон мянга нэг зуу.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "…ээс"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимэон"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "эрэлхэг эрчүүд"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "эр чадал"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "цэргийн төлөө"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "нэг зуу"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:22.204248714Z",
+  "model": "glm-5.3"
+}

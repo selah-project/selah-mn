@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Давид Аароны ⟨את⟩ хөвгүүд болон ⟨את⟩ Леви нарыг цуглуулав.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "цуглуулав"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аароны хөвгүүд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аароны"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Леви нар"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Леви нарыг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:51.396444132Z",
+  "model": "glm-5.3"
+}

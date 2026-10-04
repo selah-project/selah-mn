@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 1:23",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Энэ үг миний нүдэд сайхан санагдав, би та наас арван хоёр хүн авав, овог бүрээс нэг хүн.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "сайхан санагдав"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "миний нүдэд"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "Энэ үг"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "би авав"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "та наас"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "овог бүрээс"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:35.294968626Z",
+  "model": "glm-5.3"
+}

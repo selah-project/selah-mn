@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Яаковын гэр ээ, ирцгээ, Яхвэгийн гэрэлд явцгаая.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковын"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ирцгээ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "явцгаая"
+    },
+    {
+      "surface": "באור",
+      "gloss": "гэрэлд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:09:18.933698267Z",
+  "model": "glm-5.3"
+}

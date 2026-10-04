@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Давид сонсоод ⟨את⟩ Йоабыг болон ⟨את⟩ бүх баатар цэргийг илгээв.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "сонсоод"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "илгээв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоаб"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоабыг"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "бүх баатар цэрэг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "цэрэг"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "баатар"
+    }
+  ],
+  "timestamp": "2026-10-04T11:38:18.820826397Z",
+  "model": "glm-5.3"
+}

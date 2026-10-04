@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 22:17",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Элд хэлэгчид: Түүнээс холд, ба Шаддай тэдэнд юу хийх вэ?",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "хэлэгчид"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Элд"
+    },
+    {
+      "surface": "סור",
+      "gloss": "холд"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "түүнээс"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ба юу"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "хийх"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "למו",
+      "gloss": "тэдэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:20:29.627640949Z",
+  "model": "glm-5.3"
+}

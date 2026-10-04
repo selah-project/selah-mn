@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Би Ерушалаймд ирж, тэнд гурван өдөр байв.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "иржээ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалайм"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "гурван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:50:57.285648766Z",
+  "model": "glm-5.3"
+}

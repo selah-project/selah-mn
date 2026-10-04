@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Энэ чамд Яхвэгээс ⟨את⟩ тэмдэг болно: Яхвэ өөрийн айлдсан энэ үгийг ⟨את⟩ биелүүлнэ.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "האות",
+      "gloss": "тэмдэг"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "Яхвэгээс ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "гэсэн"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "биелүүлнэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ үгийг"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "өөрийн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдсан"
+    }
+  ],
+  "timestamp": "2026-10-04T12:22:02.511021809Z",
+  "model": "glm-5.3"
+}

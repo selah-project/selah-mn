@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Учир нь тэр хоосноор ирсэн ба харанхуйд явна, ба харанхуйд түүний нэр бүрхэгдэнэ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "хоосноор"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ирсэн"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ба харанхуйд"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "явна"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ба харанхуйд"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "түүний нэр"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "бүрхэгдэнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:36.715676016Z",
+  "model": "glm-5.3"
+}

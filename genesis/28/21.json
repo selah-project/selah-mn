@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "би эцгийнхөө гэрт энхээр буцаж ирвэл, Яхвэ надад Элохим болог.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "буцаж ирвэл"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "энхээр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэрт"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцгийнхөө"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "бол"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-10-04T09:54:59.597248017Z",
+  "model": "glm-5.3"
+}

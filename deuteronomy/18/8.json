@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Хувь шиг хувь идэх бөгөөд эцгийн өвөөс болсон борлуулалтаас өөрөөр.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "Хувь"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "хувь шиг"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "идэх"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "өөрөөр"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "борлуулалтаас"
+    },
+    {
+      "surface": "על",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "эцгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:57:35.883137511Z",
+  "model": "glm-5.3"
+}

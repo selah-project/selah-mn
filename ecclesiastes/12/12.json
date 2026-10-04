@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Хүү минь, эдгээрээс цааш болгоомжил: ном олон бичихэд төгсгөл байхгүй, их уншлага махны ядаргаа болмой.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "цааш"
+    },
+    {
+      "surface": "мהמה",
+      "gloss": "эдгээрээс"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүү минь"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "болгоомжил"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "бичихэд"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "ном"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "олон"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "төгсгөл"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "уншлага"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "их"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "ядаргаа"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "махны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:36:03.885382596Z",
+  "model": "glm-5.3"
+}

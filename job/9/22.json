@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Энэ бол нэг зүйл тул би хэлсэн: Тэр төгс болон муу хүнийг мөхөөнө.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "היא",
+      "gloss": "бол"
+    },
+    {
+      "surface": "על",
+      "gloss": "тул"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тийм"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "би хэлсэн"
+    },
+    {
+      "surface": "תם",
+      "gloss": "төгс"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "болон муу хүнийг"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "мөхөөнө"
+    }
+  ],
+  "timestamp": "2026-10-04T14:16:56.370711672Z",
+  "model": "glm-5.3"
+}

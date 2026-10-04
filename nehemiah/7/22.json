@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Хашумын хүүхдүүд, гурван зуун хорин найман.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хүүхдүүд"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хашумын"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "найман"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:25.107984939Z",
+  "model": "glm-5.3"
+}

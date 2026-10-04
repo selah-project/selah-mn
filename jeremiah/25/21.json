@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Эдом болон Моаб болон Аммоны хөвгүүдийг",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эдом"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "болон ⟨את⟩",
+      "marks": "Моаб"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "болон ⟨את⟩",
+      "marks": "Аммоны хөвгүүд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммон"
+    }
+  ],
+  "timestamp": "2026-10-04T12:41:35.980569795Z",
+  "model": "glm-5.3"
+}

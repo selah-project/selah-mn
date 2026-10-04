@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Биньямины хөвгүүд: Бела, Бехер, Йедиаэл — гурав.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямин"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "Бехер"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "Йедиаэл"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "гурав"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:36.696044110Z",
+  "model": "glm-5.3"
+}

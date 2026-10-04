@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "ба Ибхар, ба Элишуа, ба Элпалет,",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ба Ибхар"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "ба Элишуа"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "ба Элпалет"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:22.902622941Z",
+  "model": "glm-5.3"
+}

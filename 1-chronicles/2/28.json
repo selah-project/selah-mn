@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Онамын хөвгүүд байв: Шаммай, Яда; Шаммайн хөвгүүд бол Надав, Авишур.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "байв"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Онамын"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммай"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "Яда"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммайн"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надав"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "Авишур"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:53.629397147Z",
+  "model": "glm-5.3"
+}

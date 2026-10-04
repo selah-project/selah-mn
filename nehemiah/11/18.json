@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Ариун хот дахь Леви нарын бүх ⟨тоо⟩ хоёр зуун наян дөрөв байв.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Леви нар"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "хот дахь"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "хоёр зуун"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "наян"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "дөрөв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:54:39.590073465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Энэ үгс, өнөөдөр би чамд тушааж буй нь, чиний зүрхэн дээр байг.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "байг"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "энэ үгс"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нь"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "чинид тушааж буй"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "чиний зүрхэн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:36.623200634Z",
+  "model": "glm-5.3"
+}

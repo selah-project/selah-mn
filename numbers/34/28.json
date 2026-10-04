@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 34:28",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Нафталигийн хөвгүүдийн овгоос ноён нь Педахел, Аммиудын хүү.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталигийн"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "פדהאל",
+      "gloss": "Педахел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммиудын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:22.212172244Z",
+  "model": "glm-5.3"
+}

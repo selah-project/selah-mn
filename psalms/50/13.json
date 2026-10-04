@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 50,
+  "translation": "Би хүчит бухдын мах идэж, ухнуудын цус уудаг юм уу?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "иддэг юм уу"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "хүчит бухдуудын"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "ба цус"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "ухнуудын"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "уудаг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:43:17.806255357Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Оцем зургадах нь, Давид долоодох нь.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "Оцем"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "зургадах нь"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "долоодох нь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:58.047757887Z",
+  "model": "glm-5.3"
+}

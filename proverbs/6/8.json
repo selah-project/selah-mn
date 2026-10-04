@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Зунаа талхаа бэлтгэж, хураалтын үед хоолоо хуримтлуулна.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "бэлтгэж"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "зунаа"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "талхаа"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "хуримтлуулна"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "хураалтын үед"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "хоолоо"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:16.524302665Z",
+  "model": "glm-5.3"
+}

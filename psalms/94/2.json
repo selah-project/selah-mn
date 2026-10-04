@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 94,
+  "translation": "Өөрийгөө өргө, газрын шүүгч! Дайрангуйлсагчдад хариуг нь өг.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "өөрийгөө өргө"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "шүүгч"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "השב",
+      "gloss": "өг"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "хариу"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "дайрангуйлсагчид"
+    }
+  ],
+  "timestamp": "2026-10-04T13:53:01.173049377Z",
+  "model": "glm-5.3"
+}

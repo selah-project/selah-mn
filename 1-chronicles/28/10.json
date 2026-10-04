@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Одоо хар: Яхвэ чамайг ариун дуганы байр барихын тулд сонгожээ; хүчтэй байж, хийгтүн.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "хар"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "сонгожээ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "чамайг"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "барихын тулд"
+    },
+    {
+      "surface": "בית",
+      "gloss": "байр"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "ариун дуганы"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "хүчтэй байж"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "хийгтүн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:07:35.947269722Z",
+  "model": "glm-5.3"
+}

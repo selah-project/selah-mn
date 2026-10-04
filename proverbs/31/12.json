@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Түүнд сайныг үйлдэж, мууг биш, амьдралынх нь бүх өдрөөр.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "түүнд үйлдэж"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба биш"
+    },
+    {
+      "surface": "רע",
+      "gloss": "мууг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "өдрөөр"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "амьдралынх нь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:41.114772380Z",
+  "model": "glm-5.3"
+}

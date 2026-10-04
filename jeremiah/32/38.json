@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Тэд Надад ард болж, Би тэдэнд Элохим болно.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "-ж"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Надад"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ард"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-10-04T12:46:25.927708227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Мөн бүх өндөр уулс дээр, мөн бүх өргөгдсөн дов толгод дээр.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "мөн ... дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "уулс"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "мөн ... дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "дов толгод"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "өргөгдсөн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:09:08.157842610Z",
+  "model": "glm-5.3"
+}

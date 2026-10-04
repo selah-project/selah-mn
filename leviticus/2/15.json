@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Чи түүн дээр тос, мөн түүн дээр либанон (лажин тос) тавина; энэ бол минха.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "чи тавина"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "түүн дээр"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "тос"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "мөн тавина"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "түүн дээр"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "либанон"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ бол"
+    }
+  ],
+  "timestamp": "2026-10-04T10:21:47.594349399Z",
+  "model": "glm-5.3"
+}

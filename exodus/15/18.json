@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Яхвэ мөнхөд, үүнээс ч цааш хаанчлах болно.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "хаанчлах болно"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "мөнхөд"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "үүнээс ч цааш"
+    }
+  ],
+  "timestamp": "2026-10-04T10:10:28.850135322Z",
+  "model": "glm-5.3"
+}

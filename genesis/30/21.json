@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Дараа нь тэр охин төрүүлэв, түүний нэрийг Дина гэж нэрлэв.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "дараа нь"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "нэрлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түүний нэрийг"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "түүний нэр"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Дина"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:37.409453779Z",
+  "model": "glm-5.3"
+}

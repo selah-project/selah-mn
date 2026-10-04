@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Яхвэг ⟨את⟩ эмээлтэй үйлчилж, чичрэн баярлагтун.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "үйлчилж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэг"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "эмээлтэй"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "баярлагтун"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "чичрэн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:33:52.565502308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Бүх хөдөлмөрт илүүдэл бий, харин уруулын үг зөвхөн дутагдалд хүргэнэ.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "хөдөлмөр"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бий"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "илүүдэл"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "харин үг"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "уруулын"
+    },
+    {
+      "surface": "אך",
+      "gloss": "зөвхөн"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "дутагдалд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:54:48.546010285Z",
+  "model": "glm-5.3"
+}

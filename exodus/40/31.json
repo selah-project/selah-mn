@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Мөн Моше, Аарон болон түүний хөвгүүд түүнээс ⟨את⟩ гарбаа, ⟨את⟩ хөлөө угаав.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "угаав"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "түүнээс"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "түүний хөвгүүд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гар"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "гар"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "хөл"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "хөл"
+    }
+  ],
+  "timestamp": "2026-10-04T10:20:58.997696980Z",
+  "model": "glm-5.3"
+}

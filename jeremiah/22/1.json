@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Ингэж Яхвэ айлдах нь: Иудагийн хааны ордонд бууж, тэнд ⟨את⟩ энэ үгийг хэлж,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдах нь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "бууж"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ордонд"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудагийн"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "хэлж"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ үгийг"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "энэ үгийг"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:40:26.396756450Z",
+  "model": "glm-5.3"
+}

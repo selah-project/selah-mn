@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Кеинан далан жил амьдарч, ⟨את⟩ Махалалелыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "амьдарч"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Кеинан"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "далан"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Махалалелыг"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Махалалел"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:04.608124648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Цедекээр бага зүйл их олз бүхий шүүлт үгүйтэй нь бодвол дээр.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "бага зүйл"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "цедекээр"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "их"
+    },
+    {
+      "surface": "תבואotts",
+      "gloss": "олз"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "үгүйтэй"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлт"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:28.537601807Z",
+  "model": "glm-5.3"
+}

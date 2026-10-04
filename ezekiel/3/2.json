@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Би амаа нээв, тэр надад энэ бичвэрийг ⟨את⟩ идүүлэв.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "нээв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "амаа"
+    },
+    {
+      "surface": "пי",
+      "gloss": "амаа"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "идүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ бичвэр"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "бичвэрийг"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:58:07.469471841Z",
+  "model": "glm-5.3"
+}

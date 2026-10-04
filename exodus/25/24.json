@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Чи ⟨את⟩ түүнийг цэвэр алтаар бүрж, түүнд алтан хүрээ тоймуул.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "чи бүрнэ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "түүнийг"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтаар"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "цэвэр"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "чи хийнэ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "זר",
+      "gloss": "хүрээ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тоймуул"
+    }
+  ],
+  "timestamp": "2026-10-04T10:15:02.453118109Z",
+  "model": "glm-5.3"
+}

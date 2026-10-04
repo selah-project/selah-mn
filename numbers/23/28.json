@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Балак Билеамыг ⟨את⟩ авчрав — зэлүүд рүү харах Пеорын оргил дээр.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "авчрав"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Билеам"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билеамыг"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "оргил"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "Пеорын"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "харах"
+    },
+    {
+      "surface": "על",
+      "gloss": "руу"
+    },
+    {
+      "surface": "פני",
+      "gloss": "үзүүр"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "зэлүүд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:44:28.211630217Z",
+  "model": "glm-5.3"
+}

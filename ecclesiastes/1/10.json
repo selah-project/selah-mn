@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "«Үз, энэ шинэ болно» гэж хэлэгдэх зүйл бий бол — тэр нь бидний өмнө байсан үеүдэд аль хэдийнэ байжээ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зүйл"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "гэж хэлэгдэх"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "үз"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "шинэ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бол"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "аль хэдийнэ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байжээ"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "үеүдэд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нь"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "бидний өмнө"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:02.432327318Z",
+  "model": "glm-5.3"
+}

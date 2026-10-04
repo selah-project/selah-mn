@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Хөгжимдээ жолоодогчид зориулж — Давидын залмас.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "жолоодогчид зориулж"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "залмас"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:48.352154283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Нэг үхэр, сүргийн төл, нэг хуч, нэг хурга, нэг настай нь, шатсан тахилга болгон;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "нэг үхэр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "төл"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "сүргийн"
+    },
+    {
+      "surface": "איל",
+      "gloss": "нэг хуч"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "нэг хурга"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "шатсан тахилга болгон"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:45.719816931Z",
+  "model": "glm-5.3"
+}

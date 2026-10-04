@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Яхвэгийн руах надад ярьсан, Түүний үг миний хэлэн дээр байна.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ярьсан"
+    },
+    {
+      "surface": "בי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "Түүний үг"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "миний хэлэн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:45:25.957993709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Эдгээр нь ⟨бол⟩ шүүлтүүд, тэдгэрийг тэдний өмнө та тавина.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Эдгээр нь"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "шүүлтүүд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "та тавина"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "тэдний өмнө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:14:03.246522233Z",
+  "model": "glm-5.3"
+}

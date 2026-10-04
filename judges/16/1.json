@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Шимшон Аззад очиж, тэнд садар самуун эмээс харж, түүн рүү оржээ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "очиж"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшон"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "Аззад"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "харж"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эм"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "садар самуун"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "орж"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "түүн рүү"
+    }
+  ],
+  "timestamp": "2026-10-04T11:21:07.101378191Z",
+  "model": "glm-5.3"
+}

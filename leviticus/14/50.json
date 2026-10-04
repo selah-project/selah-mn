@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Шувуудын нэгийг амьд ус дээрх шавар саванд хядна.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "хядна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шувуудын нэгийг"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "шувуудын"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "нэгийг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дотор"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "саванд"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "шавар"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амьд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:26:09.370352367Z",
+  "model": "glm-5.3"
+}

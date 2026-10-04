@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Тавдугаарт Малкия, зургадугаарт Миямин.",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "Малкияд"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "тавдугаарт"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "Мияминд"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "зургадугаарт"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:23.753957132Z",
+  "model": "glm-5.3"
+}

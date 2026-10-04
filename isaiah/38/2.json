@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Хизкияху царайгаа хананд хандуулан, Яхвэд залбирлаа.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "хандуулан"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияху"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "царайгаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "хананд"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "залбирлаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:21:29.994389396Z",
+  "model": "glm-5.3"
+}

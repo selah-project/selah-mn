@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Тэрээс тэндээс Беэр-Шевад өгсөв.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "өгсөв"
+    },
+    {
+      "surface": "משם",
+      "gloss": "тэндээс"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Шева"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:23.974762533Z",
+  "model": "glm-5.3"
+}

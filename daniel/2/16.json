@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 2:16",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Даниел орон, хаанд орж, цаг өгөхийг гуйж, тайлбарыг хаанд үзүүлэхийг гуйлаа.",
+  "tokens": [
+    {
+      "surface": "ודניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "על",
+      "gloss": "орон"
+    },
+    {
+      "surface": "ובעה",
+      "gloss": "гуйж"
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "хаанаас"
+    },
+    {
+      "surface": "די",
+      "gloss": "ийг"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "өгөх"
+    },
+    {
+      "surface": "לה",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "тайлбарыг"
+    },
+    {
+      "surface": "להחויה",
+      "gloss": "үзүүлэх"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "хаанд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:39:32.468637983Z",
+  "model": "glm-5.3"
+}

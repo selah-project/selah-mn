@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Тэрээр керуб дээр унаж, нисэв; руахын далавчин дээр нисэж явав.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "унаж"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "керуб"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "нисэв"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "нисэж явав"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "далавчин"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-10-04T13:36:54.263508362Z",
+  "model": "glm-5.3"
+}

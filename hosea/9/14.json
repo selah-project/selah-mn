@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 9:14",
+  "book": "hosea",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Яхвэ, тэдэнд өг; юу өгөх вэ? Тэдэнд ураглагч хэвлий, хатсан хөх өг.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Өг"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "өгөх вэ"
+    },
+    {
+      "surface": "תן",
+      "gloss": "Өг"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "хэвлий"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ураглагч"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "ба хөх"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "хатсан"
+    }
+  ],
+  "timestamp": "2026-10-04T13:19:19.358654771Z",
+  "model": "glm-5.3"
+}

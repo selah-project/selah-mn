@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Болно: тааны хүүхдүүд таанд хэлэх үед: Энэ алба таанд юу вэ?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "כי",
+      "gloss": "үед"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "хэлэх"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "таанд"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "хүүхдүүд"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "алба"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "таанд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:10:01.393201510Z",
+  "model": "glm-5.3"
+}

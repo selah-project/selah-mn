@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Харин хэрэв гэм хор гарвал, амийг амийн оронд өг.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Харин хэрэв"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "гэм хор"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "гарвал"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "өг"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амийг"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "оронд"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:13:09.124424610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 43,
+  "translation": "Яхвэ ингэж айлдаж байна: тэнгист зам, хүчт уст зам гаргагч.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "гаргагч"
+    },
+    {
+      "surface": "בים",
+      "gloss": "тэнгист"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ба хүчт уст"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "хүчт"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "зам"
+    }
+  ],
+  "timestamp": "2026-10-04T15:44:22.452847913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Хүний зүрхэнд олон бодол буй; харин Яхвэгийн зөвлөл — тэр босно.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "олон"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "бодол"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "зүрхэнд"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "харин ... зөвлөл"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "босно"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:26.313000656Z",
+  "model": "glm-5.3"
+}

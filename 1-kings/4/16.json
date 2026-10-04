@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Баана, Хушайн хүү, Ашер ба Беалотод.",
+  "tokens": [],
+  "timestamp": "2026-10-04T11:46:28.828049056Z",
+  "model": "glm-5.3"
+}

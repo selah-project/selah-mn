@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Амаа хамгаалагч өөрийн амийг хамгаална, уруул нээгч хүнд мөхөл байна.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "хамгаалагч"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "амаа"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "хамгаална"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "амийг"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "нээгч"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "уруул"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "мөхөл"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:33.899402579Z",
+  "model": "glm-5.3"
+}

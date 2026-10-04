@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "мөн Бакбаккар, Хереш болон Галал, Микагийн хүү Маттанья, Зихриigийн хүү, Асафын хүү.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "мөн Бакбаккар"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Хереш"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "болон Галал"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "Маттанья"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Микагийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зихриigийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асафын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:23.339409805Z",
+  "model": "glm-5.3"
+}

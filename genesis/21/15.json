@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Ус савнаас дуусаж, тэр хүүхдийг ⟨את⟩ сөрөгнүүлэн нэг бутан дор орхив.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "дуусаж"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "сав"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "орхив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хүүхдийг"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "хүүхдийг"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "сөрөгнүүлэн"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "бутан дор"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:07.243793200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 42,
+  "translation": "Далайн ⟨баруун⟩ тал руу эргэж, хэмжлээ — таван зуун кан, хэмжүүрийн канаар.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "эргэж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "тал"
+    },
+    {
+      "surface": "הים",
+      "gloss": "далайн"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "хэмжлээ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "таван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "кан"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "канаар"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "хэмжүүрийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:13:26.197152279Z",
+  "model": "glm-5.3"
+}

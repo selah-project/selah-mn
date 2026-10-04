@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Ачаа, түүнийг Хаваккук эш үзүүлэгч харсан.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "ачаа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "түүнийг"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "харсан"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Хаваккук"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "эш үзүүлэгч"
+    }
+  ],
+  "timestamp": "2026-10-04T13:27:10.033331161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "ба ⟨את⟩ харцага ба ⟨את⟩ шонхор, өөрийн төрлийнхөө дагуу.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "харцага"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "харцага"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "шонхор"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "шонхор"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "өөрийн төрлийнхөө дагуу"
+    }
+  ],
+  "timestamp": "2026-10-04T10:24:28.235652984Z",
+  "model": "glm-5.3"
+}

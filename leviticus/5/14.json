@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 5:14",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Яхвэ Мошед айлдав, ингэж хэлэхдээ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлэхдээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:23:58.752147336Z",
+  "model": "glm-5.3"
+}

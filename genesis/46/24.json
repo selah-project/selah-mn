@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 46,
+  "translation": "Нафталигийн хөвгүүд: Яхцеэл, Гуни, Йецер ба Шиллем.",
+  "tokens": [
+    {
+      "surface": "ובנני",
+      "gloss": ""
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталигийн"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "Яхцеэл"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "Гуни"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "Йецер"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "Шиллем"
+    }
+  ],
+  "timestamp": "2026-10-04T10:03:11.035602367Z",
+  "model": "glm-5.3"
+}

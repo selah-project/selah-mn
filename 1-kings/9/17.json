@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Шеломо ⟨את⟩ Гезер болон ⟨את⟩ Бэйт-Хорон доодыг баров.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "баров"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гезер"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Гезер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "болон ⟨את⟩",
+      "marks": "Бэйт-Хорон доод"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бэйт"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Хорон"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "доод"
+    }
+  ],
+  "timestamp": "2026-10-04T11:51:17.580865809Z",
+  "model": "glm-5.3"
+}

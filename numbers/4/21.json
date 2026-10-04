@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Яхвэ Мошед айлдаж: ⟨тийм болгоод⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨тийм болгоод⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:16.598879743Z",
+  "model": "glm-5.3"
+}

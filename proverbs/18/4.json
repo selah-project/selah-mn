@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Хүний амны үгс гүн ус, мэргэн ухааны булаг буцлан урсдаг горхи.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "гүн"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "פי",
+      "gloss": "амны"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "горхи"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "буцлан урсдаг"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "булаг"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мэргэн ухааны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:10.505308563Z",
+  "model": "glm-5.3"
+}

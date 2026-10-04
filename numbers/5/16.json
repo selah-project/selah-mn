@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "ба тахилч түүнийг ойртуулж, Яхвэгийн өмнө зогдоно.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "ба ойртуулна"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "түүнийг (эхнэрийг)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "ба зогдоно"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:36:36.578621210Z",
+  "model": "glm-5.3"
+}

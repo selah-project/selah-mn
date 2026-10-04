@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 49:33",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Хацор шийднүүдийн оршихуй болж, үүрд эзгүй болно; тэнд ямар ч хүн суухгүй, хүн хүү түүнд оршин суухгүй.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "болж"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Хацор"
+    },
+    {
+      "surface": "למעון",
+      "gloss": "оршихуй"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "шийднүүд"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "эзгүй"
+    },
+    {
+      "surface": "עד",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "завсаргүй"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "суух"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба үгүй"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "оршин суух"
+    },
+    {
+      "surface": "בה",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:53:58.411619251Z",
+  "model": "glm-5.3"
+}

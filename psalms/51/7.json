@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 51,
+  "translation": "Үзэгтүн, авралд би төрсөн, нүгэлд намайг эх минь тээсэн.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Үзэгтүн"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "авралд"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "би төрсөн"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "нүгэлд"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "намайг тээсэн"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "эх минь"
+    }
+  ],
+  "timestamp": "2026-10-04T13:43:54.539436412Z",
+  "model": "glm-5.3"
+}

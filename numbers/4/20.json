@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Тэд ⟨את⟩ ариуныг бүрхэхийг харахаар бүү орог — үгүй бол тэд үхнэ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "орог"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "харахаар"
+    },
+    {
+      "surface": "кבלע",
+      "gloss": "хоромхон зуур"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ариуныг"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ариуныг"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "тэд үхнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:17.162775360Z",
+  "model": "glm-5.3"
+}

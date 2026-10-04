@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Энэ бүх үгсийг, энэ бүхэл харцыг ёсоор Натан Давидад ярив.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Энэ бүх"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "ба энэ бүхэл"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "харцыг"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ёсоор"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ярив"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "- руу"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-04T15:04:30.286664394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Моше явж, эдгээр ⟨את⟩ үгсийг бүх Йисраелд хэлэв.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эдгээр үгсийг"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    }
+  ],
+  "timestamp": "2026-10-04T11:04:05.308610110Z",
+  "model": "glm-5.3"
+}

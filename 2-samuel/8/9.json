@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Тои Хаматын хаан Давид Хададезерийн ⟨את⟩ бүх цэргийг бут цохисныг сонсов.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "сонсов"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Тои"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хаматын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ныг"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "бут цохисон"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх цэргийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "цэрэг"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Хададезерийн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:37:10.173327851Z",
+  "model": "glm-5.3"
+}

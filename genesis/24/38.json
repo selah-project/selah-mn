@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Харин эцгийн минь гэр рүү, овог миний дээр оч, хөвгүүнд минь эм ав.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "харин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болохгүй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "рүү"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцгийн минь"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "оч"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба … руу"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "овог миний"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ба ав"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эм"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүнд минь"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:25.724788316Z",
+  "model": "glm-5.3"
+}

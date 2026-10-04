@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 116,
+  "translation": "Тэгээд Яхвэгийн Нэрийг би дуудлаа: Аяа, Яхвэ, миний амийг авраг!",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Нэрийг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "би дуудлаа"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Аяа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "авраг"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "миний амь"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:50.492043929Z",
+  "model": "glm-5.3"
+}

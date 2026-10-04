@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Тэд хамт тоос дээр хэвтэнэ, өт тэднийг бүрхэнэ.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "тоос"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "хэвтэнэ"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "өт"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "бүрхэнэ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "тэднийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:20:51.617310563Z",
+  "model": "glm-5.3"
+}

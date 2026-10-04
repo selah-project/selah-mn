@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Харин амь мах түүнд илэрсэн өдөр тэр бузар болно.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "илэрсэн"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амь"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "бузар болно"
+    }
+  ],
+  "timestamp": "2026-10-04T10:26:05.532405598Z",
+  "model": "glm-5.3"
+}

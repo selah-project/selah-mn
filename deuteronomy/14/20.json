@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Бүх цэвэр шувууг та идэж болно.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "шувуу"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "цэвэр"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "идэж болно"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:22.130084706Z",
+  "model": "glm-5.3"
+}

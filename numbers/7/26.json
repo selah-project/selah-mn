@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Алтан халбага нэг, арван ⟨шекел⟩, хатираар дүүрэн.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "халбага"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арван"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "дүүрэн"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "хатир"
+    }
+  ],
+  "timestamp": "2026-10-04T10:36:03.770115656Z",
+  "model": "glm-5.3"
+}

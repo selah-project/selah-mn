@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Залуу, эш үзүүлэгчийн залуу Рамот Гилад руу явлаа.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "явлаа"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "Залуу"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "залуу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "эш үзүүлэгчийн"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    }
+  ],
+  "timestamp": "2026-10-04T12:01:54.420803357Z",
+  "model": "glm-5.3"
+}

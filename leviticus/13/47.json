@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Хувцаст цаарын гэмтэл гарвал — ноосон хувцаст эсвэл ноолгоон хувцаст",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "хувцаст"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "гарвал"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "гэмтэл"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цаарын"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "хувцаст"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ноосон"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "хувцаст"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "ноолгоон"
+    }
+  ],
+  "timestamp": "2026-10-04T10:26:29.192090301Z",
+  "model": "glm-5.3"
+}

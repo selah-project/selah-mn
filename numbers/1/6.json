@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Шимоноос — Шелумиел, Цуришаддайн хүү.",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "Шимоноос"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шелумиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "Цуришаддай"
+    }
+  ],
+  "timestamp": "2026-10-04T10:32:52.126254533Z",
+  "model": "glm-5.3"
+}

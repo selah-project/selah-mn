@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "мөн ⟨את⟩ Адорайм, ⟨את⟩ Лакиш, ⟨את⟩ Азекаг",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Адорайм"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Адорайм"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Лакиш"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Лакиш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Азекаг"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Азекаг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:11:03.824466639Z",
+  "model": "glm-5.3"
+}

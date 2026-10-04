@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Циклаг болон Мехона болон түүний тосгодод.",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "болон Циклаг"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "болон Мехона"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "болон түүний тосгод"
+    }
+  ],
+  "timestamp": "2026-10-04T15:57:51.851078439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Уураасаа холд, хилэнг орхи; зөвхөн муу хийхээр бүү бухимд.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "холд"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "уураасаа"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "орхи"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "хилэнг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "бухимд"
+    },
+    {
+      "surface": "אך",
+      "gloss": "зөвхөн"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "муу хийхээр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:40:45.074545560Z",
+  "model": "glm-5.3"
+}

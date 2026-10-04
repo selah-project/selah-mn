@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Түүнд бүү зөвшөөр, түүний үгэнд бүү сонсдог; чиний нүд түүнд бүү өршөө, бүү хайрлаж, түүнийг бүү нуугтун.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "зөвшөөр"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "сонс"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүний үгэнд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "өршөө"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "чиний нүд"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "хайрлан өршөө"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "нуу"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүнийг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:38.009012937Z",
+  "model": "glm-5.3"
+}

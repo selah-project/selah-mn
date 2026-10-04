@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Харин бүх мал болон хотуудын олзыг бид өөрсдөдөө олзлов.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "харин бүх"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "болон олз"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "хотуудын"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "олзлов"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "өөрсдөдөө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:44.867957164Z",
+  "model": "glm-5.3"
+}

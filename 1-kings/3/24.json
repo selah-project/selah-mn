@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хаан хэлэв: Надад илд авчир. Тэд илдийг хааны өмнө авчрав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Хаан"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "авчир"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Надад"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "илд"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "авчрав"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "илдийг"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    }
+  ],
+  "timestamp": "2026-10-04T11:46:50.811031801Z",
+  "model": "glm-5.3"
+}

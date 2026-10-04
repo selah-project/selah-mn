@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Гэвч энэ хэрэгт та нар Яхвэ таны Элохимд итгэсэнгүй.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "гэвч энэ хэрэгт"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "та нар биш"
+    },
+    {
+      "surface": "мאמינם",
+      "gloss": "итгэсэнгүй"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "таны Элохимд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:48.352402511Z",
+  "model": "glm-5.3"
+}

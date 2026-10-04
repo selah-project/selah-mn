@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Йосефын овгоос, Менаше овгоос, Гадди, Сусигийн хүү.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Гадди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "Суси"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:56.815053945Z",
+  "model": "glm-5.3"
+}

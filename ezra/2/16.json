@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Атерын хөвгүүд, Хизкиягийнх, ерэн найм.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Атерын"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "Хизкиягийнх"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ерэн"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ба найм"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:11.534638929Z",
+  "model": "glm-5.3"
+}

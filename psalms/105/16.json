@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 105,
+  "translation": "Тэр газар дээр өлсгөлөн дуудаж, талхны таяг бүхнийг хугалав.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ба дуудав"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "өлсгөлөн"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхнийг"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "таяг"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талхны"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "хугалав"
+    }
+  ],
+  "timestamp": "2026-10-04T13:55:20.625300851Z",
+  "model": "glm-5.3"
+}

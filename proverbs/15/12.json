@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Дооглогч өөрийг нь зэмлэгчийг хайрладаггүй, мэргэд дээр очдоггүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "хайрладаггүй"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "дооглогч"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "зэмлэгчийг"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөрийг нь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мэргэд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "очдоггүй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:10.853547161Z",
+  "model": "glm-5.3"
+}

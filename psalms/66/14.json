@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 66,
+  "translation": "Юуг миний уруул нээж, миний ам зовнин үгэлсэн билээ.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "нээж"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "миний уруул"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ба ... үгэлсэн"
+    },
+    {
+      "surface": "פי",
+      "gloss": "миний ам"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "зовнин"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    }
+  ],
+  "timestamp": "2026-10-04T13:45:32.853678789Z",
+  "model": "glm-5.3"
+}

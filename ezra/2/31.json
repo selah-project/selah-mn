@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Өөр Эламын хөвгүүд — мянга хоёр зуун тавин дөрөв.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эламын"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "хоёр зуун"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "дөрөв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:44:58.811776990Z",
+  "model": "glm-5.3"
+}

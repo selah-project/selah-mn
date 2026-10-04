@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Йефетийн хөвгүүд: Гомер ба Магог, Мадай ба Яван, Тубал ба Мешех ба Тирас.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Йефет"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "ба Магог"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ба Мадай"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ба Яван"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ба Тубал"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "ба Мешех"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "ба Тирас"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:25.554264702Z",
+  "model": "glm-5.3"
+}

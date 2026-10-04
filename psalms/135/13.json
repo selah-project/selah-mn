@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 135:13",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 135,
+  "translation": "Яхвэ, Таны нэр мөнхөд, Яхвэ, Таны дурсгал үеээс үед хүртэл.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Таны нэр"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мөнхөд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "Таны дурсгал"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "үеээс үед"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "хүртэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:27.740792082Z",
+  "model": "glm-5.3"
+}

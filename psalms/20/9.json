@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Тэд сөгдөж, унажээ; харин бид босоод, босоо зогсов.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Тэд"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "сөгдөж"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "унажээ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "харин бид"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "босоод"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "босоо зогсов"
+    }
+  ],
+  "timestamp": "2026-10-04T13:36:39.403406462Z",
+  "model": "glm-5.3"
+}

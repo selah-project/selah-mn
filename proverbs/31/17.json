@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 31:17",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Тэрээр бүсэн хэсгээ хүчээр бүсэлж, хоёр гараа бэхжүүлнэ.",
+  "tokens": [
+    {
+      "surface": "חגרה",
+      "gloss": "бүсэлж"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "хүчээр"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "бүсэн хэсгээ"
+    },
+    {
+      "surface": "ותאמץ",
+      "gloss": "ба бэхжүүлнэ"
+    },
+    {
+      "surface": "זרעותיה",
+      "gloss": "хоёр гараа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:03.294666785Z",
+  "model": "glm-5.3"
+}

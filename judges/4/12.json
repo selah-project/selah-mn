@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Сисерад Авиноамын хүү Барак Табор ууланд өргөгдсөнийг хэлжээ.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "хэлжээ"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "Сисерад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "гэдгийг"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "өргөгдсөн"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Барак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Авиноамын"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ууланд"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Табор"
+    }
+  ],
+  "timestamp": "2026-10-04T11:14:51.207813993Z",
+  "model": "glm-5.3"
+}

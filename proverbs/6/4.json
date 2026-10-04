@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Нүдэндээ нойр бүү өг, зовхиндоо нойрмсол бүү өг.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "өг"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "нойр"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "нүдэндээ"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ба нойрмсол"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "зовхиндоо"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:01.792855543Z",
+  "model": "glm-5.3"
+}

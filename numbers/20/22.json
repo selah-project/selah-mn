@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 20:22",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Тэд Кадешаас явж, Йисраелын хөвгүүд бүхэл чуулга Хор ууланд ирэв.",
+  "tokens": [
+    {
+      "surface": "ויסעу",
+      "gloss": "явж"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Кадешаас"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ирэв"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэл"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "чуулга"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Хор"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ууланд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:42:31.324863562Z",
+  "model": "glm-5.3"
+}

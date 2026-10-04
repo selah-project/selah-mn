@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Нэг үхэр, сүргийн төл, нэг хун, нэг жилийн настай хурга, шатсан тахилгаар.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "нэг үхэр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "төл"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "сүргийн"
+    },
+    {
+      "surface": "איל",
+      "gloss": "хун"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "жилийн"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "шатсан тахилгаар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:55.812095867Z",
+  "model": "glm-5.3"
+}

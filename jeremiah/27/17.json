@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Тэднийг бүү сонс, Бабилын хаанд үйлчилж, амьдар: яагаад энэ хот эзгүйрэх ёстой юм бэ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "сонс"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "тэднийг"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "үйлчил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хаанд"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабилын"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "амьдар"
+    },
+    {
+      "surface": "למה",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "байх ёстой юм"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "энэ хот"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "эзгүйрэх"
+    }
+  ],
+  "timestamp": "2026-10-04T12:44:01.630097396Z",
+  "model": "glm-5.3"
+}

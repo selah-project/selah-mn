@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 7:13",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Нафталийн хөвгүүд: Яхцэл, Гуни, Йэцер, Шаллум — Билхагийн хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталийн"
+    },
+    {
+      "surface": "יחציאל",
+      "gloss": "Яхцэл"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "ба Гуни"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ба Йэцер"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ба Шаллум"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билхагийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:31.409903958Z",
+  "model": "glm-5.3"
+}

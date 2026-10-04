@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Тэр мөнхөд амьд үлдэж, Шеолыг үзэхгүй гэж бодсон билүү.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "амьд үлдэж"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "үргэлжлүүлэн"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мөнхөд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "үзэхгүй"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "Шеолыг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:42.616448669Z",
+  "model": "glm-5.3"
+}

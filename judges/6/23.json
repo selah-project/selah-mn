@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэ түүнд хэлэв: Чамд энх тайван байг, бүү ай, чи үхэхгүй.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "энх тайван"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "чи үхэхгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T11:14:55.433475846Z",
+  "model": "glm-5.3"
+}

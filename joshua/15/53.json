@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Янум, Бейт-Таппуах ба Апека",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "Янум"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Таппуах"
+    },
+    {
+      "surface": "ו אפקה",
+      "gloss": "ба Апека"
+    }
+  ],
+  "timestamp": "2026-10-04T11:09:54.698053222Z",
+  "model": "glm-5.3"
+}

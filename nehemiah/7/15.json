@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Биннугийн хөвгүүд зургаан зуун дөчин найм.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Бинну"
+    },
+    {
+      "surface": "שש",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "дөчин"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "найм"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:23.989656217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Жаран хатад, наян татвар эм бөгөөд тоолшгүй олон бэр бүсгүйчүүд бий.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "жаран"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "хатад"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ба наян"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "татвар эм"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "ба бэр бүсгүйчүүд"
+    },
+    {
+      "surface": "אין",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "тоо"
+    }
+  ],
+  "timestamp": "2026-10-04T14:27:39.679468906Z",
+  "model": "glm-5.3"
+}

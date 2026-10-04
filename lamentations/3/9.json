@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр миний замыг бариулсан чулуугаар хаав, миний жимийг гуйвуулав.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "хаав"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "миний замыг"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "бариулсан чулуугаар"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "миний жимийг"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "гуйвуулав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:49.937287878Z",
+  "model": "glm-5.3"
+}

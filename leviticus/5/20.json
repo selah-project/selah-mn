@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Яхвэ Мошетэй ярьж, айлдахдаа:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ярьж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошетэй"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:22:59.791744648Z",
+  "model": "glm-5.3"
+}

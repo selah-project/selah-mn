@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Махлид Элзар байв; түүнд хөвгүүд байсангүй.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "Махлид"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элзар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бол"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байсангүй"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "хөвгүүд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:28.743602651Z",
+  "model": "glm-5.3"
+}

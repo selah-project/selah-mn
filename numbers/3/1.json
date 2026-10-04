@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Эдгээр нь Аарон ба Мошегийн үеийн түүх; Яхвэ ⟨את⟩ Мошетай Синай ууланд ярих өдөр болжээ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Эдгээр нь"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "үеийн түүх"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "ба Моше"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ярих"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошетай"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ууланд"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:14.581163437Z",
+  "model": "glm-5.3"
+}

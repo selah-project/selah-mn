@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 94,
+  "translation": "Яхвэ хүний бодлыг мэддэг, учир нь тэдгээр нь хоосон юм.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мэддэг"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "бодлыг"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэдгээр нь"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хоосон юм"
+    }
+  ],
+  "timestamp": "2026-10-04T13:52:24.210691356Z",
+  "model": "glm-5.3"
+}

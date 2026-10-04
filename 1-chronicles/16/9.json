@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Түүнд дуул, түүнд хөгжимдөж магт, Түүний бүх гайхамшгуудыг ярь.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "дуул"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Түүнд"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "хөгжимдөж магт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "ярь"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "гайхамшгуудыг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:10.922938125Z",
+  "model": "glm-5.3"
+}

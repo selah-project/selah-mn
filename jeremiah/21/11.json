@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Харин Йехудагийн хааны гэрт — Яхвэгийн үгийг сонсогтун.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "харин ... гэрт"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехудагийн"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "сонсогтун"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:46:27.950147978Z",
+  "model": "glm-5.3"
+}

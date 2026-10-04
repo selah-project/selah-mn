@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Леванагийн хөвгүүд, Хагабагийн хөвгүүд, Аккубын хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Левана"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "Хагаба"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "Аккуб"
+    }
+  ],
+  "timestamp": "2026-10-04T14:46:34.790174864Z",
+  "model": "glm-5.3"
+}

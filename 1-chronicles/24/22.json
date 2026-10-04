@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Ицхарынхнаас Шеломот: Шеломотын хөвгүүдээс Яхат.",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "Ицхарынхнаас"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "Шеломот"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдээс"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "Шеломот"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яхат"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:25.027573975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Дээдийн амнаас муу сайн бүхэн гарахгүй байх билээ үү?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "амнаас"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Дээдийн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "гарах"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "муу бүхэн"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "ба сайн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:12.040264735Z",
+  "model": "glm-5.3"
+}

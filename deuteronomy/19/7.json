@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Тийм учраас Би чамд тушааж \"Гурван хотыг өөртөө тусгаарлан ялгагтун\" гэж хэлж байна.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "тийм"
+    },
+    {
+      "surface": "כן",
+      "gloss": "учраас"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Би"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "тушааж"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж хэлж байна"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "хот"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "тусгаарлан ялгагтун"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:58:18.797603020Z",
+  "model": "glm-5.3"
+}

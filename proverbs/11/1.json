@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Хуурмаг жин Яхвэд жигшилттай бөгөөд бүрэн жин түүний таашаал юм.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "жин"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "хуурмаг"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "жигшилттай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ба чулуун"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "бүрэн"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "түүний таашаал"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:23.561308918Z",
+  "model": "glm-5.3"
+}

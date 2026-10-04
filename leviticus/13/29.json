@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Эр эсвэл эм хүнд хэрэв толгой эсвэл сахалд нь гэм гарвал,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "эр хүн"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эм хүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "гарвал"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "гэм"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "толгойд"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "сахалд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:27:20.795210731Z",
+  "model": "glm-5.3"
+}

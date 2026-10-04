@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Лодын хөвгүүд, Хадидынхон ба Оногийнхон — долоон зуун хорин нэгэн.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лодын"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "Хадидынхон"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ба Оногийнхон"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "нэгэн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:37.004176687Z",
+  "model": "glm-5.3"
+}

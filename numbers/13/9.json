@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Биньяамины овгоос Палти, Рафуагийн хүү.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньяамин"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Палти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "Рафуа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:56.814705481Z",
+  "model": "glm-5.3"
+}

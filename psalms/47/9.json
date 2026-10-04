@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 47,
+  "translation": "Элохим үндэстнүүд дээр хаанчилж, Элохим ариун сэнтийдээ залран суув.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "хаанчилж"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "үндэстнүүд"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "залран суув"
+    },
+    {
+      "surface": "על",
+      "gloss": "-дээ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "сэнтий"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ариун"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:20.517657759Z",
+  "model": "glm-5.3"
+}

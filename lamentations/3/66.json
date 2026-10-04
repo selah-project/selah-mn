@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Та уурлан хөөн, тэднийг Яхвэгийн тэнгэрүүдийн доор устгаж, хагацуул.",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "хөөн"
+    },
+    {
+      "surface": "באף",
+      "gloss": "уурлан"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "устгаж, хагацуул"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "доор"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "тэнгэрүүдийн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:43.766030346Z",
+  "model": "glm-5.3"
+}

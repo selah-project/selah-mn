@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Мөн та нарын төлөө Яхвэ над дээр хилэгнэв, ингэж айлдахдаа: Чи мөн тийшээ орохгүй.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "בי",
+      "gloss": "над дээр"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "хилэгнэв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "та нарын төлөө"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    },
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "орохгүй"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тийшээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:31.205610462Z",
+  "model": "glm-5.3"
+}

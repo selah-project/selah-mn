@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэгээд чи Элохим ба хүмүүсийн нүдэнд нигүүлсэл ба сайн оюун ухаан олно.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ба олж"
+    },
+    {
+      "surface": "חן",
+      "gloss": "нигүүлсэл"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ба оюун ухаан"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэнд"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ба хүний"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:48.140228959Z",
+  "model": "glm-5.3"
+}

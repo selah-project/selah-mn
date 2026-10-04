@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Долоо хоногийн дараа усан далайн ус газар дээр болов.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "<боллоо>"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "долоо хоногийн дараа"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "өдрүүдийн"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ус"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "усан далайн"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болов"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:12.941052449Z",
+  "model": "glm-5.3"
+}

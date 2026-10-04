@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Хүч ба сүр жавхлан түүний өмсгөл бөгөөд тэр сүүлчийн өдөрт инээнэ.",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "Хүч"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ба сүр жавхлан"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "түүний өмсгөл"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "инээнэ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "сүүлчийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:45.867563226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Рахел үхэж, Эфрат руу хүрэх зам дээр оршуулагдав — энэ бол Бетлехем юм.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "үхэж"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "оршуулагдав"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "зам дээр"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Эфрат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ бол"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "лехем"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:48.276908491Z",
+  "model": "glm-5.3"
+}

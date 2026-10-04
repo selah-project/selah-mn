@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 118,
+  "translation": "Аароны гэр одоо хэлэг: учир нь Түүний хэсэд үүрд мөнхөд билээ.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "хэлэг"
+    },
+    {
+      "surface": "נא",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аароны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд мөнхөд"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Түүний хэсэд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:38.158430090Z",
+  "model": "glm-5.3"
+}

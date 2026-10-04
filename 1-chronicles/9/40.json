@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Йехонатаны хүү Мерив-Баал байв; Мерив-Баал Микаг төрүүлжээ.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатаны"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Мерив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "Мерив-Баал"
+    },
+    {
+      "surface": "בעל",
+      "gloss": ""
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлжээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Микаг"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мика"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:13.693209713Z",
+  "model": "glm-5.3"
+}

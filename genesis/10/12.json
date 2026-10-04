@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "ба ⟨את⟩ Ресэн — Ниневэ болон Келахын хооронд; энэ бол том хот юм.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ресэн"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Ресэн"
+    },
+    {
+      "surface": "בין",
+      "gloss": "хооронд"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневэ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "болон"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Келахын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "том"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:56.838935410Z",
+  "model": "glm-5.3"
+}

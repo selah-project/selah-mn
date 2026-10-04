@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 65,
+  "translation": "Залбирлыг сонсогч, Чам дээр бүх мах ирнэ.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "сонсогч"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "залбирлыг"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "Чам дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ирнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:46:04.873243565Z",
+  "model": "glm-5.3"
+}

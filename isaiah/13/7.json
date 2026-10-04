@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Тиймээс бүх гар сулрах бөгөөд хүний бүх зүрх хайлна.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тиймээс"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "гар"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "сулрах"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "хайлна"
+    }
+  ],
+  "timestamp": "2026-10-04T12:13:03.561003411Z",
+  "model": "glm-5.3"
+}

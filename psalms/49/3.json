@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Хамаг хүний хөвгүүд ч, хамаг эрчүүдийн хөвгүүд ч, хамтдаа баян ба ядуу.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эрчүүдийн"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "хамтдаа"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "баян"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ядуу"
+    }
+  ],
+  "timestamp": "2026-10-04T13:43:03.457947400Z",
+  "model": "glm-5.3"
+}

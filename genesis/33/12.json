@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэр хэлэв: Явцгаая, явцгаая, би чамайг манайд алхая.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "Явцгаая"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "явцгаая"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "би алхая"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "чамайг манайд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:57:23.727470828Z",
+  "model": "glm-5.3"
+}

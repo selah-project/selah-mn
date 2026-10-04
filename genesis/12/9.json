@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Аврахам нүүж, яваандаа нүүсээр өмнө зүг рүү явав.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "нүүж"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "яваандаа"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "нүүсээр"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "өмнө зүг рүү"
+    }
+  ],
+  "timestamp": "2026-10-04T09:49:27.300705068Z",
+  "model": "glm-5.3"
+}

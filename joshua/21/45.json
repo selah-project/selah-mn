@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Яхвэгийн Йисраелийн гэрт айлдсан сайхан үгнээс нэг ч үг унаагүй — бүхэн биелэв.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "унаагүй"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нэг ч үг"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үгнээс"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яагаад гэвэл"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдсан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-т"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "בא",
+      "gloss": "биелэв"
+    }
+  ],
+  "timestamp": "2026-10-04T11:10:48.420243252Z",
+  "model": "glm-5.3"
+}

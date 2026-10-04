@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Хүн бүр ⟨את⟩ өөрийн нөхрийг тусалж, ахдаа хэлнэ: Бат зогс!",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "хүн бүр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өөрийн нөхрийг"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "өөрийн нөхөр"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "тусалж"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "ахдаа"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "хэлнэ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Бат зогс!"
+    }
+  ],
+  "timestamp": "2026-10-04T12:23:04.721547916Z",
+  "model": "glm-5.3"
+}

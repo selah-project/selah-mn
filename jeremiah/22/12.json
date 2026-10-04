@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Учир нь ⟨את⟩ түүнийг цөлсөн газартаа тэнд үхэх бөгөөд ⟨את⟩ энэ нутгийг дахин харахгүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "газар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "цөлсөн"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ түүнийг"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "үхэх"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "энэ нутаг"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "нутаг"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "харах"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    }
+  ],
+  "timestamp": "2026-10-04T12:40:35.600255239Z",
+  "model": "glm-5.3"
+}

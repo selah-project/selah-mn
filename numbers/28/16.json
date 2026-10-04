@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "ба эхний сард, сарын арван дөрөвдүгээр өдөр — Песах, Яхвэд.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ба сард"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "эхний"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "арван дөрөвдүгээр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "дөрөв"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "сарын"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:46:08.633077519Z",
+  "model": "glm-5.3"
+}

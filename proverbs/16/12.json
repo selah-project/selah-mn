@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 16:12",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Мууг үйлдэх нь хаадад жигшүүрт; учир нь цедекээр сэнтий батжина.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "жигшүүрт"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "хаадад"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "үйлдэх"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "мууг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "цедекээр"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "батжина"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "сэнтий"
+    }
+  ],
+  "timestamp": "2026-10-04T15:55:29.159964497Z",
+  "model": "glm-5.3"
+}

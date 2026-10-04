@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Ард түмэн надад хэлэв: Эдгээр чамд буй юу гэсэн үг вэ, чи ингэж буйгаа бидэд хэлэхгүй юу?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "тэд хэлэв"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "биш үү"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "та хэлэхгүй"
+    },
+    {
+      "surface": "лנו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ингэж буй"
+    }
+  ],
+  "timestamp": "2026-10-04T13:05:40.804304463Z",
+  "model": "glm-5.3"
+}

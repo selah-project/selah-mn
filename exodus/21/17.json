@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Эцгээ, эхээ хараасан хүн заавал цаазлуулагдана.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "хараасан"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцгээ"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ба эхээ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "заавал"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "цаазлуулагдана"
+    }
+  ],
+  "timestamp": "2026-10-04T10:14:01.125992387Z",
+  "model": "glm-5.3"
+}

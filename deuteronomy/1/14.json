@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Та нар надад ⟨את⟩ хариулж: чи хэлсэн үгийг хийх нь сайн гэж хэлэв.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "Та нар хариулж"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "надад"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "чи хэлсэн"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "хийх"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:26.413200876Z",
+  "model": "glm-5.3"
+}

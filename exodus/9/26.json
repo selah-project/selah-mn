@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Зөвхөн Гошен нутагт, Йисраелын хөвгүүд байсан газар, мөндөр байсангүй.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "зөвхөн"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "нутагт"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Гошен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "мөндөр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:08:13.662089085Z",
+  "model": "glm-5.3"
+}

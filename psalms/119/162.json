@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Би үгэнд чинь баярлаж байна, олз том олсон хүн шиг.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "баярлаж байна"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Би"
+    },
+    {
+      "surface": "על",
+      "gloss": "-нд"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "үгэнд чинь"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "олсон хүн шиг"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "олз"
+    },
+    {
+      "surface": "רב",
+      "gloss": "том"
+    }
+  ],
+  "timestamp": "2026-10-04T13:58:34.905450790Z",
+  "model": "glm-5.3"
+}

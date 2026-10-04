@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Хүний амны жимснээс сайныг иднэ, харин урвагчдын сүнс ⟨бол⟩ хүчирхийлэл.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "жимснээс"
+    },
+    {
+      "surface": "פי",
+      "gloss": "амны"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "иднэ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "сүнс"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "урвагчдын"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "хүчирхийлэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:33.899242419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Кехатын хөвгүүд: Амрам, Йицхар, Хеброн, Уззиел.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехатын"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Йицхар"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Хеброн"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "Уззиел"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:15.421590882Z",
+  "model": "glm-5.3"
+}

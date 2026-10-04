@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ямааны нэг эр, нүглийн тахилга болгон.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "эр"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ямааны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "нүглийн тахилга болгон"
+    }
+  ],
+  "timestamp": "2026-10-04T15:30:56.257786826Z",
+  "model": "glm-5.3"
+}

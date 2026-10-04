@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Михмасын эрчүүд — зуун хорин хоёр ⟨хүн⟩.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "эрчүүд"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "Михмас"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "хоёр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:12.419038491Z",
+  "model": "glm-5.3"
+}

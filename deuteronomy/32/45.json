@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Моше ⟨את⟩ эдгээр үгс бүгдийг бүх Йисраелд хэлж дуусгав.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "дуусгав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "хэлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эдгээр үгс бүгдийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгдийг"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    }
+  ],
+  "timestamp": "2026-10-04T15:34:04.726679169Z",
+  "model": "glm-5.3"
+}

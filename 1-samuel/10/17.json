@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Шемуэл ⟨את⟩ ард түмнийг Яхвэд Ха-Мицпа руу дуудав.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "дуудав"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ард түмнийг"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмнийг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Ха-Мицпа"
+    }
+  ],
+  "timestamp": "2026-10-04T11:25:46.644204814Z",
+  "model": "glm-5.3"
+}

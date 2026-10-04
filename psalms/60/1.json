@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 60,
+  "translation": "Захирах хүнд, Шушан-Едутын дээр, Давидын михтам, заахын тулд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Захирах хүнд"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Шушан"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Едут"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "михтам"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "заахын тулд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:45:34.963080418Z",
+  "model": "glm-5.3"
+}

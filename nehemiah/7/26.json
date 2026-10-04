@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Бет-Лехем ба Нетофагийн эрчүүд — зуун наян найм.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "эрчүүд"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "ба Нетофа"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "наян"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "найм"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:32.385744219Z",
+  "model": "glm-5.3"
+}

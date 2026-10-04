@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 45,
+  "translation": "Газрын бүх ард түмэн энэ өргөлд Йисраел дахь ноёнд хамрагдана.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "байх болно"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "өргөл"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "ноёнд"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраел доторх"
+    }
+  ],
+  "timestamp": "2026-10-04T13:15:18.830071099Z",
+  "model": "glm-5.3"
+}

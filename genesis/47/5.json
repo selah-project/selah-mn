@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 47,
+  "translation": "Фараон Йосефт хэлж байна: Эцэг чинь ба ах нар чинь чи дээр иржээ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлж байна"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "эцэг чинь"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "ба ах нар чинь"
+    },
+    {
+      "surface": "באו",
+      "gloss": "иржээ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чи дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:04:14.136499746Z",
+  "model": "glm-5.3"
+}

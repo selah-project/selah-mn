@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Моше энэ Торагийн ⟨את⟩ үгсийг дэвтэр дээр бүрэн дуустал бичиж дуусгангутаа ингэж болов.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ингэж болов"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "дуусгангутаа"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "бичиж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үгсийг"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Торагийн"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "дэвтэр"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "бүрэн дуустал"
+    }
+  ],
+  "timestamp": "2026-10-04T11:04:10.799224872Z",
+  "model": "glm-5.3"
+}

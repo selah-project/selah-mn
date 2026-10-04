@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Алгаа тохойд орох хүн бүү бол, өрийн барьц бологчдын нэг бүү бол.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "тохойд орох"
+    },
+    {
+      "surface": "כף",
+      "gloss": "алга"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "барьц бологчдын"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "өрийн барьц"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:56.316827876Z",
+  "model": "glm-5.3"
+}

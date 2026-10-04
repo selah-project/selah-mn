@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Харин газрын ашиг бүхэнд ⟨байдаг⟩: хаар өөрөө талбайгаас үйлчлүүлдэг.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "Харин ашиг"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүхэнд"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨байдаг⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаар"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "талбайгаас"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "үйлчлүүлдэг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:30.176957234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 13:22",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Маноах эхнэртээ хэлэв: Бид Элохимыг харлаа, тиймээс ялангуяа үхнэ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Маноах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "эхнэртээ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхэх"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "үхнэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимыг"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "харлаа"
+    }
+  ],
+  "timestamp": "2026-10-04T11:18:21.846281161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 15:29",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Яхвэ муус тай наас хол бөгөөд шударгын залбирлыг сонсоно.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "хол"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "муус тай наас"
+    },
+    {
+      "surface": "ותפלת",
+      "gloss": "болон залбирлыг"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "шударгын"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "сонсоно"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:57.234329829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Эсав Ханааны охид эцэг Йицхакийн нүдэд муу болохыг харв.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "харв"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "глийг"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "муу"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "охид"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Ханаан"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэд"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцэг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:00.478963147Z",
+  "model": "glm-5.3"
+}

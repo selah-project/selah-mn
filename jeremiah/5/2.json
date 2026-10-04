@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Хэдий тэд 'Яхвэ амьд' гэж хэлсэн ч, үнэхээр худлаар тангараглая.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "хэдий ... ч"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "тэд хэлсэн"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "үнэхээр"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "худлаар"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "тангараглая"
+    }
+  ],
+  "timestamp": "2026-10-04T12:34:59.959475095Z",
+  "model": "glm-5.3"
+}

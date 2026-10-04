@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Ханохын бүх амьдралын өдрүүд тавин зургаан болон гурван зуун жил байв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "өдрүүд"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханохын"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:05.748953064Z",
+  "model": "glm-5.3"
+}

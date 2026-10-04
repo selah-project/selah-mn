@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Хусай Абшаломд хэлэв: Ахитофел энэ удаад өгсөн зөвлөсөн зөвлөгөө сайн биш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хусай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Абшалом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "зөвлөгөө"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ямар нь"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "зөвлөсөн"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ахитофел"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "удаад"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:41:07.931418278Z",
+  "model": "glm-5.3"
+}

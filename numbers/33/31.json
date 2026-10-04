@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 33:31",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Мосеротоос одож, Бенэй-Яаканд буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "одож"
+    },
+    {
+      "surface": "ממסרות",
+      "gloss": "Мосеротоос"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "Бенэй-"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Яаканд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:16.824358925Z",
+  "model": "glm-5.3"
+}

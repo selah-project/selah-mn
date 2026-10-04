@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 4:3",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Ха, чи олон хүнийг сургасан, сул гарыг чи бэхжүүлсэн.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ха"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "сургасан"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "олон хүнийг"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "гарыг"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "сул"
+    },
+    {
+      "surface": "תחזק",
+      "gloss": "бэхжүүлсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:23.577151441Z",
+  "model": "glm-5.3"
+}

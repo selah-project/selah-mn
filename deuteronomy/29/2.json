@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "таны нүд харсан ⟨том сорилтууд⟩, тэр тэмдгүүд ба тэр том гайхамшгууд.",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "сорилтууд"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "том"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "харсан"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "таны нүд"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "тэмдгүүд"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "ба гайхамшгууд"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "том"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "тэр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:02:11.055501281Z",
+  "model": "glm-5.3"
+}

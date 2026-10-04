@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Чиний гэрт эфа ба эфа, том ба жижиг байхгүй байг.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байг"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "чиний гэрт"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ба эфа"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "том"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ба жижиг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:27.091017880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 78:29",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 78,
+  "translation": "Тэгээд тэд идэж, маш цадаж, тэдний хүсэл тэдэнд ирэв.",
+  "tokens": [
+    {
+      "surface": "ויאכלו",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "цадаж"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш"
+    },
+    {
+      "surface": "ותאותם",
+      "gloss": "тэдний хүсэл"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ирэв"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:18.988472688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Учир нь зүүд олон ажил мэдээллээс ирдэг, мөн тэнэгийн дуу хоолой олон үгнээс ⟨байдаг⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ирдэг"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "зүүд"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "олон"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "ажил мэдээлэл"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "мөн дуу хоолой"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "тэнэгийн"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "олон"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "үгнээс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:05.474163331Z",
+  "model": "glm-5.3"
+}

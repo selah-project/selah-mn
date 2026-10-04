@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Яхвэгийн дуу хүчтэй, Яхвэгийн дуу сүрлэг.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "хүчтэй"
+    },
+    {
+      "surface": "קול",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "сүрлэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:36.526586676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Түүний гартаам амьд бүхний амьсгал, бүх хүн махны руах байдаг.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "түүний"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "гартаам"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амьсгал"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхний"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "махны"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:16:48.978706448Z",
+  "model": "glm-5.3"
+}

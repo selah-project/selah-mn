@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 13:15",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Учир нь чи хардаг ⟨את⟩ бүх газрыг би чамд, мөн чиний үр удамд үүрд өгнө.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх газрыг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрыг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "хардаг"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "אתננה",
+      "gloss": "өгнө"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "мөн чиний үр удамд"
+    },
+    {
+      "surface": "עד",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "עולם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T09:49:15.541056838Z",
+  "model": "glm-5.3"
+}

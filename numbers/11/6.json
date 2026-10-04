@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Одоо бидний нәфеш хатаагаад юу ч үгүй, зөвхөн энэ мана л бидний нүдэнд.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Одоо"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "бидний нәфеш"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "хатаагаад"
+    },
+    {
+      "surface": "אין",
+      "gloss": "юу ч"
+    },
+    {
+      "surface": "כל",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "зөвхөн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "л"
+    },
+    {
+      "surface": "המן",
+      "gloss": "мана"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "бидний нүдэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:32.107911913Z",
+  "model": "glm-5.3"
+}

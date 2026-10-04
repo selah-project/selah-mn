@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Тэнэг хүний өмнөөс яв, мэдлэгийн уруул олж харахгүй байхдаа.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "яв"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "өмнөөс"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "тэнэг"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "эсвэл үгүй бол"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "олж харахгүй байхдаа"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уруул"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "мэдлэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:49.200828574Z",
+  "model": "glm-5.3"
+}

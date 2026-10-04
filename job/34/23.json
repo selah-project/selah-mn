@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Учир нь Эл хүн дээр дахин оноохгүй — Эл рүү шүүлтээр очихын тулд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "оноохгүй"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "очихын тулд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "шүүлтээр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:23:59.120335789Z",
+  "model": "glm-5.3"
+}

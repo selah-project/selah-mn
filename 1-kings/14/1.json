@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Тэр үед Яровамын хүү Авиа өвчилжээ.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Тэр үед"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "өвчилжээ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авиа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровам"
+    }
+  ],
+  "timestamp": "2026-10-04T11:53:49.360688171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Мөхөж байгаад архидуу ундаа, амиа гутарсанд нь дарс өг.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "өг"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "архидуу ундаа"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "мөхөж байгаад"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ба дарс"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "гутарсанд нь"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амиа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:02.137028269Z",
+  "model": "glm-5.3"
+}

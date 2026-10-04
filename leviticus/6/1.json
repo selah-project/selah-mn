@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэ Мошед айлдаж байгаад хэлэх нь:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж байгаад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлэх нь"
+    }
+  ],
+  "timestamp": "2026-10-04T10:23:46.271484137Z",
+  "model": "glm-5.3"
+}

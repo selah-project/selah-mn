@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Үлдээдгүй, өглөө хүртэл юу ч үлдээ: өглөө хүртэл үлдсэн нь галд шатаа.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "үлдээ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "түүнээс"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "өглөө"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "болон үлдсэн нь"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "түүнээс"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "өглөө"
+    },
+    {
+      "surface": "באש",
+      "gloss": "галд"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "шатаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:08:55.712275528Z",
+  "model": "glm-5.3"
+}

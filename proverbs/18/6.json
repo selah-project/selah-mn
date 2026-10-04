@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 18:6",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Тэнэгийн уруул маргаанд ордог, түүний ам цохилтуудыг дууддаг.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "уруул"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "тэнэгийн"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ордог"
+    },
+    {
+      "surface": "בריב",
+      "gloss": "маргаанд"
+    },
+    {
+      "surface": "ופיו",
+      "gloss": "ба түүний ам"
+    },
+    {
+      "surface": "למהלמות",
+      "gloss": "цоход"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "дууддаг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:07.803774937Z",
+  "model": "glm-5.3"
+}

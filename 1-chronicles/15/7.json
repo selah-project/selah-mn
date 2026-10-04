@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Гершомын хөвгүүдээс: Йоел ⟨мөн⟩ тэргүүн, түүний ах дүүс нэг зуун гуч.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдээс"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоел"
+    },
+    {
+      "surface": "השר",
+      "gloss": "тэргүүн"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ба түүний ах дүүс"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "нэг зуун"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "гуч"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:14.813241566Z",
+  "model": "glm-5.3"
+}

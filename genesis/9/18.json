@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Ноахын хөвгүүд, онгоцноос гарсан нь: Шем, Хам, Яфет; Хам бол Кенааны эцэг байв.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "байв"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноахын"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "гарсан"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-оос"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "онгоц"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "Яфет"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бол"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенааны"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:15.296218226Z",
+  "model": "glm-5.3"
+}

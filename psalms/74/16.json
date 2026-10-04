@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 74,
+  "translation": "Өдөр чиний, мөн шөнө чиний; Чи гэрэл ба нарыг бэлтгэсэн.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "чиний"
+    },
+    {
+      "surface": "יום",
+      "gloss": "Өдөр"
+    },
+    {
+      "surface": "אף",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чиний"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шөнө"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Чи"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "бэлтгэсэн"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "гэрэл"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "ба нарыг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:39.771868115Z",
+  "model": "glm-5.3"
+}

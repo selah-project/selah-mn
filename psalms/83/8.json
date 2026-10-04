@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 83,
+  "translation": "Гевал, Аммон ба Амалек, Пелишет Тирын оршигчидтой хамт.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Гевал"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "Аммон"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Пелишет"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "оршигчидтой"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Тирын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:54.100236534Z",
+  "model": "glm-5.3"
+}

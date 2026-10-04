@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Нахшон ⟨את⟩ Салмыг төрүүлж, Салма ⟨את⟩ Боазыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "Нахшон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Салмыг"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Салма"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "Салма"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Боазыг"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Боаз"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:50.185861848Z",
+  "model": "glm-5.3"
+}

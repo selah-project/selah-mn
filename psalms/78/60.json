@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 78,
+  "translation": "Тэр Шилогийн Мишкан, хүмүүн дунд байгуулсан майхнаа орхив.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "орхив"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Мишкан"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "Шилогийн"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "майхан"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "байгуулсан"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "хүмүүн дунд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:22.634087660Z",
+  "model": "glm-5.3"
+}

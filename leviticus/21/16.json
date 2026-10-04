@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Яхвэ Мошед айлдаж байна, ингэж хэлж байна.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "тэр айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлж"
+    }
+  ],
+  "timestamp": "2026-10-04T15:29:53.664352123Z",
+  "model": "glm-5.3"
+}

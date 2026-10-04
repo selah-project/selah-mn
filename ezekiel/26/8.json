@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 26:8",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Таны охидыг талд илдээр алж таны эсрэг байлдааны цамхаг босгох болно",
+  "tokens": [
+    {
+      "surface": "בנותיך",
+      "gloss": "Таны охидыг"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "талд"
+    },
+    {
+      "surface": "бחרב",
+      "gloss": "илдээр"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "алж"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "босгох болно"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "таны эсрэг"
+    },
+    {
+      "surface": "דיק",
+      "gloss": "байлдааны цамхаг"
+    },
+    {
+      "surface": "ושפך",
+      "gloss": ""
+    },
+    {
+      "surface": "עליך",
+      "gloss": ""
+    },
+    {
+      "surface": "סללה",
+      "gloss": ""
+    },
+    {
+      "surface": "והקים",
+      "gloss": ""
+    },
+    {
+      "surface": "עליך",
+      "gloss": ""
+    },
+    {
+      "surface": "צנה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T13:07:36.383389391Z",
+  "model": "glm-5.3"
+}

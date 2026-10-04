@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Ноах таван зуун настай байхад Ноах ⟨את⟩ Шем, ⟨את⟩ Хам, ⟨את⟩ Яфет нарыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүүхэд нь"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "таван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шем"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хам"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Яфет"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Яфет"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:15.202244145Z",
+  "model": "glm-5.3"
+}

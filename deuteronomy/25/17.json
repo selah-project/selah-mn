@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Амалек чамд юу хийснийг сана — зам дээр, та Мицраймаас гарч байх үед.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "сана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "юу хийснийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу…нийг"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийсэн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "зам дээр"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "та гарч байх үед"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицраймаас"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:32.460209608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Мөн чи ⟨את⟩ савыг уулзалтын майхан ба шөргөөрийн хооронд байрлуулж, тэнд ус хий.",
+  "tokens": [
+    {
+      "surface": "вנתת",
+      "gloss": "байрлуулж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сав"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "савыг"
+    },
+    {
+      "surface": "בין",
+      "gloss": "хооронд"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "майхан"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "уулзалтын"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ба"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "шөргөөрийн"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "хий"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    }
+  ],
+  "timestamp": "2026-10-04T10:21:28.094280050Z",
+  "model": "glm-5.3"
+}

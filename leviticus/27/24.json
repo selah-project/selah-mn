@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 27:24",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Йовелийн жилд талбай ⟨את⟩-ээсээ худалдаж авсан хүндээ эргэж, газар нь өв болсон хүнд очно.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": " жилд"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "Йовелийн"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "эргэж"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "талбай"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "-д"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "худалдаж авсан"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨את⟩-ээс"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "-д"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "өв"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:53.602541362Z",
+  "model": "glm-5.3"
+}

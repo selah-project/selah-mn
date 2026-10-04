@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Цэвэр сэрээ дээр ⟨את⟩ дэнлүүнүүдийг Яхвэгийн өмнө байнга бэлтгэнэ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "сэрээ"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "цэвэр"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "бэлтгэнэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дэнлүүнүүдийг"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "дэнлүүнүүдийг"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "байнга"
+    }
+  ],
+  "timestamp": "2026-10-04T10:32:09.654041010Z",
+  "model": "glm-5.3"
+}

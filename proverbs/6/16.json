@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Эдгээр зургааныг Яхвэ үзэн ядаж, долоо нь Түүний амьсгалд жигшилт юм.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "зургаа"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "үзэн ядаж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "долоо"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "жигшилт"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "Түүний амьсгалд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:42.094659097Z",
+  "model": "glm-5.3"
+}

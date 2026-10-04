@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Йицхарын хөвгүүд бол Корах, Нефег, Зихри.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Йицхар"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "Нефег"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "Зихри"
+    }
+  ],
+  "timestamp": "2026-10-04T10:06:10.088791203Z",
+  "model": "glm-5.3"
+}

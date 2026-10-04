@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Иеремиа хэлэв: Яхвэгийн үг надад ирж, айлдахдаа —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Иеремиа"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T12:46:59.949635663Z",
+  "model": "glm-5.3"
+}

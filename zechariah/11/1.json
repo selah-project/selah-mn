@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Ливан аа, хаалгаа нээ, гал чиний нарснуудыг түймэглэнэ.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "нээ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливан"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "хаалгаа"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "түймэглэнэ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "гал"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "нарснуудыг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:31:52.269257649Z",
+  "model": "glm-5.3"
+}

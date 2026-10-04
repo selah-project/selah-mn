@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Йосеф түүнд хэлэв: Үүний тайлбар бол: гурван мөчир нь гурван өдөр юм.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "тайлбар"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "мөчир"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "הם",
+      "gloss": "юм"
+    }
+  ],
+  "timestamp": "2026-10-04T15:26:39.537538646Z",
+  "model": "glm-5.3"
+}

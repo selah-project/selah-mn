@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Яхвэ айлдав: Би чиний үгийн ёсоор уучиллаа.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "Би уучиллаа"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "чиний үгийн ёсоор"
+    }
+  ],
+  "timestamp": "2026-10-04T10:39:36.724301457Z",
+  "model": "glm-5.3"
+}

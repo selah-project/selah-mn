@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Моше ард тийш бууж, ⟨את⟩ ардад очоод тэдэнд айлдав.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "бууж"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ард тийш"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ардад"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "тэдэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:10:55.862209369Z",
+  "model": "glm-5.3"
+}

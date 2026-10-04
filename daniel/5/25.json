@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Ба энэ бол бичигдсэн бичиг: МЕНЕ, МЕНЕ, ТЕКЕЛ, у-ПАРСИН.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ба энэ"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "бичиг"
+    },
+    {
+      "surface": "די",
+      "gloss": "кий"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "бичигдсэн"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "МЕНЕ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "МЕНЕ"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "ТЕКЕЛ"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "у-ПАРСИН"
+    }
+  ],
+  "timestamp": "2026-10-04T14:40:00.341559423Z",
+  "model": "glm-5.3"
+}

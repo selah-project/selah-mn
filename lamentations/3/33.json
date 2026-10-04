@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Учир нь Тэр зүрхэн дотроосоо дарлсангүй, хүмүүний хөвгүүдийг шаналгаагүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "дарлах"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "зүрхэн дотроосоо"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "шаналуулсангүй"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийг"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:12.172270252Z",
+  "model": "glm-5.3"
+}

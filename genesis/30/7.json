@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Билха — Рахел-ийн зарц — дахин жирэмслээ, Яаковд хоёр дахь хүүг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "жирэмслээ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билха"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "зарц"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел-ийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүүг"
+    },
+    {
+      "surface": "שני",
+      "gloss": "хоёр дахь"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:49.542820503Z",
+  "model": "glm-5.3"
+}

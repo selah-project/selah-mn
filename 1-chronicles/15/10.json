@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Уззелийн хөвгүүдээс: Аминадаб ноён, түүний ах дүүс нэг зуу хоёр арван хоёр.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдээс"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Уззель"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Аминадаб"
+    },
+    {
+      "surface": "השר",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "түүний ах дүүс"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "нэг зуу"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:24.088814362Z",
+  "model": "glm-5.3"
+}

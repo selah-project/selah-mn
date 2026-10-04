@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 44,
+  "translation": "Бид эзэн минь гэж хэлсэн: Залуу нь эцгээ орхиж чадахгүй, эцгээ орхивол ⟨тэр⟩ үхнэ.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "Бид хэлсэн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−нд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "эзэн минь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "чадахгүй"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "чадах"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "Залуу нь"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "орхиж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эцгээ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцгээ"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "орхивол"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эцгээ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцгээ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "үхнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:02:30.342672965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Тэрээ Яхвэгийн гэрийн дээд ⟨את⟩ хаалгыг барьж, Опелийн хана дээр их барьж босгожээ.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "тэрээ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "барьж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хаалгыг"
+    },
+    {
+      "surface": "שער",
+      "gloss": "хаалгыг"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэрийн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "дээд"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "ба хана дээр"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Опелийн"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "барьж"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "их"
+    }
+  ],
+  "timestamp": "2026-10-04T15:16:47.456868281Z",
+  "model": "glm-5.3"
+}

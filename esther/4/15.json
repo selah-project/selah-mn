@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Эстер Мордехайд хариу өгөхөөр хэлэв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлж"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "хариулахад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "рүү"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:36:16.295081526Z",
+  "model": "glm-5.3"
+}

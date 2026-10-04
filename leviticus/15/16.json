@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 15:16",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Харин эрэгтэй хүнээс үр дусал гарвал тэр усаа бүх махаа ⟨את⟩ угааж, үдэш хүртэл бузар байна.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "харин эрэгтэй хүнээс"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-вал"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "гарвал"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "түүнээс"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "дусал"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "үр"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "угааж"
+    },
+    {
+      "surface": "במים",
+      "gloss": "усаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх махаа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "махаа"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "бузар байна"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "үдэш"
+    }
+  ],
+  "timestamp": "2026-10-04T10:29:04.438864298Z",
+  "model": "glm-5.3"
+}

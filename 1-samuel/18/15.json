@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Саул түүнийг маш ухаантай байхыг хараад, түүнээс айв.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "хараад"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саул"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ухаантай"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "айв"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "түүнээс"
+    }
+  ],
+  "timestamp": "2026-10-04T11:29:22.337449940Z",
+  "model": "glm-5.3"
+}

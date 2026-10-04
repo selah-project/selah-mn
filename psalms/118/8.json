@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 118,
+  "translation": "Яхвэд найдан очих нь хүнд найдлаас дээр.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "наайдан очих"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "наайдлаас"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "хүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:28.931765889Z",
+  "model": "glm-5.3"
+}

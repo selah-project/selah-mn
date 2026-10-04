@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Харин ⟨את⟩ дүүргэлтийн хуцыг ав, махыг нь ариун газарт чана.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "איל",
+      "gloss": "хуц"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "дүүргэлтийн"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ав"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "ба чана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "махыг"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "мах нь"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ариун"
+    }
+  ],
+  "timestamp": "2026-10-04T10:16:30.022958912Z",
+  "model": "glm-5.3"
+}

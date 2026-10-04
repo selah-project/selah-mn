@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Хэрэв чи захирагчтай хамт хооллохоор суувал, чиний өмнө байгчдыг ⟨את⟩ сайтар ойлгож ав.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "суувал"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "хооллохоор"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зahiragchiig хамт"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "зahiragchтай"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ойлгож"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "сайтар ойлго"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чний өмнө байгчдыг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу нь"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "чний өмнө байгч"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:35.553422849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Түүний эгч алсаас зогсоод, түүнд юу болохыг мэлэхээр харж байв.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "зогсоод"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "түүний эгч"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "алсаас"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "мэлэхээр"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "болохыг"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:05:43.090346925Z",
+  "model": "glm-5.3"
+}

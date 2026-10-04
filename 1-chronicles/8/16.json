@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Микаэл, Ишпа ба Йоха — Бериагийн хөвгүүд",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "Микаэл"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "Ишпа"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "ба Йоха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Бериагийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:31.301476106Z",
+  "model": "glm-5.3"
+}

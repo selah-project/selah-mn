@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 39,
+  "translation": "⟨את⟩ Ширээ, ⟨את⟩ бүх сав хэрэгслээ, ба ⟨את⟩ Нүүрний талх.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ширээ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "Ширээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх сав хэрэгсэл"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "сав хэрэгсэл нь"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Нүүрний талх"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "Нүүрний"
+    }
+  ],
+  "timestamp": "2026-10-04T10:21:13.395261147Z",
+  "model": "glm-5.3"
+}

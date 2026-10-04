@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "тавагдал тавагдлын оронд, шарх шархын оронд, хөхөс хөхсийн оронд.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "тавагдал"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "оронд"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "тавагдал"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "шарх"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "оронд"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "шарх"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "хөхөс"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "оронд"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "хөхөс"
+    }
+  ],
+  "timestamp": "2026-10-04T10:13:14.023440954Z",
+  "model": "glm-5.3"
+}

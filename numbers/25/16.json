@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 25:16",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Яхвэ Мошетэй ярьж, айлдахдаа",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ярьж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-тэй"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:44:23.509534461Z",
+  "model": "glm-5.3"
+}

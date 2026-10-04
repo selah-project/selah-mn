@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 115,
+  "translation": "Тэдний шүтээнүүд нь мөнгө ба алт, хүний гар урласан зүйлс.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "Тэдний шүтээнүүд"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "мөнгө"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ба алт"
+    },
+    {
+      "surface": "мעשה",
+      "gloss": "урласан зүйлс"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "гар"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:10.804131188Z",
+  "model": "glm-5.3"
+}

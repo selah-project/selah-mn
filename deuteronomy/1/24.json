@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Тэд эргэж уул руу өөдөлж, Эшколын хөндий хүртэл очиж, ⟨את⟩ түүнийг мэдэж авав.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "эргэж"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "өөдөлж"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "уул руу"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "очиж"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "хөндий"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Эшколын"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "мэдэж авав"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ түүнийг",
+      "marks": "түүнийг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:35.295131858Z",
+  "model": "glm-5.3"
+}

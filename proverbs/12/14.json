@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Хүн амныхаа үрээр сайнаар цадна, хүний гарын үйлийн хариу түүнд буцаж ирнэ.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "үрээр"
+    },
+    {
+      "surface": "פי",
+      "gloss": "амны"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "цадна"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайнаар"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "хариу"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "гарын"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "буцаж ирнэ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:13.540050887Z",
+  "model": "glm-5.3"
+}

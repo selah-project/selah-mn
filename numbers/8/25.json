@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Тавин наснаас дээш насны хүн албаны цэргээс буцан, дахин алба хийхгүй.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "насны хүн"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "нас"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "буцан"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "цэргээс"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "албаны"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба үгүй"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "алба хийхгүй"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:31.046025870Z",
+  "model": "glm-5.3"
+}

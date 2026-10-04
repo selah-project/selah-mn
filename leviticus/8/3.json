@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "ба ⟨את⟩ бүх чуулганыг Уулзлын майхны амсарт нь цуглуул.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "бүх чуулган"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "чуулган"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "цуглуул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "амсарт"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "майхны"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Уулзалт"
+    }
+  ],
+  "timestamp": "2026-10-04T15:29:34.157176813Z",
+  "model": "glm-5.3"
+}

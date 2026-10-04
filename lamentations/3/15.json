@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр намайг бүрэлгээр дүүргэж, хэрэнгээр цадтал уулгав.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "намайг дүүргэж"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "бүрэлгээр"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "уулгав"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "хэрэнгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:13.474794244Z",
+  "model": "glm-5.3"
+}

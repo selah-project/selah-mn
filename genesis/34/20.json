@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 34:20",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Хамор, хүү Шехем хоёр хотынхоо дааман хаалга руу очиж, хотынхоо хүмүүст ингэж хэлэв.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "очиж"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамор"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "Шехем"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "שער",
+      "gloss": "дааман хаалга"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "хотынхоо"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "хүмүүст"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "хотынхоо"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:30.273222559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 18:24",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Шаулын зарцууд түүнд мэдэгдэж хэлэв: Давид ийм үгс хэлсэн байна.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "мэдэгдэв"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "зарцууд"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулын"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "ийм үгс"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ийм"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "хэлсэн"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-04T11:29:05.670861218Z",
+  "model": "glm-5.3"
+}

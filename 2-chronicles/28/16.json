@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Тэр үед Ахаз хаан өөрт нь туслуулахаар Ашшурын хаад руу элч илгээв.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "үед"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "илгээв"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "על",
+      "gloss": "руу"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "хаадын"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "туслуулахаар"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:17:54.749692107Z",
+  "model": "glm-5.3"
+}

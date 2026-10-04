@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Чулууг хаях цаг ба чулууг цуглуулах цаг; тэврэх цаг ба тэврэхээс хол байх цаг.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "хаях"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "чулууг"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба цаг"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "цуглуулах"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "чулууг"
+    },
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "тэврэх"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба цаг"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "хол байх"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "тэврэхээс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:04.616382865Z",
+  "model": "glm-5.3"
+}

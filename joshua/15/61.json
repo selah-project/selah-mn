@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Цөлд: Бет-ха-Арава, Миддин ба Секака.",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ха-Арава"
+    },
+    {
+      "surface": "мדין... wait",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T11:09:40.130651657Z",
+  "model": "glm-5.3"
+}

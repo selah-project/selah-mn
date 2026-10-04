@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 120,
+  "translation": "Би энх тайван хүсэх боловч, харин би ярих үед тэд дайнд бэлэн байдаг.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "энх тайван"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "харин"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "би ярих үед"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "дайнд бэлэн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:25.403833Z",
+  "model": "glm-5.3"
+}

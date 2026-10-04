@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Учир нь газар Яхвэгийн ⟨את⟩ сүр жавхланг мэдэхээр дүүрнэ, ус далайг бүрхэх адил.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "дүүрнэ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "мэдэхээр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сүр жавхлан"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "сүр жавхлан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ус шиг"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "бүрхэх"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ים",
+      "gloss": "далай"
+    }
+  ],
+  "timestamp": "2026-10-04T13:27:16.004175902Z",
+  "model": "glm-5.3"
+}

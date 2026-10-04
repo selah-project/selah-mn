@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Яхвэ Мошед айлдаж байна, ингэж хэлэхдээ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлэхдээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:26:28.319273192Z",
+  "model": "glm-5.3"
+}

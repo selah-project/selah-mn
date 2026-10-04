@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Бааша үүнийг сонсоод Рамыг барихаа болиж, Тирцад суув.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "сонсоод"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Бааша"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "болиж"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "барихаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рамыг"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "суув"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "Тирцад"
+    }
+  ],
+  "timestamp": "2026-10-04T11:55:05.542659393Z",
+  "model": "glm-5.3"
+}

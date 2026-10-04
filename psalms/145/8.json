@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 145,
+  "translation": "Яхвэ өршөөлтэй, энэрэнгүй, уурлахдаа удаан, хэсэд нь агуу.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "өршөөлтэй"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "энэрэнгүй"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "удаан"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "уурлахдаа"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хэсэд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:02:44.837618134Z",
+  "model": "glm-5.3"
+}

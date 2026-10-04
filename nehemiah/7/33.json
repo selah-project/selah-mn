@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Негшийн эрэгчүүд, өөр Небогийнхон: тавин хоёр.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "эрэгчүүд"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Небо"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "хоёр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:27.277982603Z",
+  "model": "glm-5.3"
+}

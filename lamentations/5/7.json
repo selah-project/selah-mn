@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Эцгүүд маань нүгэл үйлдэв, тэд өнөө байхгүй, бид тэдний гэм бурууг үүрэв.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "эцгүүд маань"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "нүгэл үйлдэв"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "тэд байхгүй"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "бид"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "гэм бурууг нь"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "бид үүрэв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:47.734634163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Эдгээр нь Яхвэ Синай ууланд Йисраелын хөвгүүдэд Мошег ⟨את⟩ захисан тушаалууд мөн.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "тушаалууд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яаж"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "захисан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошег"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ууланд"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-10-04T10:32:41.234499427Z",
+  "model": "glm-5.3"
+}

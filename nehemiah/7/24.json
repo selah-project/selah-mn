@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Харифын хүүхдүүд, зуун арван хоёр.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хүүхдүүд"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "Харифын"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:25.108357922Z",
+  "model": "glm-5.3"
+}

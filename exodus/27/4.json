@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 27:4",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Чи түүнд торлох мэт зэсэн тор хийж, тэр торон дээр дөрвөн булан дээрээ дөрвөн зэсэн бөгж хий.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "чи хийж"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "мכבר",
+      "gloss": "тор"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "хийц"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "тор"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "зэсэн"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "чи хийж"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "тор"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "бөгж"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "зэсэн"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "түүний булан"
+    }
+  ],
+  "timestamp": "2026-10-04T10:15:30.177406248Z",
+  "model": "glm-5.3"
+}

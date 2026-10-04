@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 5:17",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Тахилч ариун усыг шавар саванд авч, Мишканы шалан дээр байдаг тоосноос тахилч авч, уруу нь усанд хийнэ.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "авч"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "саванд"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "шавар"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ба …-аас"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "тоос"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх"
+    },
+    {
+      "surface": "בקרקע",
+      "gloss": "шалан дээр"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишканы"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "авна"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "хийж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "уруу"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ус"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:18.752573656Z",
+  "model": "glm-5.3"
+}

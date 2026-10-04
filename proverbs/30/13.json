@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 30:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Нэг үе бий — нүд нь ямар өндөр, нүдний зовхис нь өргөгдсөн билээ!",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "үе"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "нүд нь"
+    },
+    {
+      "surface": "ועפעפיו",
+      "gloss": "ба нүдний зовхис нь"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "өргөгдсөн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:15.401248084Z",
+  "model": "glm-5.3"
+}

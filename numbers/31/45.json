@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Мөн илжиг гучин мянга таван зуу.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "мөн илжиг"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "гучин"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "таван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуу"
+    }
+  ],
+  "timestamp": "2026-10-04T10:47:32.709622350Z",
+  "model": "glm-5.3"
+}

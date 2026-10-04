@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Лакиш, боцкат ба Эглон",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "Лакиш"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "боцкат"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "Эглон"
+    }
+  ],
+  "timestamp": "2026-10-04T11:09:44.074147841Z",
+  "model": "glm-5.3"
+}

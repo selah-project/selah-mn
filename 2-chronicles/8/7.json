@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 8:7",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Хет, Амор, Периз, Хив, Йебус үндэстнээс үлдсэн бүх ард түмэн — Йисраелийнх биш тэдгээр.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "үлдсэн"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Хет"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "ба Амор"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "ба Периз"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "ба Хив"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "ба Йебус"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэдгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T15:12:37.250512129Z",
+  "model": "glm-5.3"
+}

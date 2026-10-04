@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Хөгшид дааман хаалганаа болиов, залуучууд дуугаа больжээ.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "хөгшид"
+    },
+    {
+      "surface": "мשער",
+      "gloss": "дааман хаалганаас"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "болив"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "залуучууд"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "тэдний дуугаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:56.986341045Z",
+  "model": "glm-5.3"
+}

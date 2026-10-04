@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 4:18",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "шороо дээр мөлхдөг аливаа зүйлийн дүр төрх, газрын доорх усанд байгаа аливаа загасны дүр төрх.",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "дүр төрх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "аливаа"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "мөлхдөг"
+    },
+    {
+      "surface": "באדמה",
+      "gloss": "шороо дээр"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "дүр төрх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "аливаа"
+    },
+    {
+      "surface": "דגה",
+      "gloss": "загасны"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "байгаа"
+    },
+    {
+      "surface": "במים",
+      "gloss": "усанд"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "доорх"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "газрын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:52:48.959250447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Байшин ба баялаг бол эцгүүдийн өв; ухаантай эхнэр бол Яхвээс.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Байшин"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ба баялаг"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "өв"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "эцгүүдийн"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "ба Яхвээс"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эхнэр"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "ухаантай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:55.482935384Z",
+  "model": "glm-5.3"
+}

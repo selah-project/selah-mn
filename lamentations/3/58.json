@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Та Адонай миний нэфэшийн хэргүүдийг өмгөөлж, миний амийг золин аврав.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Та өмгөөлж"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "хэргүүдийг"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "миний нэфэшийн"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "золин аврав"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "миний амийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:17.026425497Z",
+  "model": "glm-5.3"
+}

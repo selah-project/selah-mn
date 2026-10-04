@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 80,
+  "translation": "Таны баруун гарын хүн дээр, өөртөө бэхжүүлсэн хүний хүү дээр Таны гар байг.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "байг"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Таны гар"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "Таны баруун"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "бэхжүүлсэн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    }
+  ],
+  "timestamp": "2026-10-04T13:50:22.083691322Z",
+  "model": "glm-5.3"
+}

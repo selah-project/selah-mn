@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Яхвэгийн үг Тишбийн нутгийн Элияху руу ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияху"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Тишбийн нутгийн"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T11:56:53.065613997Z",
+  "model": "glm-5.3"
+}

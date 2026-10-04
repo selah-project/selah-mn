@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 42,
+  "translation": "Өмнөд талыг ⟨את⟩ хэмжлээ — таван зуун кан, хэмжүүрийн канаар.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өмнөд талыг"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "тал"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "өмнөд"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "хэмжлээ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "таван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "кан"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "канаар"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "хэмжүүрийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:13:26.197003505Z",
+  "model": "glm-5.3"
+}

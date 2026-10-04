@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 118,
+  "translation": "Яхвэ надад туслах тул би айхгүй, хүн надад юу хийх вэ?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "би айх"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "хийх вэ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:28.931373001Z",
+  "model": "glm-5.3"
+}

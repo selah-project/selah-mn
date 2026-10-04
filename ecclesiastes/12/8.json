@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Хоосон, хоосон бүхэн; Кохелет айлдаж байна: бүх юм хоосон.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Хоосон"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "хоосон бүхэн"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "Кохелет"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "бүх юм"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хоосон"
+    }
+  ],
+  "timestamp": "2026-10-04T14:36:14.348015796Z",
+  "model": "glm-5.3"
+}

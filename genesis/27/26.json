@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Түүний эцэг Йицхак түүнд хэлэв: Хүү минь, одоо надад ойртон ирж, намайг үнсэ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "түүний эцэг"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "ойртон ир"
+    },
+    {
+      "surface": "נא",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "үнсэ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "намайг"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүү минь"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:42.493389848Z",
+  "model": "glm-5.3"
+}

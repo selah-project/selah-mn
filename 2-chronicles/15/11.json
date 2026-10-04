@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 15:11",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Тэд тэр өдөр Яхвэд өргөл өргөв: авчирсан олзноос долоон зуун үхэр, долоон мянган хонь.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "өргөл өргөв"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-наас"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "олзноос"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "авчирсан"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ба хонь"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мянган"
+    }
+  ],
+  "timestamp": "2026-10-04T15:12:58.220615059Z",
+  "model": "glm-5.3"
+}

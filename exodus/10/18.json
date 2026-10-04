@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Тэр Фараоны дэргэдээс гарч, Яхвэд залбирлаа.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "дэргэдээс"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараоны"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "залбирлаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:08:40.596548577Z",
+  "model": "glm-5.3"
+}

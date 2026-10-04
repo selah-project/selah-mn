@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Мөн ⟨את⟩ далайг баруун талын мөрнөөс зүүн зүгт, өмнө зүгийн харалдаа тавив.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "далай"
+    },
+    {
+      "surface": "הים",
+      "gloss": "далай"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "тавив"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "мөрнөөс"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "баруун"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "зүүн зүгт"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "харалдаа"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "өмнө зүгт"
+    }
+  ],
+  "timestamp": "2026-10-04T15:09:07.947225789Z",
+  "model": "glm-5.3"
+}

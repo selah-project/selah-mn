@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Эстэр Хатагт хэлж, түүнд Мордехайд ⟨дуутгах⟩ тушаал өгөв.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "хэлж"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстэр"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Хатагт"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "тушаал өгөв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехайд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:36:35.641054757Z",
+  "model": "glm-5.3"
+}

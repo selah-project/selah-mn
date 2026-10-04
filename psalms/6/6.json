@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Үхэлд чамайг дурсагч үгүй, Шеолд чамд талархагч хэн буй?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь ⟨яагаад гэвэл⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "במות",
+      "gloss": "үхэлд"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "чамайг дурсагч"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "Шеолд"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "талархагч"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:33:48.278963782Z",
+  "model": "glm-5.3"
+}

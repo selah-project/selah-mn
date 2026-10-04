@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 106,
+  "translation": "Тиймээс Тэр тэдэнд prottiv гар өргөж, тэднийг цөлд унагаахыг зөвшөөрөв.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "гар өргөж"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "Түүний гар"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "унагаахыг"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "тэднийг"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:53:22.695756041Z",
+  "model": "glm-5.3"
+}

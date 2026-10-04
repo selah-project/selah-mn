@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Бетуел, Хорма, Циклаг ба тэдгээр хотууд.",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "Бетуел"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "Хорма"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "Циклаг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:27.911219279Z",
+  "model": "glm-5.3"
+}

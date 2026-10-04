@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Мэргэн ухаан мэргэнд хүч өгнө, хотод байсан араван эрхэм засагчаас илүү.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "мэргэн ухаан"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "хүч өгнө"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "мэргэнд"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "араван"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "эрхэм засагч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "היו",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "хотод"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:59.775777107Z",
+  "model": "glm-5.3"
+}

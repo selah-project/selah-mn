@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 56,
+  "translation": "Айх өдөр бүр би Чамд итгэнэ.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "өдөр бүр"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "айх"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Чамд"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "итгэнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:52:06.567860653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Маккедагийн хаан, нэг; Бет-Элийн хаан, нэг.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Маккеда"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T11:08:19.452170521Z",
+  "model": "glm-5.3"
+}

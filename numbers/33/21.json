@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Ливнаһыг орхин одож, Рисса-д буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "одож"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "Ливнаһыг"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "Рисса-д"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:12.993345342Z",
+  "model": "glm-5.3"
+}

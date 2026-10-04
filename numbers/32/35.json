@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "ба ⟨את⟩ Атарот-Шофан, ба ⟨את⟩ Яазер, ба Ягбеа.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Атарот-Шофан"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Атарот"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "Шофан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Яазер"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "Яазер"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "ба Ягбеа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:48:02.706249174Z",
+  "model": "glm-5.3"
+}

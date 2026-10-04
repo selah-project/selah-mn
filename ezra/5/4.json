@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Дараа нь бид тэдэд ингэж хэлсэн: Энэ барилгыг барьж байгаа эрчүүдийн нэрс юу вэ?",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Дараа нь"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "бид хэлсэн"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "юу"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "нар"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "нэрс"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "эрчүүдийн"
+    },
+    {
+      "surface": "די",
+      "gloss": "nar"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "барилгыг"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "барьж байгаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:47:57.870628362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 55,
+  "translation": "Би Элохим руу дуудна, Яхвэ намайг аврах болно.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "дуудна"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ба Яхвэ"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "намайг аврах болно"
+    }
+  ],
+  "timestamp": "2026-10-04T13:44:23.316959920Z",
+  "model": "glm-5.3"
+}

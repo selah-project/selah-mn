@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Би Патросыг ⟨את⟩ сүйрүүлж, Цоанд гал тавьж, Но-д шүүлтүүд хийнэ.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "сүйрүүлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Патросыг"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Патрос"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "тавьж"
+    },
+    {
+      "surface": "אש",
+      "gloss": "гал"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "Цоанд"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "хийнэ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "шүүлтүүд"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "Но-д"
+    }
+  ],
+  "timestamp": "2026-10-04T13:08:30.202314499Z",
+  "model": "glm-5.3"
+}

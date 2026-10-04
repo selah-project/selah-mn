@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Надад босогчдын уруул ба тэдний шивнэсэн үг над эсрэг бүх өдөр.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "уруул"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "надад босогчдын"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "ба тэдний шивнэсэн үг"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над эсрэг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдөр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:59.560477701Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Хэрэв энэ үг үнэн болж, бүсгүйд онгон байдал олдохгүй бол",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "үнэн"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болж"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "олдохгүй"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "онгон байдал"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "бүсгүйд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:35.314603351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэ Түүнийг хүлээгчдэд сайхан, Түүнийг эрэлхийлдэг сэтгэлд ⟨мөн⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "Түүнийг хүлээгчдэд"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "…сэтгэлд"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "Түүнийг эрэлхийлдэг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:34.820160518Z",
+  "model": "glm-5.3"
+}

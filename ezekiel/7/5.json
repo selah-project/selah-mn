@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ингэж айлдаж байна Адонай Яхвэ: муу зүйл, ганц муу зүйл — үзэгтүн, ирж байна.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу зүйл"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ганц"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу зүйл"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "үзэгтүн"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ирж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T12:57:11.767615236Z",
+  "model": "glm-5.3"
+}

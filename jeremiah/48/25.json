@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Моабын эвэр тайлагдаж, түүний гар хугарчээ, Яхвэ айлдаж байна.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "тайлагдаж"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "эвэр"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабын"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "түүний гар"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "хугарчээ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:47:40.306627536Z",
+  "model": "glm-5.3"
+}

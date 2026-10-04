@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Одоо Гиваад бидний хийх зүйл энэ: түүний эсрэг сугалаагаар явъя.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Одоо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "зүйл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "хийх"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "Гиваад"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "түүний эсрэг"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "сугалаагаар"
+    }
+  ],
+  "timestamp": "2026-10-04T11:21:11.658651279Z",
+  "model": "glm-5.3"
+}

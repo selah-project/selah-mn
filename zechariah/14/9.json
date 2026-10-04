@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Яхвэ бүх газар нутаг дээр хаан болно; тэр өдөр Яхвэ нэг байх бөгөөд Түүний нэр нэг байх болно.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "хаан болох"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар нутгийн"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх болно"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ба Түүний нэр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:33:06.046690027Z",
+  "model": "glm-5.3"
+}

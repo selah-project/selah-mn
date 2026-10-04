@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 3:22",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэгийн гар тэнд над дээр байв; Тэр надад хэлэв: Бос, хөндий рүү гар, тэнд Би ⟨את⟩ чамтай ярилцъя.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над дээр"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "יד",
+      "gloss": "гар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Бос"
+    },
+    {
+      "surface": "צא",
+      "gloss": "гар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "рүү"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "хөндий"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ярилцъя"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ чамтай"
+    }
+  ],
+  "timestamp": "2026-10-04T15:49:21.308175505Z",
+  "model": "glm-5.3"
+}

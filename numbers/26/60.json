@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Ааронд ⟨את⟩ Надав, ⟨את⟩ Авигу, ⟨את⟩ Элазар, ⟨את⟩ Итамар төржээ.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "төржээ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ааронд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Надав"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Авигу"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Авигу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элазар"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Итамар"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Итамар"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:17.672941904Z",
+  "model": "glm-5.3"
+}

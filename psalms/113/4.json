@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 113,
+  "translation": "Яхвэ бүх үндэстнээс өндөр, түүний суу алдар тэнгэрүүдээс дээш.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "על",
+      "gloss": "-аас дээш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "үндэстнээс"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ээс дээш"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "тэнгэрүүдээс"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "суу алдар"
+    }
+  ],
+  "timestamp": "2026-10-04T13:56:25.766901147Z",
+  "model": "glm-5.3"
+}

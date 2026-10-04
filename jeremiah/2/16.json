@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Мөн Нофын хөвгүүд ба Тахпанес чамайн толгойн оройг чарж байна.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Мөн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Нофын"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "ба Тахпанес"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "чарж байна"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "толгойн оройг"
+    }
+  ],
+  "timestamp": "2026-10-04T12:31:48.765547792Z",
+  "model": "glm-5.3"
+}

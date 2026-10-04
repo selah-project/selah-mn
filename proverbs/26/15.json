@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Залхуу хүн гаргаа тавагт нуудаг; ам руугаа буцаахад нь залхдаг.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "нуудаг"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "Залхуу хүн"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гаргаа"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "тавагт"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "залхдаг"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "буцаахад нь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руугаа"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ам"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:52.486445665Z",
+  "model": "glm-5.3"
+}

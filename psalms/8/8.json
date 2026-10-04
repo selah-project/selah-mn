@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Хонь ба үхэр, бүгд, мөн тал хээрийн араатан.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Хонь"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ба үхэр"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "араатан"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "тал хээрийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:35:24.681816055Z",
+  "model": "glm-5.3"
+}

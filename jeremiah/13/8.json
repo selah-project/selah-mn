@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Яахвэ-гийн үг надад ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T12:37:49.828644793Z",
+  "model": "glm-5.3"
+}

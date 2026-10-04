@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Туйлширсан замаар явдаг баян хүнээс бүрэн бишүүртэй явдаг ядуу хүн дээр.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ядуу"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "явдаг"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "бүрэн бишүүртэй"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "туйлширсан"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "замаар"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "харин тэр"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "баян"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:58.928455953Z",
+  "model": "glm-5.3"
+}

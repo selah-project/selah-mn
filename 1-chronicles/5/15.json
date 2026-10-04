@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Ахи, Абдиелын хүү, Гунийн ач, өөрсдийн эцгийн өргөөний тэргүүн байв.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ахи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Абдиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Гуни"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "тэргүүн"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "өргөөний"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "өөрсдийн эцгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:07.632668297Z",
+  "model": "glm-5.3"
+}

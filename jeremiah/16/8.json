@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Мөн уншлагын байрт бүү ор — тэдэнтэй хамт идэх, уухын тулд ⟨ суух ⟩.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "мөн … байрт"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "уншлагын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ор"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "суухын тулд"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "тэдэнтэй"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "идэхийн"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ба уухын"
+    }
+  ],
+  "timestamp": "2026-10-04T12:38:11.471483448Z",
+  "model": "glm-5.3"
+}

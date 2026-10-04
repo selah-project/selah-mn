@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Яхвэ Мошед айлдаж, хэлэхийг захив.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлэхийг захив"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:53.807508349Z",
+  "model": "glm-5.3"
+}

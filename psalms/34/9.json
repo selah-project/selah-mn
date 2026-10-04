@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Амтлаад үзэгтүн, учир нь Яхвэ сайн; түүнд найддаг хүн ямар азтай!",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "Амтлаад үзэгтүн"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "үзэгтүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ямар азтай"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "найддаг"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:39:30.605520573Z",
+  "model": "glm-5.3"
+}

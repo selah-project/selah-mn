@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Тэрээр Яхвэгийн нүдэнд зөвийг үйлдэв, гэвч бүрэн зүрхээр биш.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "үйлдэв"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "зөвийг"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэнд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "רק",
+      "gloss": "гэвч"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "зүрхээр"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "бүрэн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:18:09.547815754Z",
+  "model": "glm-5.3"
+}

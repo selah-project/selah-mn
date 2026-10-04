@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 1:12",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Хүн бүр өөрийн нүүрний зүг яав; руах очих газарт тэд очно, тэд явж байхдаа эргэдэггүй.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ба хүн бүр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-ийн зүг"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "тал руу"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "нүүрнийх нь"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "яав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-руу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "худал"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "очих"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "очно"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "эргэдэггүй"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "явж байхдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T12:55:00.218888870Z",
+  "model": "glm-5.3"
+}

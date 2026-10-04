@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "ба шувууны бүх мохоо ариун бус танд: идэгдэхгүй.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "мохоо"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "шувууны"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ариун бус"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "лכם",
+      "gloss": "та"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "идэгдэх"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:22.129959540Z",
+  "model": "glm-5.3"
+}

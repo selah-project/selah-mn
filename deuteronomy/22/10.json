@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Үхэр бол илжгийн хамт хагалахгүй.",
+  "tokens": [],
+  "timestamp": "2026-10-04T10:57:32.355101386Z",
+  "model": "glm-5.3"
+}

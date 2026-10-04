@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Даниел Кореш хааны нэгдүгээр он хүртэл ⟨байв⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "он"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэгдүгээр"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Корешын"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:37:46.652041317Z",
+  "model": "glm-5.3"
+}

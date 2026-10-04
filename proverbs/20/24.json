@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Яхвээс бол хүний алхамууд; хүн өөрийн замаа хэрхэн ойлгох билээ?",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхвээс"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "алхамууд"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ба хүн"
+    },
+    {
+      "surface": "מה",
+      "gloss": "хэрхэн"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ойлгох"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "өөрийн замаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:43.290651031Z",
+  "model": "glm-5.3"
+}

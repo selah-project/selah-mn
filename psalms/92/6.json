@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 92,
+  "translation": "Яхвэ, Чиний үйлс ямар их юм бэ, Чиний бодлуу ямар гүн юм бэ!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "их юм"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "Чиний үйлс"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "яг"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "гүн юм"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "Чиний бодлуу"
+    }
+  ],
+  "timestamp": "2026-10-04T13:53:00.724011817Z",
+  "model": "glm-5.3"
+}

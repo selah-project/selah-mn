@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Эфраимын овгоос Хошеа, Нуны хүү.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраимын"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Хошеа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуны"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:55.890045075Z",
+  "model": "glm-5.3"
+}

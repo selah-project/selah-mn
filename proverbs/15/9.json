@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Муу хүний зам Яхвэд жигшүүр мөн, харин цедекийг мөрдөгчийг Тэр хайрлана.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "жигшүүр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "муу хүний"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "мөрдөгчийг"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедекийг"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "хайрлана"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:10.853052991Z",
+  "model": "glm-5.3"
+}

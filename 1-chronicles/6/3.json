@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Кеатын хөвгүүд — Амрам, Йицхар, Хеврон, Уззиел.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеатын"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "Йицхар"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "Уззиел"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:39.164757746Z",
+  "model": "glm-5.3"
+}

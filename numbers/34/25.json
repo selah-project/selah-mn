@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 34:25",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Зевулунын хөвгүүдийн овгоос ноён нь Элицафан, Паранахын хүү.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулунын"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Элицафан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "פרנך",
+      "gloss": "Паранахын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:22.211660965Z",
+  "model": "glm-5.3"
+}

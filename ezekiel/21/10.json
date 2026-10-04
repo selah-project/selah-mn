@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 21:10",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Бүх мах Миний Яхвэ илдээ хутгаасаа гаргасныг мэдэг; тэр дахин буцахгүй.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "мэдэг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ныг"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Миний"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "гаргасан"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "илдээ"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "хутгаасаа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "буцна"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    }
+  ],
+  "timestamp": "2026-10-04T13:03:23.770301309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Тоу Хаматын хаан Давид Цовагийн хаан Хададезэрийн бүх цэргийг ⟨את⟩ цохисныг сонсоод",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "сонсоод"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Тоу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "цохисныг"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх цэрэг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "цэрэг"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Хададезэр"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цова"
+    }
+  ],
+  "timestamp": "2026-10-04T15:04:30.412361633Z",
+  "model": "glm-5.3"
+}

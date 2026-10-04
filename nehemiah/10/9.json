@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Маазъя, Билгай, Шемаъя: эдгээр нь тахилчид байв.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "Маазъя"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "Билгай"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаъя"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "тахилчид"
+    }
+  ],
+  "timestamp": "2026-10-04T14:53:45.075383064Z",
+  "model": "glm-5.3"
+}

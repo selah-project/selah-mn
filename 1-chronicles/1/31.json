@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Йетур, Нафиш ба Кедема. Эдгээр нь Ишмаелын хөвгүүд юм.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "Йетур"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Нафиш"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ба Кедема"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "הם",
+      "gloss": "бол"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ишмаелын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:40.916462086Z",
+  "model": "glm-5.3"
+}

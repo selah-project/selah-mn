@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 28:22",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Түүнийг шахаж байх үед тэр Яхвэд эсрэг улам гүтгэл үйлдэв — энэ Ахаз хаан.",
+  "tokens": [
+    {
+      "surface": "ובעת",
+      "gloss": "Үед нь"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "шахаж байхад"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнийг"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "улам"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "гүтгэл үйлдэв"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэд эсрэг"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    }
+  ],
+  "timestamp": "2026-10-04T15:17:59.464530011Z",
+  "model": "glm-5.3"
+}

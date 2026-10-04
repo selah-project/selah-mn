@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 36:29",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Эдгээр нь хоричуудын ноёд мөн: ноён Лотан, ноён Шовал, ноён Цивьон, ноён Ана.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "хоричуудын"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотан"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовал"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Цивьон"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ана"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:07.847305123Z",
+  "model": "glm-5.3"
+}

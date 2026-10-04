@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 72,
+  "translation": "Бүх хаадууд түүнд мөргөнө, бүх үндэстнүүд түүнд үйлчилнэ.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "мөргөнө"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "хаадууд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "үндэстнүүд"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "түүнд үйлчилнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:46:51.399366518Z",
+  "model": "glm-5.3"
+}

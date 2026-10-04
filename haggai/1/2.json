@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Яхвэ Цебаот ингэж айлдаж байна: Энэ ард түмэн: Цаг болоогүй, Яхвэгийн гэр барих цаг болоогүй гэжээ",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "гэжээ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "боогүй"
+    },
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "בא",
+      "gloss": "болоогүй"
+    },
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "барих"
+    }
+  ],
+  "timestamp": "2026-10-04T13:29:20.582005292Z",
+  "model": "glm-5.3"
+}

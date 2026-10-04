@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Моше тэр өдөр ⟨את⟩ ард түмэнд тушааж, хэмээн айлдав.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "тушааж"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ард түмэн"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэнд"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэмээн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:38.473056365Z",
+  "model": "glm-5.3"
+}

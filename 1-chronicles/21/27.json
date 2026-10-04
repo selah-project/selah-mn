@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Яхвэ тэнгэр элчид айлдахад тэр бүсгүйгээ илдээ хийв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдахад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "тэнгэр элчид"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "хийв"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "илдээ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "бүсгүйгээ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:03:54.888040088Z",
+  "model": "glm-5.3"
+}

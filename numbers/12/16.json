@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 12:16",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Дараа нь хүмүүс Хацеротоос хөдөлж, Параны цөлд буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "хөдөлж"
+    },
+    {
+      "surface": "העם",
+      "gloss": "хүмүүс"
+    },
+    {
+      "surface": "מחצרות",
+      "gloss": "Хацеротоос"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "дараа нь"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Параны"
+    }
+  ],
+  "timestamp": "2026-10-04T10:39:16.859714553Z",
+  "model": "glm-5.3"
+}

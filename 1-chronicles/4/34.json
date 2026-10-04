@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Мешобав, Ямлех, Амациагийн хүү Йоша нар",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "Мешобав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "Ямлех"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "Йоша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Амациа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:15.297605713Z",
+  "model": "glm-5.3"
+}

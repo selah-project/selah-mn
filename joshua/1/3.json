@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Таны хөлийн ул гишгэсэн бүх газар Би танд түүнийг өгсөн, Би Мошед айлдсан шиг.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "газар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "гишгэсэн"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ул"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "таны хөлийн"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүн дээр"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "танд"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "Би түүнийг өгсөн"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ший"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Би айлдсан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошед"
+    }
+  ],
+  "timestamp": "2026-10-04T11:06:07.064548841Z",
+  "model": "glm-5.3"
+}

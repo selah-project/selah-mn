@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 118,
+  "translation": "Йисраел одоо хэлэг: учир нь Түүний хэсэд үүрд мөнхөд билээ.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "хэлэг"
+    },
+    {
+      "surface": "נא",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд мөнхөд"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Түүний хэсэд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:38.158318474Z",
+  "model": "glm-5.3"
+}

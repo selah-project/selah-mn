@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 15:25",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Учир тэр Элийн эсрэг гараа сунгаж, Шаддайн эсрэг бялхаж байна.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "сунгаж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "эсрэг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба … эсрэг"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "бялхаж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:19:33.240742712Z",
+  "model": "glm-5.3"
+}

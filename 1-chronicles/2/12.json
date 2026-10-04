@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Боаз ⟨את⟩ Оведыг төрүүлж, Овед ⟨את⟩ Ишайг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "Боаз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оведыг"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овед"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ишайг"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ишай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:50.186009085Z",
+  "model": "glm-5.3"
+}

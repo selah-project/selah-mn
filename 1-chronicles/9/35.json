@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Гиваонд мөн Гиваоны эцэг Йеуэл ба түүний эхнэрийн нэр Мааха суужээ.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "Гиваонд мөн"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "суужээ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гиваоны"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Йеуэл"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ба нэр"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "түүний эхнэрийн"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:25.635515561Z",
+  "model": "glm-5.3"
+}

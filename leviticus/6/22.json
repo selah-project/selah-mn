@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Тахилчдын эрэгтэй хүн бүр үүнийг идэж болно; энэ нь ариунаас ариун зүйл мөн.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүр"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эрэгтэй хүн"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "тахилчдын"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "идэж болно"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "үүнийг"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ариунаас ариун зүйл"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "мөн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:22:10.208538872Z",
+  "model": "glm-5.3"
+}

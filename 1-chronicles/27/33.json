@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Ахитофел хаанд зөвлөгч байв; Архич хүн Хушай бол хааны найз.",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "Ахитофел"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "зөвлөгч байв"
+    },
+    {
+      "surface": "лмлך",
+      "gloss": "хаанд"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "Хушай"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "Архич хүн"
+    },
+    {
+      "surface": "רע",
+      "gloss": "найз"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    }
+  ],
+  "timestamp": "2026-10-04T15:06:58.731025590Z",
+  "model": "glm-5.3"
+}

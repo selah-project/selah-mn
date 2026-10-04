@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 7:39",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Үхэр нэг, сүрэгний төл; хун цагаан хонь нэг; нэг настай хурга нэг — шатаах тахилд.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "Үхэр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "төл"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "сүрэгний"
+    },
+    {
+      "surface": "איל",
+      "gloss": "хун цагаан хонь"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "нэг жил"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "шатаах тахилд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:39.094815893Z",
+  "model": "glm-5.3"
+}

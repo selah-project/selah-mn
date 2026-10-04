@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 20:25",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Хүний урхи бол ариун хэмээн ам алдах, дараа нь амлалтуудаа шалгах явдал.",
+  "tokens": [
+    {
+      "surface": "מוקש",
+      "gloss": "урхи"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "ילע",
+      "gloss": "ам алдах"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "дараа нь"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "амлалтуудаа"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "шалгах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:55.147349185Z",
+  "model": "glm-5.3"
+}

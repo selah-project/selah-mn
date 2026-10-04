@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Түүнтэй яриа дуусмагц Элохим Аврахамаас дээш гарчээ.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "дуусмагц"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "яриа"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ түүнтэй"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "гарчээ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "-аас дээш"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    }
+  ],
+  "timestamp": "2026-10-04T09:51:07.721561123Z",
+  "model": "glm-5.3"
+}

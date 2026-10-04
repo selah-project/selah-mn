@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Кехатын хөвгүүд: Амрам, Йицхар, Хеврон, Уззиэл — дөрөв.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехат"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Йицхар"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "Уззиэл"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дөрөв"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:39.527018055Z",
+  "model": "glm-5.3"
+}

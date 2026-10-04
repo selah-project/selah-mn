@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Та нарын хамт аймаг бүрээс нэг хүн, эцгийнх нь гэрийн тэргүүн хүн байг.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ та нарын хамт"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "байг"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бүрээс"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "аймаг"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "тэргүүн"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "гэрийн"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "эцгийнх нь"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:56.613178150Z",
+  "model": "glm-5.3"
+}

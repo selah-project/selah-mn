@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Тэр уун, ядуурлаа мартаж, зовлонгоо дахин санахгүй.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "уун"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "мартаж"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "ядуурлаа"
+    },
+    {
+      "surface": "ויעמלו",
+      "gloss": "зовлонгоо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "санах"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:02.137160280Z",
+  "model": "glm-5.3"
+}

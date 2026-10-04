@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Харь хүнийг хайрла, учир нь та нар Мицраймийн нутагт харь хүмүүс байсан.",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "хайрла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "харь хүнийг"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "харь хүнийг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "харь хүмүүс"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "нутагт"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайм"
+    }
+  ],
+  "timestamp": "2026-10-04T10:53:59.710825236Z",
+  "model": "glm-5.3"
+}

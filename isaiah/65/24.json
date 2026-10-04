@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 65,
+  "translation": "Болно: тэд дуудахаасаа өмнө Би хариулна; тэд ярьж байхад Би сонсно.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Болно"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "тэд дуудахаасаа"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "хариулна"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "одоо ч"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "ярьж байхад"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "сонсно"
+    }
+  ],
+  "timestamp": "2026-10-04T15:44:15.891295548Z",
+  "model": "glm-5.3"
+}

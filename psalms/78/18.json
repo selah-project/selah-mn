@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 78:18",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 78,
+  "translation": "Тэд зүрхэндээ Элийг сорин, нэфешдээ зориулж хоол нэхэжээ.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "сорин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элийг"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "зүрхэндээ"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "нэхэж"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "хоол"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "нэфешдээ зориулж"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:04.402411185Z",
+  "model": "glm-5.3"
+}

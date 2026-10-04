@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Моше наян настай, Аарон гурван зуун наян ⟨is⟩ настай байхдаа тэд Фараонтой ярьж байв.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "наян"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "настай"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "наян"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "настай"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "ярьж байхдаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    }
+  ],
+  "timestamp": "2026-10-04T10:06:19.168063728Z",
+  "model": "glm-5.3"
+}

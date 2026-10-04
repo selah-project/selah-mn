@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 38:3",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Ингэж Яхвэ айлдав: Энэ хот Бабел хааны цэрэгийн гарт өгөгдөж өгөгдөнө, тэр үүнийг эзэлж авна.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "өгөгдөж"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "өгөгдөнө"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "энэ хот"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "гарт"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "цэрэг"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабел"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ба эзэлж авна"
+    }
+  ],
+  "timestamp": "2026-10-04T12:49:52.703803977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Залхуу гүн унтаа унагана, сул амь өлснө.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "Залхуу"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "унагана"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "гүн унтаа"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ба амь"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "сул"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "өлснө"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:55.483077104Z",
+  "model": "glm-5.3"
+}

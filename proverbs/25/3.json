@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Тэнгэр өндөр, газар гүн бөгөөд хаадын зүрхэнд хэмжих арга үгүй.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "Тэнгэр"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ба газар"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "гүн"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ба зүрх"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "хаадын"
+    },
+    {
+      "surface": "אין",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "хэмжих арга"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:46.984332437Z",
+  "model": "glm-5.3"
+}

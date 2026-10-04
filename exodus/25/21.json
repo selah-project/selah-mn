@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Чи ⟨את⟩ илчнээ тавь, ав дээр нь дээш нь, ав дотор чинь ⟨את⟩ гэрчлэлийг хий, надад чамд өгөхийг.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "чи тавь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "илчнээ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "илчнээ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ав"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "дээш нь"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "дотор"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ав"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "чи хий"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гэрчлэл"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "гэрчлэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "надад өгөх"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "өгөх"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:15:02.452531112Z",
+  "model": "glm-5.3"
+}

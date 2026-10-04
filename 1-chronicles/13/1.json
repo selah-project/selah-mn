@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Давид мянганы ноёд, зууны ноёдтой ба бүх удирдагч нартай зөвлөлжээ.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "зөвлөлжээ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "мянганы"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "ба зууны"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "удирдагч"
+    }
+  ],
+  "timestamp": "2026-10-04T15:03:37.777129064Z",
+  "model": "glm-5.3"
+}

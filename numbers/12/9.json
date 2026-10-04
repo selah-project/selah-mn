@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Яхвэгийн уур тэдэн дээр асаж, Тэр явагдав.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "асаж"
+    },
+    {
+      "surface": "אף",
+      "gloss": "уур"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "בם",
+      "gloss": "тэдэн дээр"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "явагдав"
+    }
+  ],
+  "timestamp": "2026-10-04T10:39:20.044456341Z",
+  "model": "glm-5.3"
+}

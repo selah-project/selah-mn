@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Юу байсан нь тэр нь юу болох бол; юу хийгдсэн нь тэр нь юу хийгдэх бол; нарны доор ямар ч шинэ юм байхгүй.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр нь"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "юу болох бол"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ба юу"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "хийгдсэн"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр нь"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "юу хийгдэх бол"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ба байхгүй"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "шинэ юм"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "доор"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нарны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:02.431998269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Цэвэр зүрхэнд хайртай хүн — түүний уруулын хилэнцээр вангийн найз байна.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "хайртай"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "цэвэр"
+    },
+    {
+      "surface": "лב",
+      "gloss": "зүрхэнд"
+    },
+    {
+      "surface": "חן",
+      "gloss": "хилэнц"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "туруулын"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "найз"
+    },
+    {
+      "surface": "мלך",
+      "gloss": "ван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:17.811158982Z",
+  "model": "glm-5.3"
+}

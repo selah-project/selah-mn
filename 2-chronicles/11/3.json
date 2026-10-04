@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Хэл: Рехавамд, Шеломогийн хүү, Йехудагийн хаанд, ба Йехуда ба Биньяминд байгаа бүх Йисраелд, гэж:",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Хэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба -д"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Йехудад"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ба Биньяминд"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    }
+  ],
+  "timestamp": "2026-10-04T16:00:45.383210898Z",
+  "model": "glm-5.3"
+}

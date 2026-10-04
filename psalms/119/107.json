@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 107,
+  "ref": "psalms 119:107",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Би маш их зовсон; Яхвэ, Таны үгээр намайг амьдуул.",
+  "tokens": [
+    {
+      "surface": "נעניתי",
+      "gloss": "зовсон"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш их"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "намайг амьдуул"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "Таны үгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T15:54:30.306687531Z",
+  "model": "glm-5.3"
+}

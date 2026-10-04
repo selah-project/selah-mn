@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хүн: Миний хажууд өгсөн тэр эмэгтэй модны жимснээс надад өгсөн тул би идлээ гэв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "эмэгтэй"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "чи өгсөн"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "миний хажууд"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тер"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "өгсөн"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-наас"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "мод"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "би идлээ"
+    }
+  ],
+  "timestamp": "2026-10-04T09:45:45.291717454Z",
+  "model": "glm-5.3"
+}

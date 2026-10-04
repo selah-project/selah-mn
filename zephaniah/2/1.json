@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Цугларцгаа, тэгээд цугларцгаа, шундаагүй үндэстэн ээ!",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "цугларцгаа"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "тэгээд цугларцгаа"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "үндэстэн ээ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "шундаагүй"
+    }
+  ],
+  "timestamp": "2026-10-04T15:51:53.314259020Z",
+  "model": "glm-5.3"
+}

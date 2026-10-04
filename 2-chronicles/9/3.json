@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Шевагийн хатан Шеломогийн мэргэн ухаан ба түүний барьсан ордныг харлаа.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "харлаа"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "хатан"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шевагийн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мэргэн ухааныг"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "мэргэн ухааныг"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломогийн"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ба ордныг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "барьсан"
+    }
+  ],
+  "timestamp": "2026-10-04T15:12:18.873076830Z",
+  "model": "glm-5.3"
+}

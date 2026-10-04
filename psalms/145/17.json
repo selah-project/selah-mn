@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 145,
+  "translation": "Яхвэ бүх замдаа зөв, бүх үйлсдээ хэсэдтэн.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "зөв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "замдаа"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "ба хэсэдтэн"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "үйлсдээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:10.469437369Z",
+  "model": "glm-5.3"
+}

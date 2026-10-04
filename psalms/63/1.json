@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 63,
+  "translation": "Давидын дуу, түүнийг Йехудагийн цөлд байх үед.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "түүнийг ... байх үед"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    }
+  ],
+  "timestamp": "2026-10-04T13:46:09.564304603Z",
+  "model": "glm-5.3"
+}

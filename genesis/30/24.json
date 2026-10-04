@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Түүний нэрийг Йосеф гэж нэрлээд: Яхвэ надад өөр нэг хүү нэмж өгөх болно гэв.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "нэрлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түүний нэрийг"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "түүний нэр"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "нэмж өгнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "өөр нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:37.410051040Z",
+  "model": "glm-5.3"
+}

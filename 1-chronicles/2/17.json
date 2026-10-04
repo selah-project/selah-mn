@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Авигайл ⟨את⟩ Амасаг төрүүлжээ; Амасагийн эцэг нь Ишмаэл хүн Йетер байв.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Авигайл"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрүүлжээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амасаг"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Амасаг"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Амасагийн"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "Ишмаэл хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:11.385758089Z",
+  "model": "glm-5.3"
+}

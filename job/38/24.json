@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 38:24",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Гэрэл ямар замд хуваагддаг вэ, зүүн салхи газар дээр тархдаг вэ?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "замд"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "хуваагддаг"
+    },
+    {
+      "surface": "אור",
+      "gloss": "гэрэл"
+    },
+    {
+      "surface": "יפץ",
+      "gloss": "тархдаг"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "зүүн салхи"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:25:21.073665428Z",
+  "model": "glm-5.3"
+}

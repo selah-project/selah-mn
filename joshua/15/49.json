@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "ба Данна, ба Кирьят-Санна — энэ нь Дебир мөн",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ба Данна"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "ба Кирьят"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "-Санна"
+    },
+    {
+      "surface": "היא",
+      "gloss": "энэ нь"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Дебир"
+    }
+  ],
+  "timestamp": "2026-10-04T11:09:45.187046087Z",
+  "model": "glm-5.3"
+}

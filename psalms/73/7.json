@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 73,
+  "translation": "Тэдний нүд өөхнөөс гарч, зүрхний төсөөллөөс хилийг давжээ.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "өөхнөөс"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "тэдний нүд"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "давжээ"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "төсөөллөөс"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "зүрхний"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:08.712087527Z",
+  "model": "glm-5.3"
+}

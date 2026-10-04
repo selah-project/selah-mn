@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Түүнд юу хийхээ заагаагүй учир түүнийг ⟨את⟩ хорионд тавив.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "тавив"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "түүнийг"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "хорионд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "заагаагүй"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "хийх"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:40:58.019679640Z",
+  "model": "glm-5.3"
+}

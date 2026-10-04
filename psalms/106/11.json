@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 106,
+  "translation": "Ус тэдний дайснуудыг бүрхэж, тэднээс нэг ч үлдсэнгүй.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "бүрхэж"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "тэдний дайснуудыг"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг ч"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "тэднээс"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "үлдсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:53:18.932330389Z",
+  "model": "glm-5.3"
+}

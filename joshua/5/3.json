@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Иошуа өөртөө чулуун хутга хийж, Арлын Толгод дээр Израилийн хөвгүүдийг ⟨את⟩ мөв.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "хийж"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иошуа"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "хутга"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "чулуун"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "мөв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израилийн хөвгүүдийг"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийг"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": " Tolgod "
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "Арлын"
+    }
+  ],
+  "timestamp": "2026-10-04T11:06:28.779610915Z",
+  "model": "glm-5.3"
+}

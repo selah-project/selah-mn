@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Заттугийн хөвгүүд, есөн зуун дөчин тав.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Заттугийн"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "есөн"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "дөчин"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "тав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:44:56.329920520Z",
+  "model": "glm-5.3"
+}

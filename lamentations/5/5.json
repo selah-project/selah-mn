@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Хүзүү бидний дээр бид хөөгдөж, бид залхажээ, бидэнд амар амгалан үгүй.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "хүзүү бидний"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "бид хөөгдөв"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "бид залхажээ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "амар амгалан"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бидэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:47.734145234Z",
+  "model": "glm-5.3"
+}

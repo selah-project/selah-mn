@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 72,
+  "translation": "Тэд Чамайг ⟨нарны⟩ хамт ба сарны өмнө эмээх болно, үе үеийн дагуу.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Чамайг эмээх болно"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "нар"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ба ... өмнө"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "сар"
+    },
+    {
+      "surface": "דור",
+      "gloss": "үе"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "үе"
+    }
+  ],
+  "timestamp": "2026-10-04T13:47:35.000076441Z",
+  "model": "glm-5.3"
+}

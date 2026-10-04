@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 18:6",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Аврахам майхан руу Сарат яаран орон хэлэв: Хурдан гурван сеа гурил зуурч, талх бэлтгэ.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "яаран гүйв"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "майхан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "хурдан"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "סאים",
+      "gloss": "сеа"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "гурил"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "сайн гурил"
+    },
+    {
+      "surface": "לושי",
+      "gloss": "зуур"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "хий"
+    },
+    {
+      "surface": "עגות",
+      "gloss": "талх"
+    }
+  ],
+  "timestamp": "2026-10-04T09:50:56.547670065Z",
+  "model": "glm-5.3"
+}

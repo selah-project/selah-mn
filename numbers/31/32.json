@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 31:32",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Цэрэг ардын олзложсон олзын үлдэл нь зургаан зуун долоон тавин таван мянган хонь байв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ба байв"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "олзложсон"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "үлдэл"
+    },
+    {
+      "surface": "הבז",
+      "gloss": "олзын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "олзложсон"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ард"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "цэрэг"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "хонь"
+    },
+    {
+      "surface": "שש",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "долоон тавин"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "таван"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мянга"
+    }
+  ],
+  "timestamp": "2026-10-04T10:48:24.570114711Z",
+  "model": "glm-5.3"
+}

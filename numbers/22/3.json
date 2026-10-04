@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 22:3",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Моаб ард түмнээс их айв, учир нь тэд олон байлаа; Моаб Йисраелийн хөвгүүдээс залхав.",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "айв"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмнээс"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "их"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "רב",
+      "gloss": "оллон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "байлаа"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "залхав"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдээс"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:43:29.968885593Z",
+  "model": "glm-5.3"
+}

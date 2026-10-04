@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 4:24",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Энэ бол Гершоны овогуудын алба: үйлчлэх, ачаа зүүхийн тулд.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "алба"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "овогуудын"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Гершоны"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "үйлчлэхийн"
+    },
+    {
+      "surface": "ולמשא",
+      "gloss": "ачаа зүүхийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:16.599562080Z",
+  "model": "glm-5.3"
+}

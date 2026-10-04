@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 26:39",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Шэфуфамынх — Шуфами овог; Хуфамынх — Хуфами овог.",
+  "tokens": [
+    {
+      "surface": "לשפופם",
+      "gloss": "Шэфуфамынх"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "овог"
+    },
+    {
+      "surface": "השופמי",
+      "gloss": "Шуфами"
+    },
+    {
+      "surface": "לחופם",
+      "gloss": "Хуфамынх"
+    },
+    {
+      "surface": "мשפחת",
+      "gloss": "овог"
+    },
+    {
+      "surface": "החופמי",
+      "gloss": "Хуфами"
+    }
+  ],
+  "timestamp": "2026-10-04T10:45:46.485674991Z",
+  "model": "glm-5.3"
+}

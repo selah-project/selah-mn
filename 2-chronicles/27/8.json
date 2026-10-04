@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 27:8",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Тэр хаанчлахдаа хорин таван настай байв, Ерушалаймд арван зургаан жил хаанчлав.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ба таван"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "нас"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байв"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "хаанчлахдаа"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ба зургаа"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арван"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаанчлав"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Ерушалаймд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:17:14.076135213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Учир нь чи ⟨את⟩ газрыг зөвхөн алсад харна, гэвч Би Йисраелын хөвгүүдэд өгч буй тэр газарт орохгүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "мנגד",
+      "gloss": "зөвхөн алсад"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "чи харна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "газрыг"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрыг"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "гэвч тэнд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "чамайг орох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "бол"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгч буй"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдэд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:38.950645415Z",
+  "model": "glm-5.3"
+}

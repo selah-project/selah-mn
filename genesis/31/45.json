@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Яаков чулуу авч, түүнийг босгоод дургалал болов.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "авч"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "чулуу"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "түүнийг босгоод"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "дургалал"
+    }
+  ],
+  "timestamp": "2026-10-04T15:26:46.763029330Z",
+  "model": "glm-5.3"
+}

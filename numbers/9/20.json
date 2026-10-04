@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 9:20",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Мөн үүл Мишкан дээр цөөн өдөр байх үе байдаг; Яхвэгийн амаар буудаллаж, Яхвэгийн амаар хөдөлнө.",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "ба байдаг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…ны үе"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "үүл"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "цөөн тооны"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкан"
+    },
+    {
+      "surface": "על",
+      "gloss": "…аар"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "буудаллана"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ба …аар"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "хөдөлнө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:50.464087688Z",
+  "model": "glm-5.3"
+}

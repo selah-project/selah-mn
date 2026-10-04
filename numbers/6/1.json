@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэ Мошед айлдаж байна:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:36:54.024267344Z",
+  "model": "glm-5.3"
+}

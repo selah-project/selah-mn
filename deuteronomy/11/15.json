@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Би өөрийн малд чинь өвс ургуулж өгөх болно, чи идэж, цадна.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "Би өгөх болно"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "өвс"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "талд чинь"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "мald чинь"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "чи идэж"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "цадна"
+    }
+  ],
+  "timestamp": "2026-10-04T10:54:20.831966119Z",
+  "model": "glm-5.3"
+}

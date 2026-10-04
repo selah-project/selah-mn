@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Моше бүх Йисраэлийн нүдэн өмнө үйлдсэн бүх хүчтэй гар болон бүх агуу аймшгийн тухай.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "болон бүх"
+    },
+    {
+      "surface": "היד",
+      "gloss": "гар"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "хүчтэй"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "болон бүх"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "аймшгийн"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "үйлдсэн"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "нүдэн өмнө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлийн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:05:08.374263661Z",
+  "model": "glm-5.3"
+}

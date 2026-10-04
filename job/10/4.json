@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Махан нүд чамд байдаг юм уу? Хүн харах мэт чи хардаг уу?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "нүд ... юу"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "махан"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "אם",
+      "gloss": "уу"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "харах мэт"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "хардаг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:18:12.238645757Z",
+  "model": "glm-5.3"
+}

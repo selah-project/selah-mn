@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Тэр керуб дээр унаж нисэв; руахын далавчин дээр харагдав.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "унаж"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "керуб"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "нисэв"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "харагдав"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "далавчин"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-10-04T11:42:41.770580188Z",
+  "model": "glm-5.3"
+}

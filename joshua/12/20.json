@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Шимрон-Мероны хаан, нэг; Ахшафын хаан, нэг.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шимрон-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Мероны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Ахшафын"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T11:08:23.904462074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Яв, тэдэнд хэл: Та нар өөрсдийн майхандаа буцагтун.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Яв"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "буцагтун"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нар"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "өөрсдийн майхандаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:52:23.119415134Z",
+  "model": "glm-5.3"
+}

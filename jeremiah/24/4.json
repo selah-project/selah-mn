@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Яхвэгийн үг над руу ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": " болж"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "над руу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахаар"
+    }
+  ],
+  "timestamp": "2026-10-04T12:42:53.680396807Z",
+  "model": "glm-5.3"
+}

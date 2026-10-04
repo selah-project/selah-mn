@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Хүнд юу ашиг байна, нарны доор хөдөлмөрлөдөг бүх хөдөлмөрөөсөө?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ашиг"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "хөдөлмөрөөсөө"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "хөдөлмөрлөдөг"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "доор"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нарны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:21.032110614Z",
+  "model": "glm-5.3"
+}

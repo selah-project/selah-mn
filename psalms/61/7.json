@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 61,
+  "translation": "Хааны өдрүүдэд өдрүүдийг нэм, түүний жилүүдийг үе ба үе шиг болго.",
+  "tokens": [],
+  "timestamp": "2026-10-04T13:45:47.993401915Z",
+  "model": "glm-5.3"
+}

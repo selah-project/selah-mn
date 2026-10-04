@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "«Хурц ууртай хүн тэнэглэл хийнэ, ба хорон санаат хүнийг үзэн ядна.",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "хурц"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "уур"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "хийнэ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "тэнэглэл"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ба хүн"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "хорон санаат"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "үзэн ядна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:50.968482928Z",
+  "model": "glm-5.3"
+}

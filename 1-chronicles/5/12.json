@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Иоэл ⟨мөн⟩ тэргүүн, Шафам ⟨мөн⟩ хоёр дахь нь, мөн Йаанай ба Шафат Башанд.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Иоэл"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "тэргүүн"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "Шафам"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "хоёр дахь нь"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "Йаанай"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "Шафат"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "Башанд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:59:25.381812429Z",
+  "model": "glm-5.3"
+}

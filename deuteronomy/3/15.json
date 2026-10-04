@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Махирт ⟨את⟩ Гилеадыг өгсөн.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "Махирт"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "өгсөн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гилеадыг"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилеадыг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:15.751505940Z",
+  "model": "glm-5.3"
+}

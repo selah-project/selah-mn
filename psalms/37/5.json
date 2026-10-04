@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Замдаа Яхвэд даатга, Түүнд итгэ, Тэр бүтээнэ.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "даатга"
+    },
+    {
+      "surface": "על",
+      "gloss": "д"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "замдаа"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "итгэ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "Түүнд"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "бүтээнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:40:45.073907443Z",
+  "model": "glm-5.3"
+}

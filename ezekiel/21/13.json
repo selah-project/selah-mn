@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 21:13",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Яхвэгийн үг надад ирж, айлдсан нь",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ирсэн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдаж"
+    }
+  ],
+  "timestamp": "2026-10-04T13:04:28.949037110Z",
+  "model": "glm-5.3"
+}

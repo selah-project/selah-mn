@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "ба Заноах, Эн-Ганним, Таппуах, Энам,",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "ба Заноах"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "Эн"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "-Ганним"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Таппуах"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "ба Энам"
+    }
+  ],
+  "timestamp": "2026-10-04T15:33:53.279954993Z",
+  "model": "glm-5.3"
+}

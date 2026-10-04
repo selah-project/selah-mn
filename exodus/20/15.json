@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Хулгай бүү хий.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תгנב",
+      "gloss": "хулгай хий"
+    }
+  ],
+  "timestamp": "2026-10-04T10:11:04.562847276Z",
+  "model": "glm-5.3"
+}

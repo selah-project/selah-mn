@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 1:33",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Мидьяны хөвгүүд: Эйфа, Эфер, Ханох, Абида, Элдаа. Эдгээр бүгд Ктураын хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидьяны"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "Эйфа"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ба Эфер"
+    },
+    {
+      "surface": "וחנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "Абида"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "Элдаа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ктураын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:49.176385146Z",
+  "model": "glm-5.3"
+}

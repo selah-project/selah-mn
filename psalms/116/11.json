@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 116,
+  "translation": "Би айсандаа хэлсэн: хүн бүр худалч.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "хэлсэн"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "айсандаа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "худалч"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:25.238806242Z",
+  "model": "glm-5.3"
+}

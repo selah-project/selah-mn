@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Тэр шөнөдөө Белшатцар, Кашдайн хаан алагдав.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "шөнөдөө"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "алагдав"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Белшатцар"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "Кашдайн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:39:54.040445604Z",
+  "model": "glm-5.3"
+}

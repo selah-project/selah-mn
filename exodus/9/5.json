@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Яхвэ цаг тогтоож, айлдахдаа: Маргааш Яхвэ энэ үгийг эх газарт хийнэ гэв.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "тогтоов"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "маргааш"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "хийнэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "энэ үгийг"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "эх газарт"
+    }
+  ],
+  "timestamp": "2026-10-04T10:08:01.272544217Z",
+  "model": "glm-5.3"
+}

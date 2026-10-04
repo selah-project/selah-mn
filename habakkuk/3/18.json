@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "habakkuk 3:18",
+  "book": "habakkuk",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "харин би Яхвэд баясаж, миний авралын Элохимд хөөрнө.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "харин би"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "אעלוזה",
+      "gloss": "баясна"
+    },
+    {
+      "surface": "אגילה",
+      "gloss": "хөөрнө"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "Элохимд"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "миний авралын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:28:10.102525890Z",
+  "model": "glm-5.3"
+}

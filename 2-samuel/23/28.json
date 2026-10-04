@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Цалмон ахохит, Маарай нетофатит,",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "Цалмон"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "ахохит"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "Маарай"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "нетофатит"
+    }
+  ],
+  "timestamp": "2026-10-04T11:45:07.217528821Z",
+  "model": "glm-5.3"
+}

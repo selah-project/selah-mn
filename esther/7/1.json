@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Хаан болон Хаман Эстер хатан тайвай уухын тулд орж ирэв.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "орж ирэв"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "болон Хаман"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "уухын тулд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "тайвай"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "хатан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:38:02.427274160Z",
+  "model": "glm-5.3"
+}

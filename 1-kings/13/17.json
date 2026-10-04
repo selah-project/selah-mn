@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 13:17",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Учир нь Яхвэгийн үгээр надад үг ирсэн: чи тэнд талх идэж, ус уухгүй, мөн чи явсан замаараа буцан явахгүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "үгээр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "мөн үгүй"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "уух"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "буцаж"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "явах"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "замдаа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "явсан"
+    },
+    {
+      "surface": "בה",
+      "gloss": "түүгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:53:01.564213080Z",
+  "model": "glm-5.3"
+}

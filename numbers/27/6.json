@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Яхвэ Мошед хэлж байна: гэж айлдаж.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж айлдаж"
+    }
+  ],
+  "timestamp": "2026-10-04T15:31:33.104345442Z",
+  "model": "glm-5.3"
+}

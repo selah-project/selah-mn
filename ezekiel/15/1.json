@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 15:1",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Яхвэгийн үг надад ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болж"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T13:01:01.582130781Z",
+  "model": "glm-5.3"
+}

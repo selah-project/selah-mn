@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Яаков ⟨את⟩ арам Лаваны зүрхийг хулгайлав — түүнд өөрөө дүрвэн зугтаж буйгаа огт мэдэгдээгүй.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "хулгайлав"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зүрх"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "арам"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "огт"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "мэдэгдээгүй"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "дүрвэн зугтаж"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өөрөө"
+    }
+  ],
+  "timestamp": "2026-10-04T09:56:40.080026844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Муу хүмүүсийг атаархаж бүү, ⟨את⟩ тэдний дунд байхыг бүү хүс.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "атаархаж"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "хүмүүсийг"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "хүс"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "байхыг"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ тэдний дунд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:08.845304553Z",
+  "model": "glm-5.3"
+}

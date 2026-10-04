@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Ачаагаа газраас цуглуул, бэхлэлт дотор оршигч минь.",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "цууглуул"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "газраас"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "ачаагаа"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "оршигч минь"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "бэхлэлт дотор"
+    }
+  ],
+  "timestamp": "2026-10-04T12:35:57.571295385Z",
+  "model": "glm-5.3"
+}

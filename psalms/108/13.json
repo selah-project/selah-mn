@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 108,
+  "translation": "Бидэнд зовлонгоос тусламж өг; харин хүний аврал хоосон юм.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "өг"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "тусламж"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "зовлонгоос"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "харин хоосон"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "аврал"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    }
+  ],
+  "timestamp": "2026-10-04T13:56:26.704885920Z",
+  "model": "glm-5.3"
+}

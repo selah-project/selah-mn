@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Яхвэ Мошед айлдаж,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдаж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:16:46.200539020Z",
+  "model": "glm-5.3"
+}

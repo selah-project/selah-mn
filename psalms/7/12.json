@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Элохим бол шударга шүүгч, Эл бол өдөр бүр уурладаг.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "шүүгч"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "шударга"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба Эл"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "уурладаг"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:33:35.900049360Z",
+  "model": "glm-5.3"
+}

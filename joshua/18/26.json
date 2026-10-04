@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Мицпе ба Кефира ба Моца",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "Мицпе"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "ба Кефира"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "ба Моца"
+    }
+  ],
+  "timestamp": "2026-10-04T11:10:21.124370849Z",
+  "model": "glm-5.3"
+}

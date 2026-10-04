@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Тэр Надад байшин босгож, Би ⟨את⟩ түүний сэнтийг мөнхөд бэхжүүлнэ.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "босгож"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Надад"
+    },
+    {
+      "surface": "בית",
+      "gloss": "байшин"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "ба Би бэхжүүлнэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түүний сэнтийг"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "түүний сэнтийг"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мөнхөд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:04:22.567214783Z",
+  "model": "glm-5.3"
+}

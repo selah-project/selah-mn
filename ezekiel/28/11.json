@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Яхвэгийн үг надад ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахаар"
+    }
+  ],
+  "timestamp": "2026-10-04T13:07:44.730924481Z",
+  "model": "glm-5.3"
+}

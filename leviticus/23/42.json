@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Асууд бол долоон хоног сууна; Йисраэлд төрсөн бүх хүн асууд сууна.",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "асууд"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "сууна"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "хоног"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "төрсөн хүн"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраэлд"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "сууна"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "асууд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:31:23.715275212Z",
+  "model": "glm-5.3"
+}

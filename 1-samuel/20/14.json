@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 20:14",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Хэрэв би одоо амьд байхдаа биш — Яхвэгийн хэсэдийг надад үзүүлж, би үхэхгүй байг.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "чи хийх"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хэсэд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "би үхэх"
+    }
+  ],
+  "timestamp": "2026-10-04T11:30:54.297984611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 92,
+  "translation": "Харин та, Яхвэ, үүрд дээд оронд байна.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Харин та"
+    },
+    {
+      "surface": "мрום",
+      "gloss": "дээд оронд"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:52:24.758600207Z",
+  "model": "glm-5.3"
+}

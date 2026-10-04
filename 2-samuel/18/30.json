@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Хаан түүнд хэлэв: Тийшээ гар, энд зогс. Тэр гарч, зогсов.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "סב",
+      "gloss": "тийшээ гар"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "зогс"
+    },
+    {
+      "surface": "כה",
+      "gloss": "энд"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "зогсов"
+    }
+  ],
+  "timestamp": "2026-10-04T11:42:52.795804715Z",
+  "model": "glm-5.3"
+}

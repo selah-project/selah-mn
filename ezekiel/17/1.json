@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 17:1",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Яхвэгийн үг надад ирж, айлдахдаа",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T13:02:44.582904362Z",
+  "model": "glm-5.3"
+}

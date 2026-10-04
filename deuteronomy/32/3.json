@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Учир нь Яхвэгийн Нэрийг дуудъя; бидний Элохимд агууг өргөгтүн.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Нэрийг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "дуудъя"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "өргөгтүн"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "агууг"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "бидний Элохимд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:49.778011413Z",
+  "model": "glm-5.3"
+}

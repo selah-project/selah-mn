@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Тахлаар нас барсан хүмүүс хорин дөрвөн мянга болжээ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болов"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "нас барсан хүмүүс"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "тахлаар"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ба хорин"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    }
+  ],
+  "timestamp": "2026-10-04T10:44:46.248138416Z",
+  "model": "glm-5.3"
+}

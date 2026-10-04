@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Хоёуланаас нь дээгүүр нь одоо хүртэл байгаагүй нь — нарны дор хийгдсэн муу үйлийг үзээгүй нь — сайн.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "хоёуланаас нь дээгүүр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "одоо хүртэл байгаагүй нь"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "- нь"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "одоо хүртэл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байгаагүй"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "- нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "үзээгүй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "муу үйлийг"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "үйлийг"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "- нь"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "хийгдсэн"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нарны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:05.449505807Z",
+  "model": "glm-5.3"
+}

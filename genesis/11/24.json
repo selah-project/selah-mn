@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Нахор есөн болон хорин жил амьдран, ⟨את⟩ Терахыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "амьдран"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "есөн"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "болон хорин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Терахыг"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:49.623430636Z",
+  "model": "glm-5.3"
+}

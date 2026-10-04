@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Тахинчдаас: Йедая Йояривын хүү, Йахин.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "тахинчид"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "Йоярив"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Йахин"
+    }
+  ],
+  "timestamp": "2026-10-04T14:54:10.934998405Z",
+  "model": "glm-5.3"
+}

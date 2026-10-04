@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Үйлийн төгсгөл нь эхнээс нь дээр; урт руах нь өндөр руахаас дээр.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "төгсгөл"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үйлийн"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "эхнээс нь"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "урт"
+    },
+    {
+      "surface": "руах",
+      "gloss": "руах"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "руах",
+      "gloss": "руахаас"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:13.094622175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Уззиэлийн хөвгүүд: Миха ⟨бол⟩ тэргүүн, Йишшъя хоёрдох.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Уззиэл"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миха"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "тэргүүн"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "Йишшъя"
+    },
+    {
+      "surface": "השני",
+      "gloss": "хоёрдох"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:59.952718114Z",
+  "model": "glm-5.3"
+}

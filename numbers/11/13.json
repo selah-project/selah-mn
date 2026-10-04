@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 11:13",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Наданаас би энэ бүх ард түмэнд өгөх махтай юу? Тэд над дээр уйлж, «Мах өгөөч, идье» гэж хэлэх учир.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "наданаас"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "өгөх"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "энэ бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэнд"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "уйлж"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над дээр"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж хэлэх"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "өгөөч"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "идье"
+    }
+  ],
+  "timestamp": "2026-10-04T10:40:09.806603066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Хэрэв могой хуруулгагүйгээр хатгавал, хэлний эзэнд давуу байхгүй.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "хатгавал"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "могой"
+    },
+    {
+      "surface": "бלוא",
+      "gloss": "гүй"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "хуруулга"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ба байхгүй"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "давуу"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "эзэнд"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "хэлний"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:58.736961612Z",
+  "model": "glm-5.3"
+}

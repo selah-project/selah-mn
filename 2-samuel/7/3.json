@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Натан хаанд хэлэв: Зүрхэнд чинь буй бүхнийг очиж хий; учир нь Яхвэ чамтай байна.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаанд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхнийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(-ыг)"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "зүрхэнд чинь буй"
+    },
+    {
+      "surface": "לך",
+      "gloss": "оч"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хий"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "чамтай байна"
+    }
+  ],
+  "timestamp": "2026-10-04T11:37:24.208767717Z",
+  "model": "glm-5.3"
+}

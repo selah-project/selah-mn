@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Энэ бол Элохимын хүн Моше өөрийн үхлийн өмнө ⟨את⟩ Йисраэлийн хөвгүүдэд өгсөн ерөөл.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "энэ бол"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "ерөөл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨юумь⟩"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "өгсөн"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраэлийн хөвгүүд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлийн"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "өөрийн үхлийн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:43.076743284Z",
+  "model": "glm-5.3"
+}

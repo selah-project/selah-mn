@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Дуу чимээтэн тэр болон залжирсан; өөрийн гэрт хөл нь амардаггүй",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "Дуу чимээтэн"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "залжирсан"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "өөрийн гэрт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "амардаггүй"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "хөл нь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:29.255068299Z",
+  "model": "glm-5.3"
+}

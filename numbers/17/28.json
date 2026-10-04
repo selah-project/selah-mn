@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 17:28",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Яхвэгийн Мишканд ойртон очих хүн бүхэн үхнэ — бид бүрэн мөхөх үү?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ойртон очих"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "ойртон очих"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "Мишкан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "үхнэ"
+    },
+    {
+      "surface": "האם",
+      "gloss": "уу"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "бид бүрэн мөхөх"
+    },
+    {
+      "surface": "לגוע",
+      "gloss": "амьсгал тасрах"
+    }
+  ],
+  "timestamp": "2026-10-04T10:41:50.156057569Z",
+  "model": "glm-5.3"
+}

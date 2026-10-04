@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 24:27",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Гадна ажлаа бэлэн болго, талд ⟨ашигаа⟩ бэлдэж ав; дараа нь гэрээ босгоно.",
+  "tokens": [
+    {
+      "surface": "הכן",
+      "gloss": "бэлэн болго"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "гадна"
+    },
+    {
+      "surface": "мלאכתך",
+      "gloss": "ажлаа"
+    },
+    {
+      "surface": "ועתדה",
+      "gloss": "бэлдэж ав"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "талд"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "дараа нь"
+    },
+    {
+      "surface": "ובנית",
+      "gloss": "босгоно"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "гэрээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:09.896403099Z",
+  "model": "glm-5.3"
+}

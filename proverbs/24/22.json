@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Учир нь тэдний гай гэнэт босох бөгөөд хоёуланг нь сүйрлийг хэн мэдэх вэ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "гэнэт"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "босох"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "тэдний гай"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "болон сүйрэл"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "хоёуланг нь"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "мэдэх вэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:45.033024151Z",
+  "model": "glm-5.3"
+}

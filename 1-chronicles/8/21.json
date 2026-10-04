@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Адайя, Берая, Шимрат — Шимейгийн хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "Адайя"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "Берая"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "Шимрат"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимейгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:41.190474611Z",
+  "model": "glm-5.3"
+}

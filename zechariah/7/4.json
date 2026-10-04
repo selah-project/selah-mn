@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Яхвэ Цебаотын үг над руу ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "над руу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T13:31:18.904419998Z",
+  "model": "glm-5.3"
+}

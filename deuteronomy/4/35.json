@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Чамд үзүүлсэн нь — Яхвэ ⟨бол⟩ Элохим мөн, Түүнээс өөр юу ч үгүй гэдгийг мэдэхийн тулд.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "үзүүлсэн"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "мэдэхийн тулд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "гэдгийг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אין",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "юу ч"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "Түүнээс өөр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:52:55.358853153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 33:21",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Хорин хоёр настай Амон хаанчилж эхэлсэн бөгөөд Ерушалаймд хоёр жил хаанчлав.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "нас"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амон"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "хаанчилж эхэлсэн"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жил"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаанчлав"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Ерушалаймд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:19:10.752169583Z",
+  "model": "glm-5.3"
+}

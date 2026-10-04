@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Цедекийн замд амь бий, түүний мөрөнд үхэл байхгүй.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "замд"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедекийн"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амь"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ба зам"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "мөр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:28.741555800Z",
+  "model": "glm-5.3"
+}

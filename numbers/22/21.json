@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Билеам өглөө босож, ⟨את⟩ илжгээ хөллөж, Моабын ноёдтой хамт явав.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "босож"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билеам"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "өглөө"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "хөллөж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "илжгээ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "илжгээ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "явав"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ноёдтой"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:42:39.800852399Z",
+  "model": "glm-5.3"
+}

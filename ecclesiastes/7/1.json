@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Нэр сайн тосноос дээр, үхлийн өдөр төрсөн өдрөөс дээр.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "тосноос"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ба өдөр"
+    },
+    {
+      "surface": "המות",
+      "gloss": "үхлийн"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "өдрөөс"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "төрсөн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:52.626123864Z",
+  "model": "glm-5.3"
+}

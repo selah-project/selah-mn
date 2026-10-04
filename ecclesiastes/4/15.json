@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Би наран дор алхдаг бүх амьд юмсыг, түүний оронд зогсох хоёр дахь хүүхдийг хамт ⟨את⟩ харлаа.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Би … харлаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх амьд юмсыг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "амьд юмс"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "алхдаг"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "наран"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "хүүхдийг"
+    },
+    {
+      "surface": "השני",
+      "gloss": "хоёр дахь"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "зогсох"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "түүний оронд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:35.985330504Z",
+  "model": "glm-5.3"
+}

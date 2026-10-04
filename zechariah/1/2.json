@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Яхвэ таны өвөг дээдэсд ихэд уурлав — уурлажээ",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "ихэд уурлав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "таны өвөг дээдэсд"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "уурлажээ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:29:43.717752287Z",
+  "model": "glm-5.3"
+}

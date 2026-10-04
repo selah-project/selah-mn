@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 106,
+  "translation": "Хамын нутагт гайхамшигт үйлс, Суфын тэнгист аймшигт үйлс.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "гайхамшигт үйлс"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "нутагт"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хамын"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "аймшигт үйлс"
+    },
+    {
+      "surface": "על",
+      "gloss": "- д"
+    },
+    {
+      "surface": "ים",
+      "gloss": "тэнгист"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суфын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:55:09.276958927Z",
+  "model": "glm-5.3"
+}

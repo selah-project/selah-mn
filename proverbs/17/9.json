@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Зөрчлийг нуудаг хүн хайрыг эрнэ; харин үгийг давтагч ⟨нөхрийг⟩ салгана.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "нуудаг"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "зөрчил"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "эрнэ"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "хайр"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "харин давтагч"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "салгана"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "⟨нөхрийг⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:26.262006644Z",
+  "model": "glm-5.3"
+}

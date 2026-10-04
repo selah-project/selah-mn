@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Учир нь Та ядуу ард түмнийг авардаг, бардам нүдийг дордуулна.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Та"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ард түмнийг"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ядуу"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "авардаг"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ба нүдийг"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "бардам"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "дордуулна"
+    }
+  ],
+  "timestamp": "2026-10-04T13:37:22.120159561Z",
+  "model": "glm-5.3"
+}

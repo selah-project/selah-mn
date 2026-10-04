@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Зөвхөн цус идэхгүй байхыг чин сэтгэлээсээ хичээ: учир нь цус бол ⟨энэ нь⟩ амь тул амийг махтай нь хамт идэж болохгүй.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "зөвхөн"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "чин сэтгэлээсээ хичээ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "идэх"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "цус"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "цус"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бол"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "амь"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "болохгүй"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "амийг"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "махтай нь"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:40.881868493Z",
+  "model": "glm-5.3"
+}

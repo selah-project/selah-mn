@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 29:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Хэрвээ хаан ядуучуудыг үнэнд нь шүүвээс, түүний сэнтий үүрд бэхжинэ.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "шүүвээс"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "үнэнд нь"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ядуучуудыг"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "түүний сэнтий"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "бэхжинэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:35.621650418Z",
+  "model": "glm-5.3"
+}

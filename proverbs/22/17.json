@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 22:17",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Чихээ налуулж, мэргэдийн үгсийг сонс, зүрхээ миний мэдлэгт чиглүүл.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "налуулж"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "чихээ"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "сонс"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мэргэдийн"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "зүрхээ"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "чиглүүл"
+    },
+    {
+      "surface": "לדעתי",
+      "gloss": "миний мэдлэгт"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:17.387209812Z",
+  "model": "glm-5.3"
+}

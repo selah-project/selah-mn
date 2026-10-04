@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 44,
+  "translation": "Дарс ууж болохгүй ямар ч тахилчин дотоод хашаанд орохдоо.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "дарс"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болохгүй"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ууж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "тахилчин"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "орохдоо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "хашаанд"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "дотоод"
+    }
+  ],
+  "timestamp": "2026-10-04T13:15:17.319022392Z",
+  "model": "glm-5.3"
+}

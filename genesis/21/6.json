@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Сара хэлэв: Элохим надад инээд бэлэглэв, сонсогч хүн бүр над тэгж инээнэ.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "инээд"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "бэлэглэв"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүр"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "сонсогч хүн"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "инээнэ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "над"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:03.480731650Z",
+  "model": "glm-5.3"
+}

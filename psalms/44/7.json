@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 44,
+  "translation": "Учир нь би нуманд наддаггүй, миний илд намайг аврахгүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "нуманд"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "наддаггүй"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "болон миний илд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "намайг аврахгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:11.847070287Z",
+  "model": "glm-5.3"
+}

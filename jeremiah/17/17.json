@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Надад аймшиг бүү бол: муу өдрийн өөр минь аврага чи билээ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "бүү бол"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "аймшиг"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "миний аврага"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи билээ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдрийн өөр"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу"
+    }
+  ],
+  "timestamp": "2026-10-04T12:39:12.675863004Z",
+  "model": "glm-5.3"
+}

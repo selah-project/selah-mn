@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Анахын хөвгүүд: Дишон. Дишонын хөвгүүд: Хамран, ба Эшбан, ба Йитран, ба Керан.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Анах"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ба хөвгүүд"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "Хамран"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "ба Эшбан"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ба Йитран"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "ба Керан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:36.864208533Z",
+  "model": "glm-5.3"
+}

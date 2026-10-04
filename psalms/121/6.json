@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 121,
+  "translation": "Өдөр нь нар чамайг цохиж чадахгүй, шөнө нь сар ч чадахгүй.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "чамайг цохиж"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ба сар"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "шөнө"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:42.083293085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Моше ирж, энэ дууны ⟨את⟩ бүх үгсийг ард түмний чихэнд хэлэв — тэр өөрөө ба Хошеа, Нуны хүү.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ дууны бүх үгсийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "дууны"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "чихэнд"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмний"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тер өөрөө"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "Хошеа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нун"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:09.037149458Z",
+  "model": "glm-5.3"
+}

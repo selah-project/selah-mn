@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Иошиягийн хаанчлалын XVIII жилд энэ Песах хийгдэв.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "XVIII"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жилд"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "хаанчлалын"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Иошиягийн"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "хийгдэв"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:23:26.224790051Z",
+  "model": "glm-5.3"
+}

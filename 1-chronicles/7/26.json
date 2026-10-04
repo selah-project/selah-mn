@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Лаадан түүний хүү, Аммихуд түүний хүү, Элишама түүний хүү.",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "Лаадан"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммихуд"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Элишама"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:07.895429315Z",
+  "model": "glm-5.3"
+}

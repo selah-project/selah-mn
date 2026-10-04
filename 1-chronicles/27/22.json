@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Данд — Азарел, Йерохамын хүү. Эдгээр нь Йисраелийн овгуудын ноёд байв.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "Данд"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "Азарел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йерохамын"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "овгуудын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:07:29.664181712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Эйтаны хөвгүүд: Азарья.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ба хөвгүүд"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Эйтан"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарья"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:34.028426345Z",
+  "model": "glm-5.3"
+}

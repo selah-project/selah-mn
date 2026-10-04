@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Тэд Ноах руу, онгоц руу орлоо — түүний дотор амьдралын руах буй бүх махаас хоёр хоёулаа.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "орлоо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "онгоц"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёулаа"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бүх ... ээс"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нь"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүний дотор"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амьдралын"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:07.463505576Z",
+  "model": "glm-5.3"
+}

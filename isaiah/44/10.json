@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 44,
+  "translation": "Хэн Эл бүтээж, ямар ч ашиггүй цутгамал шүтээн бүтээх вэ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "бүтээх"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ба шүтээн"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "цутгамал"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "огт"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ашиггүй"
+    }
+  ],
+  "timestamp": "2026-10-04T12:25:03.533350300Z",
+  "model": "glm-5.3"
+}

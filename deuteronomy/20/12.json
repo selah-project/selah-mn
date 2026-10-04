@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Харин энх тайвнаар эс зөвшөөрвөл тантай дайн хийвэл түүнийг бүслэн түрмэгтүн.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "харин хэрэв"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эс"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "зөвшөөрвөл"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "тантай"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "хийвэл"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "тантай"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "дайн"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "бүслэн түрмэгтүн"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "түүнийг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:57:30.258203987Z",
+  "model": "glm-5.3"
+}

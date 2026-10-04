@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 8:4",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "temp",
+  "tokens": [
+    {
+      "surface": "",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T11:17:11.963622409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 42,
+  "translation": "Тэд Йосеф ойлгож байгааг мэдээгүй, учир нь орчуулагч тэдний дунд ⟨байсан⟩.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "мэдээгүй"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ойлгож"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "орчуулагч"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "тэдний дунд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:02:48.725048651Z",
+  "model": "glm-5.3"
+}

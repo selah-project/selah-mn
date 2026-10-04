@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Чи өнөөдөр Моавын ⟨את⟩ хил болох ⟨את⟩ Арыг дайран өнгөрнө.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Чи"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "дайран өнгөрнө"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моавын хил"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моавын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ар"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Арыг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:40.024832952Z",
+  "model": "glm-5.3"
+}

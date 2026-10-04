@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 75:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 75,
+  "translation": "Харин би үүрд зарлана, Яаковын Элохимд дуу дуулна.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Харин би"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "зарлана"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "дуу дуулна"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Элохимд"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:12.760544328Z",
+  "model": "glm-5.3"
+}

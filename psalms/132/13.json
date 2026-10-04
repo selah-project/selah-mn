@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 132,
+  "translation": "Учир нь Яхвэ Ционыг сонгож, түүнийг өөрийн суудал болгохыг хүсжээ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "сонгож"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Ционыг"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "хүсжээ"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "суудал"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөрийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:10.473256591Z",
+  "model": "glm-5.3"
+}

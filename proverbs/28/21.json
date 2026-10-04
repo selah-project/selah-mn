@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Царай барах нь сайн биш, талхны нэг хэсгийн төлөө хүн зөрчинэ.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "ялгаварлан харах"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "царай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ба ... -ын төлөө"
+    },
+    {
+      "surface": "פת",
+      "gloss": "нэг хэсэг"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талхны"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "зөрчинэ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:06.494623306Z",
+  "model": "glm-5.3"
+}

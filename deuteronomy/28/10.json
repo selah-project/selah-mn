@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Газар дэлхийн бүх ард түмэн Яхвэгийн Нэр чам дээр дуудагдсаныг харж, чамаас айх болно.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "харж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар дэлхийн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Нэр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "дуудагдсаныг"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "чам дээр"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "айх болно"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "чамаас"
+    }
+  ],
+  "timestamp": "2026-10-04T11:01:18.537281762Z",
+  "model": "glm-5.3"
+}

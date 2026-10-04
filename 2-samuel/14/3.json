@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Хаан дээр орж, түүнд эдгээр үгсийг хэлэгтүн. Иоав үгсийг түүний аманд өгөв.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "орж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "хэлэгтүн"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Иоав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үгсийг"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "түүний аманд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:40:12.101886924Z",
+  "model": "glm-5.3"
+}

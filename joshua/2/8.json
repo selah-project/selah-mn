@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Тэд хэвтэхээс өмнө тэр эмэгтэй дээвэр дээр тэдэн дээр гарч ирэв.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ба тэд"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "хэвтэхээс"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "тэр эмэгтэй"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "гарч ирэв"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "тэдэн дээр"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "дээвэр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:05:09.317058989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Тэр шөнө Элохим Шеломод илэрхий болж, түүнд хэлэв: Асуугаач — би чамд юу өгөх вэ?",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "шөнө"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "илэрхий болж"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломод"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Асуугаач"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "өгөх"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:07:48.346737607Z",
+  "model": "glm-5.3"
+}

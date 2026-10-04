@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Миний хайрт надад Эн-Гедийн усан үзэгд доторх хеннагийн бөнжин шиг.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "бөнжин"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "хеннагийн"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "миний хайрт"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "усан үзэгд доторх"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Эн-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Геди"
+    }
+  ],
+  "timestamp": "2026-10-04T14:27:18.745470793Z",
+  "model": "glm-5.3"
+}

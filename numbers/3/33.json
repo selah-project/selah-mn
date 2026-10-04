@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Мэрариас: Махли овог ба Муши овог; эдгээр бол Мэраригийн овгууд.",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "Мэрариас"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "овог"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "ба овог"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "Муши"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "הם",
+      "gloss": "бол"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "овгууд"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мэраригийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:34:41.144676227Z",
+  "model": "glm-5.3"
+}

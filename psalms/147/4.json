@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 147,
+  "translation": "Оддын тоог тоолдог, тэдгүй бүхэнд нэр өгдөг.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "тоолдог"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "тоог"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "оддын"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "тэдгүй бүхэнд"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "өгдөг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:04.556026651Z",
+  "model": "glm-5.3"
+}

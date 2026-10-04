@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэрээр хэлэв: Яхвэ ингэж айлдаж байна: Энэ голд нүх нүх малт.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "малт"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "энэ голд"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "нүх нүх"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "нүх"
+    }
+  ],
+  "timestamp": "2026-10-04T11:58:57.613058187Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 36:4",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Учир нь үнэхээр миний үгс худал биш, төгс мэдлэгтэн чамтай буй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "үнэхээр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "худал"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "миний үгс"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "төгс"
+    },
+    {
+      "surface": "דעות",
+      "gloss": "мэдлэгтэн"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "чамтай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:24:46.698938317Z",
+  "model": "glm-5.3"
+}

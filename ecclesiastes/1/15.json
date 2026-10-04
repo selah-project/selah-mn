@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Мушгийсныг залруулж чадахгүй, дутагдлыг тоолж чадахгүй.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "мушгийсныг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "чадахгүй"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "залруулж"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "дутагдлыг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "чадахгүй"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "тоолж"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:30.611415452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 29:26",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Левичүүд Давидын зэмсгүүдтэй, тахилчид бүрээгээр зогсов.",
+  "tokens": [
+    {
+      "surface": "ויעמדו",
+      "gloss": "зогсов"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левичүүд"
+    },
+    {
+      "surface": "бכלי",
+      "gloss": "зэмсгүүдтэй"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "тахилчид"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "бүрээгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T15:19:13.146481209Z",
+  "model": "glm-5.3"
+}

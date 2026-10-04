@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Имерийн хөвгүүд — мянга тавин хоёр.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Имерийн"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "хоёр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:37.004912596Z",
+  "model": "glm-5.3"
+}

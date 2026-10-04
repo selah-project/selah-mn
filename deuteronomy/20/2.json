@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Та дайнд ойртох үед тахилч ойртож ирээд ард түмэнд хандан ярьна.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "бол"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "та ойртох үед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "дайнд"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "ойртож ирээд"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ярьна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "хандан"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:58:12.868384101Z",
+  "model": "glm-5.3"
+}

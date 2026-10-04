@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 99,
+  "translation": "Тэд Таны нэрийг талархаг — агуу ба аймшигтай, ариун ⟨Тэр⟩ билээ.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "талархаг"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Таны нэрийг"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "аймшигтай"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:54:05.555931555Z",
+  "model": "glm-5.3"
+}

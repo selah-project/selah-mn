@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Чиний амны Торын зарлиг надад мянга мянган алт, мөнгөнөөс дээр.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Торын"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "чиний амны"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "мянга мянган"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алт"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "мөнгөнөөс"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:04.226143281Z",
+  "model": "glm-5.3"
+}

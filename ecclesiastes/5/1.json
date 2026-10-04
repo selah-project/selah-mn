@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 5:1",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Амаа бүү яар, зүрх чинь Элохимийн өмнө үг гаргахыг бүү яаруул; учир нь Элохим тэнгэрт байгаад, чи газар дээр байгаа тул үгс чинь цөөн байг.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "яар"
+    },
+    {
+      "surface": "על",
+      "gloss": "-аар"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ам"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "зүрх чинь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "ימהר",
+      "gloss": "яаруул"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "гаргахыг"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "-ийн өмнө"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "тэнгэрт"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "харин чи"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ийн"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тул"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "байг"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "үгс чинь"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "цөөн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:05.473846505Z",
+  "model": "glm-5.3"
+}

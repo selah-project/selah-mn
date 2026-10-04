@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Кеназын хөвгүүд — Отниел ба Сераiah; Отниелын хөвгүүд — Хатат.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназ"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Отниел"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "Сераiah"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Отниелын"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "Хатат"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:20.861879895Z",
+  "model": "glm-5.3"
+}

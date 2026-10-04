@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Тэр үед Йисраел энэ ⟨את⟩ дууг дуулжээ: Булаг минь, өргөгд, түүнд дуулохтун.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тэр үед"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "дуулжээ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дууг"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "дууг"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "өргөгд"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Булаг"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "дуулохтун"
+    },
+    {
+      "surface": "לה",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:42:35.835389015Z",
+  "model": "glm-5.3"
+}

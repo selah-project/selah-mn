@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 139,
+  "translation": "Хэрэв Та, Элоах, бурууг хөнөөвөл, цусны хүмүүс надаас холд!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Хэрэв"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "Та ... хөнөөвөл"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоах"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бурууг"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "... хүмүүс"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "цусны"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "холд"
+    },
+    {
+      "surface": "מני",
+      "gloss": "надаас"
+    }
+  ],
+  "timestamp": "2026-10-04T14:01:33.660894688Z",
+  "model": "glm-5.3"
+}

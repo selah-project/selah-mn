@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 45:17",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 45,
+  "translation": "Паро Йосефд хэлэв: Ах нартаа хэл: Үүнийг хий — ⟨את⟩ малдаа ачаалж, явж Кенааны газар ор.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-даа"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ах нар"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "үүнийг"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "хий"
+    },
+    {
+      "surface": "טענו",
+      "gloss": "ачаалж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мал"
+    },
+    {
+      "surface": "בעירכם",
+      "gloss": "мал"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "яв"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ор"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "газар"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-10-04T10:04:01.672756173Z",
+  "model": "glm-5.3"
+}

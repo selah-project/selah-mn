@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Хизкия тахинч нар ба Леви нараас овоонуудын тухай асуув.",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "асуув"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизкия"
+    },
+    {
+      "surface": "על",
+      "gloss": "тухай"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "тахинч нар"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "ба Леви нар"
+    },
+    {
+      "surface": "על",
+      "gloss": "тухай"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "овоонууд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:19:31.763648316Z",
+  "model": "glm-5.3"
+}

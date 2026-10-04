@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Йицхарын хүү, Кехатын хүү, Левигийн хүү, Йисраелийн хүү.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Йицхар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:44.432338463Z",
+  "model": "glm-5.3"
+}

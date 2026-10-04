@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Леви нараас: Шемая бол Хашшубын хүү, Азрикамын хүү, Хашавяагийн хүү, Буннигийн хүү.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Леви нараас"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Хашшуб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Азрикам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавяа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "Бунни"
+    }
+  ],
+  "timestamp": "2026-10-04T14:54:45.175621644Z",
+  "model": "glm-5.3"
+}

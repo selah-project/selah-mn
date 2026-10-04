@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Мөн кассиа таван зуун, ариун сүмийн шекелээр, ба самрын тос нэг хин.",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "кассиа"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "таван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "шекелээр"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ариун сүмийн"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "тос"
+    },
+    {
+      "surface": "זית",
+      "gloss": "самрын"
+    },
+    {
+      "surface": "הין",
+      "gloss": "нэг хин"
+    }
+  ],
+  "timestamp": "2026-10-04T10:16:25.670882987Z",
+  "model": "glm-5.3"
+}

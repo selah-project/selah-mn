@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Авимелех Тевец рүү явж, Тевецэд буугаад түүнийг эзэлжээ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Тевец"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "буугаад"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "Тевецэд"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "түүнийг эзэлжээ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:16:56.695889741Z",
+  "model": "glm-5.3"
+}

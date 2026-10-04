@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Шаллумын хүү, Цадокийн хүү, Ахитубын хүү.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллум"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахитуб"
+    }
+  ],
+  "timestamp": "2026-10-04T14:48:01.256839797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Яхвэ Мошед болон тахилч Аароны хүү Элазарт айлдаж:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба -д"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аароны"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдаж:"
+    }
+  ],
+  "timestamp": "2026-10-04T10:45:30.013594519Z",
+  "model": "glm-5.3"
+}

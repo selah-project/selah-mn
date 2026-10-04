@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Моше сонсоод нүүрээрээ унажээ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "сонсоод"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "унажээ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "нүүрээрээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:41:44.411507751Z",
+  "model": "glm-5.3"
+}

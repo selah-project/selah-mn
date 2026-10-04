@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 51,
+  "translation": "Хашхирах дуу Бабелаас, агуу их сүйрэл Кашдийн нутгаас!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "хашхирах"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "Бабелаас"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ба сүйрэл"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "агуу их"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "нутгаас"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Кашдийн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:55:17.919857318Z",
+  "model": "glm-5.3"
+}

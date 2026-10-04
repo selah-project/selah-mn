@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Тэд над дээр амаа өргөн нээж, «Хээ, хээ, манай нүд үзлээ» гэв.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "өргөн нээж"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над дээр"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "амаа"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Хээ"
+    },
+    {
+      "surface": "האח",
+      "gloss": "хээ"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "үзлээ"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "манай нүд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:39:48.723875705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Та далайг Өөрийн морьдоороо долоож, олон усны давхар шаврыг.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "долоож"
+    },
+    {
+      "surface": "בים",
+      "gloss": "далайг"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "Өөрийн морьдоороо"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "давхар шаврыг"
+    },
+    {
+      "surface": "мים",
+      "gloss": "усны"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "олон"
+    }
+  ],
+  "timestamp": "2026-10-04T13:28:18.372041861Z",
+  "model": "glm-5.3"
+}

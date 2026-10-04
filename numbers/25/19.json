@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Тахлын дараа ийм боллоо.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "дараа"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "тахлын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:44:22.039201963Z",
+  "model": "glm-5.3"
+}

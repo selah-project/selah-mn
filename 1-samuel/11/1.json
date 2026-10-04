@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 11:1",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Нагашийн Аmma... \n",
+  "tokens": [],
+  "timestamp": "2026-10-04T11:26:41.726804742Z",
+  "model": "glm-5.3"
+}

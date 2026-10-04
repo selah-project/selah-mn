@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 12:1",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Яхвэгийн үг надад ирж, айлдаж байна.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдаж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T13:00:01.780808315Z",
+  "model": "glm-5.3"
+}

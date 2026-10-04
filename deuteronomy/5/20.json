@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Ба найз нөхөдийнхөө тухай худал гэрчлэл өгч болохгүй.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ба болохгүй"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "гэрчлэл өгч"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "найз нөхөдийнхөө тухай"
+    },
+    {
+      "surface": "עד",
+      "gloss": "гэрч"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "худал"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:39.148077801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Йехонатаны хүү Мерив-баал бөгөөд Мерив-баал ⟨את⟩ Михыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатаны"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Мерив"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "баал"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "Мерив"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "баал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Миха"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Михыг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:54.430055776Z",
+  "model": "glm-5.3"
+}

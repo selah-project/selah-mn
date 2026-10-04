@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 86,
+  "translation": "Адонай, надад өршөөл үзүүл, учир нь би бүхэл өдөржин танд дуудна.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "надад өршөөл үзүүл"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "танд"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "дуудна"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэл"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдөржин"
+    }
+  ],
+  "timestamp": "2026-10-04T13:51:52.426947444Z",
+  "model": "glm-5.3"
+}

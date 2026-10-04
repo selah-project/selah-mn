@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Энэ бол Яхвэд өргөдөг эв элдрийн тахилын Тора мөн.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ба энэ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "тахил"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "эв элдрийн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нийт"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "өргөдөг"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:22:47.839384983Z",
+  "model": "glm-5.3"
+}

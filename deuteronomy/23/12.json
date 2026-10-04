@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Үдшийн эргэлдээр тэр усанд угаана, наран шингэхэд хуурны дунд орно.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "эргэлдээр"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "үдшийн"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "угаана"
+    },
+    {
+      "surface": "במים",
+      "gloss": "усанд"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "орохдоо"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "наран"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "орно"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "хуурны"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:35.390870592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Давид бүх Йисраел дээр хаанчилж, өөрийн бүх ард түмэнд шүүлт ба цедек бүтээж байв.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "хаанчилж"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "бүтээж"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлт"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ард түмэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:04:06.030550098Z",
+  "model": "glm-5.3"
+}

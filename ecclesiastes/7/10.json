@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Өмнөх өдрүүд эдгээс дээр байсан гэж юу байсан гэж бүү хэл, учир нь энэ дээр чи ухаанаас бүү асуусан.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "өмнөх өдрүүд"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "эхнийх нь"
+    },
+    {
+      "surface": "היו",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "эдгээс"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "ухаанаас"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "асуусан"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:23.220624766Z",
+  "model": "glm-5.3"
+}

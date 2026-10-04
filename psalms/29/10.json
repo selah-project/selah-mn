@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Яхвэ үер дээр суужээ, Яхвэ хаан болж үүрд сууна.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "үер дээр"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "суужээ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "сууна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан болж"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:06.405126679Z",
+  "model": "glm-5.3"
+}

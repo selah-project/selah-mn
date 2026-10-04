@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Хөхүүлдэг нялхын хэл тураад тагнайд нь наалдана; нялх үрхүүд талх гуйж, тэдэнд хувааж өгөх хүн алга.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "наалдана"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "хөхүүлдэг нялхын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "тагнайд нь"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "турсан"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "нялх үрхүүд"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "гуйж"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "хувааж өгөх"
+    },
+    {
+      "surface": "אין",
+      "gloss": "алга"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:08.617722097Z",
+  "model": "glm-5.3"
+}

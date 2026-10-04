@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Тэр баялаг муу явдалд сүйрч, тэр хүүтэй боловч түүний гартаа юу ч үгүй.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "сүйрч"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "тэр баялаг"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "явдалд"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "боловч"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүүтэй"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "түүний гарт"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "юу ч"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:20.063980268Z",
+  "model": "glm-5.3"
+}

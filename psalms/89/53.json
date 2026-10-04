@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 89,
+  "translation": "Яхвэ үүрд ивээгдсэн болтугай. Амен, ба амен.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ивээгдсэн болтугай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ба амен"
+    }
+  ],
+  "timestamp": "2026-10-04T13:52:03.993616686Z",
+  "model": "glm-5.3"
+}

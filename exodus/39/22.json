@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 39,
+  "translation": "Тэр эфодын дээлийг нэхмэлийн урлараар, бүхэлдээ цэнхэрээр хийв.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "хийв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дээл"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "дээл"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "эфодын"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "урлараар"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "нэхмэлийн"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "бүхэлдээ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "цэнхэр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:21:03.815406820Z",
+  "model": "glm-5.3"
+}

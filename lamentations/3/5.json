@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр над эсрэг босгож, намайг хор ба зовлоор хүрээлжээ.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "босгож"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над эсрэг"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "хүрээлжээ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "хор"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "ба зовлон"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:57.733310682Z",
+  "model": "glm-5.3"
+}

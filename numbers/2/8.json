@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Түүний цэрэг ба тооллого нь тавин долоон мянга дөрвөн зуу байна.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "түүний цэрэг"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "түүний тооллого"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуу"
+    }
+  ],
+  "timestamp": "2026-10-04T10:34:15.495250769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Учир нь чи 'Энэ чамд ямар ашигтай? Нүглээс минь би юу олов?' гэдэг.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "чи гэдэг"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ашигтай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "олов"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "нүглээс минь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:24:12.675649900Z",
+  "model": "glm-5.3"
+}

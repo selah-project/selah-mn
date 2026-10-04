@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Тэгээд Даниел хаантай ярив: Хаан минь, үүрд амьдар!",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Тэгээд"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "ярив"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Хаан"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "амьдар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:44:15.645362177Z",
+  "model": "glm-5.3"
+}

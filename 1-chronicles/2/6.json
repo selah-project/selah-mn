@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Зерахын хөвгүүд: Зимри, Эйтан, Хейман, Калкол ба Дара — тэд бүгд таван.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ба хөвгүүд"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Зимри"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "ба Эйтан"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "ба Хейман"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "ба Калкол"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "ба Дара"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "тэд бүгд"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "таван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:34.028110427Z",
+  "model": "glm-5.3"
+}

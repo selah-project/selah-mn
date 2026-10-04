@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хайрлах цаг ба үзэн ядах цаг; дайны цаг ба энхийн цаг.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "хайрлах"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба цаг"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "үзэн ядах"
+    },
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "дайны"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба цаг"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "энхийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:04.616883598Z",
+  "model": "glm-5.3"
+}

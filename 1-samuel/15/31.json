@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Шемуел Саулын хойноос буцаж, Саул Яхвэд мөргөв.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "буцаж"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "хойноос"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саулын"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "мөргөв"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саул"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:27:54.667867194Z",
+  "model": "glm-5.3"
+}

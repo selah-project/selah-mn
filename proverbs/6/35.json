@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Ямар ч нөхөн төлбөрийг тоохгүй, хахууль үлэмжлүүлбэл зөвшөөрөхгүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "тооно"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "нөхөн төлбөр"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба ... үгүй"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "зөвшөөрнө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэдийгээр"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "үлэмжлүүлбэл"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "хахууль"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:13.694994256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Учир нь та нарын нүд ⟨את⟩ Яхвэгийн хийсэн бүхий л аугаа үйлсийг үзсэн.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "та нарын нүд"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "үзсэн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүхий л аугаа үйлс"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхий л"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "үйлс"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "аугаа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:54:26.632097446Z",
+  "model": "glm-5.3"
+}

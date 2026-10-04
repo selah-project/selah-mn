@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Түүний гэр бол Шеол уруу чиглэсэн зам, үхлийн өрөөнд буух шат.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "зам"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "түүний гэр"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "буух"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "өрөөнд"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхлийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:26.764076821Z",
+  "model": "glm-5.3"
+}

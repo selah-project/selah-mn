@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Одоо болохоор хөвгүүд ээ, над сонсцгоо, миний амны үгсээс бүү гажицгаа.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Одоо болохоор"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "хөвгүүд ээ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "сонсцгоо"
+    },
+    {
+      "surface": "לי",
+      "gloss": "над"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "гажицгаа"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "үгсээс"
+    },
+    {
+      "surface": "פי",
+      "gloss": "миний амны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:12.818058874Z",
+  "model": "glm-5.3"
+}

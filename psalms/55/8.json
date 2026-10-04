@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 55,
+  "translation": "Үзэгтүн, би хол одож, цөлд буудаллая. Сэла.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Үзэгтүн"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "хол"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "одож"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "буудаллая"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Сэла"
+    }
+  ],
+  "timestamp": "2026-10-04T13:43:42.953947839Z",
+  "model": "glm-5.3"
+}

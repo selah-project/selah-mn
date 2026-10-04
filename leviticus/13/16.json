@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Харин амь мах буцаж, цагаан болж хувирвал тэр тахилч дээр ирнэ.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "харин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-вал"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "буцаж"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "החי",
+      "gloss": "амь"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "хувирвал"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "цагаан болж"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ирнэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    }
+  ],
+  "timestamp": "2026-10-04T10:26:05.532768733Z",
+  "model": "glm-5.3"
+}

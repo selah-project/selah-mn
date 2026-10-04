@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 35:3",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Сул гаруудыг бэхжүүл, гулсайсан өвдгүүдийг бэхжүүл.",
+  "tokens": [
+    {
+      "surface": "חזקו",
+      "gloss": "бэхжүүл"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "гаруудыг"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "сул"
+    },
+    {
+      "surface": "וברכים",
+      "gloss": "ба өвдгүүдийг"
+    },
+    {
+      "surface": "כשלות",
+      "gloss": "гулсайсан"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "бэхжүүл"
+    }
+  ],
+  "timestamp": "2026-10-04T12:21:21.430723907Z",
+  "model": "glm-5.3"
+}

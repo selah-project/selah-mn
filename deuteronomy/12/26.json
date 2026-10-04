@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Харин ариун зүйлс чинь болон амлалтуудаа авч, Яхвэ сонгох газарт оч.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Харин зөвхөн"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "ариун зүйлс чинь"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(-)"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "байх"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "болон амлалтуудаа"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "авч"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "оч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(-)"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "сонгох"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:33:07.658172308Z",
+  "model": "glm-5.3"
+}

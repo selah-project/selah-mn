@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 10:11",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "тэдний ах нар: Шеванъя, Ходъя, Келита, Пелаъя, Ханан.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "тэдний ах нар"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "Шеванъя"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "Ходъя"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "Келита"
+    },
+    {
+      "surface": "פלאיה",
+      "gloss": "Пелаъя"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:53:45.075766035Z",
+  "model": "glm-5.3"
+}

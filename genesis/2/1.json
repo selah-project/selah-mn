@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Тэнгэр болон газар, тэдгээрийн бүх цэрэг төгс болов.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "төгс болов"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "тэнгэр"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "болон газар"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "болон бүх"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "тэдгээрийн цэрэг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:45.421920292Z",
+  "model": "glm-5.3"
+}

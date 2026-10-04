@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Дарсыг бүү хар, улаан өнгөөр гэрэлтэхэд нь, аяганд өнгөө өгөхөд нь, зөөлөн урсахад нь.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "хар"
+    },
+    {
+      "surface": "יין",
+      "gloss": "дарс"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэзээ"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "улаан болох"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэзээ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "өгөх"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "аяганд"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "өнгөө"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "урсах"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "зөөлөн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:42.521516663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Мөн хүн амьтай зургаан мянга зуу ⟨болгов⟩.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "мөн амьтай"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "зуу"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    }
+  ],
+  "timestamp": "2026-10-04T10:47:32.709829306Z",
+  "model": "glm-5.3"
+}

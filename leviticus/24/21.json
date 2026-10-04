@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Мал цохигч түүнийг нөхөж төлнө, хүн цохигч бол алуулна.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "мал цохигч"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "түүнийг нөхөж төлнө"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "хүн цохигч"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "алуулна"
+    }
+  ],
+  "timestamp": "2026-10-04T10:31:49.740072820Z",
+  "model": "glm-5.3"
+}

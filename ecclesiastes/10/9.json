@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Чулуу зөөгч тэдгээрээрээ гэмтэнэ, мод хагалагч тэдгээрээс аюулдана.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "зөөгч"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "чулуу"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "гэмтэнэ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "тэдгээрээрээ"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "хагалагч"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "мод"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "аюулдана"
+    },
+    {
+      "surface": "בם",
+      "gloss": "тэдгээрээс"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:48.842564476Z",
+  "model": "glm-5.3"
+}

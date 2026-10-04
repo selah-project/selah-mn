@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 23:11",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Тахилч өргөн далайлна",
+  "tokens": [],
+  "timestamp": "2026-10-04T10:30:53.101754004Z",
+  "model": "glm-5.3"
+}

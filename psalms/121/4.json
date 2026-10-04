@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 121,
+  "translation": "Үз, тэр нойрмоглохгүй, унтахгүй — Йисраелыг хамгаалагч.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Үз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "нойрмоглох"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба -гүй"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "унтах"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "хамгаалагч"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:42.929383095Z",
+  "model": "glm-5.3"
+}

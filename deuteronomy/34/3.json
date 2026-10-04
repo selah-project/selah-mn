@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "мөн ⟨את⟩ өмнөд нутаг Неgeвийг, мөн ⟨את⟩ хөндийн талбай — Ерихогийн хөндий, сэрээний хотыг Соар хүртэл.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "өмнөд нутаг"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "талбай"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "хөндий"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Ерихогийн"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "сэрээний"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Соар"
+    }
+  ],
+  "timestamp": "2026-10-04T11:04:14.981888379Z",
+  "model": "glm-5.3"
+}

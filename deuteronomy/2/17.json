@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Яхвэ надад айлдаж байна:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:40.024554263Z",
+  "model": "glm-5.3"
+}

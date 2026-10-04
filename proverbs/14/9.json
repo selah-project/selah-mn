@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Тэнэгүүд гэмийг дооглох; харин шулуун хүмүүсийн дунд ⟨буй⟩ таалал.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "тэнэгүүд"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "дооглох"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "гэм"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ба … дунд"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "шулуун хүмүүсийн"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "таалал"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:49.448084548Z",
+  "model": "glm-5.3"
+}

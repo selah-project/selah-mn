@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 34:19",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Умайг нээгч бүхэн Минийх; чиний малын умайг нээгч бүх эр — үхэр ч, хонь ч.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "нээгч"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "умайг"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Минийх"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מקנך",
+      "gloss": "чиний малын"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "эр"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "нээгч"
+    },
+    {
+      "surface": "שור",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "хонь"
+    }
+  ],
+  "timestamp": "2026-10-04T10:18:01.474330042Z",
+  "model": "glm-5.3"
+}

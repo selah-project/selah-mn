@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Өрөвдөлтэй нь чамайг, газар ээ, хаан чинь хүүхэд байхад, ноёд чинь өглөөөр идэж байхад!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Өрөвдөлтэй нь"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамайг"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "хаан чинь"
+    },
+    {
+      "surface": "נעр",
+      "gloss": "хүүхэд"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "ноёд чинь"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "өглөөөр"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "идэж"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:20.705891015Z",
+  "model": "glm-5.3"
+}

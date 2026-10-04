@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Моше ⟨את⟩ Гилеадыг Махирт, Менаше хүүд өгөхөд, тэр тэнд суурьшжээ.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "өгөхөд"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гилеадыг"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилеадыг"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "Махирт"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "суурьшжээ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "тэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:47:47.063669287Z",
+  "model": "glm-5.3"
+}

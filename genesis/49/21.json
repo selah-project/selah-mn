@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Нафтали ⟨нь⟩ суллагдсан зээр мөртөө; тэр гоё үгс хэлэгч.",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "зээр"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "суллагдсан"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "хэлэгч"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "гоё"
+    }
+  ],
+  "timestamp": "2026-10-04T10:04:49.087551888Z",
+  "model": "glm-5.3"
+}

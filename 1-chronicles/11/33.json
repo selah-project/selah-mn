@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Азмавет Бахарумын хүн, Элиахба Шаалбонын хүн,",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "Бахарумын хүн"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "Элиахба"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "Шаалбонын хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:16.654521117Z",
+  "model": "glm-5.3"
+}

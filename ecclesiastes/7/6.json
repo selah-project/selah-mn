@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Учир нь тэнэгийн инээд нь тогооны доорх гөлөгний чимээ шиг мөн — энэ ч бас хевел.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "чимээ шиг"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "гөлөгний"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "доорх"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "тогооны"
+    },
+    {
+      "surface": "כן",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "инээд"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "тэнэгийн"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:13.094312264Z",
+  "model": "glm-5.3"
+}

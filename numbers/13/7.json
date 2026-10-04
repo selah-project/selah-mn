@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Йисаскарын овгоос Йигал, Йосефын хүү.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йисаскарын"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "Йигал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:55.889945544Z",
+  "model": "glm-5.3"
+}

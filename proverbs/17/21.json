@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Тэнэг төрүүлэгч түүнд гуниг авчирна, мөн тэнэгийн эцэг баярлахгүй.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "төрүүлэгч"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "тэнэг"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "гуниг"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба ... үгүй"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "баярлахгүй"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "тэнэг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:26.809354806Z",
+  "model": "glm-5.3"
+}

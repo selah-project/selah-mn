@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Түүнийг ⟨את⟩ зүсэж зүсэж, дээр нь тос цутга; энэ бол минха.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "зүсэж зүсэж"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "түүнийг (зүсэн боовууд)"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "зүсэн хэсгүүд"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "цутгаж"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "дээр нь"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "тос"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ бол"
+    }
+  ],
+  "timestamp": "2026-10-04T10:21:52.584234659Z",
+  "model": "glm-5.3"
+}

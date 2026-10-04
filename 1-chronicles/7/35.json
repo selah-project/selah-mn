@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Түүний ах Хелемийн хөвгүүд: Цофах, Имна, Шелеш, Амал.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "Хелемийн"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "түүний ах"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Цофах"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "Имна"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "Шелеш"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "Амал"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:03.765356473Z",
+  "model": "glm-5.3"
+}

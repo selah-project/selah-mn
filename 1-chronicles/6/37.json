@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Мерайот түүний хүү, Амарја түүний хүү, Ахитув түүний хүү.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Мерайот"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарја"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахитув"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:58.360261547Z",
+  "model": "glm-5.3"
+}

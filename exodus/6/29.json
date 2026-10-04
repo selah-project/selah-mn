@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 6:29",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэ Мошед айлдаж байна: Би Яхвэ. Фарао, Мицраймын хаанд Би чамд айлдаж буй ⟨את⟩ бүхнийг хэл.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлэхдээ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фарао"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайм"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүхнийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхнийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юй"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдаж буй"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:06:03.716997598Z",
+  "model": "glm-5.3"
+}

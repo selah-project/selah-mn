@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Хебер ⟨את⟩ Яфлет, ⟨את⟩ Шомер, ⟨את⟩ Хотам болон ⟨את⟩ тэдний эгч Шуаг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Хебер"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яфлет"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Яфлет"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Шомер"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Шомер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Хотам"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Хотам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Шуа"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Шуа"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "тэдний эгч"
+    }
+  ],
+  "timestamp": "2026-10-04T15:59:22.770539613Z",
+  "model": "glm-5.3"
+}

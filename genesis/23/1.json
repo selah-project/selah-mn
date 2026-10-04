@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Sarah's life was one hundred and twenty and seven years — the years of Sarah's life.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "was"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "the life"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "of Sarah"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "one hundred"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "years"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "and twenty"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "years"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "and seven"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "years"
+    },
+    {
+      "surface": "שני",
+      "gloss": "the years of"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "the life"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "of Sarah"
+    }
+  ],
+  "timestamp": "2026-10-04T09:52:22.527890475Z",
+  "model": "glm-5.3"
+}

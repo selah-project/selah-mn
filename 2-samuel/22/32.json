@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Учир нь Яхвээс өөр хэн Эл байна вэ? Элохим маанаас өөр хэн хад билээ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвээс"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ба хэн"
+    },
+    {
+      "surface": "צור",
+      "gloss": "хад"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохим маанаас"
+    }
+  ],
+  "timestamp": "2026-10-04T11:45:03.183634379Z",
+  "model": "glm-5.3"
+}

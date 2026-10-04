@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Миррийн бүрээс бол миний хайрт надад, миний хөхний хооронд хононо.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "бүрээс"
+    },
+    {
+      "surface": "המר",
+      "gloss": "миррийн"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "миний хайрт"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "בין",
+      "gloss": "хооронд"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "хөхний"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "хононо"
+    }
+  ],
+  "timestamp": "2026-10-04T14:27:18.745229052Z",
+  "model": "glm-5.3"
+}

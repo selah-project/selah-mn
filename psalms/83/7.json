@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 83,
+  "translation": "Эдомын майхнууд, Ишмаелчүүд, Моав ба Хагарчууд,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "майхнууд"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомын"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "Ишмаелчүүд"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "Хагарчууд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:54.100106200Z",
+  "model": "glm-5.3"
+}

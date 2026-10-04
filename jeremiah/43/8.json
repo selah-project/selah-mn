@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 43,
+  "translation": "Тахпанхест Яхвэгийн үг Ирмийад ирэв, айлдаж.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмийа"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "Тахпанхест"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдаж"
+    }
+  ],
+  "timestamp": "2026-10-04T15:47:10.601664217Z",
+  "model": "glm-5.3"
+}

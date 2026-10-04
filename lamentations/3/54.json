@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Ус миний толгой дээргэ урсан, би хэлэв: би тасагдав.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "урсан"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "миний толгой"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "би хэлэв"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "би тасагдав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:19.330266888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Хэрэв хүн алагч өөрийн оргон одсон отгон хотын ⟨את⟩ хилээс гарч одвол,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "одвол"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "хүн алагч"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хилийг"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хилээс"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "хотын"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "түүний отгон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "оргон одсон"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:13.897205245Z",
+  "model": "glm-5.3"
+}

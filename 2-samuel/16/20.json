@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Абшалом Ахитофелд хэлэв: Та нар өөрсдөө зөвлөгөө өг, бид юу хийх вэ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Абшалом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ахитофел"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "өг"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нар өөрсдөө"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "зөвлөгөө"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "хийх вэ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:41:38.694747605Z",
+  "model": "glm-5.3"
+}

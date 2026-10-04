@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 27:25",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Өвс илэрч, зулай үзэгдэж, уулын өвс ногоонууд цуглуулагдана.",
+  "tokens": [
+    {
+      "surface": "גלה",
+      "gloss": "илэрч"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "өвс"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "үзэгдэж"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "зулай"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "цуглуулагдана"
+    },
+    {
+      "surface": "עשבות",
+      "gloss": "өвс ногоонууд"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "уулын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:12.012053897Z",
+  "model": "glm-5.3"
+}

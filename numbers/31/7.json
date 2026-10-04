@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 31:7",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Яахвэ Мошед тушаасны дагуу тэд Мидиан дээр дайтаж, бүх эрийг нь алжээ.",
+  "tokens": [
+    {
+      "surface": "ויצבאו",
+      "gloss": "дайтаж"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидиан"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дагуу"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошед"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "алжээ"
+    },
+    {
+      "surface": "кал",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эрийг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:48:40.096160433Z",
+  "model": "glm-5.3"
+}

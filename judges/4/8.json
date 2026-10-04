@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Барак түүнд хэлэв: Хэрэв чи надтай явбал би явна; харин хэрэв чи надтай яавал би яахгүй.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Барак"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Хэрэв"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "явбал"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "надтай"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "би явна"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "харин хэрэв"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "яавал"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "надтай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "би"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "яахгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T11:15:50.650524779Z",
+  "model": "glm-5.3"
+}

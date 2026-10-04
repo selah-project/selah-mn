@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 4:32",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Хэрэв тэр нүглийн тахилд өргөлөө хургаар авчирбал, эм, гэмгүйг авчирна.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "авчирбал"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "өргөлөө"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "нүглийн тахилд"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "эм"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "гэмгүй"
+    },
+    {
+      "surface": "יביאנה",
+      "gloss": "авчирна"
+    }
+  ],
+  "timestamp": "2026-10-04T10:23:33.401620632Z",
+  "model": "glm-5.3"
+}

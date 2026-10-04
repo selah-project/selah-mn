@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Эдгээр үгсийн дагуу ба энэ бүхний харалдаа Натан Давидад ийнхүү ярив.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "дагуу"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "эдгээр үгс"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "ба харалдаа"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "энэ хардаг зүйл"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ийнхүү"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ярив"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-10-04T11:37:17.095797403Z",
+  "model": "glm-5.3"
+}

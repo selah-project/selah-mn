@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 134,
+  "translation": "Ариун газар руу гаргуудаа өргөгтүн, Яхвэг ⟨את⟩ адислагтун.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "өргөгтүн"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "гаргуудаа"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Ариун газар"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "адислагтун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:41.937278178Z",
+  "model": "glm-5.3"
+}

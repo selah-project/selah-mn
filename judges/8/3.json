@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 8:3",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Таны мэдээ",
+  "tokens": [
+    {
+      "surface": "",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T11:17:11.963488442Z",
+  "model": "glm-5.3"
+}

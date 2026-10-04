@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Миткахаас одож, Хашмонад буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "одож"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "Миткахаас"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בחשמנה",
+      "gloss": "Хашмонад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:16.823886970Z",
+  "model": "glm-5.3"
+}

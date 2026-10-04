@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Тэд түүнийг авч, ⟨את⟩ нүхэнд хаяв; нүх хоосон, дотор нь ус байсангүй.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "авч"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "хаяв"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "нүхэнд"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "нүхэнд"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "нүх"
+    },
+    {
+      "surface": "רק",
+      "gloss": "хоосон"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байсангүй"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дотор нь"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    }
+  ],
+  "timestamp": "2026-10-04T10:00:47.079121223Z",
+  "model": "glm-5.3"
+}

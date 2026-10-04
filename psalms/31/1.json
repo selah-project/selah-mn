@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Хөгжмийн ахлагчид — Давидын залгасан дуу.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хөгжмийн ахлагчид"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "залгасан дуу"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:59.665602606Z",
+  "model": "glm-5.3"
+}

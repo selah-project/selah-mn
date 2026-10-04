@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Хэн тэвчигдэмтгий вэ? эндээ эргэж ирэг, зүрхгүй хүнд тэр түүнд хэлнэ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Хэн"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "тэвчигдэмтгий"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "эргэж ирэг"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "эндээ"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "зүрхгүй"
+    },
+    {
+      "surface": "לב",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "тэр хэлнэ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:01.724929837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Хүчтэй эмэгтэйг хэн олох билээ? Түүний үнэ сувднаас хол дээвэр.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "эмэгтэй"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "хүчтэй"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "олж чадах билээ"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "хол дээвэр"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "сувднаас"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "түүний үнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:41.114465053Z",
+  "model": "glm-5.3"
+}

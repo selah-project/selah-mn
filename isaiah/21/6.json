@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Учир нь Адонай надад ийн айлдав: Яв, харуулыг байрлуул; тэр юу харна, хэлэг.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ийн"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Яв"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "байрлуул"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "харуулыг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "харна"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "хэлэг"
+    }
+  ],
+  "timestamp": "2026-10-04T12:15:26.028129714Z",
+  "model": "glm-5.3"
+}

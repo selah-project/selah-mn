@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Тэрээр хэлэв: Учир нь Яхийн сэнтий дээр гар ⟨нь⟩ байна; Яхвэ Амалектэй үеэс үед дайтах болно.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "יד",
+      "gloss": "гар"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כס",
+      "gloss": "сэнтий"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яхийн"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "дайтах"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "Амалектэй"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "үеэс"
+    },
+    {
+      "surface": "דר",
+      "gloss": "үед"
+    }
+  ],
+  "timestamp": "2026-10-04T10:11:20.984842493Z",
+  "model": "glm-5.3"
+}

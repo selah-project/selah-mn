@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Яаж бүдэгрэв алт, яаж өөрчлөгдөв цэвэр сайхан алт! Ариун сүмийн чулууд бүх гудамжийн эхэнд асгарчээ.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Яаж"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "бүдэгрэв"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алт"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "өөрчлэгдөв"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "цэвэр"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "асгарчээ"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "чулууд"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "эхэнд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "гудамжийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:08.617172750Z",
+  "model": "glm-5.3"
+}

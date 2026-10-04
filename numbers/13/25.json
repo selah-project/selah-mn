@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 13:25",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Тэд газрыг тагнаснаа дөчин хоногийн төгсгөлд бүрэн дуусгаж буцав.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "буцав"
+    },
+    {
+      "surface": "מתור",
+      "gloss": "тагнаснаа"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрыг"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "төгсгөлд"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "дөчин"
+    },
+    {
+      "surface": "יום",
+      "gloss": "хоногийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:39:11.767787047Z",
+  "model": "glm-5.3"
+}

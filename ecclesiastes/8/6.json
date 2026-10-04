@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Учир нь хүсэл бүхэд цаг ба шүүлт бий, учир нь хүний муу нь түүн дээр их юм.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүхэд"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "хүсэл"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ба шүүлт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "муу нь"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "их"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүн дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:17.756515558Z",
+  "model": "glm-5.3"
+}

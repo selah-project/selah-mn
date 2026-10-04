@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Харин Моше хүн маш даруу, газрын нүүр дээрх бүх хүнээс илүү даруу байв.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "Харин хүн"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "даруу"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бүх … өөс илүү"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "дээрх"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүр"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "газрын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:40:08.531784409Z",
+  "model": "glm-5.3"
+}

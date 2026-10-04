@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Бүх гар сулран, бүх өвдөг ус мэт болно.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "гар"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "сулран"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "өвдөг"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус мэт"
+    }
+  ],
+  "timestamp": "2026-10-04T12:58:01.403600673Z",
+  "model": "glm-5.3"
+}

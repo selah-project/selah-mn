@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 15:22",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Хэрэв та нар алдуурч, Яхвэ Мошед айлдсан эдгээр бүх тушаалын ⟨את⟩-г биелүүлэхгүй бол",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "תשגו",
+      "gloss": "алдуурч"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "биелүүлэхгүй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх тушаалууд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "тушаалууд"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдсан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-10-04T10:41:31.764796081Z",
+  "model": "glm-5.3"
+}

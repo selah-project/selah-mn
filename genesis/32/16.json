@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 32:16",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Сүүгээр өнгөөсөн тэмээ болон тэдний_botол зуу, үнээ дөч, үхэр арваа, илжиг эх хорь, botол арваа.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "тэмээ"
+    },
+    {
+      "surface": "мיניקות",
+      "gloss": "сүүгээр өнгөөсөн"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "болон тэдний_botол"
+    },
+    {
+      "surface": "שלושים",
+      "gloss": "гуч"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "үнээ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "дөч"
+    },
+    {
+      "surface": "ופרים",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арваа"
+    },
+    {
+      "surface": "אתנות",
+      "gloss": "илжиг эх"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорь"
+    },
+    {
+      "surface": "ועירים",
+      "gloss": "botол"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арваа"
+    }
+  ],
+  "timestamp": "2026-10-04T09:56:56.977474928Z",
+  "model": "glm-5.3"
+}

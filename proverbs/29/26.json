@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Олон хүн засаглагчийн нүүрийг хайж, харин хүний шүүлт Яхвээс гарна.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Олон"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "хайж"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүрийг"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "засаглагчийн"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "харин Яхвээс"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлт"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүний"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:52.626971430Z",
+  "model": "glm-5.3"
+}

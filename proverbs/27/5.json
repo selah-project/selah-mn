@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Илэн далангүй зэмлэл дээр нуусан хайр нь илүү сайн.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "илүү сайн"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "зэмлэл"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "илэн далангүй"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "хайр"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "нуусан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:22.451009161Z",
+  "model": "glm-5.3"
+}

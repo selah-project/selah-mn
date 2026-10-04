@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Олсуудыг хийж, ⟨את⟩ тэдгээрийг алтаар бүрхжээ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "хийжээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "олсууд"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "олсууд"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "модон"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиитим"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "бүрхжээ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ тэдгээрийг"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтаар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:20:28.344154833Z",
+  "model": "glm-5.3"
+}

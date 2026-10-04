@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Бет-Лехемын эцэг Салма, Бет-Гадерын эцэг Хареф.",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "Салма"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехемын"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "Хареф"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Гадерын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:42.460626921Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Та нар хэдийг бэлдэх тусам тус бүрт нь тоогоор нь ингэж хийгээрэй.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "тоогоор"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кий"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "бэлдэх"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "инггэж"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "хийгээрэй"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "тус бүрт"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "тоогоор нь"
+    }
+  ],
+  "timestamp": "2026-10-04T10:40:46.390443381Z",
+  "model": "glm-5.3"
+}

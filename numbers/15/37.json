@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Яхвэ Мошед айлдаж: гэв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдаж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэв"
+    }
+  ],
+  "timestamp": "2026-10-04T10:41:28.752611073Z",
+  "model": "glm-5.3"
+}

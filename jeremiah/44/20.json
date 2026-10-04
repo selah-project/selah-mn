@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 44:20",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 44,
+  "translation": "Ирмеяху бүх ард түмэнд — эрэгтэйчүүд, эмэгтэйчүүд ба түүнд хариулж байсан бүх ард түмэнд — хэлэв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "болон хэлэв"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "эрэгтэйчүүд"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "эмэгтэйчүүд"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "הענים",
+      "gloss": "хариулж байсан"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "үг"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    }
+  ],
+  "timestamp": "2026-10-04T12:52:15.602740565Z",
+  "model": "glm-5.3"
+}

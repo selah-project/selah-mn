@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Тэнэг хүний чихэнд бүү яриа, учир нь тэр чиний үгийн мэргэн ухааныг дорд үзнэ.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "чихэнд"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "тэнэг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "яриа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "дорд үзнэ"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "мэргэн ухааныг"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "чиний үг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:16.073175502Z",
+  "model": "glm-5.3"
+}

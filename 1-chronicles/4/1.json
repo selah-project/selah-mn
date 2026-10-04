@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Йехудагийн хөвгүүд: Перец, Хецрон, Карми, Хур ба Шовал.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "Карми"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "Хур"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "Шовал"
+    }
+  ],
+  "timestamp": "2026-10-04T15:58:33.537773296Z",
+  "model": "glm-5.3"
+}

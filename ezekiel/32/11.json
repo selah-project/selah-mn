@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Учир нь Адонай Яхвэ ингэж айлдаж байна: Бабилын хааны илд чам дээр ирнэ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "илд"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабилын"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "чам дээр ирнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:09:21.022017510Z",
+  "model": "glm-5.3"
+}

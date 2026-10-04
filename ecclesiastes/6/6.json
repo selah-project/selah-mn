@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Хэрвээ тэр мянган жил хоёр удаа амьдарсан боловч сайныг үзээгүй бол — бүгд нэг газар луу явахгүй гэж үү?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "хэрвээ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "амьдарсан"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жил"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "хоёр удаа"
+    },
+    {
+      "surface": "вטובה",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "үзээгүй"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "гэж үү"
+    },
+    {
+      "surface": "אל",
+      "gloss": "луу"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "нэг газар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "явна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:00.305635112Z",
+  "model": "glm-5.3"
+}

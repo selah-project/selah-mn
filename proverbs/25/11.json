@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Мөнгөн зүслэг доторх алтан алим мэт, өөрийн цагтаа хэлэгдсэн үг билээ.",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "алим"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "зүслэг доторх"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "мөнгөн"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "хэлэгдсэн"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨өөрийн⟩"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "цагтаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:01.599136223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Хэрвээ тэр нь ор дээр, эсвэл түүний суудаг ямар ч эдлэл дээр байсан ч, хүн үүнд хүрвэл үд болтол бузар болно.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "хэрвээ"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "ор"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тер нь"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "эдлэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-д"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "түүний"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "суудаг"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "дээр нь"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "хүрвэл"
+    },
+    {
+      "surface": "בו",
+      "gloss": "үүнд"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "бузар болно"
+    },
+    {
+      "surface": "עד",
+      "gloss": "болтол"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "үд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:28:23.382118272Z",
+  "model": "glm-5.3"
+}

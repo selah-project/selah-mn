@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Тэгээд ард түмэн долдугаар өдөрт амрав.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "амрав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "долдугаар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:12:14.213770836Z",
+  "model": "glm-5.3"
+}

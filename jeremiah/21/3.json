@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Ирмэйяху тэдэнд хэлэв: Та нар Цидкийяхуд ингэж хэлээрэй.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмэйяху"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "хэлээрэй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкийяхуд"
+    }
+  ],
+  "timestamp": "2026-10-04T12:41:01.557088626Z",
+  "model": "glm-5.3"
+}

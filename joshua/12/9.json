@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Йерихогийн хаан, нэг; Ха-Айн хаан, Бет-Элийн захад байгч, нэг;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Йерихогийн"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ха-Айн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…г байгч"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "захад"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элийн"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T11:08:21.055868371Z",
+  "model": "glm-5.3"
+}

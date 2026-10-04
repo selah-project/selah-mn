@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 106,
+  "translation": "Пинхас боссоод залбирчээ, тахал зогсов.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "боссоод"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинхас"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "залбирчээ"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "зогсов"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "тахал"
+    }
+  ],
+  "timestamp": "2026-10-04T13:55:54.920533349Z",
+  "model": "glm-5.3"
+}

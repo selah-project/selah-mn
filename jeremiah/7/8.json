@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Харагтун, та нар худал үгэнд найдаж байна, ямар ч ашиггүй",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Харагтун"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "та нар"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "найдаж байна"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгэнд"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "худал"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ашиггүй"
+    }
+  ],
+  "timestamp": "2026-10-04T12:34:47.841933064Z",
+  "model": "glm-5.3"
+}

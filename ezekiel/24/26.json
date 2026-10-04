@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Тэр өдөр зугатагч чам дээр ирж, чихэнд чимээг хүргэх болно.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "зугатагч"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чам дээр"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "хүргэх"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "чихэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:05:55.267524730Z",
+  "model": "glm-5.3"
+}

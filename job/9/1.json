@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Ийову хариулж, хэлэв:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийову"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    }
+  ],
+  "timestamp": "2026-10-04T15:55:20.375317793Z",
+  "model": "glm-5.3"
+}

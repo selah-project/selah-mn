@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Ламех өөртөө хоёр эхнэр авав; нэгний нь нэр Ада, хоёр дахь нь Цилла байв.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "авав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Ламех"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "эхнэр"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "хоёр дахь"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "Цилла"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:44.478531961Z",
+  "model": "glm-5.3"
+}

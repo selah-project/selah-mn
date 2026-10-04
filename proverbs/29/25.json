@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 29:25",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Хүний аймшгаа урхи өгнө; харин Яхвэд найдагч өндөрт өргөгдөнө.",
+  "tokens": [
+    {
+      "surface": "חרדת",
+      "gloss": "аймшгаа"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "өгнө"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "урхи"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "харин … найдагч"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "ישגב",
+      "gloss": "өндөрт өргөгдөнө"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:52.626743588Z",
+  "model": "glm-5.3"
+}

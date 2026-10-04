@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Ах дүүдээ хүү төлүүлэхгүй: мөнгөний хүү, хоолны хүү, хүү төлүүлэх ямар ч зүйлийн хүү авахгүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "хүү төлүүлэхгүй"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ах дүүдээ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "мөнгөний"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "хоолны"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зүйлийн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "‑г"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "хүү төлүүлэх"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:17.661070436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Бесайн хөвгүүд, Меуним нарын хөвгүүд, Нефушесим нарын хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "Бесай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "Меуним"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "Нефушесим"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:27.152990074Z",
+  "model": "glm-5.3"
+}

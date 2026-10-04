@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 44,
+  "translation": "Хэрвээ бид Элохимын нэрийг мартаж, гадаад элд алгаа дэлгэсэн бол —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Хэрвээ"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "мартаж"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэрийг"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "ба … дэлгэсэн"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "алгаа"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "элд"
+    },
+    {
+      "surface": "זר",
+      "gloss": "гадаад"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:23.145717026Z",
+  "model": "glm-5.3"
+}

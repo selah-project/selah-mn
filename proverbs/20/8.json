@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Хаан шүүлтийн сэнтийд суудаг бөгөөд өөрийн нүдээр бүх мууг сээлгэн тараадаг.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "суудаг"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "сэнтий"
+    },
+    {
+      "surface": "דין",
+      "gloss": "шүүлтийн"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "тараадаг"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "өөрийн нүдээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "רע",
+      "gloss": "мууг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:30.591478498Z",
+  "model": "glm-5.3"
+}

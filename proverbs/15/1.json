@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Зөөлөн хариулт хилэнг буцаана, харин шаналгаат үг уур өдөөнө.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "хариулт"
+    },
+    {
+      "surface": "רך",
+      "gloss": "зөөлөн"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "буцаана"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "хилэн"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "харин үг"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "шаналгаат"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "өдөөнө"
+    },
+    {
+      "surface": "אף",
+      "gloss": "уур"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:48.688546833Z",
+  "model": "glm-5.3"
+}

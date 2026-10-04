@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Гэвч тэр нар ч үзээгүй, юу ч мэдээгүй — энэ нь тэрнээс илүү амар амгалантай.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "гэвч … ч"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "нар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "үзээгүй"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ч … үгүй"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мэдээгүй"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "амар амгалан"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "энэ нь"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "тэрнээс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:00.305170140Z",
+  "model": "glm-5.3"
+}

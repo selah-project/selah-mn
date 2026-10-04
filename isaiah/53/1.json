@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 53,
+  "translation": "Хэн бидний сонссонд итгэв? Яхвэгийн гар хэн дээр илэрсэн бэ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Хэн"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "итгэв"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "бидний сонссонд"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "ба гар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "илэрсэн бэ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:27:52.493748343Z",
+  "model": "glm-5.3"
+}

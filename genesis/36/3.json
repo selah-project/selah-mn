@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "ба Ишмаелын охин, Неваётын дүү Босматыг ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Босматыг"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Босматыг"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ишмаелын"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "дүү"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "Неваётын"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:24.293417382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Худал гэрчлэлээр найзынхаа эсрэг гэрчилдэг хүн — алх, илд ба хурц сум мөн.",
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "алх"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ба илд"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "ба сум"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "хурц"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "гэрчилдэг"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "найзынхаа эсрэг"
+    },
+    {
+      "surface": "עד",
+      "gloss": "гэрчлэл"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "худал"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:40.509363587Z",
+  "model": "glm-5.3"
+}

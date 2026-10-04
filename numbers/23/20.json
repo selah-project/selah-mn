@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 23:20",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Үзэгтүн, ерөөхийг би авсан; Тэр ерөөв, би үүнийг буцаахгүй.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "үзэгтүн"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ерөөхийг"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "авсан"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "ба ерөөв"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אשיבנה",
+      "gloss": "буцаахгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T10:45:13.484822013Z",
+  "model": "glm-5.3"
+}

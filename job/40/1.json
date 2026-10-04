@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Яхвэ ⟨את⟩ Ийовод хариулж, айлдлаа.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ийов"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдлаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:26:00.669804509Z",
+  "model": "glm-5.3"
+}

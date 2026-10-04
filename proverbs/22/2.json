@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Баян ба ядуу уулздаг; тэднийг бүгдийг Яхвэ хийсэн.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "баян"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "ба ядуу"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "уулздаг"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийсэн"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "тэднийг бүгдийг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:25.573582993Z",
+  "model": "glm-5.3"
+}

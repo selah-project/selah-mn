@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Амаа ба хэлээ хамгаалагч амьдралаа зовлонгоос хамгаалдаг.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "хамгаалагч"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "амаа"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ба хэлээ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "хамгаалдаг"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "зовлонгоос"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "амьдралаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:32.112482154Z",
+  "model": "glm-5.3"
+}

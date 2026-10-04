@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "алтан алга нэг, арван шекел жинтэй, шатсан тахилдлагаар дүүрэн.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "алга"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арван"
+    },
+    {
+      "surface": "зהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "дүүрэн"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "шатсан тахилдлага"
+    }
+  ],
+  "timestamp": "2026-10-04T10:36:05.852486256Z",
+  "model": "glm-5.3"
+}

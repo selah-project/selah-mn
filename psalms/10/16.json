@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Яхвэ хаан мөнхөд ба үүрд; үндэстнүүд Түүний газраас мөхсөн.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мөнхөд"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ба үүрд"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "мөхсөн"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "үндэстнүүд"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "Түүний газраас"
+    }
+  ],
+  "timestamp": "2026-10-04T13:35:56.782970410Z",
+  "model": "glm-5.3"
+}

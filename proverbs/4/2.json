@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Учир нь би та нарт сайн сургааль өгсөн; Миний Торааг бүү орхи.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "сургааль"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "би өгсөн"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Миний Торааг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "орхи"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:45.674424576Z",
+  "model": "glm-5.3"
+}

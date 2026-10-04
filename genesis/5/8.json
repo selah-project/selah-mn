@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Шетийн бүх өдрүүд есөн зуун арван хоёр жил байв; тэрээр үхэв.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "байв"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "өдрүүд"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Шетийн"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арван"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "есөн"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": ""
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үхэв"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:42.655141293Z",
+  "model": "glm-5.3"
+}

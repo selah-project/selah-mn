@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Тэд ⟨את⟩ Тораг сонсмогц холийн холимог бүхнийг Йисраэлээс салгав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Болов"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "сонсмогц"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тораг"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тораг"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "салгав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхнийг"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "холийн холимог"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Йисраэлээс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:06.149167785Z",
+  "model": "glm-5.3"
+}

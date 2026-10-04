@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 8:23",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Үүрдээс би тосологдсон, эхнээс, газар нутаг байхаас өмнө.",
+  "tokens": [
+    {
+      "surface": "מעולם",
+      "gloss": "Үүрдээс"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "би тосологдсон"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "эхнээс"
+    },
+    {
+      "surface": "מקדמי",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар нутаг байхаас"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:14.325882243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Рахелийн хөвгүүд: Йосеф, Биньямин.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахелийн"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "Биньямин"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:26.522827736Z",
+  "model": "glm-5.3"
+}

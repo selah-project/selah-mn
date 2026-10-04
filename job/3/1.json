@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Дараа нь Иов ⟨את⟩ амаа нээж, ⟨את⟩ өдрөө хараалав.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "дараа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "нь"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "нээж"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "амаа"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "амаа"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "хараалав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өдрөө"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "өдрөө"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:29.821444552Z",
+  "model": "glm-5.3"
+}

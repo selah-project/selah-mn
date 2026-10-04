@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Тэрээр алгаа ядуунд дэлгэж, гараа гуйлгачинд сарвайна.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "алгаа"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "дэлгэж"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ядуунд"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "ба гараа"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "сарвайна"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "гуйлгачинд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:03.295163398Z",
+  "model": "glm-5.3"
+}

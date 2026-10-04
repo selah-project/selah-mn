@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 146,
+  "translation": "Ях-ыг магтагтун! Миний сүнс ээ, Яхвэг магт, ⟨את⟩ Яхвэг магт!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "магтагтун"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "магт"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "миний сүнс ээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:02:56.939640751Z",
+  "model": "glm-5.3"
+}

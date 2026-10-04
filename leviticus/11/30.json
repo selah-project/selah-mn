@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "гекко, варан, мэлхий, элсний мэлхий ба хамелеон.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "гекко"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "варан"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "мэлхий"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "элсний мэлхий"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "хамелеон"
+    }
+  ],
+  "timestamp": "2026-10-04T10:25:35.719321776Z",
+  "model": "glm-5.3"
+}

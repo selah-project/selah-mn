@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Бани, Биннуй, Шими,",
+  "tokens": [
+    {
+      "surface": "וובני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "Биннуй"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    }
+  ],
+  "timestamp": "2026-10-04T14:48:21.506120716Z",
+  "model": "glm-5.3"
+}

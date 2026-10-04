@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Дорой байдлын үр нь Яхвэгийн хүндэтгэл; баялаг ба алдар ба амь.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "үр"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "дорой байдлын"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "хүндэтгэл"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "баялаг"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ба алдар"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ба амь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:25.573872859Z",
+  "model": "glm-5.3"
+}

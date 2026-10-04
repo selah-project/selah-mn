@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Дараа нь би ичгүүрт үзэгдэхгүй, би бүх тушаалуудад харж байх үед.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Дараа нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ичих"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "харж байх үед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "таны тушаалууд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:44.233318157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-samuel 20:40",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Йехонатан ⟨את⟩ зэвсгээ өөрийн хүүхэддээ өгч, түүнд: Явж, хот руу аваач гэв.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "өгч"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зэвсэг"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "зэвсгээ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "хүүхэддээ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөрийн"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "לך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "аваач"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хот руу"
+    }
+  ],
+  "timestamp": "2026-10-04T11:31:08.652256053Z",
+  "model": "glm-5.3"
+}

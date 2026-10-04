@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Ямар ч дутуу зүйлтэй юм байвал бүү өргө: учир нь та нарын хувьд таарахгүй байх болно.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "מום",
+      "gloss": "дутуу зүйл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "өргө"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "таарахгүй"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх болно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарын хувьд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:29:53.738684936Z",
+  "model": "glm-5.3"
+}

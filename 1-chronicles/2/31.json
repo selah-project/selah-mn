@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Аппаимын хөвгүүд Йиши; Йишийн хөвгүүд Шешан; Шешаны хөвгүүд Ахлай.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "Аппаим"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Йиши"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Йиши"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ахлай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:06.118328648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Левигийн хөвгүүдээс дөрвөн мянга зургаан зуу.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "…ээс"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ба зургаан"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуу"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:22.204373321Z",
+  "model": "glm-5.3"
+}

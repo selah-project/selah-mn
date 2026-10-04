@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Бериагийн хөвгүүд: Хебер ба Малкихел; тэр бол Бирзотын эцэг.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Бериа"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "Хебер"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "Малкихел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "Бирзот"
+    }
+  ],
+  "timestamp": "2026-10-04T15:59:22.770241715Z",
+  "model": "glm-5.3"
+}

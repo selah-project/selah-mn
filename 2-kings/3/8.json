@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр хэлэв: Бид ямар замаар өгсөх вэ? Тэр хэлэв: Эдомын цөлөөр дамжсан замаар.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אי",
+      "gloss": "яг"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "өгсөх вэ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "цөлөөр"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомын"
+    }
+  ],
+  "timestamp": "2026-10-04T11:59:01.812167941Z",
+  "model": "glm-5.3"
+}

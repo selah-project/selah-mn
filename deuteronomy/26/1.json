@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 26:1",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Мөн болно: чи Яхвэ Элохимын чинь өгсөн өв болгож өгөх газарт орж ирмэгц, түүнийг эзэлж, түүнд суурьшвал,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Мөн болно"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…мэгц"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "орж ирнэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "уг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимын чинь"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгч"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "өв болгож"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "эзэлж"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "суурьшвал"
+    },
+    {
+      "surface": "בה",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:59.492985101Z",
+  "model": "glm-5.3"
+}

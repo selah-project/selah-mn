@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Би, Кохелет, Йисраел дээр Ерушалаймд хаан байсан билээ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Кохелет"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "байсан билээ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Ерушалаймд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:02.432684306Z",
+  "model": "glm-5.3"
+}

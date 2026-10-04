@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 34:18",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Бичээч Шафан хаанд хэлэхдээ: Тахилч Хилкия надад ном өгөв; Шафан түүнийг хааны өмнө уншив.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "мэдэгдэв"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафан"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "бичээч"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "хаанд"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлэхдээ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ном"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Хилкия"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "уншив"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнийг"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафан"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    }
+  ],
+  "timestamp": "2026-10-04T15:23:54.390139865Z",
+  "model": "glm-5.3"
+}

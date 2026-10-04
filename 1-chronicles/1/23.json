@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "мөн ⟨את⟩ Офирыг, ⟨את⟩ Хавилыг, ⟨את⟩ Йовабыг. Эдгээр бүгд Йоктаны хөвгүүд байв.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Офирыг"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Офир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Хавилыг"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Хавила"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Йовабыг"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йоваб"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Йоктан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:22.998120371Z",
+  "model": "glm-5.3"
+}

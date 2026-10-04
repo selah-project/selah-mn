@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Тэдний тоологдсны тоо найман мянга таван зуу наян байв.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "байв"
+    },
+    {
+      "surface": "пקדיהם",
+      "gloss": "Тэдний тоологдсны тоо"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "найман"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "таван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуу"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "наян"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:40.720699039Z",
+  "model": "glm-5.3"
+}

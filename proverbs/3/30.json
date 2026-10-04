@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хүн чамд муу хийгээгүй бол шалтгаангүй бүү маргалд.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "бүү маргалд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "шалтгаангүй"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "чамд хийгээгүй"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:40.462777454Z",
+  "model": "glm-5.3"
+}

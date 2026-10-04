@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 4:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Тэгээд Теманы Элифаз хариулж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаз"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Теманы"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:23.576752824Z",
+  "model": "glm-5.3"
+}

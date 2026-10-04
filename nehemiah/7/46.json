@@ -1,0 +1,22 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Нетинимүүд: Цихагийн үрс, Хасуфагийн үрс, Таббаотын үрс.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "Нетинимүүд"
+    },
+    {
+      "surface": "бни",
+      "gloss": "NOT_HEBREW",
+      "note": "typo guard"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:24.826237710Z",
+  "model": "glm-5.3"
+}

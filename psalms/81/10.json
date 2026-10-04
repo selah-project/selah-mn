@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 81,
+  "translation": "Чамд харийн Эл байхгүй, чи харийн Элд бөхөлзөхгүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨байхгүй⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "זר",
+      "gloss": "харийн"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бөхөлзөхгүй"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "бөхөлзөхгүй"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Элд"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "харийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:41.169676872Z",
+  "model": "glm-5.3"
+}

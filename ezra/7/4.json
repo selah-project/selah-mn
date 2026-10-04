@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Зерахйагийн хүү, Уззигийн хүү, Буккийн хүү.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахйа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    }
+  ],
+  "timestamp": "2026-10-04T14:48:01.257103610Z",
+  "model": "glm-5.3"
+}

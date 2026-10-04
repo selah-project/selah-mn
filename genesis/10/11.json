@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Тэр нутгаас Ашшур гарч, ⟨את⟩ Ниневэ, ⟨את⟩ Реховот-Ир, ⟨את⟩ Келахыг барьжээ.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "нутаг"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ба барьжээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ниневэ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневэ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Реховот-Ир"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Реховот"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Ир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Келах"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Келах"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:56.838766939Z",
+  "model": "glm-5.3"
+}

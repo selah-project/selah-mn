@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэ Мошед айлдав, ингэж хэлж байна:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошед"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T10:06:06.253728317Z",
+  "model": "glm-5.3"
+}

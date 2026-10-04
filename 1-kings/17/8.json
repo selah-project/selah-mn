@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Яхвэгийн үг түүнд ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T11:53:54.452898532Z",
+  "model": "glm-5.3"
+}

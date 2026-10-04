@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Тэд Суккотоос хөдөлж, цөлийн захад Этамд буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "хөдлөв"
+    },
+    {
+      "surface": "мסכת",
+      "gloss": "Суккотоос"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Этамд"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "захад"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "цөлийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:10:11.693231451Z",
+  "model": "glm-5.3"
+}

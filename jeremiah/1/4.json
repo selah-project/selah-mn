@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Яхвэгийн үг надад ирж, айлдахдаа:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "…-жээ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "лאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T12:32:21.586812611Z",
+  "model": "glm-5.3"
+}

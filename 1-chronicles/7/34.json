@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Шамерийн хөвгүүд: Ахи, Роах, Йехувва, Арам.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Шамерийн"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Ахи"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "Роах"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "Йехувва"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "Арам"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:03.765181436Z",
+  "model": "glm-5.3"
+}

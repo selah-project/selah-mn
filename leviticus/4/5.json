@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Тосолсон тахилч өвсний цусаас аваж, ⟨את⟩ түүнийг уулзлын майхан руу оруулна.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "аваж"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "тосолсон"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "цусаас"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "өвсний"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "оруулна"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "түүнийг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "майхан"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "уулзлын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:23:52.014737579Z",
+  "model": "glm-5.3"
+}

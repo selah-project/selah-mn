@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Өөрийн нүдэндээ мэргэн бүү бай, Яхвэг ⟨את⟩ эмээж, муугаас буц.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бай"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мэргэн"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "өөрийн нүдэндээ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "эмээж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "буц"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "муугаас"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:23.863077818Z",
+  "model": "glm-5.3"
+}

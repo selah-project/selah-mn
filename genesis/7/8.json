@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ариун мал, мөн ариун бус мал, мөн жигүүртэн, газар дээр мөлхдөг бүхнээс.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "мөн -ээс"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "биш"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "мөн -ээс"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "жигүүртэн"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "бүхнээс"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "мөлхдөг"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:27.871875171Z",
+  "model": "glm-5.3"
+}

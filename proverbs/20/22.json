@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Бүү хэл: Би мууг хариулъа; Яхвэг хүлээ, Тэр чамайг аварна.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "би хариулъа"
+    },
+    {
+      "surface": "רע",
+      "gloss": "мууг"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "хүлээ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэг"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "Тэр аварна"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамайг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:43.290400978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Түүний ахын нэр Ювал байв; тэр бол киннор болон хуур тоглогч бүхний эцэг байв.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ба нэр"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "түүний ах"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Ювал"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байв"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "тоглогч"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "киннор"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ба хуур"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:54.637341042Z",
+  "model": "glm-5.3"
+}

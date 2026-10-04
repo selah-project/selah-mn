@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Энэ бол үлдсэн нутаг: Пелиштийн бүх бүс нутаг ба бүх Гешурчууд.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "нутаг"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "үлдсэн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "бүс нутаг"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Пелиштийн"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "Гешурчууд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:08:45.809836436Z",
+  "model": "glm-5.3"
+}

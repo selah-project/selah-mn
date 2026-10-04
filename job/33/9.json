@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Цэвэр би, бослого үгүй; гэм зэмгүй би, надад гаж буруу байхгүй.",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "цэвэр"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "бослого"
+    },
+    {
+      "surface": "חף",
+      "gloss": "гэм зэмгүй"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба байхгүй"
+    },
+    {
+      "surface": "עון",
+      "gloss": "гаж буруу"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    }
+  ],
+  "timestamp": "2026-10-04T14:22:48.627180968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Мерарийн хөвгүүд — тэдний ах дүүс — зүүн талаар: Кишийн хүү Эйтан, Абдигийн хүү, Маллухын хүү.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерарийн"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "тэдний ах дүүс"
+    },
+    {
+      "surface": "על",
+      "gloss": "талаар"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "зүүн"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Эйтан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "Кишийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Абдигийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Маллухын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:45.676953207Z",
+  "model": "glm-5.3"
+}

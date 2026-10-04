@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Тэгэхэд Яхвэгийн үг Иеремиад ирэв, ингэж айлдахдаа:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "тэгэхэд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Иеремиа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:48:13.344921696Z",
+  "model": "glm-5.3"
+}

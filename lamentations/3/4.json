@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр миний мах ба миний арьсыг өнхрүүлж, миний ясуудыг нэрсэн.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "өнхрүүлж"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "миний мах"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "ба миний арьсыг"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "нэрсэн"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "миний ясуудыг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:07.708237435Z",
+  "model": "glm-5.3"
+}

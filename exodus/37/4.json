@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Ба тээгч модод шиттим модон хийж, ⟨את⟩ тэдгээрийг алтаар бүрхэв.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "хийж"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "тээгч модод"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "модон"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттим"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "бүрхэв"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "тэдгээрийг"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтаар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:20:16.232064432Z",
+  "model": "glm-5.3"
+}

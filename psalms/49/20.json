@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Тэр өөрийн өвөг дээдсийн үе рүү орох бөгөөд тэд үүрд гэрлийг үзэхгүй.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "орох болно"
+    },
+    {
+      "surface": "עד",
+      "gloss": "руу"
+    },
+    {
+      "surface": "דור",
+      "gloss": "үе рүү"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "өөрийн өвөг дээдсийн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "үзэхгүй"
+    },
+    {
+      "surface": "אור",
+      "gloss": "гэрэл"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:54.523154458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Амьдралын зэмлэлийг сонсдог чих мэргэдийн дунд буудаг.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "чих"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "сонсдог"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "зэмлэлийг"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амьдралын"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мэргэдийн"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "буудаг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:57.234670963Z",
+  "model": "glm-5.3"
+}

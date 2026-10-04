@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 24:50",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Лабан, Бетуел хариулж хэлэв: Энэ үг Яхвээс гарсан, бид танд муу эсвэл сайныг хэлж чадахгүй.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лабан"
+    },
+    {
+      "surface": "ובתואל",
+      "gloss": "Бетуел"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхвээс"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "гарсан"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "энэ үг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "чадахгүй"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "хэлж"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "танд"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайныг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:32.154822169Z",
+  "model": "glm-5.3"
+}

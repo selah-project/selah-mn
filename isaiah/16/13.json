@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Энэ бол Яхвэийн хуучин цагаас Моабын тухай айлдсан үг мүн.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тийм"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдсан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тухай"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабын"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "хуучин цагаас"
+    }
+  ],
+  "timestamp": "2026-10-04T12:14:46.057246871Z",
+  "model": "glm-5.3"
+}

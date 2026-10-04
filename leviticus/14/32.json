@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Энэ бол цэрцэг өвчтэй хүний Тора бөгөөд ариусгалтдаа гар нь хүрдэггүй түүнийх юм.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ямх"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "шарх"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цэрцэг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ямх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "хүрдэг"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гар нь"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "ариусгалтдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:26:12.267700326Z",
+  "model": "glm-5.3"
+}

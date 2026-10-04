@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Давид тэр өдөр Яхвэгийн ⟨яахаас⟩ айж, хэлэв: Яхвэгийн авдар надад хэрхэн ирэх билээ?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "айж"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэг"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "איך",
+      "gloss": "хэрхэн"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ирэх"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "авдар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:37:12.942162613Z",
+  "model": "glm-5.3"
+}

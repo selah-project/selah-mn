@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 12:12",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Тэр эхийнхээ хэвлийгээс гарахдаа махны хагас нь идэгдсэн үхэгч шиг бүү болог.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-г"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бүү болог"
+    },
+    {
+      "surface": "כמת",
+      "gloss": "үхэгч шиг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-дaa"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "гарахдаа"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "хэвлийгээс"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "эхийнх"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "идэгдсэн"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "хагас"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "махны нь"
+    }
+  ],
+  "timestamp": "2026-10-04T10:39:20.045075460Z",
+  "model": "glm-5.3"
+}

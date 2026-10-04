@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Тэмээ дөрвөн зуун гучин тав, илжиг зургаан мянга долоон зуун хорь.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "Тэмээ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "гучин"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "тав"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "илжиг"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "хорь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:47.705514007Z",
+  "model": "glm-5.3"
+}

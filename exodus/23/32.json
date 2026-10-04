@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Тэдэнтэй болон тэдний бурхадтай гэрээ бүү байгуул.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "байгуул"
+    },
+    {
+      "surface": "להם",
+      "gloss": "Тэдэнтэй"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "тэдний бурхадтай"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "гэрээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:14:00.539333338Z",
+  "model": "glm-5.3"
+}

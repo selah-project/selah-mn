@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Бос, Ниневэ гэдэг агуу хот руу оч, түүнд би чамд айлдаж байгаа ⟨את⟩ зарлалыг зарла",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Бос"
+    },
+    {
+      "surface": "לך",
+      "gloss": "оч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневэ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ба зарла"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зарлалыг"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "зарлалыг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдаж байгаа"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:24:21.982367785Z",
+  "model": "glm-5.3"
+}

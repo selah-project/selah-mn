@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Учир нь би эцгийнхээ хүү байсан, зөөлөн, эхийнхээ өмнөх цорын ганц байсан.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "би байсан"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "эцгийнхээ"
+    },
+    {
+      "surface": "רך",
+      "gloss": "зөөлөн"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "цорын ганц"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнөх"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "эхийнхээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:45.674585435Z",
+  "model": "glm-5.3"
+}

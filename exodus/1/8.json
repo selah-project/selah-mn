@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Мицрайм дээр Йосефийг мэддэггүй шинэ хаан босов.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "босов"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "шинэ"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайм"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "мэддэггүй"
+    },
+    {
+      "surface": "ידע",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йосефийг"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-10-04T10:04:51.038146636Z",
+  "model": "glm-5.3"
+}

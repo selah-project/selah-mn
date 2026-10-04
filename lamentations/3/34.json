@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Өөрийн хөл дор газар нутгийн бүх олзлогдогсдыг дарахын тулд биш.",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "дарахын тулд"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "өөрийн хөл"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "олзлогдогсдыг"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар нутгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:12.172484193Z",
+  "model": "glm-5.3"
+}

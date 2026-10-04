@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 14:4",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Эдгээр нь Ерушалаймд түүнд төрсөн хөвгүүдийн нэрс: Шаммуа, Шовав, Натан, Шеломо.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "нэрс"
+    },
+    {
+      "surface": "הילודים",
+      "gloss": "төрсөн хөвгүүдийн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "היו",
+      "gloss": ""
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Ерушалаймд"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шаммуа"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "Шовав"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "Шеломо"
+    }
+  ],
+  "timestamp": "2026-10-04T15:03:06.396401048Z",
+  "model": "glm-5.3"
+}

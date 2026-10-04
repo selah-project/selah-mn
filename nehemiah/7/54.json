@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Бацлитын хөвгүүд, Мехидагийн хөвгүүд, Харшагийн хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "Бацлитын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "Мехидагийн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "Харшагийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:42.898717612Z",
+  "model": "glm-5.3"
+}

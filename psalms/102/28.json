@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 102,
+  "translation": "Харин та бол өөрөө мөн, таны жилүүд дуусахгүй.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Харин та"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "таны жилүүд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "дуусахгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T13:54:29.987114112Z",
+  "model": "glm-5.3"
+}

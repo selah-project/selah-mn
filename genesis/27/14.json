@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 27:14",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Тэр явж, авч, эхдээ авчрав; эх нь эцэг нь хайрладаг амттай хоолыг хийв. ",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "авч"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "авчрав"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "эхдээ"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "хийв"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "эх нь"
+    },
+    {
+      "surface": "מטעמים",
+      "gloss": "амттай хоол"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "яг тэр"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "хайрладаг"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцэг нь"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:16.865490111Z",
+  "model": "glm-5.3"
+}

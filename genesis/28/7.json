@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Яаков эцэг эхийнхээ үгийг дагаж, Паддан-Арам руу явсныг.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "дагаж"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "эх"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Паддан"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:00.478853766Z",
+  "model": "glm-5.3"
+}

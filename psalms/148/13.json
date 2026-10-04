@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 148:13",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 148,
+  "translation": "Тэд Яхвэгийн нэрийн нэр Яхвэгийн...",
+  "tokens": [],
+  "timestamp": "2026-10-04T14:02:31.501230772Z",
+  "model": "glm-5.3"
+}

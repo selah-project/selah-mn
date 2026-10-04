@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Моше хэлэв: Энэ бол Яхвэгийн тушаасан үг, үүнийг хийгтүн, тэгвэл Яхвэгийн суу танд илэрхий болно.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "хийгтүн"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "илэрхий болно"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "танд"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "суу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:24:43.703982971Z",
+  "model": "glm-5.3"
+}

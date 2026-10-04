@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Би чиний дунд дорд буурай ард үлдээх бөгөөд тэд Яхвэгийн нэрэд найдна.",
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "Би ... үлдээх бөгөөд"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "чиний дунд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ард"
+    },
+    {
+      "surface": "עני",
+      "gloss": "дорд"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "буурай"
+    },
+    {
+      "surface": "וחסו",
+      "gloss": "найдна"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "нэрэд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:28:12.232467157Z",
+  "model": "glm-5.3"
+}

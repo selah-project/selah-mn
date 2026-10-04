@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Яхвэ Мошетэй ярьж, айлдав.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ярьж, айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахаар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:01.649262420Z",
+  "model": "glm-5.3"
+}

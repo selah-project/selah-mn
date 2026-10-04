@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Ядуу хүнийг бүр өөрийн хөрш нь үзэн яддаг, ба баяныг дурлагчид олон.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "бүр"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "өөрийн хөрш"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "үзэн ядагдана"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ядуу"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "ба дурлагчид"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "баян"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "олон"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:50.969017260Z",
+  "model": "glm-5.3"
+}

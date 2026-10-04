@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Яхвэ Мошед айлдав, ингэж хэлж байна:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T10:31:58.379443482Z",
+  "model": "glm-5.3"
+}

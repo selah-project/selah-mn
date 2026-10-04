@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Арван хоёр дахь өдөр Нафталийн хөвгүүдийн тэргүүн Ахира, Ейнаны хүү ⟨өргөв⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "тэргүүн"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафталийн"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Ейнаны"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:54.526835889Z",
+  "model": "glm-5.3"
+}

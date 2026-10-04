@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Утай, Аммиудын хүү, Омригийн хүү, Имригийн хүү, Банийн хүү — Перецийн хөвгүүдээс, Йегудын хүү.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "Утай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммиудын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омригийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Имригийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Банийн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перецийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йегудын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:48.275296458Z",
+  "model": "glm-5.3"
+}

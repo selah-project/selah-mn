@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Мөн тэд буруу үйлдэхгүй, Түүний замуудаар алхдаг.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Мөн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "үйлдэхгүй"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "буруу"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "Түүний замуудаар"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "алхдаг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:56.970638529Z",
+  "model": "glm-5.3"
+}

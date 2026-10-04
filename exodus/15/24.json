@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Ард түмэн Мошегийн эсрэг гомдолложээ: Бид юу уух вэ?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "гомдолложээ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "על",
+      "gloss": "эсрэг"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошегийн"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлж"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "уух вэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:09:27.692958324Z",
+  "model": "glm-5.3"
+}

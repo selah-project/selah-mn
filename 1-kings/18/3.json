@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Ахааб өрхийн дарга Овадьяг дуудав; Овадья Яхвэг ихэд шүтдэг хүн байжээ.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "дуудав"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахааб"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Овадья"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "бол"
+    },
+    {
+      "surface": "על",
+      "gloss": "дарга"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "өрхийн"
+    },
+    {
+      "surface": "וועבדיהו",
+      "gloss": "ба Овадья"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байжээ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "шүтдэг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ихэд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:55:15.649885260Z",
+  "model": "glm-5.3"
+}

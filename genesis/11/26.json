@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Тахар долоон жил амьдран, ⟨את⟩ Аврамыг, ⟨את⟩ Нахорыг, мөн ⟨את⟩ Хараныг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "амьдран"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврамыг"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахорыг"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Хараныг"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Харан"
+    }
+  ],
+  "timestamp": "2026-10-04T09:49:06.664145342Z",
+  "model": "glm-5.3"
+}

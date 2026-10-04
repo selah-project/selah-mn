@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Йисашкар ясархаг илжиг, хаалганы хооронд хэвтдэг.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "Йисашкар"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "илжиг"
+    },
+    {
+      "surface": "гרם",
+      "gloss": "ясархаг"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "хэвтдэг"
+    },
+    {
+      "surface": "בין",
+      "gloss": "хооронд"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "хаалганы"
+    }
+  ],
+  "timestamp": "2026-10-04T10:04:50.429339250Z",
+  "model": "glm-5.3"
+}

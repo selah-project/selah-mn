@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Та нар дайснуудаа ⟨את⟩ хөөнө, тэд та нарын өмнө илдэд унана.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "хөөнө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дайснуудаа"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "дайснуудаа"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "унана"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "та нарын өмнө"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "илдэд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:32:34.348228931Z",
+  "model": "glm-5.3"
+}

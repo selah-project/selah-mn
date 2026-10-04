@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "газар дээр байгаа аливаа малын дүр төрх, тэнгэрт нисдэг аливаа далавчит шувууны дүр төрх.",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "дүр төрх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "аливаа"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "байгаа"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газар дээр"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "дүр төрх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "аливаа"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "шувууны"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "далавчит"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нисдэг"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "нисдэг"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "тэнгэрт"
+    }
+  ],
+  "timestamp": "2026-10-04T10:52:48.959015901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Миний нүүрний өмнө чамд өөр элохимууд байхгүй",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "элохимууд"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "על",
+      "gloss": "... -ны өмнө"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүрний"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:53.218654715Z",
+  "model": "glm-5.3"
+}

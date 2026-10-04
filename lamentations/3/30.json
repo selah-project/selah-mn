@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр алхагчдаа хаангаа өгөх ёстой, доромжлолоор цадна.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "өгөх ёстой"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "алхагчдаа"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "хаангаа"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "цадна"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "доромжлолоор"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:22.316920856Z",
+  "model": "glm-5.3"
+}

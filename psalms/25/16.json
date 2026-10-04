@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Над руу хар, надад нигүүлс, учир нь би ганц бөгөөд ядуу байна.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "хар"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Над руу"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "надад нигүүлс"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ганц"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "ядуу"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:23.670365555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Залхуу хүн хэлэхэд: Гадна арслан бий, гудамжийн дунд би алагдана.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "хэлэхэд"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "залхуу хүн"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "арслан"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "гадна"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "гудамжийн"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "би алагдана"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:25.982222826Z",
+  "model": "glm-5.3"
+}

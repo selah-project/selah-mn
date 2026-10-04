@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр миний замыг гуйвуулж, намайг тас бутаргав, намайг эзгүйрүүлэв.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "миний замыг"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "гуйвуулж"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "тас бутаргав"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "намайг"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "эзгүйрүүлэв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:49.937703188Z",
+  "model": "glm-5.3"
+}

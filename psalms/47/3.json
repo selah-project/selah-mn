@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 47,
+  "translation": "Учир нь Яхвэ Дээд, аймшгтай, бүх газар дээрх агуу Хаан.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Дээд"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "аймшгтай"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Хаан"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээрх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T13:43:11.743539453Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Хэрвээ эрэгтэй нэгэн эмэгтэйг авбал, түүн рүү орж, түүнийг үзэн ядвал",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "хэрвээ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "авбал"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эрэгтэй нэгэн"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эмэгтэйг"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "орж"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "түүн рүү"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "түүнийг үзэн ядвал"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:19.494698375Z",
+  "model": "glm-5.3"
+}

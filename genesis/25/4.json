@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 25:4",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Мидианы хөвгүүд Эфа, Эфер, Ханох, Абида, Элдаа байв. Эд бүхэн Ктурийн хөвгүүд байв.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидианы"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "Эфа"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "Эфер"
+    },
+    {
+      "surface": "וחנך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "Абида"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "Элдаа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ктурийн"
+    }
+  ],
+  "timestamp": "2026-10-04T09:54:16.506594260Z",
+  "model": "glm-5.3"
+}

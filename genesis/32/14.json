@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 32:14",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Тэр шөнийн тэр газар хоноод, гараараа бүхий зүйлээс Эсав ахындаа өргөл авав.",
+  "tokens": [
+    {
+      "surface": "וילן",
+      "gloss": "хоноод"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэр газар"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "шөнийн"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "авав"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "бүхий зүйлээс"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "гараараа"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "өргөл"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Эсавындаа"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ахын"
+    }
+  ],
+  "timestamp": "2026-10-04T09:56:56.977177380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 53,
+  "translation": "Тэд бүгд ухарч, хамтдаа бузар болжээ, сайныг хийгч алга, нэг ч үгүй.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ухарч"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "хамтдаа"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "бузар болжээ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "алга"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийгч"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "אין",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:44:27.243419868Z",
+  "model": "glm-5.3"
+}

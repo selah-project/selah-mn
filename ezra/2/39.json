@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Харимын хөвгүүд: мянга долоон.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харим"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-н"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:37.669751370Z",
+  "model": "glm-5.3"
+}

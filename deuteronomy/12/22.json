@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Зөвхөн зээр, бугыг иддэг ёсоор түүнийг идэх бөгөөд бузар ба ариун хүн хамт түүнийг иднэ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "зөвхөн"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ёсоор"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "иддэг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зээр"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "зээр"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "буга"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "буга"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тэр ёсоор"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "түүнийг идэх"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "бузар"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "ба ариун"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "түүнийг иднэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:40.881680604Z",
+  "model": "glm-5.3"
+}

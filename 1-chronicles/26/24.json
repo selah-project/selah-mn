@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Шебуэл бол Гершомын хөвгүүн, Мошегийн ач, сан хөмрөгийн захирагч байв.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "Шебуэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хөвгүүн"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершомын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ач"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошегийн"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "захирагч"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ны"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "сан хөмрөг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:07:01.561510012Z",
+  "model": "glm-5.3"
+}

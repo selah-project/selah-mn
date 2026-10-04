@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Ира Итирхэн, Гареб Итирхэн.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "Итирхэн"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гареб"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "Итирхэн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:47.063693725Z",
+  "model": "glm-5.3"
+}

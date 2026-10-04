@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Тэр түүнд хөвгүүд төрүүлэв — ⟨את⟩ Йеуш, ⟨את⟩ Шемарйа, ⟨את⟩ Захам.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йеуш"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Йеуш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Шемарйа"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Шемарйа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Захам"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Захам"
+    }
+  ],
+  "timestamp": "2026-10-04T15:11:59.642294810Z",
+  "model": "glm-5.3"
+}

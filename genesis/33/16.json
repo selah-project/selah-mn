@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэр өдөр Эсав өөрийн замаараа Сеир руу буцав.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "буцав"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "өөрийн замаараа"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "Сеир руу"
+    }
+  ],
+  "timestamp": "2026-10-04T09:57:25.755238670Z",
+  "model": "glm-5.3"
+}

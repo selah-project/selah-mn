@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Ус гуйхад түүнд сүү өгөв; сүлдэн аяа тааруулан өгүүсэн сүү авчрав.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "гуйхад"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "сүү"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "аяа"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "сүлдэн"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "авчрав"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "өгүүсэн сүү"
+    }
+  ],
+  "timestamp": "2026-10-04T11:14:19.753419124Z",
+  "model": "glm-5.3"
+}

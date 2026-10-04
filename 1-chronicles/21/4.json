@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 21:4",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Гэвч хааны үг Йоавын эсрэг хүчтэй болов, Йоав гарч, бүх Йисраэлд дамжин явж, Ерушалаймд ирэв.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "хааны үг"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "хүчтэй болов"
+    },
+    {
+      "surface": "על",
+      "gloss": "эсрэг"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоавын"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "ויתהלך",
+      "gloss": "damжин явж"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлд"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ирэв"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалаймд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:01.731487712Z",
+  "model": "glm-5.3"
+}

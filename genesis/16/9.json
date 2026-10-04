@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Яхвэгийн элч түүнд хэлэв: Эзэн эхнэрээ эргэж буцаж, түүний гар дор дорд.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לה",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "элч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "эр<br>гэж буц"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "эзэн эхнэрээ"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "дорд"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "түүний гар"
+    }
+  ],
+  "timestamp": "2026-10-04T09:50:47.349420110Z",
+  "model": "glm-5.3"
+}

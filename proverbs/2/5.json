@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Тэгвэл чи Яхвэгийн эмнээг ойлгож, Элохимын мэдлэгийг олно.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тэгвэл"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ойлгож"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "эмнээг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "мэдлэгийг"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "олно"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:52.909032683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Харин ⟨את⟩ мах болон ⟨את⟩ арьсыг галд шатааж, хуарангийн гадна устгав.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "мах"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "арьс"
+    },
+    {
+      "surface": "העור",
+      "gloss": "арьсыг"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "шатааж"
+    },
+    {
+      "surface": "באש",
+      "gloss": "галд"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "гадна"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "хуарангийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:24:20.447749895Z",
+  "model": "glm-5.3"
+}

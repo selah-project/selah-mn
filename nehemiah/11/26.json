@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "мөн Йешуад, мөн Моладад, мөн Бет-Палетад.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "мөн Йешуад"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "мөн Моладад"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "мөн Бет"
+    },
+    {
+      "surface": "флт",
+      "gloss": "Палетад"
+    }
+  ],
+  "timestamp": "2026-10-04T15:58:14.888594937Z",
+  "model": "glm-5.3"
+}

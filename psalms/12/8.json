@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Та, Яхвэ, тэднийг хамгаална; та үүрд энэ үеэс түүнийг хамгаална.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Та"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "тэднийг хамгаална"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "хамгаална"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "энэ үе"
+    },
+    {
+      "surface": "זו",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:35:52.426554765Z",
+  "model": "glm-5.3"
+}

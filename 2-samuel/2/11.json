@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Давид Йехудын гэрийн дээр Хевронд хаан байсан өдрийн тоо долоон жил зургаан сар байв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "тоо"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "өдрийн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нь"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "Хевронд"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэрийн"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехудын"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жил"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "сар"
+    }
+  ],
+  "timestamp": "2026-10-04T11:35:14.528702206Z",
+  "model": "glm-5.3"
+}

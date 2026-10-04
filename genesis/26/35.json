@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Тэд Йицхак болон Ривкад сүнсний гашуун болжээ.",
+  "tokens": [
+    {
+      "surface": "ויהיין→ותהיין",
+      "gloss": "болжээ"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "гашуун"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Йицхакад"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "Ривкад"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:41.056739194Z",
+  "model": "glm-5.3"
+}

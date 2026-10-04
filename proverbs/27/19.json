@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Усанд нүүр нүүртээ ⟨тусдаг⟩ шиг, хүний зүрх хүнд ⟨тусдаг⟩.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "усанд"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "нүүр"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "нүүртээ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "жиг"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "хүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:17.921678232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 32:16",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Шүүлт цөлд суурьшиж, цедек тариаланд сууна.",
+  "tokens": [
+    {
+      "surface": "ושכן",
+      "gloss": "суурьшиж"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлт"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "בכרמל",
+      "gloss": "тариаланд"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "сууна"
+    }
+  ],
+  "timestamp": "2026-10-04T12:18:58.482782620Z",
+  "model": "glm-5.3"
+}

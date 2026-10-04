@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Тэр: Өөртөө ав гэв. Тэр гараа сунган түүнийг авав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "ав"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "сунгав"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "түүнийг авав"
+    }
+  ],
+  "timestamp": "2026-10-04T11:59:32.771330318Z",
+  "model": "glm-5.3"
+}

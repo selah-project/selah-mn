@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Үүнээс Би сэрж, харлаа; миний нойс надад амттай байв.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "үүнээс"
+    },
+    {
+      "surface": "זאת",
+      "gloss": " энэ"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "Би сэрж"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "харлаа"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "миний нойс"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "амттай байв"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    }
+  ],
+  "timestamp": "2026-10-04T12:44:25.871916328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Балак Билеамд хэлэв: Хараах ч бүү хараа, ивээх ч бүү ивээ ⟨тэднийг⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билеам"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "קב",
+      "gloss": "хараах"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "хараа"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ивээх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "ивээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:44:28.210918409Z",
+  "model": "glm-5.3"
+}

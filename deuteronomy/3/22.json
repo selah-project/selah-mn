@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэднээс бүү ай; учир нь Яхвэ Элохимын чинь Өөрөө таны төлөө тулалдаг.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "ай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Өөрөө"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "тулалдаг"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "таны төлөө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:36.401359538Z",
+  "model": "glm-5.3"
+}

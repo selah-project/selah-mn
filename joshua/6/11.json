@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 6:11",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэгийн авдар ⟨את⟩ хотыг нэг удаа тойрч, тэд хүрээнд ирж, хүрээнд өнжив.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "тойрч"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "авдар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хотыг"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хотыг"
+    },
+    {
+      "surface": "הקף",
+      "gloss": "тойрон"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "удаа"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "хүрээнд"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "өнжив"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "хүрээнд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:34:31.829899410Z",
+  "model": "glm-5.3"
+}

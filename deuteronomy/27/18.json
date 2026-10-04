@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Замд нь сохрохыг учруулсан хүн хараат. Бүх ард түмэн амен гэж хэлнэ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "хараат"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "сохрохыг учруулсан"
+    },
+    {
+      "surface": "עור",
+      "gloss": "сохор"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "замд"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ба хэлнэ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "амен"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:49.563722957Z",
+  "model": "glm-5.3"
+}

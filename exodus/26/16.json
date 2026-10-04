@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Самбарын урт нь арван тохой, нэг самбарын өргөн нь нэг тохой хагас.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "тохой"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "урт"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "самбарын"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ба нэг тохой"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "хагас"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "тохой"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "өргөн"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "самбарын"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:15:24.670843862Z",
+  "model": "glm-5.3"
+}

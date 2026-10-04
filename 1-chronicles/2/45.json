@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Шаммайн хүү нь Маон бөгөөд Маон нь Бэйт Цурын эцэг байв.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "хүү нь"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммайн"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Маон"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "бөгөөд Маон"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бэйт"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цурын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:52.234634131Z",
+  "model": "glm-5.3"
+}

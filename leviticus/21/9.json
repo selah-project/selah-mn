@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 21:9",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Тахилч хүний охин хэрвээ завхайрч эхэлбэл тэр ⟨את⟩ эцгийнхээ бузарлуулна, галд шатаагдана.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэрвээ"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "эхэлбэл"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "завхайрч"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эцгийнхээ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "מחללת",
+      "gloss": "бузарлуулна"
+    },
+    {
+      "surface": "באש",
+      "gloss": "галд"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "шатаагдана"
+    }
+  ],
+  "timestamp": "2026-10-04T10:30:40.487433510Z",
+  "model": "glm-5.3"
+}

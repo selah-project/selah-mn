@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 9:27",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Элохим Яфетийг ⟨өргөн⟩, Шемийн майханд оршин сууг; Кенаан түүний боол болог.",
+  "tokens": [
+    {
+      "surface": "יפת",
+      "gloss": "өргөн"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ליפת",
+      "gloss": "Яфетийг"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "оршин сууг"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "майханд"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шемийн"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болог"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "боол"
+    },
+    {
+      "surface": "למו",
+      "gloss": "түүний"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:23.688331511Z",
+  "model": "glm-5.3"
+}

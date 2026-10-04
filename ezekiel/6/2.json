@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Хүний хүү, царайгаа Йисраелийн уулс руу хандуулж, тэдэнд эш үзүүлэгтүн.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "שים",
+      "gloss": "хандуулж"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "царайгаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "уулс"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ба эш үзүүлэгтүн"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "тэдэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T12:58:22.656927170Z",
+  "model": "glm-5.3"
+}

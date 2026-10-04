@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Одооноос чи Надад 'Эцэг минь, залуу насын минь нөхөр Та' гэж дуудсан биш үү?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "биш үү"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "одооноос"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "дуудсан"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Надад"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Эцэг минь"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "нөхөр"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "залуу насын"
+    },
+    {
+      "surface": "Атă",
+      "gloss": "Та"
+    }
+  ],
+  "timestamp": "2026-10-04T12:33:00.702345209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Нэг ямааны ухна нүглийн тахилгаар.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ухна"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ямааны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "нүглийн тахилгаар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:55.812353952Z",
+  "model": "glm-5.3"
+}

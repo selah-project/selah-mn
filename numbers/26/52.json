@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Яхвэ Мошетэй ярьж, айлдахдаа хэлэв.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ярьж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа хэлэв"
+    }
+  ],
+  "timestamp": "2026-10-04T10:45:42.415557669Z",
+  "model": "glm-5.3"
+}

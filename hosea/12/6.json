@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Яхвэ Цебаотын Элохим — Яхвэ бол Түүний дурсгал.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим нь"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Цебаотын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "Түүний дурсгал"
+    }
+  ],
+  "timestamp": "2026-10-04T13:18:58.903160564Z",
+  "model": "glm-5.3"
+}

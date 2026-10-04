@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Арван нэгдүгээр өдөр Ашерийн хөвгүүдийн ноён Пагиил, Охраны хүү ⟨өргөв⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "арван нэгдүгээр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашерийн"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Пагиил"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Охраны"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:36.968342727Z",
+  "model": "glm-5.3"
+}

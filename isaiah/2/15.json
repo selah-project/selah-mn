@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Мөн бүх өндөр цамхаг дээр, мөн бүх бэхлэгдсэн хэрэм дээр.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "мөн ... дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "цамхаг"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "мөн ... дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "хэрэм"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "бэхлэгдсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:09:08.157971408Z",
+  "model": "glm-5.3"
+}

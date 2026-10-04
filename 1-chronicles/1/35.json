@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Эсавын хөвгүүд: Элифаз, Реуэл, Иеуш, Иалам, Корах.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсавын"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифаз"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуэл"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ба Иеуш"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "Иалам"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "Корах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:49.176807930Z",
+  "model": "glm-5.3"
+}

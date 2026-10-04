@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 27:12",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Яхвэ Мошед хэлэв: Энэ Аварим ууланд өгсөж оч, Би Йисраелын хөвгүүдэд өгсөн газрыг ⟨את⟩ хар.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "өгсөж оч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "Аварим"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "хар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "газрыг"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "уг"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "Би өгсөн"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдэд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:08.618876421Z",
+  "model": "glm-5.3"
+}

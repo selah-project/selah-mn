@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Тэрээр хэлэв: Би Аврахамын зарц билээ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "тэрээр хэлэв"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "зарц"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахамын"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:39.656359093Z",
+  "model": "glm-5.3"
+}

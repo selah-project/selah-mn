@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 99,
+  "translation": "Яхвэ Сионд агуу, Тэр бүх ард түмнүүдээс ⟨өндөр⟩ юм.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Сионд"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "кל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ард түмнүүд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:54:05.555785645Z",
+  "model": "glm-5.3"
+}

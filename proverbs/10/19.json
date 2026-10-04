@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Үг олон байхад гэм буруу зогсохгүй, уруулаа барьдаг хүн мэргэн.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "олноор"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "үг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "зогсоно"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "гэм буруу"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "ба барьдаг"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "уруулаа"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "мэргэн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:27.801687127Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Ийов өөрийн зүйрлэлийг дахин өргөж, хэлэв",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "дахин өргөж"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "өргөж"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "өөрийн зүйрлэлийг"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:22:26.819669992Z",
+  "model": "glm-5.3"
+}

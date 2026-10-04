@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Яхвэ Мошед айлдаж, хэлж байна.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T10:42:04.930428214Z",
+  "model": "glm-5.3"
+}

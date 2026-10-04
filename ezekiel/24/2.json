@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 24:2",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Хүний хүү минь, энэ өдрийн ⟨את⟩ нэрийг өөртөө бич — энэ ⟨את⟩ яг энэ өдөр Бабелын хаан Ерушалайм руу довтолсон өдөр.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "бич"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нэр"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэрийг"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдрийн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "яг энэ өдөр"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "яг"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "סמך",
+      "gloss": "довтолсон"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабелын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалайм"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "яг"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:06:05.257047807Z",
+  "model": "glm-5.3"
+}

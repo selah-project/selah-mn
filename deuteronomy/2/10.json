@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Эмимүүд өмнө нь тэнд амьдардаг байв; том олон өндөр ард түмэн, Анакимын адил.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Эмимүүд"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "өмнө нь"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "амьдардаг байв"
+    },
+    {
+      "surface": "בה",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "том"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ба олон"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ба өндөр"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "Анакимын адил"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:25.648623304Z",
+  "model": "glm-5.3"
+}

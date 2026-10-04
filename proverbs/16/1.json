@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Хүнд зүрхний зохицол хамаарна, харин Яхвэгээс хэлний хариулт ирдэг.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "зохицол"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрхний"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "харин Яхвэгээс"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "хариулт"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "хэлний"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:33.819896062Z",
+  "model": "glm-5.3"
+}

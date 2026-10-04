@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 7:19",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ус газар дээр маш маш их хүчлэв; бүх тэнгэрийн дор байгаа өндөр уулс бүгд бүрхэгдэв.",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "хүчлэв"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш их"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "бүрхэгдэв"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "уулс"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "байгаа"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "тэнгэрийн"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:45.682804188Z",
+  "model": "glm-5.3"
+}

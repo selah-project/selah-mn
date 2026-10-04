@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Хүн өөрийн эцгийн эхнэрийг авахгүй ба эцгийнхээ далавчийг ч ил болгохгүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "авахгүй"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өөрийн эцгийн эхнэрийг"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "эхнэр"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "өөрийн эцэг"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба үгүй"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ил болгохгүй"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "далавч"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "өөрийн эцэг"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:08.557814693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэгийн авралыг найдлага тээн, нам гүм байх нь ⟨хүнд⟩ сайхан.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "найдлага тээж"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "нам гүм байж"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "…авралыг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:34.820430197Z",
+  "model": "glm-5.3"
+}

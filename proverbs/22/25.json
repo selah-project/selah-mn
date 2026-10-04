@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Түүний замыг сурч, амьсгалын чинь тулд урхи авах вий.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "бүү ... вий"
+    },
+    {
+      "surface": "תאלף",
+      "gloss": "сурч"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "түүний замыг"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "авах"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "урхи"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "амьсгалын чинь тулд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:56.316610791Z",
+  "model": "glm-5.3"
+}

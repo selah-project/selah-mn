@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Махарай Нетофатийнхон, Хэлед Баанагийн хүү, Нетофатийнхон.",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "Махарай"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "Нетофатийнхон"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "Хэлед"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Баанагийн"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "Нетофатийнхон"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:21.388877947Z",
+  "model": "glm-5.3"
+}

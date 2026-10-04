@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Моше тэднийг ⟨את⟩ Яхвэгийн амаар бүртгэв, тушаагдсаны дагуу.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "бүртгэв"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "тэднийг"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ын дагуу"
+    },
+    {
+      "surface": "פי",
+      "gloss": "амаар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дагуу"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаагдсаны"
+    }
+  ],
+  "timestamp": "2026-10-04T10:34:46.629153066Z",
+  "model": "glm-5.3"
+}

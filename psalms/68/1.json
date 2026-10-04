@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 68,
+  "translation": "Хөгжмийн удирдагчид, Давидын зохиосон мязмор, дуу.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хөгжмийн удирдагчид"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мязмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "дуу"
+    }
+  ],
+  "timestamp": "2026-10-04T13:46:05.712617071Z",
+  "model": "glm-5.3"
+}

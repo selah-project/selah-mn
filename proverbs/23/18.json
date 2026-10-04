@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Учир нь хожим төгсгөл бий, таны найдвар таслагдахгүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "хожим төгсгөл"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "таны найдвар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "таслагдана"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:34.635893486Z",
+  "model": "glm-5.3"
+}

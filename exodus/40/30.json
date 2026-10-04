@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 40:30",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Мөн ⟨את⟩ савыг уулзалтын майхан ба тахилын хооронд тавьж, тэнд угаах ус хийв.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "тавьж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сав"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "сав"
+    },
+    {
+      "surface": "בין",
+      "gloss": "хооронд"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "майхан"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "уулзалтын"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ба"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "тахилын"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "хийв"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "угаах"
+    }
+  ],
+  "timestamp": "2026-10-04T10:20:58.997551348Z",
+  "model": "glm-5.3"
+}

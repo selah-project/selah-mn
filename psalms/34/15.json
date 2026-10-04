@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Муугаас бууж, сайныг хий; энх тайвныг эрэлхийл, түүнийг хөө.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "бууж"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "муугаас"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "хий"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "эрэлхийл"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "энх тайвныг"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "түүнийг хөө"
+    }
+  ],
+  "timestamp": "2026-10-04T13:39:52.774634598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Моше Корахд хэлэв: Сонсогтун, Левийн хөвгүүд ээ!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Сонсогтун"
+    },
+    {
+      "surface": "נא",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:40:53.054712444Z",
+  "model": "glm-5.3"
+}

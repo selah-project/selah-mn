@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Арван хоёр сарын төгсгөлд тэрээр Бабелын хааны ордны дээр алхаж байв.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "төгсгөлд"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "сарын"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ордон"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨болсон⟩"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабелын"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "алхаж"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "байв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:40:28.417722019Z",
+  "model": "glm-5.3"
+}

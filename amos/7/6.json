@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Яхвэ үүнээс нь гэмшив; энэ ч бас бүү болтугай гэж Адонай Яхвэ айлдав.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "гэмшив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "על",
+      "gloss": "үүнээс"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "энэ нь"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "היא",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "бүү болтугай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:23:58.569387795Z",
+  "model": "glm-5.3"
+}

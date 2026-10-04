@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Яхвэ Мошед ярьж, ингэж хэлэв.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ярьж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлэв"
+    }
+  ],
+  "timestamp": "2026-10-04T10:46:33.725811223Z",
+  "model": "glm-5.3"
+}

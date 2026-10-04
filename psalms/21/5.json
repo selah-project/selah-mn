@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Амьдрог чамаас гуйсан, чи түүнд өгсөн — өдрийн уртыг үүрд мөнхөд.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "амьдрог"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "гуйсан"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "чамаас"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "чи өгсөн"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "уртыг"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдрийн"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "мөнхөд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:37:31.928363349Z",
+  "model": "glm-5.3"
+}

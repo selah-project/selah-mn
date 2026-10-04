@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Төрөх цаг, үхэх цаг; суулгах цаг, суулгасныг нь авах цаг.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "төрөх"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба үхэх цаг"
+    },
+    {
+      "surface": "למות",
+      "gloss": "үхэх"
+    },
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "суулгах"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба ... цаг"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "авах"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "суулгасныг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:16.819414838Z",
+  "model": "glm-5.3"
+}

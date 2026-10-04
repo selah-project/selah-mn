@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Нар, гэрэл, сар, одод харанхуйлжаагүй байхад, үүлс борооны дараа буцан ирээгүй байхад.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэзээ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "харанхуйлно"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нар"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "ба гэрэл"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "ба сар"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "ба одод"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "ба буцна"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "үүлс"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "дараа"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "борооны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:36:35.478572924Z",
+  "model": "glm-5.3"
+}

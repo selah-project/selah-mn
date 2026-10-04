@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Гадынхан: Элиасаф, Деуэлийн хүү.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "Гадынхан"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Элиасаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуэл"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:09.705125300Z",
+  "model": "glm-5.3"
+}

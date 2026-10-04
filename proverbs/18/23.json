@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Ядуу хүн гуйлт хийнэ, баян хүн хатуу занд хариулна.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "гуйлт"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ярина"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ядуу"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "ба баян"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "хариулна"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "хатуу занд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:22.446903996Z",
+  "model": "glm-5.3"
+}

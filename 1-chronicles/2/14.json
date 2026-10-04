@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Нетанел дөрөв дэх нь, Раддай тав дахь нь.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанел"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "дөрөв дэх нь"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "Раддай"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "тав дахь нь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:58.047633909Z",
+  "model": "glm-5.3"
+}

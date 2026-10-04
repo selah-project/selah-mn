@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Учир нь Би ядарсан амийг цэнэглэв, мөн шаналсан бүх амийг Би дүүргэсэн.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "Би цэнэглэв"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амид"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ядарсан"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "мөн бүх"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амь"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "шаналсан"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "Би дүүргэсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:44:25.871668650Z",
+  "model": "glm-5.3"
+}

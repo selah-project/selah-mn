@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Хаан Аазын үхлийн жилд энэ ачаа байгуулагдав.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "... -ын жилд"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхлийн"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ааз"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байгуулагдав"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ачаа"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:13:39.156918229Z",
+  "model": "glm-5.3"
+}

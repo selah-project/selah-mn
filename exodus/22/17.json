@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Ид шидтэн эмэгтэйд амьд явааг зөвшөөрөхгүй.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "ид шидтэн эмэгтэйд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "зөвшөөрөхгүй"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "амьд явааг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:13:23.111731058Z",
+  "model": "glm-5.3"
+}

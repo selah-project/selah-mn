@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Моше Яхвэ ⟨את⟩ өөрт нь тушаасны дагуу үйлдэв — тийм ч атлаа тэр үйлдэв.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "үйлдэв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дагуу"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ өөрт нь"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тийм ч атлаа"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "үйлдэв"
+    }
+  ],
+  "timestamp": "2026-10-04T10:41:50.155789567Z",
+  "model": "glm-5.3"
+}

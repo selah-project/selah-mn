@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Яхвэгийн нүд мэдлэгийг хамгаалдаг, бусдын үгийг эвддэг.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "нүд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "хамгаалдаг"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "мэдлэгийг"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "эвддэг"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "бусдын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:17.811306918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Харимын хөвгүүд — гурван зуун хорь.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харимын"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "хорь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:44:58.811881202Z",
+  "model": "glm-5.3"
+}

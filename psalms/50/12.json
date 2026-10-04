@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 50,
+  "translation": "Хэрэв Би өлсөх бол чамд хэлэхгүй, учир нь дэлхий ба түүний дүүрэл Минийх.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "Би өлсөх бол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэлэх"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Минийх"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "дэлхий"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "түүний дүүрэл"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:32.899041715Z",
+  "model": "glm-5.3"
+}

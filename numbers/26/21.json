@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 26:21",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Перецийн хөвгүүд байв: Хецроноос Хецрон овог, Хамулаас Хамул овог.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "байв"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "לחצרן",
+      "gloss": "Хецроноос"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "овог"
+    },
+    {
+      "surface": "החצרני",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "לחמול",
+      "gloss": "Хамулаас"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "овог"
+    },
+    {
+      "surface": "החמולי",
+      "gloss": "Хамул"
+    }
+  ],
+  "timestamp": "2026-10-04T10:44:43.008988386Z",
+  "model": "glm-5.3"
+}

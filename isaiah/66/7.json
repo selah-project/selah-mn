@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 66,
+  "translation": "Тэр өвдөхөөсөө өмнө төрөв, өвдөлт нь ирэхээс өмнө эр хүү төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "өвдөхөөсөө"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрөв"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ирэхээс"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "өвдөлт"
+    },
+    {
+      "surface": "לה",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эр хүү"
+    }
+  ],
+  "timestamp": "2026-10-04T12:31:16.095142435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэ Мошетой ярьж, айлдсан нь:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ярьж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдсан нь:"
+    }
+  ],
+  "timestamp": "2026-10-04T10:22:42.361680733Z",
+  "model": "glm-5.3"
+}

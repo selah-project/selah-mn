@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Тэр хэлэв: Чи үнэхээр миний хүү Эсав мөн үү? Тэр хэлэв: Би мөн.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "миний хүү"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би мөн"
+    }
+  ],
+  "timestamp": "2026-10-04T09:54:54.604728409Z",
+  "model": "glm-5.3"
+}

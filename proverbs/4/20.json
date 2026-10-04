@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 4:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Хүү минь, миний үгс рүү чихээ сөх, миний хэлсэнд чихээ хандуул.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Хүү минь"
+    },
+    {
+      "surface": "לדברי",
+      "gloss": "миний үгс рүү"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "чихээ сөх"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "миний хэлсэнд"
+    },
+    {
+      "surface": "הט",
+      "gloss": "хандуул"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "чихээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:30.429577632Z",
+  "model": "glm-5.3"
+}

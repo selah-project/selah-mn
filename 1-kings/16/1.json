@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Яхвэгийн үг Еху болох Хананийн хүүд Баашад эсрэг ирж, айлдсан нь:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болсон нь"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Еху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Ханани"
+    },
+    {
+      "surface": "על",
+      "gloss": "эсрэг"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Баашад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдсан нь"
+    }
+  ],
+  "timestamp": "2026-10-04T11:54:50.176971417Z",
+  "model": "glm-5.3"
+}

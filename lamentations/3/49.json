@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Миний нүд урсан бууж, тайвшрахгүй, амсрах зүйл алга.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "миний нүд"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "урсан бууж"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "боловч огт"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "тайвшрахгүй"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "байхгүйгээс"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "амсрах тайван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:58.935423271Z",
+  "model": "glm-5.3"
+}

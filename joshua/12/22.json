@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Кедешын хаан нэг; Кармел дахь Йокнеамын хаан нэг.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кедешын"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Йокнеамын"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "Кармел дахь"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T11:08:23.131215918Z",
+  "model": "glm-5.3"
+}

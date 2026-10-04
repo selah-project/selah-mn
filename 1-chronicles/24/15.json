@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Хезирид арван долдугаар, Хаппицецед арван наймдугаар.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "Хезирид"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "долдугаар"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "Хаппицецед"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "наймдугаар"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:34.008098592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Хаан Шломо бүх Йисраел дээр хаан болжээ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болжээ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Хаан"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    }
+  ],
+  "timestamp": "2026-10-04T11:47:09.025287819Z",
+  "model": "glm-5.3"
+}

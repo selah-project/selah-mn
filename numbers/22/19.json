@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 22:19",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Одоо та нар бас энэ шөнө энд үлдээрэй, Яхвэ надад цааш юу айлдахыг би мэдэж авъя.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "та нар үлдээрэй"
+    },
+    {
+      "surface": "נא",
+      "gloss": "хүсэж байна"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "та нар"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "энэ шөнө"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "би мэдэж авъя"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "цааш нэмж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдах"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "надтай"
+    }
+  ],
+  "timestamp": "2026-10-04T10:43:45.017983933Z",
+  "model": "glm-5.3"
+}

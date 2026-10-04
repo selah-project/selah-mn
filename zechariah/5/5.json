@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 5:5",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Надтай ярьж байсан сахиусан тэнгэр гарч, надад хэлэв: Одоо нүдээ өргөж, гарч буй энэ юу болохыг хар.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "сахиусан тэнгэр"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ярьж байсан"
+    },
+    {
+      "surface": "בי",
+      "gloss": "надтай"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "שא",
+      "gloss": "өргөж"
+    },
+    {
+      "surface": "נא",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "нүдээ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "хар"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "гарч буй"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:30:56.388344786Z",
+  "model": "glm-5.3"
+}

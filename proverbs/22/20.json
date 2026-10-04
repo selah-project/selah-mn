@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Би чамд гурвантаа зөвлөгөө ба мэдлэгийн тухай бичсэнгүй юу?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "гүй юу"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "би бичсэн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "гурвантаа"
+    },
+    {
+      "surface": "бמועצת",
+      "gloss": "зөвлөгөө"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ба мэдлэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:17.387809032Z",
+  "model": "glm-5.3"
+}

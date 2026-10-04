@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Тэгээд Яхвэгийн зарц Моше тэнд, Моабын газарт нас баржээ, Яхвэгийн амнас ⟨выражая Его слово⟩.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "нас баржээ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "зарц"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабын"
+    },
+    {
+      "surface": "על",
+      "gloss": "дагуу"
+    },
+    {
+      "surface": "פי",
+      "gloss": "амнас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:04:10.400351220Z",
+  "model": "glm-5.3"
+}

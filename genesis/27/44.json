@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Түүнтэй цөөн өдөр амьдарч, ахын чинь хилэнц буцах хүртэл түүнд бай.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "амьдарч"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "түүнтэй"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "цөөн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "буцах"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "хилэнц"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ахын чинь"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:23.439670471Z",
+  "model": "glm-5.3"
+}

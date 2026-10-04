@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Хүний хүү ээ, нэг эхийн охид болох хоёр эм байв.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "эм"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "охид"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эхийн"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "היו",
+      "gloss": "байв"
+    }
+  ],
+  "timestamp": "2026-10-04T13:06:20.134998734Z",
+  "model": "glm-5.3"
+}

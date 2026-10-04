@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Зүрх чинь нүгэлтнүүдийг бүү атаарч, харин Яхвэгийн эмээлд өдөр бүр байг.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "атаарч"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "зүрх чинь"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "нүгэлтнүүдийг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "харин"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "эмээлд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүр"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдөр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:34.635659009Z",
+  "model": "glm-5.3"
+}

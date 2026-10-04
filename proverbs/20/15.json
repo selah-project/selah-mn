@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 20:15",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Алт бий, олон сувд бий, үнэт эдлэл бий; харин мэдлэгийн уруул нь үнэт эрдэнийн чулуу.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алт"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ба олон"
+    },
+    {
+      "surface": "פנינים",
+      "gloss": "сувд"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "ба эдлэл"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "үнэт"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уруул"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "мэдлэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:03.764919592Z",
+  "model": "glm-5.3"
+}

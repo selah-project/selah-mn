@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Яаков нэгэн удаа хоол чанаж байхад Еав талбаагаас ирээд, тэр ядарсан байв.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "чанаж байхад"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "хоол"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ирээд"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Еав"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "талбаагаас"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "тер"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ядарсан"
+    }
+  ],
+  "timestamp": "2026-10-04T09:54:16.195848178Z",
+  "model": "glm-5.3"
+}

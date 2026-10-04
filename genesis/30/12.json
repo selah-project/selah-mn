@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Зилпа, Леагийн зарц, Яаковд хоёр дахь хүүг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "зарц"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леагийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "שני",
+      "gloss": "хоёр дахь"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:54:58.625925636Z",
+  "model": "glm-5.3"
+}

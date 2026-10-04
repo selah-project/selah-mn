@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Би буцаж эргэлээ, ба нарны доорх хоосон зүйлийг харлаа.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "буцаж эргэлээ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ба харлаа"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хоосон зүйл"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "доор"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нарны"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:09.928505305Z",
+  "model": "glm-5.3"
+}

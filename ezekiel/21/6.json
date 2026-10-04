@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Яхвэгийн үг надад ирж, ингэж айлдав:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Болов"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахад"
+    }
+  ],
+  "timestamp": "2026-10-04T13:03:16.584435194Z",
+  "model": "glm-5.3"
+}

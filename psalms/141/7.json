@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 141:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 141,
+  "translation": "Газрыг хагалж ухдаг шиг бидний яс Шеолын амнаар таржээ.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "ших"
+    },
+    {
+      "surface": "פלח",
+      "gloss": "хагалж"
+    },
+    {
+      "surface": "ובקע",
+      "gloss": "ухдаг"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газрыг"
+    },
+    {
+      "surface": "נפזרו",
+      "gloss": "таржээ"
+    },
+    {
+      "surface": "עצמינו",
+      "gloss": "бидний яс"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "амнаар"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеолын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:02:11.339783338Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Тэнд тэд аймшааг айжээ, учир нь Элохим зөв үеийнхний дунд бий.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "айжээ"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "аймшааг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "үеийнхний дунд"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "зөв"
+    }
+  ],
+  "timestamp": "2026-10-04T13:35:47.761819921Z",
+  "model": "glm-5.3"
+}

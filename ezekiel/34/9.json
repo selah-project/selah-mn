@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Тийм учраас хоньчид оо, Яхвэгийн үгийг сонсогтун.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "тийм учраас"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "хоньчид"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "сонсогтун"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:09:52.150797118Z",
+  "model": "glm-5.3"
+}

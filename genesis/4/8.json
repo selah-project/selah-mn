@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 4:8",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Каин ах Хавелдоо хэлэв. Тэд талд байх үед Каин ах Хавелээ дээр нь босож, түүнийг алжээ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Хавел"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ах нь"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болсон"
+    },
+    {
+      "surface": "בהיותם",
+      "gloss": "тэд байх үед"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "талд"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "босож"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Хавел"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ах наа"
+    },
+    {
+      "surface": "ויהרגהו",
+      "gloss": "түүнийг алжээ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:32.456507851Z",
+  "model": "glm-5.3"
+}

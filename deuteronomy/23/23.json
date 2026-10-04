@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Харин чи амлахгүй байвал чамд нүгэл байхгүй.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "харин"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "амлахгүй байвал"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "амлах"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх"
+    },
+    {
+      "surface": "בך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "нүгэл"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:25.183622469Z",
+  "model": "glm-5.3"
+}

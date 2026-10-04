@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Яхвэ Моше ба Ааронд айлдаж, хэлэхдээ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба -д"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлэхдээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:27:00.072530443Z",
+  "model": "glm-5.3"
+}

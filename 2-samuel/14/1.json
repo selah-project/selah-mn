@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Церуяагийн хүү Иоав хааны зүрх Авшалом руу чиглэснийг мэдэв.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "мэдэв"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Иоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Церуяагийн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "על",
+      "gloss": "руу"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    }
+  ],
+  "timestamp": "2026-10-04T11:40:12.101350707Z",
+  "model": "glm-5.3"
+}

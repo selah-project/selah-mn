@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 29:14",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Лаван түүнд хэлэв: Чи үнэхээр миний яс мах юм. Яаков түүнтэй нэг сар суув.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "אך",
+      "gloss": "үнэхээр"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "миний яс"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "мах"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "суув"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "түүнтэй"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нэг сар"
+    },
+    {
+      "surface": "ימים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:40.878000099Z",
+  "model": "glm-5.3"
+}

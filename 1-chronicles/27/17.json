@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Левийнхөнд Хашавiah Кемуэлийн хүү; Аароныхонд Цадок.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "Левийнхөнд"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавiah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "-ийн хүү"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуэл"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Аароныхонд"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    }
+  ],
+  "timestamp": "2026-10-04T15:07:14.701975308Z",
+  "model": "glm-5.3"
+}

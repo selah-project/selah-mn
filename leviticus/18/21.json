@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Мөн өөрийн үрээс Молехид нэвтрүүлэхээр бүү өг, Элохимын нэрийг бүү бузарлуул; би Яхвэ.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "мөн өөрийн үрээс"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "өг"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "нэвтрүүлэхээр"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Молехид"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "бузарлуул"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нэр"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:28:19.589483587Z",
+  "model": "glm-5.3"
+}

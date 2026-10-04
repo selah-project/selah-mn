@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэгийн үг Йонад хоёр дахь удаа ирж, айлдахдаа:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йонад"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "хоёр дахь удаа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T13:24:21.982027140Z",
+  "model": "glm-5.3"
+}

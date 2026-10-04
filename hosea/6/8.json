@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Гилеад — аюулт үйл гүйлэгчдийн хот, цусан мөрөөр дүүрэн.",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "Гилеад"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "хот"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "гүйлэгчдийн"
+    },
+    {
+      "surface": "און",
+      "gloss": "аюулт үйл"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "мөрөөр дүүрэн"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "цусан"
+    }
+  ],
+  "timestamp": "2026-10-04T13:17:13.629839926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Мөн Шимоны хөвгүүдийн овгоос Аммихудын хүү Шемуел.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "мөн овгоос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Аммихуд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:30.659283616Z",
+  "model": "glm-5.3"
+}

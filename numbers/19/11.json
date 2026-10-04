@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Хүний ямар ч амьтны үхдэлд хүрэгч долоон өдөр бузар байна.",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "хүрэгч"
+    },
+    {
+      "surface": "במת",
+      "gloss": "үхдэлд"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "аль ч"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амьт"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "ба бузар болно"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:42:49.848329856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Хэсэг хугацааны дараа, газар нутагт бороо орсонгүй тул горхи ширгэв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "дараа"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "хугацааны"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ширгэв"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "горхи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "тул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-"
+    },
+    {
+      "surface": "היה",
+      "gloss": "орсонгүй"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "бороо"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газар нутагт"
+    }
+  ],
+  "timestamp": "2026-10-04T11:53:54.452783704Z",
+  "model": "glm-5.3"
+}

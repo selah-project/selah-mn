@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "алах цаг, эдгээх цаг; нураах цаг, босгох цаг.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "алах"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба эдгээх цаг"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "эдгээх"
+    },
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "нураах"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба босгох цаг"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "босгох"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:16.819539305Z",
+  "model": "glm-5.3"
+}

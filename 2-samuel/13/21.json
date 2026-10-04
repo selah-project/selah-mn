@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Давид хаан ⟨את⟩ эдгээр бүх үгийг сонсоод түүнд маш их дургүй болов.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Давид хаан"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "сонсоод"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эдгээр бүх үг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үг"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "дургүй болов"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш их"
+    }
+  ],
+  "timestamp": "2026-10-04T11:38:57.330848261Z",
+  "model": "glm-5.3"
+}

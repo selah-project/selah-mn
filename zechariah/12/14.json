@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Үлдсэн бүх овгууд, овог бүр тусдаа, тэдний эхнэрүүд тусдаа.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "овгууд"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "үлдсэн"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "овог"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "бүр"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "тусдаа"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ба тэдний эхнэрүүд"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "тусдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T13:31:27.343930713Z",
+  "model": "glm-5.3"
+}

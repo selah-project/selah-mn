@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 46,
+  "translation": "Гадын хөвгүүд: Цифйон, Хагги, Шуни, Эцбон, Эри, Ароди, Арэли.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гадын"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "Цифйон"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "Хагги"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "Шуни"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "Эцбон"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Эри"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "Ароди"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "Арэли"
+    }
+  ],
+  "timestamp": "2026-10-04T10:03:28.115076748Z",
+  "model": "glm-5.3"
+}

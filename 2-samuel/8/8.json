@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 8:8",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Хададэзерийн Бетах, Беротай хотоос хаан Давид маш их зэс авав.",
+  "tokens": [
+    {
+      "surface": "ומבטח",
+      "gloss": "Бетахаас"
+    },
+    {
+      "surface": "ומברתי",
+      "gloss": "Беротайгаас"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "хотоос"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Хададэзерийн"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "авав"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "зэс"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "их"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш"
+    }
+  ],
+  "timestamp": "2026-10-04T11:37:23.826933763Z",
+  "model": "glm-5.3"
+}

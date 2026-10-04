@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Эдгээр нь Шовалын хөвгүүд: Алван, Манахат, Эйвал, Шефо ба Онам.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Эдгээр нь"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовалын"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "Алван"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "Манахат"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "Эйвал"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "Шефо"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "ба Онам"
+    }
+  ],
+  "timestamp": "2026-10-04T15:26:22.090625089Z",
+  "model": "glm-5.3"
+}

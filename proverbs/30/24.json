@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 30:24",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Дөрөв газрын жижиг амьтад, гэвч тэд ухаантангуудаас ухаалаг.",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "дөрөв"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "קטני",
+      "gloss": "жижиг"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "гэвч тэд"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ухаалаг"
+    },
+    {
+      "surface": "מחכמים",
+      "gloss": "ухаантангуудаас ухаалаг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:43.737851579Z",
+  "model": "glm-5.3"
+}

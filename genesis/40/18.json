@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Иосиф хариулж хэлэв: Энэ бол тайлбар нь: гурван сагс — гурван өдөр.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Иосиф"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Энэ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "тайлбар нь"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "сагс"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "הם",
+      "gloss": "бол"
+    }
+  ],
+  "timestamp": "2026-10-04T09:59:57.338107202Z",
+  "model": "glm-5.3"
+}

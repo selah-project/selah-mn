@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Хаан элч илгээж, Йехуда ба Ерушалаймын ⟨את⟩ бүх өвгөдийг цуглуулав.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "илгээж"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "цуглуулав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх өвгөдийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "өвгөдийг"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ба Ерушалайм"
+    }
+  ],
+  "timestamp": "2026-10-04T16:01:37.425865466Z",
+  "model": "glm-5.3"
+}

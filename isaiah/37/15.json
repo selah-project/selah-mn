@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Хизкия Яхвэд залбирч, ингэж айлдав.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "залбирч"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкия"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T12:21:49.916530807Z",
+  "model": "glm-5.3"
+}

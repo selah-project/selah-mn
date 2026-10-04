@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 8:17",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Чулуун овоон дээр үндэс нь сүлжэлдэнэ, чулуун орд харна.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "גל",
+      "gloss": "овоон"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "үндэс нь"
+    },
+    {
+      "surface": "יסבכו",
+      "gloss": "сүлжэлдэнэ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "орд"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "чулуун"
+    },
+    {
+      "surface": "יחזה",
+      "gloss": "харна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:15:41.859345408Z",
+  "model": "glm-5.3"
+}

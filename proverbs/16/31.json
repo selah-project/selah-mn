@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Саарал үс нь цэцгийн титэм бөгөөд цедекийн замд олдог.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "титэм"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "цэцгийн"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "саарал үс нь"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "замд"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедекийн"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "олдог"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:42.464965365Z",
+  "model": "glm-5.3"
+}

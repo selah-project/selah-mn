@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Морь дайны өдөрт бэлтгэгдэнэ, гэвч аврал Яхвэд бий.",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "морь"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "бэлтгэгдэнэ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "дайны"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "гэвч Яхвэд"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "аврал"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:07.776628556Z",
+  "model": "glm-5.3"
+}

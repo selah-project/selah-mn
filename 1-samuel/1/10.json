@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Тэрээр сэтгэлээр гутран, Яхвэд залбирч, уйж уйллаа.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "Тэрээр"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "гутран"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "сэтгэлээр"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "залбирч"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "уйж"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "уйллаа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:36:23.561798288Z",
+  "model": "glm-5.3"
+}

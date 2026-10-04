@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Мераригийн хөвгүүд: Махли; түүний хүү Либни, түүний хүү Шимьи, түүний хүү Узза.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мераригийн"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Либни"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимьи"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Узза"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:57.018760686Z",
+  "model": "glm-5.3"
+}

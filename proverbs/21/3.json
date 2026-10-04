@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Цедек ба шүүлт хийх нь Яхвэд тахилаас илүү сонгогдсон.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "хийх"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ба шүүлт"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "сонгогдсон"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "тахилаас"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:15.822398986Z",
+  "model": "glm-5.3"
+}

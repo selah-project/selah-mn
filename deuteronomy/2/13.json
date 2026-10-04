@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Одоо босоод, өөрсдөдөө ⟨את⟩ Заредын горхийг гатлан оч: бид ⟨את⟩ Заредын горхийг гатлав.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "босоод"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "гатлан оч"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өөрсдөдөө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Заредын горхи"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "горхи"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Заред"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "гатлав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Заредын горхи"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "горхи"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Заред"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:33.663754699Z",
+  "model": "glm-5.3"
+}

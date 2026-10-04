@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Хилкиагийнхэн: Хашавья; Йедаягийнхэн: Нетанел.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "Хилкиагийнхан"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавья"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "Йедаягийнхан"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанел"
+    }
+  ],
+  "timestamp": "2026-10-04T14:54:38.420624878Z",
+  "model": "glm-5.3"
+}

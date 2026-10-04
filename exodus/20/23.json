@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Та нар ⟨את⟩ Надад мөнгөн бурхад, алтан бурхад бүү хий, өөрсдөдөө бүү хий.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "хий"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Надад"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "бурхад"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "мөнгөн"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "бурхад"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "хий"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өөрсдөдөө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:11:31.554376006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Буга, согоо, зээр, Ако, Дишон, Тэо болон Замер.",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "буга"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "ба согоо"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "ба зээр"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "ба Ако"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ба Дишон"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "ба Тэо"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "болон Замер"
+    }
+  ],
+  "timestamp": "2026-10-04T10:56:59.018380718Z",
+  "model": "glm-5.3"
+}

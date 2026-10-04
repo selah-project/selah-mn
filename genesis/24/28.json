@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Тэр охин гүйж, эхийнхээ гэрт эдгээр үгсийг зарлав.",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "гүйж"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "тэр охин"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "зарлав"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "гэрт"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "эхийнхээ"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "эдгээр үгсийг"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:53.758570032Z",
+  "model": "glm-5.3"
+}

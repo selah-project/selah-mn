@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Бүх мах минь үүнийг асаасан нь Яхвэ мөн гэдгийг харна; энэ нь унтарч үл болно.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "харна"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-г"
+    },
+    {
+      "surface": "אני",
+      "gloss": "минь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "асаасан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "унтарч"
+    }
+  ],
+  "timestamp": "2026-10-04T13:04:41.871267885Z",
+  "model": "glm-5.3"
+}

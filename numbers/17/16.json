@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Яхвэ Мошед айлдаж, ингэж хэлэв.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлэв"
+    }
+  ],
+  "timestamp": "2026-10-04T10:41:08.249528008Z",
+  "model": "glm-5.3"
+}

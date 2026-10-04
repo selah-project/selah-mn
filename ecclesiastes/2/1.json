@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Би зүрхэндээ хэлэв: «Явъя даа, би баяраар туршья, сайныг харъя» — үзвэл, үзээтэл энэ ч хоосон байв.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Би ... хэлэв"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "зүрхэндээ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Явъя"
+    },
+    {
+      "surface": "נא",
+      "gloss": "даа"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "туршья"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "баяраар"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "харъя"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "үзээтэл"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хоосон"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:50.111128926Z",
+  "model": "glm-5.3"
+}

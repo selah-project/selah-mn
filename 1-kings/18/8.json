@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Тэр түүнд хариулан: «Би мөн. Явж, эзэндээ хэл: Үзээ, Элияху энд байна» гэв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би мөн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "эзэндээ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "үзээ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияху"
+    }
+  ],
+  "timestamp": "2026-10-04T11:55:21.039802188Z",
+  "model": "glm-5.3"
+}

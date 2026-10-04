@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Тэд харсан, тэгээд гайхаж, айн сандран, яарч зугтжээ.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Тэд"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "харсан"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тэгээд"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "гайхаж"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "айн сандран"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "яарч зугтжээ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:58.422685307Z",
+  "model": "glm-5.3"
+}

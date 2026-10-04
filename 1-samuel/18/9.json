@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Саул тэр өдрөөс хойш Давидыг ⟨сэмжин⟩ ажиглав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саул"
+    },
+    {
+      "surface": "עון",
+      "gloss": "⟨сэмжин⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давид"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "тэр өдрөөс"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "хойш"
+    }
+  ],
+  "timestamp": "2026-10-04T11:29:25.646379473Z",
+  "model": "glm-5.3"
+}

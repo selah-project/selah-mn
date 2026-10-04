@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ямааны эр нэг, нүглийн тахилгад ⟨эзэн байх⟩",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "эр"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ямааны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "нүглийн тахилгад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:36.967933562Z",
+  "model": "glm-5.3"
+}

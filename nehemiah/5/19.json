@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Миний Элохим надыг сайнаараа сана, энэ ард түмний төлөө би хийсэн бүхнийг.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "сана"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надыг"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "миний Элохим"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "сайнаараа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхнийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "би хийсэн"
+    },
+    {
+      "surface": "על",
+      "gloss": "…-ын төлөө"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:50:33.964089952Z",
+  "model": "glm-5.3"
+}

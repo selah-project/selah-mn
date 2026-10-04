@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 16:9",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Иешай Шаммаг дамжуулж өнгөрүүлэв. Тэр хэлэв: Мөн үүнийг Яхвэ сонгоогүй.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "damjuulj өнгөрүүлэв"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Иешай"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шаммаг"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "тэр хэлэв"
+    },
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "үүнийг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "сонгоогүй"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:28:04.092769635Z",
+  "model": "glm-5.3"
+}

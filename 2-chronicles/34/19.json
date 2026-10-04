@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 34:19",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Хаан ⟨את⟩ Торагийн үгсийг сонсоод ⟨את⟩ хувцсаа таслав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болсон нь"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "сонсоод"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Торагийн үгс"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Торагийн"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "таслав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хувцас"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "хувцсаа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:23:54.390303307Z",
+  "model": "glm-5.3"
+}

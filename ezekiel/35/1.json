@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 35:1",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Яхвэгийн үг над руу ирж, айлдахад:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болохад"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "над руу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахад"
+    }
+  ],
+  "timestamp": "2026-10-04T13:11:00.932119971Z",
+  "model": "glm-5.3"
+}

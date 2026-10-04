@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Харин хүн хүний ямар ч нефеш-ийг цохивол тэр үхлээр үхнэ.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "харин хүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "цохивол"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефеш"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхлээр"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "үхнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:31:28.943717323Z",
+  "model": "glm-5.3"
+}

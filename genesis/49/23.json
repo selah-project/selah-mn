@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 49:23",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Тэд түүнийг гутрааж, довтолж, сум эзэд түүнийг үзэн ядаж байв.",
+  "tokens": [
+    {
+      "surface": "וימררהו",
+      "gloss": "гутрааж"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "довтолж"
+    },
+    {
+      "surface": "וישטמהו",
+      "gloss": "үзэн ядаж байв"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "эзэд"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "сум"
+    }
+  ],
+  "timestamp": "2026-10-04T10:04:49.087912582Z",
+  "model": "glm-5.3"
+}

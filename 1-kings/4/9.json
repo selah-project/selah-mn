@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 4:9",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Бен-Декер: Макад, Шаалбим, Бет-Шемеш, ба Элон-Бет-Хананд.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "דקר",
+      "gloss": "Декер"
+    },
+    {
+      "surface": "במקץ",
+      "gloss": "Макад"
+    },
+    {
+      "surface": "ובשעלבים",
+      "gloss": "Шаалбим"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Шемеш"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ба Элон-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Хананд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:46:23.108867129Z",
+  "model": "glm-5.3"
+}

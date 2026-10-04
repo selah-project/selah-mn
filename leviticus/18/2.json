@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Йисраэлийн хөвгүүдэд яж, тэдэнд хэл: Би Яхвэ, танай Элохим.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "яж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлийн"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ба тэдэнд хэл"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "танай Элохим"
+    }
+  ],
+  "timestamp": "2026-10-04T10:28:41.261112991Z",
+  "model": "glm-5.3"
+}

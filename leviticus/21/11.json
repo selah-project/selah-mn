@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Үхсэн хүн бүрийн дэргэд бүү ордог, эцэг эхдээ ч бүү бузарлагд.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "дэргэд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "сүнс"
+    },
+    {
+      "surface": "מת",
+      "gloss": "үхсэн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ор"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "эцдээ"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "эхдээ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "бузарлагд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:30:40.487959598Z",
+  "model": "glm-5.3"
+}

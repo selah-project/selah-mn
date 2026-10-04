@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Сенаагийн хөвгүүд — гурван мянга есөн зуун гучин.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Сенаагийн"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "есөн"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "гучин"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:37.004485970Z",
+  "model": "glm-5.3"
+}

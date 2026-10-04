@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Чулууг шидүүрт боох мэт, тийн бүдүүлэг хүнд хүндлэл өгдөг.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "боох мэт"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "чулуу"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "шидүүрт"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тийн"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "өгдөг"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "бүдүүлэг хүнд"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "хүндлэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:04.894815720Z",
+  "model": "glm-5.3"
+}

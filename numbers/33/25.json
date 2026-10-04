@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 33:25",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Харадагаас явж, Махелотод буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "явж"
+    },
+    {
+      "surface": "מחרדה",
+      "gloss": "Харадагаас"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "במקהלת",
+      "gloss": "Махелотод"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:10.969518054Z",
+  "model": "glm-5.3"
+}

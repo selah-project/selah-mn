@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Мөн завжтай хүний хүрсэн шавар савыг хагалж, модон сав бүхийг усанд угаана.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "ба сав"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "шавар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "хүрсэн"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "завжтай хүн"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "хагалагдана"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "сав"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "модон"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "угаагдана"
+    },
+    {
+      "surface": "במים",
+      "gloss": "усанд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:28:29.980850164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Филиштчүүд ирж, Рефаимын хөндийд тархан таржээ.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Филиштчүүд"
+    },
+    {
+      "surface": "באו",
+      "gloss": "иржээ"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "тархан таржээ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "хөндийд"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаимын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:58:57.597920915Z",
+  "model": "glm-5.3"
+}

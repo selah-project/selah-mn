@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Тэд тэнд өөрсдийн ⟨את⟩ бурхдаа орхиж, Давид тушаав, тэднийг галд шатаасан.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "орхиж"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бурхдаа"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "бурхдаа"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "тушаав"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "шатаасан"
+    },
+    {
+      "surface": "באש",
+      "gloss": "галд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:59:18.785856405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Моддууд инжир модонд хэлэв: Чи ирж, бидний дээр хаанчлаач.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "моддууд"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "инжир модонд"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "чи ирж"
+    },
+    {
+      "surface": "את",
+      "gloss": "чи"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "хаанчлаач"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "бидний дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:16:55.694783116Z",
+  "model": "glm-5.3"
+}

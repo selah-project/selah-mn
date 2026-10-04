@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 94,
+  "translation": "Өшөө авагч Эл, Яхвэ! Өшөө авагч Эл, гэрэлтэн үзэгдэ!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "өшөө авагч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "өшөө авагч"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "гэрэлтэн үзэгдэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:53:01.172806660Z",
+  "model": "glm-5.3"
+}

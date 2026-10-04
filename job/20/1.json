@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Цофар Нааматич хариулж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Цофар"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "Нааматич"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:20:47.647688997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Мицраймд бид гар өгөв, Ашшурт — талхаар цадахын тулд.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайм"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "бид өгөв"
+    },
+    {
+      "surface": "יד",
+      "gloss": "гар"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "цадахын тулд"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:47.734478543Z",
+  "model": "glm-5.3"
+}

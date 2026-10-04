@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Ариун шувууд бүгдийг идэж болно.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "шувуу"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "идэж болно"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:33.728731252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Лот тэдэнд хэлэв: Битгий, гуйя, Адонай.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "битгий"
+    },
+    {
+      "surface": "נא",
+      "gloss": "гуйя"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:41.005348268Z",
+  "model": "glm-5.3"
+}

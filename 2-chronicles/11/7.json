@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "мөн Бейт Цур, Сохо, Адулламыг.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Бейт Цур"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цур"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Сохо"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Сохо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Адуллам"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Адуллам"
+    }
+  ],
+  "timestamp": "2026-10-04T15:10:58.258651409Z",
+  "model": "glm-5.3"
+}

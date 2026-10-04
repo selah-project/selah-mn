@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Моше тэр өдөрт энэ ⟨את⟩ дууг бичиж, Йисраелын ⟨את⟩ хөвгүүдэд зааж өгөв.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "бичиж"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ дууг"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "дууг"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "зааж өгөв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраелын хөвгүүдэд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдэд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    }
+  ],
+  "timestamp": "2026-10-04T11:04:10.798832122Z",
+  "model": "glm-5.3"
+}

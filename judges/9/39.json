@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 9:39",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Гаал Шехемийн эздийн өмнө гарч, Аравимелехтэй тулалдав.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Гаал"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "-ийн өмнө"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "эздийн"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шехем"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "тулалдав"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "Аравимелехтэй"
+    }
+  ],
+  "timestamp": "2026-10-04T11:16:26.500286219Z",
+  "model": "glm-5.3"
+}

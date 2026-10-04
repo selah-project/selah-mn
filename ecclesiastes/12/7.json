@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Тэгээд тоос газартаа буцаж, байсан шигээ болно; руах Элохимд буцаж очино, Түүний өгсөн тэр руах.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "буцаж"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "тоос"
+    },
+    {
+      "surface": "על",
+      "gloss": "-даа"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газартаа"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "байсан шигээ"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "буцаж очино"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Түүний"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "өгсөн тэр руах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:36:14.347893214Z",
+  "model": "glm-5.3"
+}

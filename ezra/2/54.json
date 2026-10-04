@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Нециахын хөвгүүд, Хатифагийн хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "Нециах"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "Хатифа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:46:36.090076472Z",
+  "model": "glm-5.3"
+}

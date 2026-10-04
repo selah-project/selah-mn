@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Давид цөлд сонсов: Навал ⟨את⟩ түүний сүргээ ноолж байна гэж.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "сонсов"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "гэж"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "ноолож байна"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Навал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түүний сүрэг"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "түүний сүргээ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:32:23.847347553Z",
+  "model": "glm-5.3"
+}

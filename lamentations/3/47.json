@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Аймшиг ба урхи бидэнд тохиолдов, сүйрэл ба нураралт.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "Аймшиг"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ба урхи"
+    },
+    {
+      "surface": "היה",
+      "gloss": "тохиолдов"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "сүйрэл"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "ба нураралт"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:52.406395130Z",
+  "model": "glm-5.3"
+}

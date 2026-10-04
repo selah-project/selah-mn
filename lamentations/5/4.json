@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Усаа мөнгөөр уув, мод маань үнэ төлж ирдэг.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "Усаа"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "мөнгөөр"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "уув"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "мод маань"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "үнэ төлж"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ирдэг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:02.348995385Z",
+  "model": "glm-5.3"
+}

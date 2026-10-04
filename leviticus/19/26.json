@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Цусан дээр бүү ид; бүү мэргэл, бүү ажиглаж төлөглө.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תאкלו",
+      "gloss": "ид"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "цусан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "мэргэл"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "ажиглаж төлөглө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:29:55.254618699Z",
+  "model": "glm-5.3"
+}

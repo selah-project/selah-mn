@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 76,
+  "translation": "Йехудад Элохим мэдэгддэг, Йисраелд Түүний нэр агуу.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "мэдэгддэг"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Йехудад"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраелд"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "Түүний нэр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:08.674893593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Шударга нарын хүсэл зөвхөн сайн; муус нарын найдлага бол хилэнц.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "хүсэл"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "шударга нарын"
+    },
+    {
+      "surface": "אך",
+      "gloss": "зөвхөн"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "найдлага"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "муус нарын"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "хилэнц"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:01.210727868Z",
+  "model": "glm-5.3"
+}

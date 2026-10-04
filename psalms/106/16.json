@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 106,
+  "translation": "Таборт Мошег атаархаж, Яхвэгийн ариун Ааронд атаархажээ.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "атаархаж"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Мошег"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "таборт"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ааронд"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:55:27.902724232Z",
+  "model": "glm-5.3"
+}

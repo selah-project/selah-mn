@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Мэргэдийн амны үгс хөнгөрөлттэй, тэнэгийн уруул түүгээр залгина.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "пי",
+      "gloss": "амны"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мэргэдийн"
+    },
+    {
+      "surface": "חן",
+      "gloss": "хөнгөрөлттэй"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "уруул"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "тэнэгийн"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "залгина"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:58.737193573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Хэн тэр вэ — алдрын энэ хаан? Яхвэ Цебаот — Тэр бол алдрын хаан. Сэла.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "алдрын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр бол"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "алдрын"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Сэла"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:01.104891592Z",
+  "model": "glm-5.3"
+}

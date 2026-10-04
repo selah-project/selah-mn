@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Мөн сэлбэр болон хайрстай бус бүхнийг идэж болохгүй: энэ нь та нарт бузар.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуг ч"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "сэлбэр"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ба хайрс"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болохгүй"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "бузар"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ нь"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:33.728472678Z",
+  "model": "glm-5.3"
+}

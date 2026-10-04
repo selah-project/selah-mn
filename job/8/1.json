@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 8:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Тэгээд Билдад Сухич хариулж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "Билдад"
+    },
+    {
+      "surface": "השוחי",
+      "gloss": "Сухич"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:16:11.824122635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 7:28",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Яхвэ Мошетой ярин айлдав.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ярин"
+    }
+  ],
+  "timestamp": "2026-10-04T10:23:28.448917568Z",
+  "model": "glm-5.3"
+}

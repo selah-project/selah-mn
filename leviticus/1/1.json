@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Яхвэ Мошег дуудаж, уулзлын майхнаас түүнтэй ярьж, ингэж айлдав.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "дуудаж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошег"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ярьж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнтэй"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "майхнаас"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "уулзлын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T10:22:19.099070896Z",
+  "model": "glm-5.3"
+}

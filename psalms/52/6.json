@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 52,
+  "translation": "Чи залгих бүх үгийг хайрладаг, хуурмаг хэл гэдэг чинь.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "чи хайрладаг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "залгих"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "хуурмаг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:44:38.312394121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Учир нь тэдний зүрх сүйрлийг боддог, тэдний уруул хорлонт ярих аж.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "שד",
+      "gloss": "сүйрлийг"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "боддог"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "тэдний зүрх"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ба хорлонт"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "тэдний уруул"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "ярих"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:08.845523524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Үүний дараа Йоашын зүрхэнд Яхвэгийн байшинг шинэчлэх сана төрөв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "дараа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Үүний"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болов"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-д"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрхэнд"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоашын"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "шинэчлэх"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэгийн байшинг"
+    },
+    {
+      "surface": "בית",
+      "gloss": "байшин"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:16:09.487446425Z",
+  "model": "glm-5.3"
+}

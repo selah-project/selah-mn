@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 127,
+  "translation": "Үзэгтүн, хөвгүүд бол Яхвэгийн өв; хэвлийн үр бол шагнал.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "үзэгтүн"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "өв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "шагнал"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "үр"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "хэвлийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:04.474312222Z",
+  "model": "glm-5.3"
+}

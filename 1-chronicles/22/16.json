@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 22:16",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Алт, мөнгө, зэс, төмөрт тоо байхгүй: босож, хий, Яхвэ чамтай байг.",
+  "tokens": [
+    {
+      "surface": "לזהב",
+      "gloss": "алт"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "мөнгө"
+    },
+    {
+      "surface": "ולנחשת",
+      "gloss": "зэс"
+    },
+    {
+      "surface": "ולברזל",
+      "gloss": "төмөрт"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "тоо"
+    },
+    {
+      "surface": "קום",
+      "gloss": "босож"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "хий"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "байг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "чамтай"
+    }
+  ],
+  "timestamp": "2026-10-04T15:06:28.629883306Z",
+  "model": "glm-5.3"
+}

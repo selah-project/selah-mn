@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Онгоц долдугаар сард, сарын арван долоон өдөр Араратын уулс дээр амарлав.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "амарлав"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "онгоц"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "сард"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "долдугаар"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "сарын"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "уулс"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "Арарат"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:17.239903285Z",
+  "model": "glm-5.3"
+}

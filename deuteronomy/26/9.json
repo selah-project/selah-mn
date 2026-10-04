@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "ба биднийг энэ газарт оруулж, энэ газрыг — сүү ба зөгийн бал урсгадаг газрыг бидэнд өгөв.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "ба биднийг оруулж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "энэ газар"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ба өгөв"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ газрыг"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрыг"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "урсгадаг"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "сүү"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ба зөгийн бал"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:45.544345983Z",
+  "model": "glm-5.3"
+}

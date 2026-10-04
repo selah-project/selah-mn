@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Учир нь Яхвэ агуу бөгөөд маш их алдаршигсан; Тэр бүх бурхдаас <аймшигтай>.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ба алдаршигсан"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш их"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ба аймшигтай"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "על",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "бурхдаас"
+    }
+  ],
+  "timestamp": "2026-10-04T15:59:32.363468768Z",
+  "model": "glm-5.3"
+}

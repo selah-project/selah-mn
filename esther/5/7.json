@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Эстер хариулж хэлэв: Миний гуйлт ба миний хүсэл —",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстер"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "миний гуйлт"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "ба миний хүсэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:36:51.154644509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Учир нь Яхвэ ингэж айлдав: Чиний шарх эдгэшгүй, чиний цохилт хүнд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "эдгэшгүй"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "чиний шарх"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "чиний цохилт"
+    }
+  ],
+  "timestamp": "2026-10-04T12:44:03.454571111Z",
+  "model": "glm-5.3"
+}

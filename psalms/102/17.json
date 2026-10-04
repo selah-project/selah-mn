@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 102,
+  "translation": "Учир Яхвэ Ционыг барьж, Өөрийн алдраараа илэрсэн байна.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "барьж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ционыг"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "илэрсэн"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "Өөрийн алдраараа"
+    }
+  ],
+  "timestamp": "2026-10-04T13:54:05.558706080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Арпахшад тавин гурван настай байхдаа ⟨את⟩ Шелахыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Арпахшад"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амьдрав"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "настай"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелахыг"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелахыг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:49:08.508083739Z",
+  "model": "glm-5.3"
+}

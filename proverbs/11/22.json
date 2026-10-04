@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Гахайн хамар дахь алтан ээмэг шиг — гоо сайхан эм боловч амт ⟨ухаанаас⟩ гажсан.",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "ээмэг"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "באף",
+      "gloss": "хамар дахь"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "гахайн"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эм"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "гоо сайхан"
+    },
+    {
+      "surface": "וסרת",
+      "gloss": "гажсан"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "амт"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:01.210577207Z",
+  "model": "glm-5.3"
+}

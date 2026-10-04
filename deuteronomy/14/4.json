@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Энэ бол та нарын идэж болох мал: үхэр, хонины хурга, ямааны хурга.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Энэ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нь"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "идэж болох"
+    },
+    {
+      "surface": "שור",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "שה",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "хониных"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ба хурга"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ямааны"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:36.404426025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Нүдний харагдах нь нэфешний тэнүүчлэлээс сайн; энэ ч бас хэвэл бөгөөд руахын зовлон.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "харагдах"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "нүдний"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "тэнүүчлэл"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нэфешний"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хэвэл"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ба зовлон"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руахын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:37.910790832Z",
+  "model": "glm-5.3"
+}

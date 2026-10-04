@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Жилд гурван удаа Надад баяр тэмдэглэ.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "удаа (хөл)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "чи баяр тэмдэглэнэ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Надад"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "жилд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:13:27.631117006Z",
+  "model": "glm-5.3"
+}

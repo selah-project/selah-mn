@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Дуунуудын дуу, хэмээгдэх нь Шеломогийнх.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "дуунуудын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэмээгдэх нь"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломогийнх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:27:25.289626125Z",
+  "model": "glm-5.3"
+}

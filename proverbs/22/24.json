@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Уурласан хүнтэй нийлэлдэж бүү, харин ууртай хүнтэй хамт бүү яв.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "нийлэлдэж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уурласан хүнтэй"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "эзэнтэй нь"
+    },
+    {
+      "surface": "אף",
+      "gloss": "уурын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүнтэй"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ууртай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "яв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:44.938074885Z",
+  "model": "glm-5.3"
+}

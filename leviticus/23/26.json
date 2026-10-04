@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Яхвэ Моше-д айлдаж байв: ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж байв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:31:52.003525018Z",
+  "model": "glm-5.3"
+}

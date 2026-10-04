@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Лот тэдэн рүү дааман хаалгаар гарч, хаалгаа араасаа хаав.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "тэдэн рүү"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "дааман хаалгаар"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "ба хаалгаа"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "хаав"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "араасаа"
+    }
+  ],
+  "timestamp": "2026-10-04T09:50:44.610470302Z",
+  "model": "glm-5.3"
+}

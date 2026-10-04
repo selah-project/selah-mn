@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Гиббарын хөвгүүд — ерэн таван.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Гиббарын"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ерэн"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "таван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:16.855331734Z",
+  "model": "glm-5.3"
+}

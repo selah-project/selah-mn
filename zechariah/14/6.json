@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Болно тэр өдөр: гэрэл байхгүй, үнэт гэрэл ⟨бүр⟩ байхгүй, бүдэг хүйтэн байна.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "אור",
+      "gloss": "гэрэл"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "үнэт гэрэл"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "бүдэг хүйтэн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:32:34.040598008Z",
+  "model": "glm-5.3"
+}

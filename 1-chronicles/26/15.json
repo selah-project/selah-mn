@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Овед-Едомд өмнө зүгт, түүний хөвгүүдэд Асуфпимын байшин.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "Овед-Едомд"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Едом"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "өмнө зүгт"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "түүний хөвгүүдэд"
+    },
+    {
+      "surface": "בית",
+      "gloss": "байшин"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "Асуфпимын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:06:18.289338413Z",
+  "model": "glm-5.3"
+}

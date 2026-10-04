@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Элканахын хөвгүүд: Амасай ба Ахимот.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ба ...-ын хөвгүүд"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Элканах"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Амасай"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "ба Ахимот"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:39.164662335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Левигийн хөвгүүд: Гершон, Кехат, Мерари.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левигийн"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "Мерари"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:15.421481152Z",
+  "model": "glm-5.3"
+}

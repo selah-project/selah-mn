@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Цедек ба хэсэдийг хөөгч амь, цедек ба алдрыг олно.",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "хөөгч"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ба хэсэд"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "олно"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амь"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ба алдар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:32.111985190Z",
+  "model": "glm-5.3"
+}

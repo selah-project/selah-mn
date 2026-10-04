@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Чи ⟨את⟩ үхрийг Яхвэгийн өмнө, уулзалтын майхны үүдэнд нядлана.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "нядлана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үхрийг"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "үхрийг"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "үүдэнд"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "майхны"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "уулзалтын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:16:40.932531339Z",
+  "model": "glm-5.3"
+}

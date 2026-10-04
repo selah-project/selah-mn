@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 32:4",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Тэр бол Цахиур, Түүний үйлс төгс; Түүний бүх зам нь шүүлт; Эл үнэнч, буруугүй, зөв шударга Тэр билээ.",
+  "tokens": [
+    {
+      "surface": "הצור",
+      "gloss": "Цахиур"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "төгс"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "Түүний үйлс"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "Түүний зам"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "үнэнч"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ба буруугүй"
+    },
+    {
+      "surface": "עול",
+      "gloss": "буруу"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "зөв"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "шударга"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:49.778177858Z",
+  "model": "glm-5.3"
+}

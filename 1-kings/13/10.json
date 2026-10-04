@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Тэр өөр замаар явж, Бейт-Эл рүү ирсэн замаараа буцсангүй.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "замдаа"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "болон ... үгүй"
+    },
+    {
+      "surface": "שב",
+      "gloss": "буцсангүй"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ирсэн"
+    },
+    {
+      "surface": "בה",
+      "gloss": "түүгээр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-10-04T11:52:43.658654982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Зөв шудрагын үйлс амьдралд хүргэнэ, буруугийн олз нүгэлд хүргэнэ.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "үйлс"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "зөв шудрагын"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "амьдралд"
+    },
+    {
+      "surface": "תבואат",
+      "gloss": "олз"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "буруугийн"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "нүгэлд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:28.181565045Z",
+  "model": "glm-5.3"
+}

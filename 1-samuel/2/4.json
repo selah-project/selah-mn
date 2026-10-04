@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 2:4",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хүчит эрсийн нумууд мөхөв, бүдэрсэн нь хүч бүсэлсэн.",
+  "tokens": [
+    {
+      "surface": "קשת",
+      "gloss": "нум"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "хүчит эрсийн"
+    },
+    {
+      "surface": "חתים",
+      "gloss": "мөхөв"
+    },
+    {
+      "surface": "ונכשלים",
+      "gloss": "бүдэрсэн нь"
+    },
+    {
+      "surface": "אזרו",
+      "gloss": "бүсэлсэн"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "хүч"
+    }
+  ],
+  "timestamp": "2026-10-04T11:22:54.998561149Z",
+  "model": "glm-5.3"
+}

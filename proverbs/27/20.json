@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Шеол ба Абаддон цаддаггүй, хүний нүд ч цаддаггүй.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "ба Абаддон"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "цаддаг"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "нүд ч"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "цаддаг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:17.921798508Z",
+  "model": "glm-5.3"
+}

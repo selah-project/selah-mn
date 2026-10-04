@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 106,
+  "translation": "Бүх олзлогдогчдынхаа өмнө тэднийг ⟨את⟩ өршөөлд өгөв.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "тэднийг"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "өршөөлд"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "олзлогдогчдынхаа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:53:22.808519345Z",
+  "model": "glm-5.3"
+}

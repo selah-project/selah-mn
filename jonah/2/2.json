@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 2:2",
+  "book": "jonah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Йона өөрийн Элохим Яхвэд загасны гэдсээс залбирчээ.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "залбирчээ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "өөрийн Элохим"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "гэдсээс"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "загасны"
+    }
+  ],
+  "timestamp": "2026-10-04T13:24:42.540511746Z",
+  "model": "glm-5.3"
+}

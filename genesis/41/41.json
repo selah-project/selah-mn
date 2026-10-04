@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Фараон Йосефд хэлэв: Хар, би ⟨את⟩ чамайг бүх Мицрайм газар дээр тавив.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Хар"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "би тавив"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ чамайг",
+      "marks": "чамайг"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайм"
+    }
+  ],
+  "timestamp": "2026-10-04T10:01:58.820855153Z",
+  "model": "glm-5.3"
+}

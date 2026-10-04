@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 23:2",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "And Sarah died in Kiryath-Arba, which is Hevron in the land of Canaan; and Abraham came in to mourn Sarah and to weep for her.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "and died"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "בקרית",
+      "gloss": "in Kiryath"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "-Arba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "which is"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Hevron"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in the land"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "of Canaan"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "and came in"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "לספד",
+      "gloss": "to mourn"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Sarah"
+    },
+    {
+      "surface": "ולבכתה",
+      "gloss": "and to weep for her"
+    }
+  ],
+  "timestamp": "2026-10-04T09:52:22.528202761Z",
+  "model": "glm-5.3"
+}

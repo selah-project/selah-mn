@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Долоонд хувь өг, мөн найманд ч өг, учир нь газар дээр ямар муу юм болохыг та мэдэхгүй.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "өг"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "хувь"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "долоонд"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "найманд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "та мэдэхгүй"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болохыг"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу юм"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:14.193053628Z",
+  "model": "glm-5.3"
+}

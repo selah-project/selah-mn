@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 136:17",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 136,
+  "translation": "Агуу хаадыг цохин устгагчид — учир нь Түүний хэсэд үүрд мөн.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "цоход"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "хаадыг"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Түүний хэсэд мөн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:58.096877740Z",
+  "model": "glm-5.3"
+}

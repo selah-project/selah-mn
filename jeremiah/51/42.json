@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 51,
+  "translation": "Тэнгис Бабил дээгүүр өргөгдөв, давалгааны олноор нь бүрхэгдэв.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "өргөгдөв"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээгүүр"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бабил"
+    },
+    {
+      "surface": "הים",
+      "gloss": "тэнгис"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "олноор"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "давалгааны нь"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "бүрхэгдэв"
+    }
+  ],
+  "timestamp": "2026-10-04T12:54:58.235076906Z",
+  "model": "glm-5.3"
+}

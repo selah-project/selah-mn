@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Хамын хөвгүүд: Куш ба Мицрайм, Пут ба Канаан.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ба Мицрайм"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "Пут"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ба Канаан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:25.554791279Z",
+  "model": "glm-5.3"
+}

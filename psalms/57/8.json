@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 57,
+  "translation": "Бат байна, зүрх минь, Элохим; бат байна, зүрх минь; би дуулж,.magтъя.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "бат байна"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "зүрх минь"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "бат байна"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "зүрх минь"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "би дуулж"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "magтъя"
+    }
+  ],
+  "timestamp": "2026-10-04T13:44:50.957137697Z",
+  "model": "glm-5.3"
+}

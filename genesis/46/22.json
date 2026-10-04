@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 46,
+  "translation": "Эдгээр нь Рахелийн Яаковт төрүүлсэн хөвгүүд: бүх амь сүнс дөчин дөрөв.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахелийн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нийт"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "төрүүлсэн"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амь сүнс"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дөрөв"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "дөч"
+    }
+  ],
+  "timestamp": "2026-10-04T10:03:11.035331640Z",
+  "model": "glm-5.3"
+}

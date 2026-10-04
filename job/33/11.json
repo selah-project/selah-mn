@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 33:11",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Миний хөлийг хоригт хийж, миний бүх замыг харна.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "хийж"
+    },
+    {
+      "surface": "בסד",
+      "gloss": "хоригт"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "миний хөлийг"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "харна"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ארחתי",
+      "gloss": "миний замыг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:22:48.627638676Z",
+  "model": "glm-5.3"
+}

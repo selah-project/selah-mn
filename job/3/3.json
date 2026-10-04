@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 3:3",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Би төрсөн өдөр мөхөг, хүн төрөх болсон гэж хэлсэн шөнө мөн.",
+  "tokens": [
+    {
+      "surface": "יאבד",
+      "gloss": "мөхөг"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "אולד",
+      "gloss": "төрсөн"
+    },
+    {
+      "surface": "בו",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "והלילה",
+      "gloss": "ба шөнө"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэлсэн"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "төрөх болсон"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:29.821803636Z",
+  "model": "glm-5.3"
+}

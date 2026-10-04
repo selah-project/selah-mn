@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Чинии хоёр хөх хоёр ишгэн мэт, зээрдийн ихэр төл шиг.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "хөх чиний"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "хоёр ... мэт"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "ишгэн"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "ихэр төл"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "зээрдийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:29:22.098666354Z",
+  "model": "glm-5.3"
+}

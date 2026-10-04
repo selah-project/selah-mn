@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Түүний өмнөх гэрэлээс галан нүүрсний шатсанаар тэр шатав.",
+  "tokens": [],
+  "timestamp": "2026-10-04T11:44:48.551441878Z",
+  "model": "glm-5.3"
+}

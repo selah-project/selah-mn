@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Арпахшад ⟨את⟩ Шелахыг төрүүлэв, Шелах ⟨את⟩ Эйбэрийг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Арпахшад"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелахыг"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелах"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Шелах"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эйбэрийг"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эйбэр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:50.175182307Z",
+  "model": "glm-5.3"
+}

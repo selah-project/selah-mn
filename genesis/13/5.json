@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Мөн Аврахамтай ⟨את⟩ хамт явсан Лотод хонь, үхэр, майхан байв.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Мөн"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Лотод"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "явсан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ хамт"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврахамтай"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байв"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "хонь"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "майхан"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:09.166508182Z",
+  "model": "glm-5.3"
+}

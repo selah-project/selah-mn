@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Элохим Ноахад болон ⟨את⟩ түүнтэй хамт байгаа хөвгүүдэд нь айлдав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "болон -д"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "хөвгүүдэд нь"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ түүнтэй хамт"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:11.652602214Z",
+  "model": "glm-5.3"
+}

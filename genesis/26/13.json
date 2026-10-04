@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Тэр хүн их болж, явсаар бүр их болж, маш их болтол өсөв.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "их болж"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "тэр хүн"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "явсаар"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "явсаар (ялангуяа)"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "бүр их болж"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "כי",
+      "gloss": "直到 до"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "болтол өсөв"
+    },
+    {
+      "surface": "мאד",
+      "gloss": "маш их"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:59.208535406Z",
+  "model": "glm-5.3"
+}

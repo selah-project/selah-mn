@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Хэн энээрхүг байна, энд эргэж ирэг; зүрхгүй хүнд тэрээр түүнд хэлдэг.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Хэн"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "энээрхүг"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "эргэж ирэг"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "энд"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "зүрхгүй"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "тэрээр хэлдэг"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:14.508319098Z",
+  "model": "glm-5.3"
+}

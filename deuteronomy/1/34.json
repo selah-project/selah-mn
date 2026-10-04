@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Яхвэ танай үгсийн дууыг сонсож, хилэнтлэн тангараглав, ингэж айлдахдаа",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "сонсож"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дууыг"
+    },
+    {
+      "surface": "קול",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "танай үгсийн"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "хилэнтлэн"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "тангараглав"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:52.293344999Z",
+  "model": "glm-5.3"
+}

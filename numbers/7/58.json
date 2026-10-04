@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Нэг ямааны эр үнэгэн, нүглийн тахилга болгохоор.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "эр үнэгэн"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ямааны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "нүглийн тахилга болгохоор"
+    }
+  ],
+  "timestamp": "2026-10-04T10:36:33.585677680Z",
+  "model": "glm-5.3"
+}

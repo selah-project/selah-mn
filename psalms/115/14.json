@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 115,
+  "translation": "Яахвэ та нарт, та нарт ба таны хөвгүүдэд нэмж өгнө.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "нэмж өгнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яахвэ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "таны хөвгүүдэд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:24.365022345Z",
+  "model": "glm-5.3"
+}

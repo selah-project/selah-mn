@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Мөн ариун ба ердийн, бузар ба цэврийн хооронд ялгаа хийхийн тулд.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ялгаа хийхийн тулд"
+    },
+    {
+      "surface": "בין",
+      "gloss": "хооронд"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ба"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ердийн"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "хооронд"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "бузар"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "цэвэр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:24:53.763654674Z",
+  "model": "glm-5.3"
+}

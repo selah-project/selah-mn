@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 33:15",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Рефидимээс одож, Синайн цөлд буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "одож"
+    },
+    {
+      "surface": "מרפידם",
+      "gloss": "Рефидимээс"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синайн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:09.316890133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Сайн нүдтэй хүн ерөөгдөх болно, учир нь тэр өөрийн талхнаасаа ядууст өгдөг.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "עין",
+      "gloss": "нүд"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ерөөгдөх болно"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгдөг"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "өөрийн талхнаасаа"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "ядууст"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:17.810725789Z",
+  "model": "glm-5.3"
+}

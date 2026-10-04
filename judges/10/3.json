@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Түүний дараа Гилеадын Яир босож, Йисраелийг хорин хоёр жил шүүв.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "босож"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "Түүний дараа"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Яир"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "Гилеадын"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "шүүв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраелийг"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    }
+  ],
+  "timestamp": "2026-10-04T11:17:15.502462302Z",
+  "model": "glm-5.3"
+}

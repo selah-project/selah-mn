@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Ноах гурван хүү төрүүлэв: ⟨את⟩ Шем, ⟨את⟩ Хам, ⟨את⟩ Яфет.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шем"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хам"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Яфет"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Яфет"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:18.667697544Z",
+  "model": "glm-5.3"
+}

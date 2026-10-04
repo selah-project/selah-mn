@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Масса-д турьсний дагуу ⟨את⟩ Яхвэ болон Элохим таныг бүү турь.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "турь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дагуу"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "турьсны"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "Масса-д"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:50.295547839Z",
+  "model": "glm-5.3"
+}

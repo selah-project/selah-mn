@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Иммерийн хөвгүүдээс: Ханани ба Зебадиа.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "хөвгүүдээс"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Иммерийн"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Ханани"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "Зебадиа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:48:43.637730241Z",
+  "model": "glm-5.3"
+}

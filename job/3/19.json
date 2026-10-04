@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Бага ба том тэнд адилхан, боол эзнээсээ чөлөөтэй.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "бага"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ба том"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "адилхан"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ба боол"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "чөлөөтэй"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "эзнээсээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:15.072630032Z",
+  "model": "glm-5.3"
+}

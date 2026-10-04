@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Иехошуа тэдэн дээр гэнэт довтолж, бүхэл шөнөжин Гилгалаас өгсөв.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "довтолж"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "тэдэн дээр"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иехошуа"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "гэнэт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэл"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "шөнөжин"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "өгсөв"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Гилгалаас"
+    }
+  ],
+  "timestamp": "2026-10-04T11:07:27.290487501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 82,
+  "translation": "Би хэлсэн: Та нар Элохим, та бүхэн Өндөрний хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "хэлсэн"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Та нар"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Өндөрний"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "та бүхэн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:45.217380278Z",
+  "model": "glm-5.3"
+}

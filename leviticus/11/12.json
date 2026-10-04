@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Усанд сэлүүр ба хайргүй бүхэн та нарын хувьд жигшүүрт зүйл мөн.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "сэлүүр"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ба хайрс"
+    },
+    {
+      "surface": "במים",
+      "gloss": "усанд"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "жигшүүрт зүйл"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарын хувьд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:24:21.755331105Z",
+  "model": "glm-5.3"
+}

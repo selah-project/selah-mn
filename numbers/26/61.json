@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "numbers 26:61",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Надаб, Авиу үхэв; тэд Яхвэгийн өмнө харийн гал өргөхөд үхсэн ажээ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "үхэв"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надаб"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "Авиу"
+    },
+    {
+      "surface": "בהקריבם",
+      "gloss": "өргөхөд"
+    },
+    {
+      "surface": "אש",
+      "gloss": "гал"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "харийн"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:46:01.572624236Z",
+  "model": "glm-5.3"
+}

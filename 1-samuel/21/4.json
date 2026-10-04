@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Одоо чиний гарт юу байна вэ? Таван талх надад өг, эсвэл олдох зүйлээ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יש",
+      "gloss": "байна"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "доор"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "чиний гарт"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "таван"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "өг"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "миний гарт"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "олдох нь"
+    }
+  ],
+  "timestamp": "2026-10-04T11:31:24.120599707Z",
+  "model": "glm-5.3"
+}

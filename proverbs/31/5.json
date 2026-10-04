@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Тэд ууж, тогтоолыг мартаж, бүх гаслангийн хүүхдийн шүүлтийг өөрчлөх вий.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "вий"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ууж"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "мартаж"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "тогтоол"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "өөрчлөх"
+    },
+    {
+      "surface": "דין",
+      "gloss": "шүүлт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүүхдийн"
+    },
+    {
+      "surface": "עני",
+      "gloss": "гаслангийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:02.136806853Z",
+  "model": "glm-5.3"
+}

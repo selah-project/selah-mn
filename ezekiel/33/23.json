@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Яхвэгийн үг над руу ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "над руу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T13:09:14.545039953Z",
+  "model": "glm-5.3"
+}

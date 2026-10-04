@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хэрхэн биш гэж, Тэр бүхэл өдөржин над руу буцаж, гараа эргүүлж байна.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Хэрхэн биш гэж"
+    },
+    {
+      "surface": "בי",
+      "gloss": "над руу"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "буцаж"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "эргүүлж"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэл"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдөржин"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:07.708075599Z",
+  "model": "glm-5.3"
+}

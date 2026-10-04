@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 11:24",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Таны хөлийн ул там гарсан бүх газар таных болно: цөлөөс Ливана хүртэл, мөн гол, Перат голоос далай хүртэл таны хил болно.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "газар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "там гарсан"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ул"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "таны хөлийн"
+    },
+    {
+      "surface": "בו",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "таны"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "מן",
+      "gloss": "өөс"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "цөл"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "Ливан"
+    },
+    {
+      "surface": "מן",
+      "gloss": "өөс"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "гол"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "гол"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Перат"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "הים",
+      "gloss": "далай"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "далай"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "גבלכם",
+      "gloss": "таны хил"
+    }
+  ],
+  "timestamp": "2026-10-04T10:54:16.113558227Z",
+  "model": "glm-5.3"
+}

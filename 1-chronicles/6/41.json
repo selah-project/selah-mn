@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Хотын талбай ба түүний хашаануудыг Калеб Иефуннегийн хүүд өгөв.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "талбай"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "талбай"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хотын"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "хашаанууд"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "түүний хашаанууд"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "Калебт"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Иефуннегийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:59:39.292108096Z",
+  "model": "glm-5.3"
+}

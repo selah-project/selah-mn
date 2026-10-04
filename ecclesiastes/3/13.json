@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Мөн хүн бүр идэж, ууж, бүх хөдөлмөрөөсөө сайныг харах нь Элохимын бэлэг мөн.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүр"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ууж"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "харах"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "хөдөлмөрөөсөө"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "бэлэг"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "היא",
+      "gloss": "мөн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:25.132620167Z",
+  "model": "glm-5.3"
+}

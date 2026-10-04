@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Леванагийн үрс, Хагабагийн үрс, Шалмайн үрс.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "үрс"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Леванагийн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "үрс"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "Хагабагийн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "үрс"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Шалмайн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:24.826467786Z",
+  "model": "glm-5.3"
+}

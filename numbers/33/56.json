@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэгвэл Би тэдэнд хийхээр бодсон шиг та нарт хийх болно.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Тэгвэл"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "шийг"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "бодсон"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "хийхээр"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "хийх болно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:53.054379114Z",
+  "model": "glm-5.3"
+}

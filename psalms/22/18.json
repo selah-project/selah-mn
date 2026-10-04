@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Би миний бүх ясыг тоолж чадна; тэд харж, намайг ширтэнэ.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "тоолж чадна"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "миний яс"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "ширтэнэ"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "харж"
+    },
+    {
+      "surface": "בי",
+      "gloss": "намайг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:37:34.076067110Z",
+  "model": "glm-5.3"
+}

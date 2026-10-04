@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Би хэлэхэд: Аяа, Адонай Яхвэ, үзэгтүн, ярьж чадахгүй нь, учир нь би залуу.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Би хэлэхэд"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Аяа"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "үзэгтүн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "би чадахгүй"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ярьж"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "נער",
+      "gloss": "залуу"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    }
+  ],
+  "timestamp": "2026-10-04T12:31:45.219967992Z",
+  "model": "glm-5.3"
+}

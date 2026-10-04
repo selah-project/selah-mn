@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Цутгамал бурхадыг өөртөө бүү хий.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "бурхад"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "цуцгамал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "хий"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:18:01.473861018Z",
+  "model": "glm-5.3"
+}

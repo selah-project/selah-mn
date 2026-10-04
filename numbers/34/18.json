@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Мөн омгоос нэг ноён, омгоос нэг ноён авч, ⟨את⟩ газрыг өв болгон эзэл.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "мөн нэг ноён"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "омгоос"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "авч"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "өв болгон эзэл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "газрыг"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрыг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:30.658976849Z",
+  "model": "glm-5.3"
+}

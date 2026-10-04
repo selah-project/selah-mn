@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Яхвэ Мошед айлдав, ингэж хэлэхийн тулд:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлэхийн тулд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:32:09.653348615Z",
+  "model": "glm-5.3"
+}

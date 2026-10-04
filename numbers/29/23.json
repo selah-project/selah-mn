@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Дөрөв дэх өдөр арван үхэр, хоёр хучин, арван дөрвөн нэг настай гэмгүй хурга.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ба ... өдөр"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "дөрөв дэх"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арван"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "хучин"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "בני",
+      "gloss": "настай"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "гэмгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T10:46:19.766233505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Йисраелийн хөвгүүд аялж, Оботод буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "аялж"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "Оботод"
+    }
+  ],
+  "timestamp": "2026-10-04T10:42:07.563071662Z",
+  "model": "glm-5.3"
+}

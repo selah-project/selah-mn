@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Кина, Димона, Адада.",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "ба Кина"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "ба Димона"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "ба Адада"
+    }
+  ],
+  "timestamp": "2026-10-04T11:09:46.099969468Z",
+  "model": "glm-5.3"
+}

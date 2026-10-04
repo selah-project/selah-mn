@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Нутгаа гол мэт нэвтэрч урс, Таршишийн охин — бүс дахин үгүй.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "нэвтэрч урс"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "чамд нутаг"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "гол мэт"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршишийн"
+    },
+    {
+      "surface": "אין",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "бүс"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    }
+  ],
+  "timestamp": "2026-10-04T12:17:02.167862402Z",
+  "model": "glm-5.3"
+}

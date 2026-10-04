@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Бос, Яхвэ! Эл минь, гар өргө, ядуу患сныг бүү мартарай!",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Бос"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "өргө"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "гар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "мартарай"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "ядуучуудын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:52:28.670944662Z",
+  "model": "glm-5.3"
+}

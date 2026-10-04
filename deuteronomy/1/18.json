@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Тэр үед би та нарт та нарт хийх ёстой бүхий л үгсийг ⟨את⟩ тушаал болгожээ.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "би тушаал болгожээ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ та нарыг"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "тэр үед"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "яг тэр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүхий л үгсийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхий л"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "үүнийг"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "та нарт хийх ёстой"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:02.926776743Z",
+  "model": "glm-5.3"
+}

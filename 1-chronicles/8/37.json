@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Моца ⟨את⟩ Бинааг төрүүлэв. Рафагийн хүү нь Элааша, түүний хүү нь Ацель байв.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "Моца"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бинааг"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Бинааг"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "Рафа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "хүү нь"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Элааша"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү нь"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Ацель"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү нь"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:55.646349478Z",
+  "model": "glm-5.3"
+}

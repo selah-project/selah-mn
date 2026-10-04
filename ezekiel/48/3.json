@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Ашерын хил дээр, зүүн захаас далайн зах хүртэл — Нафтали нэг хэсэг.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашерын"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "захаас"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "зүүн"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "зах"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "далайн"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг хэсэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:16:10.320858524Z",
+  "model": "glm-5.3"
+}

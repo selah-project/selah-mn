@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Шелах гучин жил амьдарч, ⟨את⟩ Эверийг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "Шелах"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амьдарч"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "гучин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эверийг"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    }
+  ],
+  "timestamp": "2026-10-04T09:49:05.731714462Z",
+  "model": "glm-5.3"
+}

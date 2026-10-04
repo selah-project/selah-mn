@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Давид тэндээс өгсөж, Эйн-Гедигийн бэхлэлтүүдэд суужээ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "өгсөж"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "משם",
+      "gloss": "тэндээс"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "суужээ"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "бэхлэлтүүдэд"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Эйн"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Геди"
+    }
+  ],
+  "timestamp": "2026-10-04T11:31:54.254214782Z",
+  "model": "glm-5.3"
+}

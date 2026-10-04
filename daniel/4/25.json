@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Энэ бүхэн Навухаднецар хаанд тохиолдов.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "энэ бүхэн"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "тохиолдов"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨дээр⟩"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Навухаднецар"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "хаанд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:40:28.417453806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Дараа нь руах гарч ирээд Яхвэгийн өмнө зогсоод, Би түүнийг татъя гэв. Яхвэ түүнд: Юугаар? гэв.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "гарч ирээд"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "зогсоод"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "татъя"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "במה",
+      "gloss": "юугаар"
+    }
+  ],
+  "timestamp": "2026-10-04T15:13:57.741734195Z",
+  "model": "glm-5.3"
+}

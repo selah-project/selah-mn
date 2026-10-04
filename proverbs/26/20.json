@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Мод байхгүй бол гал унтарна, ховдогч байхгүй бол маргаан намжина.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "байхгүй бол"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "мод"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "унтарна"
+    },
+    {
+      "surface": "אש",
+      "gloss": "гал"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "ба байхгүй бол"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "ховдогч"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "намжина"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "маргаан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:57.765256688Z",
+  "model": "glm-5.3"
+}

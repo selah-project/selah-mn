@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Усны сувгууд — хааны зүрх Яхвэгийн гарт байдаг; хаана ч хүсвэл түүнийг тийш нь хандуулна.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "усны сувгууд"
+    },
+    {
+      "surface": "מים",
+      "gloss": "усны"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "гарт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "על",
+      "gloss": "руу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "хүсвэл"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "хандуулна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:15.821923676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Хизкия хааны зарц нар Ишаяд ирэв.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ирэв"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "зарц нар"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкия"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ишая"
+    }
+  ],
+  "timestamp": "2026-10-04T12:05:50.225288845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Билгагийнх Шаммуа; Шемаиагийнх Йехонатан.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "Билгагийнх"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шаммуа"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "Шемаиагийнх"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:54:25.969853548Z",
+  "model": "glm-5.3"
+}

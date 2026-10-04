@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Хэрэв захирагчийн руах чам дээр гарвал, өөрийн байрнаа бүү яв; учир нь эмчилгээ том нүглийг намдина.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "захирагчийн"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "гарвал"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "чам дээр"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "өөрийн байрнаас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "яв"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "эмчилгээ"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "намдина"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "нүглийг"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "том"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:02.557973728Z",
+  "model": "glm-5.3"
+}

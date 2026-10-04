@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Магбишийн хөвгүүд — нэг зуун тавин зургаа.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "Магбишийн"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "нэг зуун"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "зургаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:44:58.811646865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 27:20",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Эфраймын хөвгүүдэд Хошеа Азазiahугийн хүү; Менаше овгийн хагасад Йоэл Педайахугийн хүү.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "-ын хөвгүүдэд"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфрайм"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "Хошеа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "-ийн хүү"
+    },
+    {
+      "surface": "עזזיהו",
+      "gloss": "Азазiahу"
+    },
+    {
+      "surface": "לחצי",
+      "gloss": "хагасад"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "овгийн"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "-ийн хүү"
+    },
+    {
+      "surface": "פדיהו",
+      "gloss": "Педайаху"
+    }
+  ],
+  "timestamp": "2026-10-04T15:07:14.702495389Z",
+  "model": "glm-5.3"
+}

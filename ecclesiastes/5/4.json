@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Амаагүй байх нь дээр, амлаад биелүүлэхгүй байхаас.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "амлах"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "амлахаас"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бөгөөд бүү"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "биелүүлэх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:05.474525069Z",
+  "model": "glm-5.3"
+}

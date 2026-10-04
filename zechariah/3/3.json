@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Йехошуа бохир хувцас өмссөн байж, элчний өмнө зогсов.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "Йехошуа"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байж"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "өмссөн"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "хувцас"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "бохир"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ба зогсов"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "элчний"
+    }
+  ],
+  "timestamp": "2026-10-04T13:30:41.288829818Z",
+  "model": "glm-5.3"
+}

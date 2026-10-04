@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Хоргүй хүн, гэм зөрчилтэй эр бол амаараа гажуудмал ярьж явдаг.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "хоргүй"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эр"
+    },
+    {
+      "surface": "און",
+      "gloss": "гэм зөрчилтэй"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "явдаг"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "гажуудмал"
+    },
+    {
+      "surface": "פה",
+      "gloss": "амаараа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:14.034147199Z",
+  "model": "glm-5.3"
+}

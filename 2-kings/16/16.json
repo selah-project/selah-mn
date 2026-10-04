@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Тахилч Уриа хаан Ахозийн тушаасан бүхний дагуу үйлдэв.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "үйлдэв"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Уриа"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "бүхний дагуу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасан"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахозийн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:06:06.651501337Z",
+  "model": "glm-5.3"
+}

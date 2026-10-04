@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Мерайот ⟨את⟩ Амарияг төрүүлэв, Амариа ⟨את⟩ Ахитубыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Мерайот"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амария"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амария"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "Амариа"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахитуб"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахитуб"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:02.773079074Z",
+  "model": "glm-5.3"
+}

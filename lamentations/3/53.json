@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэд миний амийг нүхэнд тасалж, над руу чулуу шидэв.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "тасалж"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "нүхэнд"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "миний амийг"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "бөгөөд шидэв"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "чулуу"
+    },
+    {
+      "surface": "בי",
+      "gloss": "над руу"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:19.329994974Z",
+  "model": "glm-5.3"
+}

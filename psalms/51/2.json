@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 51,
+  "translation": "Натаан эш үзүүлэгч түүнд ирэх үед, тэр Бат-Шева руу орсны дараа.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ирэх үед"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натаан"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "эш үзүүлэгч"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "үед"
+    },
+    {
+      "surface": "בא",
+      "gloss": "орсны"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    }
+  ],
+  "timestamp": "2026-10-04T13:43:53.720316570Z",
+  "model": "glm-5.3"
+}

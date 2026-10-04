@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Ард түмэн Иехошуад хэлэв: Үгүй, харин бид ⟨את⟩ Яхвэг шүтэн мөргөнө.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иехошуа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "כי",
+      "gloss": "харин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "шүтэн мөргөнө"
+    }
+  ],
+  "timestamp": "2026-10-04T11:12:57.294130508Z",
+  "model": "glm-5.3"
+}

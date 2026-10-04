@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Риммон-Перецээс нүүж, Ливнад буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүж"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "Риммон-"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перецээс"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "Ливнад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:15.208680221Z",
+  "model": "glm-5.3"
+}

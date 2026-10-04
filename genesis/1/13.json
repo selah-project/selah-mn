@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "И үдэш болов, и өглөө болов — гуравдугаар өдөр.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "үдэш"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и болов"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "өглөө"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "гуравдугаар"
+    }
+  ],
+  "timestamp": "2026-10-04T09:45:54.994982551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Левичүүд хариулж, Йисраелын бүх хүнд чанга дуугаар хэлнэ.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левичүүд"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "хэлнэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    },
+    {
+      "surface": "קול",
+      "gloss": "дуугаар"
+    },
+    {
+      "surface": "רם",
+      "gloss": "чанга"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:18.985520286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Цэргийн хүмүүс олзолсон, хүн бүр өөртөө.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "хүмүүс"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "цэргийн"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "олзолсон"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн бүр"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөртөө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:47:17.639015315Z",
+  "model": "glm-5.3"
+}

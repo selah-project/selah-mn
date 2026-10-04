@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Хефер Мехератын хүн, Ахиа Пелонын хүн,",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Хефер"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "Мехератын хүн"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ахиа"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "Пелонын хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:16.655016193Z",
+  "model": "glm-5.3"
+}

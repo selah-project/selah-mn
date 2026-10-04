@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Букки түүний хөвгүүн, Уззи түүний хөвгүүн, Зерахя түүний хөвгүүн.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хөвгүүн"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззи"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хөвгүүн"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахя"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хөвгүүн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:53.196652401Z",
+  "model": "glm-5.3"
+}

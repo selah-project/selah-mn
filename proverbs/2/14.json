@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Музд муу юм хийхэд баярладаг, муугийн эврээсээ хөөрөн баясдаг",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "баярладаг"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "хийхэд"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу юм"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "хөөрөн баясдаг"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "эврээсээ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муугийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:48.449459574Z",
+  "model": "glm-5.3"
+}

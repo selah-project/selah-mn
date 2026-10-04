@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Моше ⟨את⟩ таягуудыг Яхвэгийн өмнө гэрчлэлийн майханд тавив.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "тавив"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "таягуудыг"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "таягуудыг"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "майханд"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "гэрчлэлийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:40:53.030313225Z",
+  "model": "glm-5.3"
+}

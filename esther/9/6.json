@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Сушан цайзад Иудейчүүд таван зуун хүнийг алж, устгав.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "Сушанд"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "цайзад"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "алж"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "Иудейчүүд"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "устгав"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "таван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүнийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:37:56.635061056Z",
+  "model": "glm-5.3"
+}

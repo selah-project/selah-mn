@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "jeremiah 51:49",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 51,
+  "translation": "Бабylonд Йисраэлийн хороод унасны тул Бабел мөн унана, Бабylonд дэлхийн бүх хороод унав.",
+  "tokens": [],
+  "timestamp": "2026-10-04T12:54:48.398677232Z",
+  "model": "glm-5.3"
+}

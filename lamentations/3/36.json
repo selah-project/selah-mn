@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хүний өөрийн нь хэрэгт гуйвуулахын тулд биш — Адонай үзээгүй билээ.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "гуйвуулахын тулд"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "өөрийн нь хэрэгт"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "үзсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:12.172725375Z",
+  "model": "glm-5.3"
+}

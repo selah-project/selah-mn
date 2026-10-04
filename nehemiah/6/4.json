@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Тэд надад ийм үгээр дөрвөн удаа илгээв; би тэдэнд ⟨את⟩ ийм үгээр хариулав.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "тэд илгээв"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ийм үгээр"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ийм"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "удаа"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "би хариулав"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "тэдэнд"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ийм үгээр"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ийм"
+    }
+  ],
+  "timestamp": "2026-10-04T14:51:49.767725850Z",
+  "model": "glm-5.3"
+}

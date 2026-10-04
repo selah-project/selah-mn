@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 148,
+  "translation": "Нар, сар Түүнийг магт, гэрэлт ододууд бүгд Түүнийг магт.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Түүнийг магт"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Нар"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ба сар"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Түүнийг магт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "од"
+    },
+    {
+      "surface": "אור",
+      "gloss": "гэрэлт"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:02.001106496Z",
+  "model": "glm-5.3"
+}

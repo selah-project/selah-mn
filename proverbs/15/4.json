@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Эдгээгч хэл бол амьдралын мод, харин түүн дэх гажуудал руах доторх эвдрэл.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "эдгээгч"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "мод"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амьдралын"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "харин гажуудал"
+    },
+    {
+      "surface": "בה",
+      "gloss": "түүн дэх"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "эвдрэл"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "руах доторх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:48.689229800Z",
+  "model": "glm-5.3"
+}

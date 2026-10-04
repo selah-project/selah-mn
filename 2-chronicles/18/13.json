@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 18:13",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Михайяху хэлэв: Яхвэ жив байна, яг миний Элохим юу хэлнэ, ⟨את⟩ түүнийг би ярина.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Михайяху"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "яг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "юу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "хэлнэ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "миний Элохим"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-г",
+      "marks": "түүнийг"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ярина"
+    }
+  ],
+  "timestamp": "2026-10-04T15:14:23.261408941Z",
+  "model": "glm-5.3"
+}

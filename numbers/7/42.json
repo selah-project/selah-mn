@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Зургаа дахь өдөр Гадын хөвгүүдийн ноён Элъясаф, Деуелын хүү ⟨өргөв⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "зургаа дахь"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гадын"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Элъясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуелын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:36:05.852051178Z",
+  "model": "glm-5.3"
+}

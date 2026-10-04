@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Учир нь муугийн төгсгөл байхгүй, буруу юм хэдэгчдийн дэнлүү унтарна.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "байх"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "төгсгөл"
+    },
+    {
+      "surface": "лרע",
+      "gloss": "муугийн"
+    },
+    {
+      "surface": "נר",
+      "gloss": "дэнлүү"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "буруу юм хэдэгчдийн"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "унтарна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:14.653363224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Яхвэ Шемуэлын ⟨את⟩ чихийг нээжээ — Шаул ирэхээс нэг өдрийн өмнө — айлдахдаа:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "нээжээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чихийг"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "чихийг"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэлын"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "ирэхээс"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:37:15.772293326Z",
+  "model": "glm-5.3"
+}

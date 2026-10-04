@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Амьдралын зам ухаантайд дээш чиглэдэг, доод Шеолоос зайлсхийхийн тулд.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "зам"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амьдралын"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "дээш"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "ухаантайд"
+    },
+    {
+      "surface": "למען",
+      "gloss": "тулд"
+    },
+    {
+      "surface": "סור",
+      "gloss": "зайлсхийх"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Шеолоос"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "доод"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:04.899233541Z",
+  "model": "glm-5.3"
+}

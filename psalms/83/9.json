@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 83,
+  "translation": "Ашур ч тэдэнтэй нийлж, Лотын хөвгүүдэд гар болжээ. Сэла.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "нийлж"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "тэдэнтэй"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болжээ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "гар"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдэд"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лотын"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Сэла"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:46.172003905Z",
+  "model": "glm-5.3"
+}

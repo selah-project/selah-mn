@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Муу санаанууд Яхвэд жигшилт бөгөөд цэврийн үгс таатай байдаг.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "жигшилт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "санаанууд"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "цэврийн"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "таатай"
+    }
+  ],
+  "timestamp": "2026-10-04T15:55:08.117033420Z",
+  "model": "glm-5.3"
+}

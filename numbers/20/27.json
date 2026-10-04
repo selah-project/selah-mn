@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 20:27",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Моше Яхвэгийн тушаасанчлан үйлдэж, бүх чуулганы нүдэн дээр Хор ⟨уул⟩ руу гарлаа.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "үйлдэв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ямагт тушаасанчлан"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "гарлаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Хор"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "нүдэн дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "чуулган"
+    }
+  ],
+  "timestamp": "2026-10-04T10:42:55.828880699Z",
+  "model": "glm-5.3"
+}

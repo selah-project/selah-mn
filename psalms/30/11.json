@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Сонс, Яхвэ, надад өршөөл үзүүл: Яхвэ, надад туслагч бай.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Сонс"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "надад өршөөл үзүүл"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "бай"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "туслагч"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:18.706716960Z",
+  "model": "glm-5.3"
+}

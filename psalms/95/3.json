@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 95,
+  "translation": "Учир нь Яхвэ бол агуу Эл, бүх бурхдын дээр агуу Хаан.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "Хаан"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "бурхдын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:52:59.850101662Z",
+  "model": "glm-5.3"
+}

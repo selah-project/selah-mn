@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 6:17",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Гершонын хөвгүүд: Ливни ба Шимей, тэдгээр овог овгоороо.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ба Шимей"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "овог овгоороо"
+    }
+  ],
+  "timestamp": "2026-10-04T10:06:27.473078859Z",
+  "model": "glm-5.3"
+}

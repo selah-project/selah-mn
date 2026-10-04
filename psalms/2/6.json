@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Харин Би ⟨өөрийн⟩ хаанаа Сион, өөрийн ариун уул дээр суулгажээ.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "харин Би"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "суулгажээ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "өөрийн хаанаа"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "өөрийн ариун"
+    }
+  ],
+  "timestamp": "2026-10-04T15:50:56.426346433Z",
+  "model": "glm-5.3"
+}

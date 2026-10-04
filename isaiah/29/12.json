@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Мөн номыг бичиг мэддэггүй хүнд өгөхөд, Энэрийг унш, хүсвэл гэхэд тэр Би бичиг мэдэхгүй гэв.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "өгөгдөхөд"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ном"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мэддэг"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "бичиг"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "унш"
+    },
+    {
+      "surface": "נא",
+      "gloss": "хүсвэл"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэрийг"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "гэж хэлэхэд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "мэдэхгүй"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "би мэднэ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "бичиг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:44:02.523400396Z",
+  "model": "glm-5.3"
+}

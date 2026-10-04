@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Тэд гурван жил сууж, Арам ба Йисраелын хооронд дайн байсангүй.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "сууж"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жил"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байснгүй"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "дайн"
+    },
+    {
+      "surface": "בין",
+      "gloss": "хооронд"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ба хооронд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    }
+  ],
+  "timestamp": "2026-10-04T11:58:44.731054358Z",
+  "model": "glm-5.3"
+}

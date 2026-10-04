@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "бүх мах хамтдаа амьсгаа хурааж, хүн тоос руу буцна",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "амьсгаа хурааж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "хамтдаа"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "על",
+      "gloss": "руу"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "тоос"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "буцна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:24:34.352085861Z",
+  "model": "glm-5.3"
+}

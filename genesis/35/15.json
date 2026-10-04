@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Яаков Элохим ⟨את⟩ түүнтэй тэнд ярьсан тэр газрын нэрийг Бет-Ил хэмээн нэрлэв.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "нэрлэв"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нэр"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "המקום",
+      "gloss": " газрын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тер"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ярьсан"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ түүнтэй"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ил"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:39.443325404Z",
+  "model": "glm-5.3"
+}

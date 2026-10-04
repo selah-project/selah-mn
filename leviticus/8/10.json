@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Моше тослох тос авав, Мишкан болон түүний доторх бүхнийг тослож, тэдгээрийг ариусгав.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "авав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тос"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "тос"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "тослох"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "тослож"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мишкан"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "бүхэн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юк"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүний доторх"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ариусгав"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ тэдгээрийг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:24:18.302880602Z",
+  "model": "glm-5.3"
+}

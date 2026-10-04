@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Кехелатаас мордож, Шафэр ууланд буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "мордож"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "Кехелатаас"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ууланд"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "Шафэр"
+    }
+  ],
+  "timestamp": "2026-10-04T15:31:36.458615237Z",
+  "model": "glm-5.3"
+}

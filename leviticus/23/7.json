@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Эхний өдөр та нарт ариун хуралтай байх ёстой; ямар ч хөдөлмөрийн ажил бүү хий.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Эхний өдөр"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "эхний"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ариун хуралтай"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх ёстой"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "хөдөлмөрийн ажил"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ажил"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "хий"
+    }
+  ],
+  "timestamp": "2026-10-04T10:31:02.298086270Z",
+  "model": "glm-5.3"
+}

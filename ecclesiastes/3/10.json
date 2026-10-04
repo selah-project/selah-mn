@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Би ⟨את⟩ хөдөлмөрийг харлаа, юу гэвэл Элохим хүний хөвгүүдэд үүнд хөдлөхөөр өгсөн ажээ.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "би харлаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хөдөлмөрийг"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "хөдөлмөр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу гэвэл"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгсөн"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдэд"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "хөдлөхөөр"
+    },
+    {
+      "surface": "בו",
+      "gloss": "үүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:19.175395529Z",
+  "model": "glm-5.3"
+}

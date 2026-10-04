@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Хэрэв тэдний үхдэлээс тарьсан үр дээр унавал — үүнд ургамал унах юм бол — тэр цэвэр билээ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Хэрэв"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "унавал"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "тэдний үхдэлээс"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "үр"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "тарьсан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуний"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "таримал"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "цэвэр"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "билээ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:30:08.248031749Z",
+  "model": "glm-5.3"
+}

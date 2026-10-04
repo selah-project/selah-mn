@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 36:19",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Түшмэд Барухад хэлэв: Явж, чи болон Ирмэяху хоёр нуугд; хүн хэн ч та хоёр хаана байгааг мэдэг.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "түшмэд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "לך",
+      "gloss": "яв"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "нуугд"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "Ирмэяху"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "хүн хэн ч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мэдэг"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "хаана"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "та хоёр"
+    }
+  ],
+  "timestamp": "2026-10-04T12:48:35.304735775Z",
+  "model": "glm-5.3"
+}

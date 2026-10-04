@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 73,
+  "translation": "Мөн тэд хэлдэг: Эл хэрхэн мэдэх билээ? Эльёнд мэдлэг бий юу?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "мөн тэд хэлдэг"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "хэрхэн"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мэдэх"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ба ... бий"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "мэдлэг"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "Эльёнд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:14.946836595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Ийов хариулж, хэлэв",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:19:41.794420930Z",
+  "model": "glm-5.3"
+}

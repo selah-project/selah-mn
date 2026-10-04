@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 44,
+  "translation": "Түүний ариуссаны дараа түүнд долоо хоног тоолно.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "дараа"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "түүний ариуссан"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "долоо"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдрийн"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "тоолно"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:15:04.351008099Z",
+  "model": "glm-5.3"
+}

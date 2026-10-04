@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 26:13",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Тэд сугал буулгав, багад томд аавын өрхөөрөө нь хаалга бүхэд.",
+  "tokens": [
+    {
+      "surface": "ויפילו",
+      "gloss": "буулгав"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "сугал"
+    },
+    {
+      "surface": "כקטן",
+      "gloss": "багад"
+    },
+    {
+      "surface": "כגדול",
+      "gloss": "томд"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "өрхөөрөө нь"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "аавын"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "хаалга"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "бүхэд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:06:18.288820498Z",
+  "model": "glm-5.3"
+}

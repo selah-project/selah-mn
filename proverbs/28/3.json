@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Ядуу хүн тарчигсдыг дарлавал энэ нь талх үлдээхгүй халтиргаа бороо мэт.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ядуу"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "дарлавал"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "тарчигсдыг"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "бороо"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "талх үлдээхгүй халтиргаа"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:21.265130335Z",
+  "model": "glm-5.3"
+}

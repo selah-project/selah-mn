@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 101,
+  "translation": "Гажууд зүрх надаас эргэж холдох болно, мууг би мэдэхгүй.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "гажууд"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "эргэж холдох"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "надаас"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "мэдэх"
+    }
+  ],
+  "timestamp": "2026-10-04T13:54:19.819818283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 48:26",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Йисасхарын хилээс зүүүн талаас баруун тал хүртэл Зебулунд нэг хэсэг.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "-н хилээс"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йисасхар"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "талас"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "зүүн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "тал"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "баруун"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:17:13.370723869Z",
+  "model": "glm-5.3"
+}

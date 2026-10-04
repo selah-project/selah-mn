@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Эцэгээсээ сонс, энэ чамайг төрүүлсэн нь; хөгширсөн эхээ бүү доромжил.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Сонс"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "эцэгээсээ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ нь"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "чамайг төрүүлсэн"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "доромжил"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "хөгширсөн бол"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "эх чинь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:59.171314293Z",
+  "model": "glm-5.3"
+}

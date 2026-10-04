@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 20:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Эцэг эхээ хараагчийн дэнлүү харанхуйн бүрэн харанхуйд унтарна.",
+  "tokens": [
+    {
+      "surface": "מקלל",
+      "gloss": "хараагчийн"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "эхээ"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "унтарна"
+    },
+    {
+      "surface": "נרו",
+      "gloss": "дэнлүү"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "бүрэн харанхуйд"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "харанхуйн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:38.459642428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Ахимац ⟨את⟩ Азариаг төрүүлэв, Азариа ⟨את⟩ Йохананыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "Ахимац"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азария"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азария"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "Азариа"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоханан"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Йоханан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:02.773527142Z",
+  "model": "glm-5.3"
+}

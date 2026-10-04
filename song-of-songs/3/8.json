@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэд бүгд илд барьсан, дайнд сургагдсан; хүн бүр шөнийн аймшагаас илдээ нүүрэн дээрээ байлгана.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "тэд бүгд"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "барьсан"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "илд"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "сургагдсан"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "дайнд"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн бүр"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "илдээ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "י",
+      "gloss": "нүүрэн"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "аймшагаас"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "шөнийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:28:06.325526944Z",
+  "model": "glm-5.3"
+}

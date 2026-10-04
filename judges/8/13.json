@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Гидеон, Йоашийн хүү дайнаас Хересийн өгсөвөөр буцаж ирэв.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "буцаж ирэв"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидеон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоашийн"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "дайн"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "өгсөвөөр"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "Херес"
+    }
+  ],
+  "timestamp": "2026-10-04T11:17:04.165935630Z",
+  "model": "glm-5.3"
+}

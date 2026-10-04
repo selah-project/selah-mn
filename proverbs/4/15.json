@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Түүнээс зайл, түүгээр бүү гар, түүнээс хазайж, өнгөр.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "түүнээс зайл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "гар"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүгээр"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "хазайж"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "түүнээс"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "ба өнгөр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:30.484522600Z",
+  "model": "glm-5.3"
+}

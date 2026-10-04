@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Тахилч тушааж, амьд усан дээрх шавар саванд шувуунь нэгийг нь нядлана.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "тушааж"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "нядлана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шувуунь нэгийг"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "шувуу"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "нэгийг нь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "саванд"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "шавар"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מים",
+      "gloss": "усан"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амьд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:26:57.051016441Z",
+  "model": "glm-5.3"
+}

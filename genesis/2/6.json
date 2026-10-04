@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Манан газраас дээш өргөгдөж, хөрсний бүх нүүрийг ⟨את⟩ услан байв.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "манан"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "өргөгдөж"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газраас"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "услан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх нүүрийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүрийг"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "хөрсний"
+    }
+  ],
+  "timestamp": "2026-10-04T09:45:49.878530129Z",
+  "model": "glm-5.3"
+}

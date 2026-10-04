@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 3:6",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Бүх замдаа Түүнийг таньж бай, Тэр чамайг замаар чинь залруулна.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "замдаа"
+    },
+    {
+      "surface": "דעהו",
+      "gloss": "Түүнийг таньж бай"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "залуурнуулна"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "зам чинь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:23.862919544Z",
+  "model": "glm-5.3"
+}

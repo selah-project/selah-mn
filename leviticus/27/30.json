@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Газрын бүх аравны нэг — газрын үрээс, модны жимснээс — Яхвэд хамаарна; энэ нь Яхвэд ариун.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "аравны нэг"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "үрээс"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "жимснээс"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "модны"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ нь"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:45.890170680Z",
+  "model": "glm-5.3"
+}

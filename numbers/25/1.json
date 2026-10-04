@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Йисраел Шиттимд суув, ард Моабын охидод завхайрч эхлэв.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "суув"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "Шиттимд"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "эхлэв"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "завхайрч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "- руу"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "охидод"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:44:55.804956340Z",
+  "model": "glm-5.3"
+}

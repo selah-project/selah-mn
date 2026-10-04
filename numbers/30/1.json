@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 30:1",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Моше Йисраелын хөвгүүдэд Яхвэ түүнд тушаасан бүхний дагуу айлдав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "бүхний дагуу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошег"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошег"
+    }
+  ],
+  "timestamp": "2026-10-04T10:48:26.474725954Z",
+  "model": "glm-5.3"
+}

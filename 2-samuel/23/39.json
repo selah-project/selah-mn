@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Уриа хетч. Нийтдээ гучин долоо.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Уриа"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хетч"
+    },
+    {
+      "surface": "כל",
+      "gloss": "нийтдээ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "гучин"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "долоо"
+    }
+  ],
+  "timestamp": "2026-10-04T11:45:07.775688895Z",
+  "model": "glm-5.3"
+}

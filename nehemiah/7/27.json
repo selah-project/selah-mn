@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Анатотыгн эрчүүд — зуун хорин найм.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "эрчүүд"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анатот"
+    },
+    {
+      "surface": "мאה",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "найм"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:32.385869175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Үзэгтүн, чи Даниелаас мэргэн бөгөөд нууц юу ч чамтай нуугдаагүй.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "үзэгтүн"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мэргэн"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "Даниелаас"
+    },
+    {
+      "surface": "כל",
+      "gloss": "юу ч"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "нууц"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "чамтай нуугдаагүй"
+    }
+  ],
+  "timestamp": "2026-10-04T13:08:33.117981846Z",
+  "model": "glm-5.3"
+}

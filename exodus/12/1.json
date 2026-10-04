@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Яхвэ Моше ба Ааронд Мицраймийн нутагт айлдаж байна:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба -д"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "нутагт"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраймийн"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:08:55.386902784Z",
+  "model": "glm-5.3"
+}

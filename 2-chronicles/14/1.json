@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Аса Яхвэ түүний Элохимын нүдэнд сайн ба зөвийг хийв.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "хийв"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "ба зөв"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэнд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "түүний Элохим"
+    }
+  ],
+  "timestamp": "2026-10-04T15:13:20.798681979Z",
+  "model": "glm-5.3"
+}

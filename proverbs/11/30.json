@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Цадик хүний үр амьдралын мод бөгөөд амийг олж авдаг хүн ухаантан.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "үр"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "цадик хүний"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "мод"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амьдралын"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "олж авдаг"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "амийг"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ухаантан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:37.036197069Z",
+  "model": "glm-5.3"
+}

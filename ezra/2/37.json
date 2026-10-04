@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Иммерийн хөвгүүд: мянга тавин хоёр.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Иммерийн"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "хоёр"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:41.944892577Z",
+  "model": "glm-5.3"
+}

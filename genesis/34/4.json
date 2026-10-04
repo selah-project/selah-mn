@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Шехем эцэг Хамортоо хэлсэн нь: Энэ ⟨את⟩ бүсгүйг надад эхнэр болгож ав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлсэн нь"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шехем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-доо"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хаморт"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ав"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүсгүйг"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "бүсгүйг"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "эхнэр болгож"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:46.571761835Z",
+  "model": "glm-5.3"
+}

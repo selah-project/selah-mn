@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Моше Фараоны дэргэдээс гарч, Яхвэд залбирлаа.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "гарлаа"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-ын дэргэдээс"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "залбирлаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:08:34.675240352Z",
+  "model": "glm-5.3"
+}

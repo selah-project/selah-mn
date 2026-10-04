@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Эдгээрээс дүүрэн руах Надад ирнэ; одоо Би ч бас тэднийг ⟨את⟩ шүүлтүүдээр шүүн хэлэх болно.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "дүүрэн"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "Эдгээрээс"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ирнэ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Надад"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "хэлэх болно"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "шүүлтүүд"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "тэднийг"
+    }
+  ],
+  "timestamp": "2026-10-04T12:33:47.564458337Z",
+  "model": "glm-5.3"
+}

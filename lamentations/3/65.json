@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэдэнд зүрхний бүрхүүл өг, Таны хараал тэдэд буй.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "өг"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "мגנת",
+      "gloss": "бүрхүүл"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрхний"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "Таны хараал"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:43.765657363Z",
+  "model": "glm-5.3"
+}

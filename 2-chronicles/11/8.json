@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "мөн Гат, Мареша, Зифийг.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Гат"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Мареша"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "Мареша"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Зиф"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Зиф"
+    }
+  ],
+  "timestamp": "2026-10-04T15:10:58.258818414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Эдгээсэн зүрх махны амь юм, харин ядуучлал ясны ялзрал мөн.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "амь юм"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "махны"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "эдгээсэн"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "харин ялзрал"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ясны"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ядуучлал"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:06.864696194Z",
+  "model": "glm-5.3"
+}

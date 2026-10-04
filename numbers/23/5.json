@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Яхвэ Билеамын аманд үг тавив, тэгээд хэлэв: Балык руу буцаж оч, ингэж ял.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "тавив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "аманд"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билеамын"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "тэгээд хэлэв"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "буцаж оч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балык"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ял"
+    }
+  ],
+  "timestamp": "2026-10-04T10:44:58.375258881Z",
+  "model": "glm-5.3"
+}

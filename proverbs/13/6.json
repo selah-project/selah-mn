@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Цедек гэм зөв байдлын замыг хамгаална, харин ёр нүглийг ганхуулна.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "Цедек"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "хамгаална"
+    },
+    {
+      "surface": "תם",
+      "gloss": "гэм зөв байдлын"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "харин ёр"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "ганхуулна"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "нүглийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:01.565410655Z",
+  "model": "glm-5.3"
+}

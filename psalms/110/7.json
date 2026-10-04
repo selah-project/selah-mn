@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 110,
+  "translation": "Замдаа горхоос ууна, тийм учраас толгойгоо өргөнө.",
+  "tokens": [
+    {
+      "surface": "мנחל",
+      "gloss": "горхоос"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "замд"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ууна"
+    },
+    {
+      "surface": "על",
+      "gloss": "тийм"
+    },
+    {
+      "surface": "כן",
+      "gloss": "учраас"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "өргөнө"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "толгойгоо"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:05.004994567Z",
+  "model": "glm-5.3"
+}

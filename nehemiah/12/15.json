@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Харимын гэрээс Адна, Мерайотын гэрээс Хелкай,",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "Харимын гэрээс"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "Адна"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "Мерайотын гэрээс"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "Хелкай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:54:06.018945880Z",
+  "model": "glm-5.3"
+}

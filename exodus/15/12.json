@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Чи баруун гараа сунгав, газар тэднийг залгив.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "сунгав"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "баруун гараа"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "тэднийг залгив"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:09:14.876487876Z",
+  "model": "glm-5.3"
+}

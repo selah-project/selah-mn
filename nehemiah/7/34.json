@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Эйламын хөвгүүд, өөр Эйламынхон: мянга хоёр зуун тавин дөрөв.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлам"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "хоёр зуун"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "дөрөв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:27.278215473Z",
+  "model": "glm-5.3"
+}

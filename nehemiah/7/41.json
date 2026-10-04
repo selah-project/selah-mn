@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Пашхурын хөвгүүд — мянга хоёр зуун дөчин долоо.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Пашхур"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "хоёр зуун"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "дөчин"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "долоо"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:30.130046138Z",
+  "model": "glm-5.3"
+}

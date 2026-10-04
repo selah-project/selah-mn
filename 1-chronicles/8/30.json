@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Түүний ууган хүү нь Авдон, мөн Цур, Киш, Баал, Надав байв.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Түүний хүү"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ууган"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Авдон"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "Цур"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "Киш"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "Надав"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:29.165577776Z",
+  "model": "glm-5.3"
+}

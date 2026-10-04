@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Тэр үед Моше Ярдены нөгөө этгээдэд, нар манддаг зүгт гурван хотыг тусгаарлав.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тэр үед"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "тусгаарлав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "хотыг"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "нөгөө этгээдэд"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярдены"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "нар манддаг зүгт"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "нар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:52:13.720871953Z",
+  "model": "glm-5.3"
+}

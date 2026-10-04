@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 16:8",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Зургаан өдөр чи маццыг идэж, долоо дахь өдөр нь Яхвэ Элохимд зориулсан хурал бөгөөд ажил бүү хий.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "мацц"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "долоо дахь"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "хурал"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохим чинь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "хий"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ажил"
+    }
+  ],
+  "timestamp": "2026-10-04T10:56:35.313395044Z",
+  "model": "glm-5.3"
+}

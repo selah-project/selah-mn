@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Хадад үхэв, түүний оронд Масрекагаас Самла хаан болов.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "үхэв"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "хаан болов"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "түүний оронд"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "Масрекагаас"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:24.751354315Z",
+  "model": "glm-5.3"
+}

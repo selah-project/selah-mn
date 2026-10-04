@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 43,
+  "translation": "Өлсгөлөн газарт хүнд хүчрэв.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "өлсгөлөн"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "хүнд хүчрэв"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газарт"
+    }
+  ],
+  "timestamp": "2026-10-04T10:02:36.441632421Z",
+  "model": "glm-5.3"
+}

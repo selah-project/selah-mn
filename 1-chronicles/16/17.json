@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "⟨Тэр⟩ үүнийг Яаковт тушаал, Йисраелд мөнхийн гэрээ болгож тогтоов.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "тогтоов"
+    },
+    {
+      "surface": "ליעעקב",
+      "gloss": "Яаковт"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "тушаал болгож"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Йисраелд"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "гэрээ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мөнхийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:46.392344001Z",
+  "model": "glm-5.3"
+}

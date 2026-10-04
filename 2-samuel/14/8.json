@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Хаан эмэгтэйд хэлэв: Гэр лүүгээ буц, би таны талаар тушаал өгье.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "эмэгтэй"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "буц"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "гэр лүүгээ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "би"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "тушаал өгье"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "таны талаар"
+    }
+  ],
+  "timestamp": "2026-10-04T11:40:13.068562227Z",
+  "model": "glm-5.3"
+}

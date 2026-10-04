@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Эдгээр нь Гершомын хөвгүүдийн нэрс: Ливни, Шимеи.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "нэрс"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершомын"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "Шимеи"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:39.164645292Z",
+  "model": "glm-5.3"
+}

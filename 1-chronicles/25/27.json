@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 25:27",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Хоринд Элиата, түүний хөвгүүд болон ах дүүс нь арван хоёр байв.",
+  "tokens": [
+    {
+      "surface": "לעשרим",
+      "gloss": "хоринд"
+    },
+    {
+      "surface": "לאליתה",
+      "gloss": "Элиата"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "түүний хөвгүүд"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "болон ах дүүс нь"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:42.450235459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Давид Шаулд хэлэв: Хүний зүрх түүнээс бүү унаг, таны зарц явж, энэ Филистичтэй байлдъя.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "унаг"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүнээс"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "таны зарц"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "וינלחם",
+      "gloss": "байлдъя"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "Филистич"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:28:56.967492873Z",
+  "model": "glm-5.3"
+}

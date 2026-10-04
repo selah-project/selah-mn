@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Ингэж бүх Йисраел сонсоод, айж, чиний дунд ийм муу үйлтэй адил дахин хийхгүй.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "сонсоно"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "ба айна"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "дахин нэмж"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "хийх"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ийм үйлтэй адил"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "чиний дунд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:38.009619348Z",
+  "model": "glm-5.3"
+}

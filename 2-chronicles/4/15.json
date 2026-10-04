@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Нэг далай, мөн ⟨את⟩ арван хоёр үхрийг дор нь хийв.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "далай"
+    },
+    {
+      "surface": "הים",
+      "gloss": "далай"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "Нэг"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "Мөн ⟨את⟩",
+      "marks": "арван хоёр үхэр"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "дор нь"
+    }
+  ],
+  "timestamp": "2026-10-04T15:09:19.490913942Z",
+  "model": "glm-5.3"
+}

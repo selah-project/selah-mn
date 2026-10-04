@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Харин та худал наагчид, хоосон эмчид — та бүгд.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Харин"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "та"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "наагчид"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "худал"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "эмчид"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "хоосон"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "та бүгд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:17:43.974144097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Харч дуугаргаж, зүүн зүгт байрлах хөлөгнүүд хөдлөнө.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "харч дуугаргаж"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "харч"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "хөдлөнө"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "хөлөгнүүд"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "байрлах"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "зүүн зүгт"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:14.913100932Z",
+  "model": "glm-5.3"
+}

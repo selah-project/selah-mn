@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Тэнэглэгчид таашаал тааруу биш, ялангуяа зарц butад нарын дээр ноёрхох нь.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "тааруу"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "тэнэглэгчид"
+    },
+    {
+      "surface": "תעнוג",
+      "gloss": "таашаал"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ялангуяа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ялангуяа (хамт)"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "зарцад"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ноёрхох"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "butад нарын дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:40.165437730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Сенаагийн хөвгүүд — гурван мянга зургаан зуу гучин.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Сенаа"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ба зургаан"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуу"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ба гучин"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:09.480470117Z",
+  "model": "glm-5.3"
+}

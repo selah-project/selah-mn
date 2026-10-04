@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Гэвч чи одоо би чиний чихэд, ба бүх ард түмний чихэд хэлж байгаа энэ үгийг сонсоод ав.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "гэвч"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "сонсоод ав"
+    },
+    {
+      "surface": "נא",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "хэлж байгаа"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "чиний чихэд"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "ба чихэд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмний"
+    }
+  ],
+  "timestamp": "2026-10-04T12:44:56.435290567Z",
+  "model": "glm-5.3"
+}

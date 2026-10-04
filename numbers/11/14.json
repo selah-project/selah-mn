@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Би ганцаараа энэ ⟨את⟩ бүх ард түмнийг дааж чадахгүй, учир нь надаас хэтэрхий хүнд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "чадахгүй"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "чадах"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ганцаараа"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "дааж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ бүх ард түмнийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмнийг"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "надаас"
+    }
+  ],
+  "timestamp": "2026-10-04T10:40:09.806893488Z",
+  "model": "glm-5.3"
+}

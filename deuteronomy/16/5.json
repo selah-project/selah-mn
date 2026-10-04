@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Чи Яхвэ өөрт чинь өгөх газрын дааман хаалгануудын аль нэгэнд нь Песахыг алж чадахгүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "чадахгүй"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "алж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Песахыг"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "аль нэгэнд нь"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "дааман хаалгануудын чинь"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохим чинь"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгөх"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөрт чинь"
+    }
+  ],
+  "timestamp": "2026-10-04T10:56:35.312842136Z",
+  "model": "glm-5.3"
+}

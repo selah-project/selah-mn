@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Йоаш тахилч Йехоядагийн амьд бүхэндээ Яхвэгийн нүдэнд зөвийг үйлдэв.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "үйлдэв"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "зөвийг"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэнд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэндээ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йехояда"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    }
+  ],
+  "timestamp": "2026-10-04T15:16:09.487141054Z",
+  "model": "glm-5.3"
+}

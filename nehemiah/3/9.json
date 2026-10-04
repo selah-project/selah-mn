@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэдний гар дор Рефайя, Хурын хүү, Ерушалаймын хагас тойргийн ноён бэхжүүлэв.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "дор"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "тэдний гар"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "бэхжүүлэв"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Рефайя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хур"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "хагас"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "тойргийн"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалаймын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:50:17.695882544Z",
+  "model": "glm-5.3"
+}

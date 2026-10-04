@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Иов хариулж, айлдав:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:20:41.893043078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Узиа Аштерат, Шама ба Йеуэл Хотамын хөвгүүд, Ароэрийнх;",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "Узиа"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "Аштерат"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Шама"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "ба Йеуэл"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Хотамын"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "Ароэрийнх"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:50.045382045Z",
+  "model": "glm-5.3"
+}

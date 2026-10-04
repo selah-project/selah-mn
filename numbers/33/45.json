@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Ийимээс нүүж, Дивон-Гадад буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүж"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "Ийимээс"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "Дивон-Гадад"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:10.627687840Z",
+  "model": "glm-5.3"
+}

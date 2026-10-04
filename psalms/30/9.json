@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Чамд, Яхвэ, би дуудаж, Адонайд би өршөөл гуйна.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Чамд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "би дуудаж"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба руу"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "би өршөөл гуйна"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:18.706279861Z",
+  "model": "glm-5.3"
+}

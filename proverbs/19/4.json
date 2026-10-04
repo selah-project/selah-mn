@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Баялаг олон найз нэмдэг, харин ядүү хүн өөрийн найзаасаа салдаг.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "баялаг"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "нэмдэг"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "найз"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "олон"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "харин ядүү хүн"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "өөрийн найзаасаа"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "салдаг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:57.464491860Z",
+  "model": "glm-5.3"
+}

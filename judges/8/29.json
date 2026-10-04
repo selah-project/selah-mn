@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Ируббаал Йоашийн хүү явж, өөрийн гэрт суужээ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Ируббаал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоашийн"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "сууж"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "өөрийн гэртээ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:17:12.530559214Z",
+  "model": "glm-5.3"
+}

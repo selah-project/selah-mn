@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Хүний хүү, нүүрээ Цидон руу харж, түүний эсрэг эш үзүүл.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "שים",
+      "gloss": "харж"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "нүүрээ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Цидон"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "ба эш үзүүл"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "түүний эсрэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:08:38.103387430Z",
+  "model": "glm-5.3"
+}

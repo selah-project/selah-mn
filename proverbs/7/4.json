@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ухаанд: Эгч минь чи гэж хэл, ойлголтод: Танырл гэж дууд.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "Ухаанд"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Эгч минь"
+    },
+    {
+      "surface": "את",
+      "gloss": "чи"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "ба Танырл"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ойлголтод"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "дууд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:54.472932782Z",
+  "model": "glm-5.3"
+}

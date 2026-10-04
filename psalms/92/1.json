@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 92,
+  "translation": "Мизмор, дуу — Шаббатын өдрийн тулд.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Мизмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "өдрийн тулд"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шаббатын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:52:57.615943380Z",
+  "model": "glm-5.3"
+}

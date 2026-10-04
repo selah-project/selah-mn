@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 26:19",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Йицхакын зарц нарын хөндийд малтаж байхад тэнд амьд усны худум олдов.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "малтвал"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "зарц нарын"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхакын"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "хөндийд"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "олдов"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "באר",
+      "gloss": "худум"
+    },
+    {
+      "surface": "מים",
+      "gloss": "усны"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амьд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:50.689295818Z",
+  "model": "glm-5.3"
+}

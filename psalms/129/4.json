@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 129,
+  "translation": "Яхвэ шударга, Тэр муусайнхны уяж боосон олс огтолжээ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "шударга"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "огтолжээ"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "уяж боосон олс"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "муусайнхны"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:52.239141368Z",
+  "model": "glm-5.3"
+}

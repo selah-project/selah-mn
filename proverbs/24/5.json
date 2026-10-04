@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Мэргэн эр хүчтэй, мэдлэгтэй хүн хүчээ бэхжүүлнэ.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "эр"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мэргэн"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "хүчээр"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ба хүн"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "мэдлэгтэй"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "бэхжүүлнэ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "хүч"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:46.339520489Z",
+  "model": "glm-5.3"
+}

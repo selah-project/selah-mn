@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Хааяа гадаа, хааяа өргөн гудамжинд, бүх булан тохойд отож байдаг",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "Хааяа"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "гадаа"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "хааяа"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "өргөн гудамжинд"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "дэргэд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "булан тохойн"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "отож байдаг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:29.255223220Z",
+  "model": "glm-5.3"
+}

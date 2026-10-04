@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Ахиам Сакарын хүн, Харарын хүн, Элифал Урын хүн,",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "Ахиам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "Сакар"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "Харарын хүн"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "Элифал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Ур"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:16.654902622Z",
+  "model": "glm-5.3"
+}

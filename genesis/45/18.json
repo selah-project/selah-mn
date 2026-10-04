@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 45:18",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 45,
+  "translation": "Аав болон гэр бүлээ аваад над руу ир; би та нарт ⟨את⟩ Мицрайм газрын сайныг өгье, та нар газрын өөхийг идэгтүг.",
+  "tokens": [
+    {
+      "surface": "וקחו",
+      "gloss": "аваад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аав"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "аав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "гэр бүл"
+    },
+    {
+      "surface": "בתיכם",
+      "gloss": "гэр бүл"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ир"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "над руу"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "өгье"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сайн"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайм"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "идэгтүг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өөх"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "өөх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:04:01.673332349Z",
+  "model": "glm-5.3"
+}

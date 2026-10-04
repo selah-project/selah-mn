@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Сүй! цусны хот, бүхэлдээ худал, дээрэм бүхий, тэжээл холдохгүй.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "сүй"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "цусны"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "бүхэлдээ"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "худал"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "дээрэм"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "бүхий"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "холдох"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "тэжээл"
+    }
+  ],
+  "timestamp": "2026-10-04T13:27:07.686432477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Шаббатын ⟨את⟩ өдрийг түүнийг ариусгахын тулд сана.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "сана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өдрийг"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдрийг"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шаббатын"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "түүнийг ариусгахын тулд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:11:25.640330806Z",
+  "model": "glm-5.3"
+}

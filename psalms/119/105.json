@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Таны үг бол миний хөлд дан, миний замд гэрэл.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "дан"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "миний хөлд"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Таны үг"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "ба гэрэл"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "миний замд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:54:38.276044228Z",
+  "model": "glm-5.3"
+}

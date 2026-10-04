@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хашува, Охел, Берекья, Хасадья, Йушав-Хесед — таван хүн.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "Хашува"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "Охел"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "Берекья"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "Хасадья"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Йушав"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "-Хесед"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "таван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:57.812600912Z",
+  "model": "glm-5.3"
+}

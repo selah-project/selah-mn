@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 42,
+  "translation": "Бид түүнд хэлсэн: Бид үнэнч хүмүүс, тагнуулч биш.",
+  "tokens": [
+    {
+      "surface": "וונאמר",
+      "gloss": "хэлсэн"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "үнэнч"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "бид"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "тагнуулч"
+    }
+  ],
+  "timestamp": "2026-10-04T10:02:56.402072581Z",
+  "model": "glm-5.3"
+}

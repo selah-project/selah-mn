@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Тэр ард түмэнд хэлэв: Гурван өдрийн өмнө бэлэн байцгаа; эмээктэй бүү ойрт.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Тэр хэлэв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-нд"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "היו",
+      "gloss": "байцгаа"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "бэлэн"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "гурван өдрийн өмнө"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдрийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "ойрт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-тэй"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эм"
+    }
+  ],
+  "timestamp": "2026-10-04T15:28:14.459811532Z",
+  "model": "glm-5.3"
+}

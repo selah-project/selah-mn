@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Ноаха дөрөв дэх нь, Рафа тав дахь нь.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "Ноаха"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "дөрөв дэх нь"
+    },
+    {
+      "surface": "וורפא",
+      "gloss": "Рафа"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "тав дахь нь"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:09.425594853Z",
+  "model": "glm-5.3"
+}

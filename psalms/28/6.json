@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Яхвэ алдартай мөн, учир нь Тэр миний гуйлтын дууг сонсов.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "алдартай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "сонсов"
+    },
+    {
+      "surface": "קול",
+      "gloss": "дууг"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "миний гуйлтын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:43.319987872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэ түүнд хэлэв: Би чамтай байх болно, чи ⟨את⟩ Мидьяныг нэг хүн шиг цохино.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Би байх болно"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "чамтай"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "цохино"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мидьяныг"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидьян"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "нэг хүн шиг"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T11:15:12.802223485Z",
+  "model": "glm-5.3"
+}

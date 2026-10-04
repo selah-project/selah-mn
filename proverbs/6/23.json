@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Учир нь тушаал бол дэнлүү, Тора бол гэрэл, амийн зам бол сургамжийн зэмлэлтүүд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "נר",
+      "gloss": "дэнлүү"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "тушаал"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "אור",
+      "gloss": "гэрэл"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амийн"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "зэмлэлтүүд"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "сургамжийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:15.154371654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Харин Яхвэ таны Элохимд та нар наалдаж, өнөөдөр хүртэл хийсэн шигээ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "харин"
+    },
+    {
+      "surface": "אם",
+      "gloss": "-"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "таны Элохимд"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "та нар наалдана"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "шийг"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "хийсэн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:13:19.092583787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Үүнээс болж бидний зүрх өвчтэй боллоо, эдгээр зүйлээс болж бидний нүд бүдэглэв.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Үүнээс болж"
+    },
+    {
+      "surface": "זה",
+      "gloss": "үүний"
+    },
+    {
+      "surface": "היה",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "өвчтэй"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "бидний зүрх"
+    },
+    {
+      "surface": "על",
+      "gloss": "эдгээр зүйлээс болж"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "бүдэглэв"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "бидний нүд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:48.874356476Z",
+  "model": "glm-5.3"
+}

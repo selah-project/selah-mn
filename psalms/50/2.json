@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 50,
+  "translation": "Сионаас, сайхны төгс хэлбэрээс Элохим гэрэлтэв.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Сионаас"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "төгс хэлбэрээс"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "сайхны"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "гэрэлтэв"
+    }
+  ],
+  "timestamp": "2026-10-04T13:43:18.886570764Z",
+  "model": "glm-5.3"
+}

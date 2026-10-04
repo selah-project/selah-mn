@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Эдгээр бол Эсавын төрлийн бичиг — тэр бол Эдом.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Эдгээр бол"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "төрлийн бичиг"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсавын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:24.292805173Z",
+  "model": "glm-5.3"
+}

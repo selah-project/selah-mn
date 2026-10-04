@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 10:13",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Тэд эхэлж нүүдэллэв, Яхвэгийн амаар, Мошегийн гараар.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүдэллэв"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "эхэлж"
+    },
+    {
+      "surface": "על",
+      "gloss": "…ний"
+    },
+    {
+      "surface": "פי",
+      "gloss": "амаар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "гараар"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошегийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:51.908881116Z",
+  "model": "glm-5.3"
+}

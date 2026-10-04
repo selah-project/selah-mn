@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Ифтхах дахин элч нар илгээв, Аммоны хүүхдүүдийн хаанд.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "бас"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Ифтхах"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "илгээв"
+    },
+    {
+      "surface": "мלאכים",
+      "gloss": "элч нарыг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-анд"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаанд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүүхдүүдийн"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммон"
+    }
+  ],
+  "timestamp": "2026-10-04T15:34:58.983484005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Бүх газар Яхвэгийн нүд муу сайныг ⟨болон⟩ ажиглаж байна.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "мקום",
+      "gloss": "газар"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "нүд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "ажиглаж байна"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "муу"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "сайныг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:48.689051340Z",
+  "model": "glm-5.3"
+}

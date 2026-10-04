@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Ионад энэ их муу санагдаж, түүнд уурлав.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "муу санагдав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Иона"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "их"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "уурлав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:51:36.868853863Z",
+  "model": "glm-5.3"
+}

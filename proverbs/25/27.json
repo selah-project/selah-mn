@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Их бал идэх нь сайн биш, өөрийн алдрыг хайх нь ⟨биш⟩ алдар.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "идэх"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "бал"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "их"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "ба … хайх"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "өөрийн алдрыг"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "алдар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:52.320279336Z",
+  "model": "glm-5.3"
+}

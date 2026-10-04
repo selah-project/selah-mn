@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Гивон ба Рама ба Беерот",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "Гивон"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "ба Рама"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "ба Беерот"
+    }
+  ],
+  "timestamp": "2026-10-04T11:10:21.124115139Z",
+  "model": "glm-5.3"
+}

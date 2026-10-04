@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Энэ өдөр та нар Авивын сард гарч байна.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "энэ өдөр"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "та нар"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "гарч байна"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "сард"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Авивын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:10:20.752999090Z",
+  "model": "glm-5.3"
+}

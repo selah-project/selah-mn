@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Элохим тэр шөнө тийм болгов, ноосон дээр дангаар хууртай болж, бүх газар дээр цондуй байв.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "болгов"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тийм"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "шөнө"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болж"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "хууртай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "ноосон"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "дангаар"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ба дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байв"
+    },
+    {
+      "surface": "טל",
+      "gloss": "цондуй"
+    }
+  ],
+  "timestamp": "2026-10-04T11:14:55.321910310Z",
+  "model": "glm-5.3"
+}

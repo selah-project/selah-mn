@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Алтан таваг нэг, арван шекел жинтэй, тамхиарх түлж буй үнэртэнээр дүүрэн.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "таваг"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арван"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "дүүрэн"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "түлж буй үнэртэн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:37.663364975Z",
+  "model": "glm-5.3"
+}

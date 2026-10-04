@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 4:20",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Ярданаас авсан энэ арван ⟨את⟩ хоёр чулууг Иехошуа Гилгалд босгов.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "арван хоёр чулууг"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арван"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "чулууг"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ямар нь"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "авсан"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярдан"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "босгов"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иехошуа"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "Гилгалд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:05:04.297914793Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 80,
+  "translation": "Ойн гах түүнийг нурааж, хээрийн араатан түүнийг идэж байна.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "нурааж"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "гах"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "ойн"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "ба араатан"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "хээрийн"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "идэж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T13:50:06.809232577Z",
+  "model": "glm-5.3"
+}

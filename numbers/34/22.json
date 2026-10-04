@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Даны хөвгүүдийн овгийн ноён Букки, Йоглийн хүү.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ба ... овгийн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "Йогли"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:20.555513509Z",
+  "model": "glm-5.3"
+}

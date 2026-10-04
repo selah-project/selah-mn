@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Амьд хүн, эрэлхэг эр өөрийн нүглийн шийтгэл дээр яагаад гомдоллон байх билээ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "гомдоллон байх"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "эрэлхэг эр"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "өөрийн нүглийн шийтгэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:12.040421192Z",
+  "model": "glm-5.3"
+}

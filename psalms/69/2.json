@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 69,
+  "translation": "Намайг авар, Элохим, учир ус амьд насын хүртэл хүрчээ.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Намайг авар"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир"
+    },
+    {
+      "surface": "באו",
+      "gloss": "хүрчээ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амьд нас"
+    }
+  ],
+  "timestamp": "2026-10-04T15:53:35.445436494Z",
+  "model": "glm-5.3"
+}

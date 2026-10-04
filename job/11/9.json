@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Түүний хэмжээ газраас урт, тэнгисээс өргөн.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "урт"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "газраас"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "хэмжээ"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "өргөн"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "ים",
+      "gloss": "тэнгис"
+    }
+  ],
+  "timestamp": "2026-10-04T14:16:50.786758672Z",
+  "model": "glm-5.3"
+}

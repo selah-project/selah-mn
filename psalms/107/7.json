@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 107,
+  "translation": "Тэр тэднийг шулуун замаар хөтөлж, суурин хот руу явуулав.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "хөтөлж"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "шулуун"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "явуулав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−руу"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "суурин"
+    }
+  ],
+  "timestamp": "2026-10-04T13:56:03.533713354Z",
+  "model": "glm-5.3"
+}

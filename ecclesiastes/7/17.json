@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Бүү буруу үйлд их, бас бүү тэнэг бай: яагаад өөрийн цагтаа бус үед үхэх ёстой гэж?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "буруу үйлд"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "их"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "бас бүү"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бай"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "тэнэг"
+    },
+    {
+      "surface": "למה",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "үхэх ёстой"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "бус"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "өөрийн цагт"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:59.775246758Z",
+  "model": "glm-5.3"
+}

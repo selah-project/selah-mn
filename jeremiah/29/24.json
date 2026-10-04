@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Ба Нехаламынхон Шемаиад хэлэх ёстой, ингэж:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Ба ... -д"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шемаиа"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "Нехаламынхон"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "хэлэх ёстой"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж"
+    }
+  ],
+  "timestamp": "2026-10-04T12:45:05.458649651Z",
+  "model": "glm-5.3"
+}

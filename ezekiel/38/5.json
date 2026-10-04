@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Перс, Куш ба Пут тэдэнтэй ⟨את⟩ хамт; тэд бүгд бамбай ба дуулгатай.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Перс"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "ба Пут"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ хамт",
+      "marks": "тэдэнтэй (хамт)"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "тэд бүгд"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "бамбай"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "ба дуулга"
+    }
+  ],
+  "timestamp": "2026-10-04T13:11:28.661005620Z",
+  "model": "glm-5.3"
+}

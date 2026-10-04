@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 78,
+  "translation": "Амаа нээж зүйр үг хэлье, эрт үеийн нууц үгсийг урсгаж тайлбарлая.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "нээж"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "зүйр үг"
+    },
+    {
+      "surface": "פי",
+      "gloss": "амаа"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "урсгаж тайлбарлая"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "нууц үгсийг"
+    },
+    {
+      "surface": "מני",
+      "gloss": "үеийн"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "эрт"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:16.361753758Z",
+  "model": "glm-5.3"
+}

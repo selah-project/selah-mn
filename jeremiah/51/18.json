@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 51:18",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 51,
+  "translation": "Тэд хоосон зүйл, хуурмагийн бүтээл мөн; шийтгэлийнх нь үед тэд мөхнө.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "хоосон зүйл"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "бүтээл"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "хуурмагийн"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "үед нь"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "шийтгэл нь"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "мөхнө"
+    }
+  ],
+  "timestamp": "2026-10-04T12:55:13.533872427Z",
+  "model": "glm-5.3"
+}

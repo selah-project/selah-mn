@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Эдгээр гурав Ноахын хөвгүүд бөгөөд эдгээрээс бүх газар дэлгэрчээ.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "гурав"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноахын"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "ба эдгээрээс"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "дэлгэрчээ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:15.296392634Z",
+  "model": "glm-5.3"
+}

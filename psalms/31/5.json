@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 31:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Тухайн тортгоос намайг гаргаж, учир нь чи бол миний бэхлэлт.",
+  "tokens": [
+    {
+      "surface": "תוציאני",
+      "gloss": "намайг гаргаж"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "тортгоос"
+    },
+    {
+      "surface": "זו",
+      "gloss": "тухайн"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "нуусан"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "миний бэхлэлт"
+    }
+  ],
+  "timestamp": "2026-10-04T13:39:03.266506172Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Тэрээр түүнд: Чиний нэр хэн бэ? гэв. Тэрээр: Яаков гэв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Тэрээр…гэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "מה",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "чиний нэр"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Тэрээр…гэв"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-10-04T09:56:35.678693768Z",
+  "model": "glm-5.3"
+}

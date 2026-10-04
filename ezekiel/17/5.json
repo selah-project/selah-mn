@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 17:5",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Тэр мөн газрын үрээс аваж, үрийн хээрт тарьж, ус их дээр авахын тулд, түүнийг хус мод мэт тавив.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "аваж"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "үрээс"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "тарьж"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "хээрт"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "үрийн"
+    },
+    {
+      "surface": "קח",
+      "gloss": "авах"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "их"
+    },
+    {
+      "surface": "צפצפה",
+      "gloss": "хус мод мэт"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "тавив"
+    }
+  ],
+  "timestamp": "2026-10-04T13:02:43.990123830Z",
+  "model": "glm-5.3"
+}

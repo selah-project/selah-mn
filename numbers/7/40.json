@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ямааны эр нэг — нүглийн тахилд.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "эр"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "Ямааны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "нүглийн тахилд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:39.094953701Z",
+  "model": "glm-5.3"
+}

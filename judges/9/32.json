@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "За одоо шөнөөр чи ба чамтай ⟨את⟩ буй ард түмэн босож, хээрт отоглож уу.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "за одоо"
+    },
+    {
+      "surface": "קום",
+      "gloss": "бос"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шөнөөр"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ хамт"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "отогло"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "хээрт"
+    }
+  ],
+  "timestamp": "2026-10-04T11:17:23.332610611Z",
+  "model": "glm-5.3"
+}

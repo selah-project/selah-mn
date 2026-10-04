@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Хушимаас ⟨את⟩ Авитув, ⟨את⟩ Элпаал нарыг төрүүлжээ.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "Хушимаас"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлжээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авитув"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Авитув"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Элпаал"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Элпаал"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:49.562354565Z",
+  "model": "glm-5.3"
+}

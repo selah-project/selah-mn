@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэд чиний амьд амьсгал, чиний хүзүүнд хилэнц болог.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болог"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амь"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "чиний амьсгалд"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "ба хилэнц"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "чиний хүзүүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:52.171913482Z",
+  "model": "glm-5.3"
+}

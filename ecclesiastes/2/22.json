@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Учир нь нарны дор хөдөлмөрлөдөг хүнд түүний бүх хөдөлмөр ба зүрхний тэмүүлэлээс юу байдаг вэ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "байдаг"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "хөдөлмөр"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "ба тэмүүлэл"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "зүрхний"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "тэрээр"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "хөдөлмөрлөдөг"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нарны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:00.804229332Z",
+  "model": "glm-5.3"
+}

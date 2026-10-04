@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 16:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Хаадын таалал бол цедек уруул, ба шулуунаар яригчийг тэр хайрлана.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "таалал"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "хаадын"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уруул"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ба ... яригч"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "шулуунаар"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "хайрлана"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:24.466475353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Яхвэ, Тантай зүйрлэх нь байхгүй; Та агуу, Таны нэр хүч чадлаар агуу.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "Тантай зүйрлэх нь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Та"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ба агуу"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Таны нэр"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "хүч чадлаар"
+    }
+  ],
+  "timestamp": "2026-10-04T12:35:38.971274291Z",
+  "model": "glm-5.3"
+}

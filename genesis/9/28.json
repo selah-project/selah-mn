@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Үерээс хойш Ноах гурван зуун тавин жил амьдрав.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "амьдрав"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "хойш"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "Үерээс"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:23.688543845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Тэр түүнд мөн хэлэв: Бидэнд өвсөн тэжээл бас маш их идээ тэжээл, мөн буух зай бий.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "тэр хэлэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "өвсөн тэжээл"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "идээ тэжээл"
+    },
+    {
+      "surface": "רב",
+      "gloss": "маш их"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "зай"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "буух"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:53.757932468Z",
+  "model": "glm-5.3"
+}

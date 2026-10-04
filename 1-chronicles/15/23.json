@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Берехйа, Элкана нар ковчегийн хаалга хамгаалагчид байв.",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "Берехйа"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "хаалга хамгаалагчид"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ковчегийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:33.977860218Z",
+  "model": "glm-5.3"
+}

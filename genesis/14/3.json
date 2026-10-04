@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Эдгээр бүгд Сиддимын хөндийд нийлж, тэр нь Давсан тэнгис болно.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "нийлж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "хөндий"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Сиддимын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тер нь"
+    },
+    {
+      "surface": "ים",
+      "gloss": "тэнгис"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Давсан"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:48.805966088Z",
+  "model": "glm-5.3"
+}

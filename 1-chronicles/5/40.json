@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Азария ⟨את⟩ Сераяаг төрүүлж, Сераяа ⟨את⟩ Йехоцадакыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Азария"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сераяаг"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Сераяа"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "Сераяа"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йехоцадакыг"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Йехоцадак"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:44.119464801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Заккайн хөвгүүд, долоон зуу жаран.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Заккайн"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуу"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "жаран"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:04.822585532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Эцгээ эхийнхээ аль алиныг нь цохивч үхүүлж алуулна.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "цохивч"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцгээ"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "эхийнхээ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхүүлж"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "алуулна"
+    }
+  ],
+  "timestamp": "2026-10-04T10:13:33.292998883Z",
+  "model": "glm-5.3"
+}

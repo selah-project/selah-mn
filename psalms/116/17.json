@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 116,
+  "translation": "Чамд би магтаалын тахилга өргөж, Яхвэгийн нэрээр дуудъя.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Чамд"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "би ... өргөе"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "тахилга"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "магтаалын"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "нэрээр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "дуудъя"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:21.406336787Z",
+  "model": "glm-5.3"
+}

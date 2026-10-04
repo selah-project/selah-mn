@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Йонатан Давидад хэлэв: Амь чинь юу хэлэх вэ — би чамд түүнийг хийе.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "хэлэх вэ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "амь чинь"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "би хийе"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:30:41.247926101Z",
+  "model": "glm-5.3"
+}

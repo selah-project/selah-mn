@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Микахын хөвгүүд: Питон, Мелек, Тахреа.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "-ын хөвгүүд"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миках"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Питон"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "Мелек"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "Тахреа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:10.845469901Z",
+  "model": "glm-5.3"
+}

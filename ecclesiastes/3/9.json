@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хөдөлмөрлөгч нь хичнээн хөдөлмөрлөдөгтээ ямар ашиг олох вэ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ашиг"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "хөдөлмөрлөгч"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "тэгж хөдөлмөрлөдөгтээ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "хөдөлмөрлөдөг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:19.175095606Z",
+  "model": "glm-5.3"
+}

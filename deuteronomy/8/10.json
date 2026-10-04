@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Чи идэж, цадаж, Яхвэ ⟨את⟩, чиний Элохимыг магтан ерөө: сайхан газрын төлөө, тэр чамд өгсөн.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "Чи идэж"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "цадаж"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "магтан ерөө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "чиний Элохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "төлөө"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгсөн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:50.604010087Z",
+  "model": "glm-5.3"
+}

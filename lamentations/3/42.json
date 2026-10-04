@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Бид бүхэн зөрчин, бослого гаргасан билээ; Та өршөөсөнгүй.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "бид бүхэн"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "зөрчин"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "бослого гаргасан"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Та"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "өршөөсөнгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:01.108900569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Сонсоцгоо ⟨את⟩ үгийг, Яхвэний та нарт айлдсаныг, Йисраелин гэр ээ.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "сонсоцгоо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үгийг"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдсаныг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэний"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    }
+  ],
+  "timestamp": "2026-10-04T12:36:51.645505177Z",
+  "model": "glm-5.3"
+}

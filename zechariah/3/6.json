@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэгийн элч Иехошуад гэрчилж айлдав.",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "гэрчилж айлдав"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "элч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "Иехошуад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T13:31:15.945046210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Тэр үед Шеломо Эцйон-Геберт, мөн далайн эрэг дээрх, Эдомын нутаг дахь Эйлот руу явав.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тэр үед"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "явав"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "Эцйон-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Геберт"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "мөн ... руу"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Эйлот"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "эрэг"
+    },
+    {
+      "surface": "הים",
+      "gloss": "далайн"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "нутаг дахь"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:10:59.743977963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Чулуу ба чулуу, эфа ба эфа — хоёулаа Яхвэд жигшилт юм.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "Чулуу"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ба чулуу"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "эфа"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ба эфа"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "жигшилт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "хоёулаа"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "хоёулаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:19.675644763Z",
+  "model": "glm-5.3"
+}

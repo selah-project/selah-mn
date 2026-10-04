@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Усууд энэ өдөр хүртэл эдгэв, Елишаагийн хэлсэн үгийн дагуу.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "эдгэв"
+    },
+    {
+      "surface": "המים",
+      "gloss": "усууд"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "үгийн дагуу"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Елишаагийн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "хэлсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:58:38.609924105Z",
+  "model": "glm-5.3"
+}

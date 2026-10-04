@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Ахитуб ⟨את⟩ Цадокыг төрүүлж, Цадок ⟨את⟩ Шаллумыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "Ахитуб"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цадокыг"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаллумыг"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шаллум"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:44.119087138Z",
+  "model": "glm-5.3"
+}

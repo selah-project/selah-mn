@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Дайснууд минь намайг шувуу шиг үнэггүй анджээ.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "ангуучлал"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "надад анджээ"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "шувуу шиг"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "миний дайснууд"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "үнэггүй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:58.935894249Z",
+  "model": "glm-5.3"
+}

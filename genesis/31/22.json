@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Гурав дахь өдөрт Лаванд Яаков зугтсаныг мэдэгдэв.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "мэдэгдэв"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Лаванд"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "гурав дахь"
+    },
+    {
+      "surface": "ки",
+      "gloss": "яагаад гэвэл"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "зугтсан"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-10-04T09:56:58.477736007Z",
+  "model": "glm-5.3"
+}

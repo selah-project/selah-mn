@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Хүү минь, зөөхий ид, учир нь сайхан, бал чамайн төмөг дээр амттай байдаг.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ид"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүү минь"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "зөөхий"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "ба бал"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "амттай"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "чамайн төмөг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:22.514462094Z",
+  "model": "glm-5.3"
+}

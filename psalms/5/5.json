@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Учир нь та хорон санааг таалдаг Эл биш, муу таны дэергэд өнжинө.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "таалдаг"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "хорон санааг"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "та"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "таны дэергэд өнжинө"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    }
+  ],
+  "timestamp": "2026-10-04T13:34:19.369316163Z",
+  "model": "glm-5.3"
+}

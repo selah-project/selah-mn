@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Тахатын хүү, Ассирийн хүү, Эвйасафын хүү, Корахын хүү.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Тахат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Ассир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "Эвйасаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:44.432178793Z",
+  "model": "glm-5.3"
+}

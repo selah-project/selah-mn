@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 128,
+  "translation": "Үз, үнэхээр ингэж ивээгдэнэ, Яхвэг айн явах эр хүн.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Үз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "үнэхээр"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ивээгдэнэ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "эр хүн"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "айн явах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:46.902637365Z",
+  "model": "glm-5.3"
+}

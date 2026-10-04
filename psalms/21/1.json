@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Хөгжмийн найруулагчид — Давидын залмас.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Хөгжмийн найруулагчид"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "залмас"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:37:45.064577658Z",
+  "model": "glm-5.3"
+}

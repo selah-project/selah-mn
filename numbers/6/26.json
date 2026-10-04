@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэ Өөрийн нүүрийг чам руу өргөж, чамд амар амгалан өгөг:",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "өргөж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Өөрийн нүүрийг"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чам руу"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "өгөг"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "амар амгалан"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:34.836453628Z",
+  "model": "glm-5.3"
+}

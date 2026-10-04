@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 9:23",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Шемуэл тогоочид хэлэв: Би чамд өгсөн, 'хажуудаа тавь' гэж чамд хэлсэн тэр хэсгийг ⟨את⟩ өг.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэл"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "тогоочид"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "өг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хэсэг"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "хэсэг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "би өгсөн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "би хэлсэн"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "שים",
+      "gloss": "тавь"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "чамтай"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "чамтай"
+    }
+  ],
+  "timestamp": "2026-10-04T11:25:57.286605521Z",
+  "model": "glm-5.3"
+}

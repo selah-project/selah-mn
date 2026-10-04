@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Бүх чуулган тийм болгоё гэж хэлэв, учир нь үг бүх ард түмний нүдэд зөв байв.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "чуулган"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "болгохоор"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тийм"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "зөв"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмний"
+    }
+  ],
+  "timestamp": "2026-10-04T15:03:37.777848558Z",
+  "model": "glm-5.3"
+}

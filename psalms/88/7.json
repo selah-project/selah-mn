@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 88,
+  "translation": "Чамайг намайг доод нур, харанхуйд, гүн усанд тавив.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "тавив"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "нурт"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "доод"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "харанхуйд"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "гүн усанд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:51:34.091991376Z",
+  "model": "glm-5.3"
+}

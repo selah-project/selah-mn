@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 75,
+  "translation": "Хөгжмийн захирагчид — Бүү сүйтгэ — Асафын мазмор, дуу.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Хөгжмийн захирагчид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Бүү"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "сүйтгэ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмор"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафын"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "дуу"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:58.154995406Z",
+  "model": "glm-5.3"
+}

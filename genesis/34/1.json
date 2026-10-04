@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Дина, Лийагийн охин, тэр Яаковт төрүүлсэн нь, газрын охидыг харахаар гарчээ.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "гарчээ"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Дина"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лийа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрүүлсэн"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Яаковт"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "харахаар"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "охидыг"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:46.571173933Z",
+  "model": "glm-5.3"
+}

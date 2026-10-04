@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Хүчтэй дээр сүйрлийг гялалзуулж, цайзан дээр сүйрэл ирнэ.",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "гялалзуулж"
+    },
+    {
+      "surface": "שד",
+      "gloss": "сүйрэл"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "עז",
+      "gloss": "хүчтэй"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ба сүйрэл"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "цайзан"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ирнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:22:49.453700549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Мөн ⟨את⟩ Хадорам, ⟨את⟩ Узал, ⟨את⟩ Дикла.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Мөн ⟨את⟩",
+      "marks": "Хадорам"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Хадорам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Узал"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Узал"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Дикла"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Дикла"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:51.240928609Z",
+  "model": "glm-5.3"
+}

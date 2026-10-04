@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Төрөх цаг нь болоход үзэгтүн, түүний хэвлийд ихэрхүүд байв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ба боллоо"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "үед"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "төрөх"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ба үзэгтүн"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "ихэрхүүд"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "түүний хэвлийд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:00:11.709475689Z",
+  "model": "glm-5.3"
+}

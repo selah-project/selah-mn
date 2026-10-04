@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Чамайг төрүүлсэн Цур-ыг чи мартах болж, чамайг бүтээсэн Эл-ийг мартжээ.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Цур"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "төрүүлсэн"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "мартах"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "мартжээ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "бүтээсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:56.431570310Z",
+  "model": "glm-5.3"
+}

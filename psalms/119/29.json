@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Худлын замыг над зайлуулж, Торыг өршөөж надад өг.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "замыг"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "худлын"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "зайлуулж"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "над"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "болон Торыг чинь"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "надад өршөөж өг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:58:09.625377077Z",
+  "model": "glm-5.3"
+}

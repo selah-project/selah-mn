@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Өөртөө бүсэлхийгээ бүрхэх дээлэндээ дөрвөн талд нь уяа хийх ёстой.",
+  "tokens": [],
+  "timestamp": "2026-10-04T10:57:32.355427431Z",
+  "model": "glm-5.3"
+}

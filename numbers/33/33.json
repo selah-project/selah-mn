@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 33:33",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Хор хаг-Гидгадаас нүүж, Ятватаад буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүж"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "Хор хаг-Гидгадаас"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "Хор хаг-Гидгад"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "ביטבתה",
+      "gloss": "Ятватаад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:09.529487256Z",
+  "model": "glm-5.3"
+}

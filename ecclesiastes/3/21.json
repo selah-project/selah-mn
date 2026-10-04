@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хэн мэдэх вэ — хүний удмын руах дээш огтолгон гардаг уу, малын руах доош орж газарт буцдаг уу?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "мэдэх вэ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "בני",
+      "gloss": "удмын"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "дээш огтолгон гардаг"
+    },
+    {
+      "surface": "היא",
+      "gloss": "уу"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "дээш"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ба руах"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "малын"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "доош орж буцдаг"
+    },
+    {
+      "surface": "היא",
+      "gloss": "уу"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "доош"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "газарт"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:04.065240358Z",
+  "model": "glm-5.3"
+}

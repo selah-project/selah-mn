@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Учир нь завхайрагч гүн ангал мэт, харь эм нарийн худаг мэт болой.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ангал"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "гүн"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "завхайрагч"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "худаг"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "нарийн"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "харь эм"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:42.624848573Z",
+  "model": "glm-5.3"
+}

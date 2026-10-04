@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Өөрсдийн эцгээ харааж, ⟨את⟩ эхээ ерөлдөггүй үе бий.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "үе"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцгээ"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "харааж"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "эхээ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "эхээ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эрээсгүй"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ерөлдөггүй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:59.655824913Z",
+  "model": "glm-5.3"
+}

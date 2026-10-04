@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хэн энэ нь өгүүлсэнд болж, Адонай тушаагаагүй байх билээ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ нь"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "өгүүлсэнд"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "болж"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гаагүй"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаагаагүй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:12.040012028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Кирят-Йеаримын эцэг Шовалд хөвгүүд байв: Хароэ, Менухотын тал.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "байв"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "Шовалд"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирят-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Йеаримын"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "Хароэ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "тал"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "Менухотын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:42.460768362Z",
+  "model": "glm-5.3"
+}

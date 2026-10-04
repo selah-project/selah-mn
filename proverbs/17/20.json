@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Гажууд зүрхтэн сайныг олдоггүй, хэлээрээ эргүүлэгч мууд унадаг.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "гажууд"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "олдог"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "эрс мэд"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "хэлээрээ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "унадаг"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "мууд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:49.815977775Z",
+  "model": "glm-5.3"
+}

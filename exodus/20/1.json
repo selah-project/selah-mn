@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Элохим ⟨את⟩ эдгээр бүх үгсийг айлдаж, хэлэхдээ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эдгээр бүх үгсийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлэхдээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:12:10.624864808Z",
+  "model": "glm-5.3"
+}

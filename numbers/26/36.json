@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Эдгээр нь Шутелахын хөвгүүд: Эранынхан — Эрани овог.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ба эдгээр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "Шутелахын"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "Эранынхан"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "овог"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "Эрани"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:01.860853532Z",
+  "model": "glm-5.3"
+}

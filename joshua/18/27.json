@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Рекем ба Йирпеэл ба Тарала",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "Рекем"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "ба Йирпеэл"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "ба Тарала"
+    }
+  ],
+  "timestamp": "2026-10-04T11:10:21.124503698Z",
+  "model": "glm-5.3"
+}

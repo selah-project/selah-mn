@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Чиний бүх муу үйлсийн дараа — уй, уй чамд! — Адонай Яхвэ айлдаж байна.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болсон"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "дараа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "муу үйлс чинь"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "уй"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "уй"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "айлдсан"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:01:57.661411303Z",
+  "model": "glm-5.3"
+}

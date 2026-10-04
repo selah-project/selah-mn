@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Ерушалаймын хаан, нэг; Хевроны хаан, нэг;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалаймын"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хевроны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T11:08:21.056091462Z",
+  "model": "glm-5.3"
+}

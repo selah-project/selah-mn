@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 26:23",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Мишканы хоёр булангод, хоёр талд байх хоёр самбар хий.",
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "самбар"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "хий"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "булангод"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишканы"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "хоёр талд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:14:43.251247760Z",
+  "model": "glm-5.3"
+}

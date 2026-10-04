@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Үз, Би бол бүх маханы Элохим Яхвэ; Надад ямар ч үг гайхалтай байх уу?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "үз"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим нь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "маханы"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "Надад"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "гайхалтай байх уу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    }
+  ],
+  "timestamp": "2026-10-04T12:46:06.448991009Z",
+  "model": "glm-5.3"
+}

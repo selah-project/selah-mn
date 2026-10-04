@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Эцэрийн хөвгүүд: Билхан, ба Зааван, ба Яакан. Дишонын хөвгүүд: Уц ба Аран.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Эцэр"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Билхан"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ба Зааван"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Яакан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ба Аран"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:36.864673923Z",
+  "model": "glm-5.3"
+}

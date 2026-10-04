@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Баруун талын хил болох Агуу далай танд байх бөгөөд энэ бол таны баруун талын хил мун.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "ים",
+      "gloss": "далай"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болох"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "танд"
+    },
+    {
+      "surface": "הים",
+      "gloss": "далай"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "Агуу"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "танд"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "ים",
+      "gloss": "далай"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:30.848558685Z",
+  "model": "glm-5.3"
+}

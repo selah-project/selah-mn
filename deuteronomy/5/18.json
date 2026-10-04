@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Гэр бүлээ бузарлахгүй.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ба болохгүй"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "гэр бүлээ бузарлах"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:39.147885722Z",
+  "model": "glm-5.3"
+}

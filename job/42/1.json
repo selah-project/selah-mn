@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 42,
+  "translation": "Ийов ⟨את⟩ Яхвэд хариулж, айлдав:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:27:04.260456551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "isaiah 37:37",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Санхериб Ашшурын хаан одож, яван, буцаж, Ниневед суув.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "одож"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "яван"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "буцаж"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Санхериб"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашшурын"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "суув"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "Ниневед"
+    }
+  ],
+  "timestamp": "2026-10-04T12:21:01.507177548Z",
+  "model": "glm-5.3"
+}

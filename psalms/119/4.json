@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Та Өөрийн зарлигуудаа маш сайн сахихыг тушаасан.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Та"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "тушаасан"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "Өөрийн зарлигуудаа"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "сахихыг"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш сайн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:56.970813076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Йисраел боол уу? Гэрт төрсөн боол уу? Яагаад тэр олз болов?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "боол уу"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "אם",
+      "gloss": "уу?"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "төрсөн"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэрт"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Яагаад"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болов"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "олз"
+    }
+  ],
+  "timestamp": "2026-10-04T12:31:48.765232012Z",
+  "model": "glm-5.3"
+}

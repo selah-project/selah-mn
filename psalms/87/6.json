@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 87,
+  "translation": "Яхвэ тоолно, ард түмнүүдийг бичих үедээ: энэ нь тэнд төрсөн. Сэла.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "тоолно"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "бичих үедээ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ард түмнүүдийг"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ нь"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "төрсөн"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Сэла"
+    }
+  ],
+  "timestamp": "2026-10-04T13:51:12.350006636Z",
+  "model": "glm-5.3"
+}

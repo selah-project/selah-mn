@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 55,
+  "translation": "Би яаран надад зугтал олмоор байна, даврах салхи, шуурганаас.",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "Би яаран"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "зугтал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "салхинаас"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "даврах"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "шуурганаас"
+    }
+  ],
+  "timestamp": "2026-10-04T13:44:06.719440638Z",
+  "model": "glm-5.3"
+}

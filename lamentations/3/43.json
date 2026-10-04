@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Чи уурласнаараа бүрхэж, биднийг хөөн мөшгөв; Чи алав, өрөвдөлгүй байлаа.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "бүрхэж"
+    },
+    {
+      "surface": "באף",
+      "gloss": "уурласнаараа"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "биднийг хөөн мөшгөв"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "алав"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "өрөвдөлгүй байлаа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:04.215031206Z",
+  "model": "glm-5.3"
+}

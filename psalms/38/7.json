@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Би муруйж, маш их бөхийв; өдөр бүр гашуудан явав.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "Би муруйж"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "бөхийв"
+    },
+    {
+      "surface": "עד",
+      "gloss": "маш"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "их"
+    },
+    {
+      "surface": "כל",
+      "gloss": "өдөр бүр"
+    },
+    {
+      "surface": "היום",
+      "gloss": "(өдөр)"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "гашуудан"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "явав"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:20.621090274Z",
+  "model": "glm-5.3"
+}

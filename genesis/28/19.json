@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Тэр ⟨את⟩ тэр газрын нэрийг Бет-Эл хэмээн нэрлэв; гэвч тэр хотын нэр анхдаа Луз байв.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "нэрлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нэрийг"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэрийг"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "гэвч"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Луз"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хотын"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "анхдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:03.890794414Z",
+  "model": "glm-5.3"
+}

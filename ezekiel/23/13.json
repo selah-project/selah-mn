@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 23:13",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Би харахад тэр бузарласан байжээ; тэдний хоёулын зам нэг байв.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "Би харахад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-жээ"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "бузарласан бай"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לשתיהן",
+      "gloss": "тэдний хоёулын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:06:00.998561743Z",
+  "model": "glm-5.3"
+}

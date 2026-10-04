@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Эсав Сеир ууланд суурьшав. Тэр Эсав бол Едом мөн.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "суурьшив"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ууланд"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бол"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:14.347056477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Айхгүй байгтун, хүн баяжихад, түүний гэрийн бахдал үржихэд.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "айгтун"
+    },
+    {
+      "surface": "כי",
+      "gloss": "[-ж байхад]"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "баяжина"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "[-хэд]"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "үржинэ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "бахдал"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "түүний гэр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:54.522590796Z",
+  "model": "glm-5.3"
+}

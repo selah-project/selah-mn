@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Ирмийахуд Яхвэгээс ⟨את⟩ ирсэн үг, ингэж айлдахдаа:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ирсэн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмийахуд"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-аас",
+      "marks": "Яхвэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгээс"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T12:37:16.855905783Z",
+  "model": "glm-5.3"
+}

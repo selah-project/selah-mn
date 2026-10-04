@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Бүх үед хувцас чинь цагаан байг, толгой дээрх тос чинь дутагдаж болохгүй.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Бүх"
+    },
+    {
+      "surface": "עת",
+      "gloss": "үед"
+    },
+    {
+      "surface": "Иהיו",
+      "gloss": "байг"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "хувцас чинь"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "цагаан"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "тос чинь"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээрх"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "толгой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "болохгүй"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "дутагдаж"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:08.611660698Z",
+  "model": "glm-5.3"
+}

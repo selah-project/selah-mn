@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Мэй-Яркон ба Раккон, хамт хилээр Яфогийн эсрэг.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "Мэй-"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "Яркон"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "Раккон"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "хилээр"
+    },
+    {
+      "surface": "мול",
+      "gloss": "эсрэг"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "Яфо"
+    }
+  ],
+  "timestamp": "2026-10-04T11:11:18.921356561Z",
+  "model": "glm-5.3"
+}

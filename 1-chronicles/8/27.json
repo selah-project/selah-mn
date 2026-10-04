@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "ба Яарешья, ба Элиья, ба Зихри — Ерохамын хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "ба Яарешья"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "ба Элиья"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ба Зихри"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Ерохамын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:21.789636558Z",
+  "model": "glm-5.3"
+}

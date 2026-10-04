@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 12:17",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Абиагийнх Зихри; Минйаминийх, Моадиагийхх Пилтай.",
+  "tokens": [
+    {
+      "surface": "לאביה",
+      "gloss": "Абиагийнх"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зихри"
+    },
+    {
+      "surface": "למנימין",
+      "gloss": "Минйаминийх"
+    },
+    {
+      "surface": "למועדיה",
+      "gloss": "Моадиагийх"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Пилтай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:54:25.969659304Z",
+  "model": "glm-5.3"
+}

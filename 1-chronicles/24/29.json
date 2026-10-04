@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Кишээс: Кишын хөвгүүн Ярахмээл.",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "Кишээс"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүн"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Кишын"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Ярахмээл"
+    }
+  ],
+  "timestamp": "2026-10-04T15:06:12.770353895Z",
+  "model": "glm-5.3"
+}

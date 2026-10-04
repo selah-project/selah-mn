@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Лаван тэр газрын ⟨את⟩ бүх эрчүүдийг цуглуулж, найр хийв.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "цуглуулж"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх эрчүүдийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "эрчүүдийг"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "тэр газрын"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "хийв"
+    },
+    {
+      "surface": "мשתה",
+      "gloss": "найр"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:08.238809653Z",
+  "model": "glm-5.3"
+}

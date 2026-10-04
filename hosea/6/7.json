@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Тэд Адам шиг гэрээг зөрчсөн; тэнд Надаас урважээ.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "Тэд"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "Адам шиг"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "зөрчсөн"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "гэрээг"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "урважээ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Надаас"
+    }
+  ],
+  "timestamp": "2026-10-04T13:17:13.629715249Z",
+  "model": "glm-5.3"
+}

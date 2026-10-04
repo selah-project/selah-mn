@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Йехуд, Бене-Барак ба Гат-Риммон.",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "Йехуд"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "Бене-"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Барак"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "Гат-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Риммон"
+    }
+  ],
+  "timestamp": "2026-10-04T11:11:18.921121875Z",
+  "model": "glm-5.3"
+}

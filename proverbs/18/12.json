@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Сүйрлийн өмнө хүний зүрх өөдөснө, харин алдрын өмнө даруу байдал байдаг.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сүйрлийн"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "өөдөснө"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "харин өмнө"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "алдрын"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "даруу байдал"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:01.525802807Z",
+  "model": "glm-5.3"
+}

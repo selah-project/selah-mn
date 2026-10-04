@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Бүх ард түмэн ⟨את⟩ Ярденыг гатлаж дуусмагц Яхвэ Иехошуад айлдав, ингэж хэлжээ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болсон нь"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "үед"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "дуусгаж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "гатлаж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ярденыг"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярден"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иехошуа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлж"
+    }
+  ],
+  "timestamp": "2026-10-04T11:05:59.004030797Z",
+  "model": "glm-5.3"
+}

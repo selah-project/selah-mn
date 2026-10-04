@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Өөрийн эзнээс чам дуг зугтаж ирсэн боолыг түүний эзэнд бүү тушаа.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "тушаа"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "боол"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "түүний эзэнд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "зугтаж"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чам дуг"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "түүний эзнээс"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:57.227758285Z",
+  "model": "glm-5.3"
+}

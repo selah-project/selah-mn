@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 43,
+  "translation": "Мөн ⟨את⟩ ах нараа ав; босож, тэр хүн дээр буцаж оч.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ах нараа"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ах нараа"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ав"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "босож"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "буцаж оч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "тэр хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:02:58.819880226Z",
+  "model": "glm-5.3"
+}

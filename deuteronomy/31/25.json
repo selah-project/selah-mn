@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Моше ⟨את⟩ Леви нарыг, Яхвэгийн гэрээний авдрыг тээгчдийг тушаан хэлэхэд:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "тушааж"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Леви нарыг"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Леви нар"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "тээгчид"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "авдар"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "гэрээний"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлж"
+    }
+  ],
+  "timestamp": "2026-10-04T11:04:04.854968240Z",
+  "model": "glm-5.3"
+}

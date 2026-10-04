@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "тэднээс бүү ай; Яхвэ Элохимын чинь Фараон болон бүх Мицраймд ⟨את⟩ юу хийснийг сайн сана:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ай"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "тэднээс"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "сана"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "сайн сана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "юу хийснийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийснийг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимын чинь"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Фараонд"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "болон бүх"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраймд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:53:41.760930457Z",
+  "model": "glm-5.3"
+}

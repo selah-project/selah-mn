@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Аврахам өөртөө төрсөн, Сара өөртөө төрүүлсэн хүүгийнхээ нэрийг Йицхак гэж нэрлэв.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "нэрлэв"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нэр"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "хүүгийнхээ"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "төрсөн"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрүүлсэн"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:39.255954910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Тэнэгийн заль нүгэл мөн, харин дооглогч хүмүүст жигшилтэм.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "заль"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "тэнэгийн"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "нүгэл"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ба жигшилтэм"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "хүмүүст"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "дооглогч"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:59.882691489Z",
+  "model": "glm-5.3"
+}

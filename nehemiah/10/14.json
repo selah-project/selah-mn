@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Ходийа, Бани, Бенинy — Бенинy буруу, Бенину",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "Ходийа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "Бенину"
+    }
+  ],
+  "timestamp": "2026-10-04T14:54:01.975380182Z",
+  "model": "glm-5.3"
+}

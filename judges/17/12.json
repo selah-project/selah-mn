@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Мика ⟨את⟩ Левигийн гар дүүргэв, залуу нь түүнд тахилч болов, Мика-гийн гэрт болов.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "дүүргэв"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мика"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Левигийн гар"
+    },
+    {
+      "surface": "יד",
+      "gloss": "гар"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "бов"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "залуу"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "бов"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "гэрт"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Микагийн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:19:57.716388744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Йисраелын хөвгүүдийн бүх цуглаан цөлд Моше ба Ааронд гомдлов.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "гомдлов"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "цуглаан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ааронд"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:27:42.876794321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Гэвч Би амьд бөгөөд Яхвэгийн алдар ⟨את⟩ бүх газрыг дүүргэх болно.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Гэвч"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "дүүргэх болно"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "алдар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх газрыг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T15:31:28.142427663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Нэр нь их баялгаас илүү сонгогдоно; мөнгө, алтнаас — сайн хээр нь илүү.",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "сонгогдоно"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "баялгаас"
+    },
+    {
+      "surface": "רב",
+      "gloss": "их"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "мөнгөнөөс"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "ба алтнаас"
+    },
+    {
+      "surface": "חן",
+      "gloss": "хээр"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:25.573311567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Бүхэн нэг газар руу явна; бүхэн тоосноос ⟨байсан⟩, ба бүхэн тоос руу буцна.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Бүхэн"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "явна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "нэг газар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "Бүхэн"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ноос"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "тоос"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ба бүхэн"
+    },
+    {
+      "surface": "שב",
+      "gloss": "буцна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "тоос"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:48.012974121Z",
+  "model": "glm-5.3"
+}

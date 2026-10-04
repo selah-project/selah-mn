@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Зиза, Шифийн хүү, Аллоны хүү, Йедайагийн хүү, Шимригийн хүү, Шемайагийн хүү.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "ба Зиза"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "Шифи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Аллон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "Йедайа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Шимри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемайа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:10.733614065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Цөгөгт хаан байхгүй, гэсэн ч тэд бүгдээрээ эгнээгээр гарч оддог.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "цөгөгт"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "гарч оддог"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "эгнээгээр"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "бүгдээрээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:02.391112659Z",
+  "model": "glm-5.3"
+}

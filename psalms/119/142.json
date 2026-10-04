@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Таны цедек үүрдийн цедек мөн; Таны Тора үнэн мөн.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Таны цедек"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "үүрдийн цедек"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "Таны Тора"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "үнэн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:03.221621882Z",
+  "model": "glm-5.3"
+}

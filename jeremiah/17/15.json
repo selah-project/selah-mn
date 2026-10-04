@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Хар, тэд надад хэлж байна: Яхвэгийн үг хаана байна? одоо ирэг.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Хар"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "хэлж байна"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "איה",
+      "gloss": "хаана байна"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ирэг"
+    },
+    {
+      "surface": "נא",
+      "gloss": "одоо"
+    }
+  ],
+  "timestamp": "2026-10-04T12:39:38.744099790Z",
+  "model": "glm-5.3"
+}

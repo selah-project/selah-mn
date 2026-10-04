@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Хүн алж бүү хэмж.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "хүн ал"
+    }
+  ],
+  "timestamp": "2026-10-04T10:11:04.562529121Z",
+  "model": "glm-5.3"
+}

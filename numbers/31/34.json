@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Илжиг нэг ба жаран мянга.",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "илжиг"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ба жаран"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    }
+  ],
+  "timestamp": "2026-10-04T10:47:55.808600321Z",
+  "model": "glm-5.3"
+}

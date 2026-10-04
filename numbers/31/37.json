@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Яхвэд ноогдох гувчуур нь хоньдын дотроос зургаан зуун далан тав байв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "гувчуур"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ны дотроос"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "хоньд"
+    },
+    {
+      "surface": "שש",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "тав"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "далан"
+    }
+  ],
+  "timestamp": "2026-10-04T10:47:23.061926681Z",
+  "model": "glm-5.3"
+}

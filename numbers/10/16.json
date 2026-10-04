@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Зебулуны хөвгүүдийн аймгийн цэргийн захирагч нь Хелонын хүү Элиаб байв.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "цэргийн"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "аймгийн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулуны"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиаб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Хелонын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:51.909465032Z",
+  "model": "glm-5.3"
+}

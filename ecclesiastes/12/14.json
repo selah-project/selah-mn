@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Учир нь Элохим ⟨את⟩ бүх үйлийг шүүлтэд оруулна, бүх далд зүйл дээр — сайн болохыг ч, муу болохыг ч.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх үйлийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "үйлийг"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "оруулна"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "шүүлтэд"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "далд"
+    },
+    {
+      "surface": "אם",
+      "gloss": "болохыг"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "муу болохыг ч"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:59.500794719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Амалек ирж, Рефидимд Йисраелтэй байлдав.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "байлдав"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "Рефидимд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:12:00.160259448Z",
+  "model": "glm-5.3"
+}

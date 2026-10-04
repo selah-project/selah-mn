@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "мөн ⟨את⟩ Баалат, ⟨את⟩ Тамар — цөлд, газар дээр.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Баалат"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Баалат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Тамар"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамар"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газар дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:51:17.581076118Z",
+  "model": "glm-5.3"
+}

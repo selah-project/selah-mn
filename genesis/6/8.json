@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Харин Ноах Яхвэийн нүдэнд хэлэл төвөөлөв.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "Харин Ноах"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "олж авав"
+    },
+    {
+      "surface": "חן",
+      "gloss": "хэлэл ⟨хайр⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэнд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэийн"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:19.621252943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Яхвэ Элохим хүнд тушааж, айлдахдаа: Цэцэрлэгийн аливаа модны жимснээс чи идэж болно.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "тушааж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "аливa"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "модны"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "цэцэрлэгийн"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "болно"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:10.387291661Z",
+  "model": "glm-5.3"
+}

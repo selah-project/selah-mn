@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 45,
+  "translation": "Над руу харж, аврагд, газрын бүх төгсгөлүүд ээ; учир нь Би бол Эл ба өөр үгүй.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "Над руу харж"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Над руу"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "аврагд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "төгсгөлүүд"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ба үгүй"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "өөр"
+    }
+  ],
+  "timestamp": "2026-10-04T12:26:12.968796394Z",
+  "model": "glm-5.3"
+}

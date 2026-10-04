@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Авсанд би чамд өгөх ⟨את⟩ гэрчлэлийг хий.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "хийж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "авсны"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гэрчлэлийг"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "гэрчлэлийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ялангуяа"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "өгөх"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:14:59.530449489Z",
+  "model": "glm-5.3"
+}

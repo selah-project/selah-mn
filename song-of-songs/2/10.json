@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Миний хайрт надад хариулж, хэлэв: Бос, миний хайрт, миний үзэсгэлэнтэн, од.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "миний хайрт"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "бос"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "миний хайрт"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "миний үзэсгэлэнтэн"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "од"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    }
+  ],
+  "timestamp": "2026-10-04T14:27:18.952252309Z",
+  "model": "glm-5.3"
+}

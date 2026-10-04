@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Йицхак тэдэнд банзан найр хийжээ; тэд идэж, уужээ.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "хийжээ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "банзан найр"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "уужээ"
+    }
+  ],
+  "timestamp": "2026-10-04T09:54:13.662184931Z",
+  "model": "glm-5.3"
+}

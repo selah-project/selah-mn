@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Дараа нь бүх модод эрээлж модонд хэлэв: Чи ирж, бидэн дээр хаанчлаач.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "тэд хэлэв"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "модод"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-рүү"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "эрээлж модонд"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чи ирж"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаанчлаач"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "бидэн дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:16:51.726016280Z",
+  "model": "glm-5.3"
+}

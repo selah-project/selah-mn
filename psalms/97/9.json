@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 97,
+  "translation": "Учир нь чи, Яхвэ, дээд Нь бүх газар дээр өндөр; чи бүх бурхдаас маш ихээр өргөгдөв.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "дээд Нь"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш ихээр"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "өргөгдөв"
+    },
+    {
+      "surface": "על",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "бурхад"
+    }
+  ],
+  "timestamp": "2026-10-04T13:53:38.532981021Z",
+  "model": "glm-5.3"
+}

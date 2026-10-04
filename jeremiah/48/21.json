@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Шүүлт тэгш газрын нутагт, Холон руу, Яхац руу ба Мофаат дээр иржээ.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "Шүүлт"
+    },
+    {
+      "surface": "בא",
+      "gloss": "иржээ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "нутагт"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "тэгш газрын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Холон"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба ... руу"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Яхац"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "Мофаат"
+    }
+  ],
+  "timestamp": "2026-10-04T12:52:30.119074200Z",
+  "model": "glm-5.3"
+}

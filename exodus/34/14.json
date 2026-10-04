@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Учир нь өөр Элд бөхөлж бүү мөргө: учир нь Яхвэ, Канн нэртэй, Канн Эл тул.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "бөхөлж мөргө"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Элд"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "Канн"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "Канн"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:17:56.573271351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэ Шемуелийг дуудав; тэрээр хэлэв: Би энд байна.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "дуудав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуелийг"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "тэрээр хэлэв"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Би энд байна"
+    }
+  ],
+  "timestamp": "2026-10-04T11:23:13.196131234Z",
+  "model": "glm-5.3"
+}

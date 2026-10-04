@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Давид явсаар, том болсоор байв, Яхвэ Цебаот түүнтэй хамт байв.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "явсаар"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "том болсоор"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "түүнтэй хамт"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:14.001247339Z",
+  "model": "glm-5.3"
+}

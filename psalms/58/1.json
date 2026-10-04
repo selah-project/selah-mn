@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 58,
+  "translation": "Захирагчид: «Бүү устга» — Давидын Михтам.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Захирагчид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "устга"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Михтам"
+    }
+  ],
+  "timestamp": "2026-10-04T15:52:48.132522954Z",
+  "model": "glm-5.3"
+}

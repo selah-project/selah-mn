@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Мөн тэнэг явахдаа зам дээр байхад түүний зүрх дутуу бөгөөд тэр бүхэнд өөрөө тэнэг гэж хэлнэ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "зам дээр"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "тэнэг байхад"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "явахдаа"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "түүний зүрх"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "дутуу"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ба хэлнэ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүхэнд"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "тэнэг"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өөрөө"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:02.557823976Z",
+  "model": "glm-5.3"
+}

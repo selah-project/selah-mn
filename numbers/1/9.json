@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Зебулунынхон — Элиав, Хелонын хүү.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "Зебулунынхон"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Хелонын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:00.209013659Z",
+  "model": "glm-5.3"
+}

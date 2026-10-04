@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 27:18",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Яхвэ Мошед айлдав: Өөртөө ⟨את⟩ Яхошуа гэдэг Нүнгийн хүүг, дотор нь руах байгаа хүнийг ав, гартаа ⟨את⟩ түүн дээр тавь.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ав"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхошуа гэдэг Нүнгийн хүүг"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Яхошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүүг"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нүнгийн"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дотор нь"
+    },
+    {
+      "surface": "וסמכת",
+      "gloss": "тавь"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гartaа"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "гарт"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүн дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:46:39.822705218Z",
+  "model": "glm-5.3"
+}

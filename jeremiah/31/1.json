@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 31:1",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Тэр үед Яхвэ айлдаж байна: Би Йисраелийн бүх овогт Элохим болж, тэд надад ард болог.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Тэр үед"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Би ... болно"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "овогт"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болог"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ард"
+    }
+  ],
+  "timestamp": "2026-10-04T12:44:59.588350584Z",
+  "model": "glm-5.3"
+}

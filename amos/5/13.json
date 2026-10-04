@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Тиймээс тэр үед ухаант хүн дуугүй байг, учир нь тэр бол муугийн цаг мөн.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Тиймээс"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "ухаант хүн"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "үед"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "дуугүй байг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муугийн"
+    },
+    {
+      "surface": "היא",
+      "gloss": "мөн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:23:49.181993084Z",
+  "model": "glm-5.3"
+}

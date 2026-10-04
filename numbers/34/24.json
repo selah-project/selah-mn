@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Эфраимын хөвгүүдийн овгийн ноён Кемуэл, Шифтаны хүү.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ба ... овгийн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраим"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "Шифтан"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:20.555851637Z",
+  "model": "glm-5.3"
+}

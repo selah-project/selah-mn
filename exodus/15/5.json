@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 15:5",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Гүн уснууд ⟨тэднийг⟩ бүрхэв; тэд гүн рүү чулуу мэт доош живэв.",
+  "tokens": [
+    {
+      "surface": "תהמת",
+      "gloss": "гүн уснууд"
+    },
+    {
+      "surface": "יכסימו",
+      "gloss": "бүрхэв"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "доош живэв"
+    },
+    {
+      "surface": "במצולת",
+      "gloss": "гүн рүү"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "мэт"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "чулуу"
+    }
+  ],
+  "timestamp": "2026-10-04T10:09:35.099977182Z",
+  "model": "glm-5.3"
+}

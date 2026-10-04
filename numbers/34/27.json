@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Ашерын хөвгүүдийн овгоос ноён нь Ахиуд, Шеломигийн хүү.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашерын"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "Ахиуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Шеломигийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:22.212059791Z",
+  "model": "glm-5.3"
+}

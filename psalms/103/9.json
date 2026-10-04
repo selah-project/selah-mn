@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 103,
+  "translation": "Тэр үүрд маргалдахгүй, бас үүрд уураа хадгалдаггүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "маргалдана"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба биш"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "уураа хадгална"
+    }
+  ],
+  "timestamp": "2026-10-04T13:53:46.584778970Z",
+  "model": "glm-5.3"
+}

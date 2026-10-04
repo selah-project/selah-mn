@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 18:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Билдад Сучхий хариулж, хэлэв.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "Билдад"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "Сучхий"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:19:34.807009248Z",
+  "model": "glm-5.3"
+}

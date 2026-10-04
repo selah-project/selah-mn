@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Шөнөөр шүүдэр табор дээр бууж байхад ман түүн дээр буудаг.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "бууж байхад"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "шүүдэр"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "табор"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шөнөөр"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "буудаг"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ман"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүн дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:40:07.005929224Z",
+  "model": "glm-5.3"
+}

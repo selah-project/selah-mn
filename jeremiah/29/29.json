@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Тсефанья тахилч энэ захидлыг эш үзүүлэгч Йирмeyахугийн чихэнд уншив.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "уншив"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Тсефанья"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ захидлыг"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "захидал"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "чихэнд"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмeyаху"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "эш үзүүлэгч"
+    }
+  ],
+  "timestamp": "2026-10-04T12:45:24.237596025Z",
+  "model": "glm-5.3"
+}

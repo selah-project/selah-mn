@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Далайн эргэх газарт: Эштаол, Цора, Ашна,",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "далайн эргэх газарт"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "Эштаол"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "ба Цора"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "ба Ашна"
+    }
+  ],
+  "timestamp": "2026-10-04T15:33:53.279722403Z",
+  "model": "glm-5.3"
+}

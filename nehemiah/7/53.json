@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Бакбугийн хөвгүүд, Хакуфагийн хөвгүүд, Хархурын хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "Бакбугийн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "Хакуфагийн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "Хархурын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:42.898507581Z",
+  "model": "glm-5.3"
+}

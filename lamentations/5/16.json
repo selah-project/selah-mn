@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Толгойн титэм унав. Өрөвдөлт нь бидэнд! Учир нь бид нүгэл үйлдэв.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "унав"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "титэм"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "толгойн"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "өрөвдөлт"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨одоо⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "нүгэл үйлдэв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:56.986680013Z",
+  "model": "glm-5.3"
+}

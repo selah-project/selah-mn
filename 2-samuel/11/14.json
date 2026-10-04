@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Өглөө нь Давид Иоав руу захиа бичиж, Уриагийн гараар илгээв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болохойд"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "өглөө нь"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "бичиж"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "захиа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Иоав"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "илгээв"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "гараар"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Уриагийн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:39:08.037512223Z",
+  "model": "glm-5.3"
+}

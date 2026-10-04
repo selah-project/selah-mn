@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Перетсийн хөвгүүд: Четсрон ба Хамул.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перетс"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Четсрон"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "ба Хамул"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:34.027818537Z",
+  "model": "glm-5.3"
+}

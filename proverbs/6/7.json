@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Түүнд удирдагч, хянагч, ба захирагч байхгүй.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "לה",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "удирдагч"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "хянагч"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ба захирагч"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:16.524135380Z",
+  "model": "glm-5.3"
+}

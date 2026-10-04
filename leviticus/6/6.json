@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Гал байнга тахилын ширээн дээр шатаж, унтрахгүй байх ёстой.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "гал"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "байнга"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "шатаж"
+    },
+    {
+      "surface": "על",
+      "gloss": "- дээр"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "тахилын ширээ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "унтрахгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T10:22:46.917469927Z",
+  "model": "glm-5.3"
+}

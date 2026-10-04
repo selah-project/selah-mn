@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Бүх чуулган ⟨את⟩ дуугаа өргөж, уйлжээ; ард түмэн тэр шөнө уйлав.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "өргөж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "чуулган"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "дуугаа өргөж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дуугаа (қолам)"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "дуугаа"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "уйлжээ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "тэр шөнө"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:39:40.780369452Z",
+  "model": "glm-5.3"
+}

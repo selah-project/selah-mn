@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Миний нүд миний амийг зовоож байна, миний хотын бүх охидын төлөө.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "миний нүд"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "зовоож байна"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "миний амийг"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бүх ... төлөө"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "охид"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "миний хотын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:58.935786894Z",
+  "model": "glm-5.3"
+}

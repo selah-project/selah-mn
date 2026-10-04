@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Дээд Нэгэний нүүрний өмнө хүний шүүлтийг гуйвуулахын тулд биш.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "гуйвуулахын тулд"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлтийг"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүрний"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Дээд Нэгэний"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:12.172613689Z",
+  "model": "glm-5.3"
+}

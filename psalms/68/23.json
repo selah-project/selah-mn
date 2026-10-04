@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 68,
+  "translation": "Адонай айлдав: Башанаас буцаая, буцаая далайн гүнээс.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "Башанаас"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "буцаая"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "буцаая"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "гүнээс"
+    },
+    {
+      "surface": "ים",
+      "gloss": "далайн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:46:19.931433713Z",
+  "model": "glm-5.3"
+}

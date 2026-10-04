@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Мөн өөртөө босгох чулуун багана бүү босгоо — Яхвэ таны Элохим үүнийг үзэн яддаг.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "мөн... бүү"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "босгоо"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "чулуун багана"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "үзэн яддаг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "таны Элохим"
+    }
+  ],
+  "timestamp": "2026-10-04T10:57:25.298164361Z",
+  "model": "glm-5.3"
+}

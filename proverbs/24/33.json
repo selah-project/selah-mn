@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Багагүй унта, багагүй нүдээ ань, багагүй гарын алдан хэвтэхэд хүрнэ.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "багагүй"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "унт"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "багагүй"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "нүдээ ань"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "багагүй"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "гарын алд"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "гар"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "хэвтэхэд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:35.345259843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Чи Яхвэ, Элохимой чинь хамт төгс байг.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "төгс"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "байг"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимой чинь"
+    }
+  ],
+  "timestamp": "2026-10-04T10:58:06.701262559Z",
+  "model": "glm-5.3"
+}

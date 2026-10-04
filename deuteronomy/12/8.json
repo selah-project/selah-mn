@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Бид энд өнөөдөр хийдэг бүхний дагуу та нар ингэж үйлдэхгүй — хүн бүр өөрийн нүдэнд зөв юуг үйлдэнэ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "та нар үйлдэх"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "бүхний дагуу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "бид"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "хийдэг"
+    },
+    {
+      "surface": "פה",
+      "gloss": "энд"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн бүр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "зөв юуг"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "өөрийн нүдэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:50.826517446Z",
+  "model": "glm-5.3"
+}

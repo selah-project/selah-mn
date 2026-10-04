@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Надад ярьж байсан тэнгэр элчид би хэлэв: Тэд ⟨את⟩ эфаг хаашаа аваачиж байна вэ?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "тэнгэр элчид"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ярьж байсан"
+    },
+    {
+      "surface": "בי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "хаашаа"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "аваачиж байна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эфа"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "эфаг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:29:56.440451692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэдний сууж буйг ба босож буйг хараач; би тэдний хоширхлын дуу болсон.",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "тэдний сууж буйг"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "ба босож буйг"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "хараач"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "тэдний хоширхлын дуу"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:59.560627523Z",
+  "model": "glm-5.3"
+}

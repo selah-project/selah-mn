@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Ерөөлтэй Та, Яхвэ; Таны зарлигуудыг надад зааж өг.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ерөөлтэй"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Та"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "зааж өг"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "Таны зарлигуудыг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:58:13.035690577Z",
+  "model": "glm-5.3"
+}

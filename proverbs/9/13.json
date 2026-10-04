@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Тэнэг эм хашхирч байна, тэвчигдэмтгий бөгөөд юу ч мэддэггүй.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "эм"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "тэнэг"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "хашхирч байна"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "тэвчигдэмтгий"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "ба юу ч"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "мэддэггүй"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨юу ч⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:01.724416459Z",
+  "model": "glm-5.3"
+}

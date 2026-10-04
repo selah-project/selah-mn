@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Яхвэ дангаар түүнийг хөтлөв, түүний хамт үндэсний Эл байсангүй.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "дангаар"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "түүнийг хөтлөв"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "байсангүй"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "түүний хамт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "үндэсний"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:19.089538358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 134,
+  "translation": "Яхвэ чамайг Сионаас адислаг, тэнгэр ба газрыг бүтээгч.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "адислаг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "Сионаас"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "бүтээгч"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "тэнгэр"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ба газрыг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:41.937391260Z",
+  "model": "glm-5.3"
+}

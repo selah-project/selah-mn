@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Тэр ардаа эргэтэл намайг үзэж, над руу дуудав; би 'Энд би' гэв.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "эргэтэл"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ардаа"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "намайг үзэж"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "дуудав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "над руу"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "би гэв"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Энд би"
+    }
+  ],
+  "timestamp": "2026-10-04T11:35:12.263786599Z",
+  "model": "glm-5.3"
+}

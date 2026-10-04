@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Чи эфодын дээлийг бүхэлд нь цэнхэр өнгөөр хий.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "чи хий"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дээл"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "дээл"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "эфодын"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "бүхэлд нь"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "цэнхэр өнгөөр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:17:13.687165275Z",
+  "model": "glm-5.3"
+}

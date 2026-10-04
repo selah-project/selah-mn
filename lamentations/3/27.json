@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хүнд залуу насандаа буул үүрэх нь сайхан.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…нь"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "үүрэх"
+    },
+    {
+      "surface": "על",
+      "gloss": "буул"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "залуу насандаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:34.820578483Z",
+  "model": "glm-5.3"
+}

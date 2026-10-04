@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Цедекийн тахилуудыг тахил өргөж, Яхвэд найдагтун.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "тахил өргөж"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "тахилуудыг"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедекийн"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "ба найдагтун"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:34:03.817864140Z",
+  "model": "glm-5.3"
+}

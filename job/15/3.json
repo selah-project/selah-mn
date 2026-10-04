@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Ашиггүй үгээр нотолох уу, ямар ч ашиггүй үгсээр?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "нотолох уу"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "үгээр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ашиггүй"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": ""
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "үгсээр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ашиггүй"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "בם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T14:19:13.299793625Z",
+  "model": "glm-5.3"
+}

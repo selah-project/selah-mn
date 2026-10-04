@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Долоон өдрийн төгсгөлд болоход Яхвэгийн үг над руу ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болоход"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "төгсгөлд"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдрийн"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "над руу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T12:57:31.968275895Z",
+  "model": "glm-5.3"
+}

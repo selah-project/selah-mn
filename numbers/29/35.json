@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Найм дахь өдөр та нарт наадмын хурал байг; ямар ч ажлын үйл бүү хий.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "найм дахь"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "наадмын хурал"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "байг"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ажлын"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "үйл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "хий"
+    }
+  ],
+  "timestamp": "2026-10-04T10:47:24.143521167Z",
+  "model": "glm-5.3"
+}

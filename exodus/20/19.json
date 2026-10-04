@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Мошед хэлсэн нь: Чи бидэнтэй ярь, бид сонсъё; Элохим бидэнтэй бүү ярь, үгүй бол бид үхнэ.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "хэлсэн нь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ярь"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "бидэнтэй"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "сонсъё"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ярь"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "бидэнтэй"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "פן",
+      "gloss": "үгүй бол"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "үхнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:28:49.566267407Z",
+  "model": "glm-5.3"
+}

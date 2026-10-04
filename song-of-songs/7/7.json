@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ямар үзэсгэлэнтэй, ямар таатай юм бэ, хайр минь, таашаалууд дундаа!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "үзэсгэлэнтэй"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "таатай"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "хайр"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "таашаалууд дундаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:29:13.868767889Z",
+  "model": "glm-5.3"
+}

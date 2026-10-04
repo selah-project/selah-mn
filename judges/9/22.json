@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Авимелех Йисраел дээр гурван жил ноёрхлов.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "ноёрхлов"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "על",
+      "gloss": "...-дээр"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жил"
+    }
+  ],
+  "timestamp": "2026-10-04T11:16:33.823528064Z",
+  "model": "glm-5.3"
+}

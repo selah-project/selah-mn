@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 87,
+  "translation": "Чиний тухай эрхэм зүйлс яригддаг, Элохимын хот. Сэла.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "эрхэм зүйлс"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "яригддаг"
+    },
+    {
+      "surface": "בך",
+      "gloss": "Чиний тухай"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Сэла"
+    }
+  ],
+  "timestamp": "2026-10-04T13:51:11.150062751Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Харийн суугч ба цалинч түүнийг идэж болохгүй.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "харийн суугч"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ба цалинч"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болохгүй"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнийг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:09:34.803530834Z",
+  "model": "glm-5.3"
+}

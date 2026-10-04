@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Маханы гадна чамд ⟨нэг⟩ газар байг, чи тийшээ гадагш гарна.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "байг"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "байх ёстой"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "гадна"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "маханаас"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тийшээ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "гадагш"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:57.227169406Z",
+  "model": "glm-5.3"
+}

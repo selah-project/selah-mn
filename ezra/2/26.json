@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Рама, Гевагийн хөвгүүд — зургаан зуун хорин нэгэн ⟨хүн⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ба Гева"
+    },
+    {
+      "surface": "שש",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "мאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "нэгэн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:12.418893488Z",
+  "model": "glm-5.3"
+}

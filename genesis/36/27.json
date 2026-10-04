@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Эдгээр нь Эцэрийн хөвгүүд: Билхан, Зааван, Акан.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Эдгээр нь"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Эцэрийн"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Билхан"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "Зааван"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "Акан"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:10.085745644Z",
+  "model": "glm-5.3"
+}

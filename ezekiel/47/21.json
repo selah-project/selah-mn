@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 47,
+  "translation": "Энэ газрыг танарт өөрт чинь Йисраелийн овгуудаар хуваана.",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "хуваана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ газар"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "овгуудаар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:14:49.574706652Z",
+  "model": "glm-5.3"
+}

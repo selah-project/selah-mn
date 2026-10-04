@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Яхвэ надад айлдаж, гэв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдаж, гэв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:48.321318971Z",
+  "model": "glm-5.3"
+}

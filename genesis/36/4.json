@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Ада Эсавыг ⟨את⟩ Элифазыг төрүүлэв, Босмат Реуэлийг ⟨את⟩ төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Эсавыд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элифазыг"
+    },
+    {
+      "surface": "אליפз",
+      "gloss": "Элифазыг"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "ба Босмат"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Реуэлийг"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуэлийг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:24.293546180Z",
+  "model": "glm-5.3"
+}

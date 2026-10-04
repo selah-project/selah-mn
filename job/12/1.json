@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Иов хариулж, хэлэв.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:17:40.137684439Z",
+  "model": "glm-5.3"
+}

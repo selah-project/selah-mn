@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 44,
+  "translation": "Тэр тэдэнд хүрч очоод, тэдэнд ⟨את⟩ эдгээр үгсийг хэлэв.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "тэдэнд хүрч очоод"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эдгээр үгс"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:02:29.248784353Z",
+  "model": "glm-5.3"
+}

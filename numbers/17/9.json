@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Яхвэ Мошед хэлж байна, ингэж айлдахдаа",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "хэлж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:41:23.033813430Z",
+  "model": "glm-5.3"
+}

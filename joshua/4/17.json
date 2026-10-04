@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Иехошуа тахилчидад тушааж, ингэж хэлэв: Ярданаас гарч ирцгээнэ.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "тушааж"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иехошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тахилчид"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "тахилчид"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлж"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "гарцгаа"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярдан"
+    }
+  ],
+  "timestamp": "2026-10-04T11:05:04.297096396Z",
+  "model": "glm-5.3"
+}

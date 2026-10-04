@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 42,
+  "translation": "Йосеф ⟨את⟩ ах нараа таньсан боловч тэд түүнийг танисангүй.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "таньсан"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ах нараа"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ах нараа"
+    },
+    {
+      "surface": "והם",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ангүй"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "түүнийг танисангүй"
+    }
+  ],
+  "timestamp": "2026-10-04T10:01:57.074007192Z",
+  "model": "glm-5.3"
+}

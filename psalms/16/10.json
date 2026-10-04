@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Учир нь Та амь минь Шеолд орхихгүй, Өөрийн хэсэддээ нүхийг харахыг өгөхгүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "орхих"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "амь минь"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шеолд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "өгөх"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "Өөрийн хэсэддээ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "харахыг"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "нүх"
+    }
+  ],
+  "timestamp": "2026-10-04T13:35:29.181171211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Яхвэгийн үг Петуелын хүү Иоелд болов.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(яаж)"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Иоел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Петуелын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:20:05.857933125Z",
+  "model": "glm-5.3"
+}

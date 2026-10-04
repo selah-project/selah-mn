@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэд зориулж тусгаарлагдсан бүх өдрүүдэдээ тэрээр үхсэн хүнд ойртох ёсгүй.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "өдрүүдэдээ"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "тусгаарлагдсан"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "על",
+      "gloss": "ойр"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "מת",
+      "gloss": "үхсэн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ёсгүй"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "орно"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:59.594864133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Мунхагуудын хөдөлмөр тэднийг залхууруулна, тэд хот руу яаж явахаа мэдэхгүй.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "хөдөлмөр"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "Мунхагуудын"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "залхууруулна"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тийм учраас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "мэдэхгүй"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мэдэхгүй"
+    },
+    {
+      "surface": "лалехет",
+      "gloss": "яаж явахаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "хот"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:20.705709064Z",
+  "model": "glm-5.3"
+}

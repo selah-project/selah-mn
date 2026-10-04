@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 120,
+  "translation": "Баатарын шовх сум, хамт ретамын нүүрсэн галт чулуугаар.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "сум"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Баатарын"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "шовх"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "галт чулуу"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ретамын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:34.592589778Z",
+  "model": "glm-5.3"
+}

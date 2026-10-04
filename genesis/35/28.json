@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Йицхакын насан хугацаа зуун наян жил байв.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ба болсон"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "өдүүд нь"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхакын"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ба наян"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:40.900600136Z",
+  "model": "glm-5.3"
+}

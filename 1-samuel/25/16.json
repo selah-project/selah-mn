@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Бид хонь хариулж байхдаа тэдэнтэй байсан бүх өдрөөр шөнө ч, өдөр ч бидэнд хanaa болж байсан.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "хана"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болж байсан"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шөнө"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "өдрөөр"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "тэдэнтэй"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "хонь"
+    }
+  ],
+  "timestamp": "2026-10-04T15:37:54.708412088Z",
+  "model": "glm-5.3"
+}

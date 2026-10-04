@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Шеломогийн нэг өдрийн хоол гучин кор нарийн гурил, жаран кор гурил байв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хоол"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломогийн"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "нэг өдрийн"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "гучин"
+    },
+    {
+      "surface": "כר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "нарийн гурил"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "жаран"
+    },
+    {
+      "surface": "כר",
+      "gloss": "кор"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "гурил"
+    }
+  ],
+  "timestamp": "2026-10-04T11:49:31.591567468Z",
+  "model": "glm-5.3"
+}

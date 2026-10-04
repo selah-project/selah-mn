@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Яхвэ үүлэн баганын дүрээр майханд илэрч, үүлэн багана майханы хаалган дээр боссон.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "илэрч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "майханд"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "баганын дүрээр"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "үүлэн"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "боссон"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "багана"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "үүлэн"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "хаалган"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "майханы"
+    }
+  ],
+  "timestamp": "2026-10-04T11:04:21.144638141Z",
+  "model": "glm-5.3"
+}

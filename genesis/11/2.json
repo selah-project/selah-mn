@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 11:2",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Тэд зүүнээс нүүж яваад Шинар газарт хөндий олж, тэнд суурьшив.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "нүүж явахад нь"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "зүүнээс"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "олж"
+    },
+    {
+      "surface": "בקעה",
+      "gloss": "хөндий"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "Шинар"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "суурьшив"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:49:29.846293281Z",
+  "model": "glm-5.3"
+}

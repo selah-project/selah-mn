@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 92,
+  "translation": "Бэлэн мэт хүн үүнийг мэдэхгүй, тэнэг хүн үүнийг ойлгохгүй.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "בער",
+      "gloss": "бэлэн мэт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "мэдэхгүй"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мэдэхгүй"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "тэнэг хүн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ойлгохгүй"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ойлгохгүй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үүнийг"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "үүнийг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:53:00.724245594Z",
+  "model": "glm-5.3"
+}

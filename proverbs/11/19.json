@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Цедек амьдралд хөтөлнө, мууг хөөгч өөрийн үхэлд хүрнэ.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "тийм байдлаар"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "амьдралд"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "хөөгч"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "мууг"
+    },
+    {
+      "surface": "למותו",
+      "gloss": "өөрийн үхэлд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:13.199699144Z",
+  "model": "glm-5.3"
+}

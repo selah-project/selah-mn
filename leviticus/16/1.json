@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Яхвэ Мошед айлдаж, Аароны хоёр хүү Яхвэгийн өмнө ойртоод үхсний дараа тэгжээ.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "дараа"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхсэн"
+    },
+    {
+      "surface": "שני",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аароны"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "ойртоод"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "тэгжээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:28:05.781028024Z",
+  "model": "glm-5.3"
+}

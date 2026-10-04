@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Мерргөн ухаан дайн зэвсгээс илүү; ганц нүгэл үйлдэгч олон сайныг сүйтгэнэ.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "илүү"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мерргөн ухаан"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "зэвсгээс"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "дайн"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "гэвч нүгэл үйлдэгч"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ганц"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "сүйтгэнэ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "олон"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:00.477593160Z",
+  "model": "glm-5.3"
+}

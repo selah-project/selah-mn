@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Саулын авга ах нь хэлэв: Надад хэлээч, Шемуел та нарт юу хэлсэн бэ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "авга ах"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саулын"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "хэлээч"
+    },
+    {
+      "surface": "נא",
+      "gloss": "гэж"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэлсэн бэ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    }
+  ],
+  "timestamp": "2026-10-04T11:26:30.420112234Z",
+  "model": "glm-5.3"
+}

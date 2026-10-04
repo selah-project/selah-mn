@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Мөнгөний уутыг гартаа авчээ, бүтэн сарын өдөр гэртээ ирнэ.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "уут"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "мөнгөний"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "авчээ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "гартаа"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "бүтэн сарын"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ирнэ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "гэртээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:56.698814131Z",
+  "model": "glm-5.3"
+}

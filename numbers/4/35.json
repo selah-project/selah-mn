@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 4:35",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Гучин наснаас дээш, тавин нас хүртэл, уулзлын майханд албанд орох цэрэг болгоныг тоолов.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "наснаас"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "Гучин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "нас"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "дээш"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "нас"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "нас"
+    },
+    {
+      "surface": "כל",
+      "gloss": "болгоныг"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "орох"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "цэрэг"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "албанд"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "майханд"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "уулзлын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:34:56.403704114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Энэ Йовелийн жилд та нар хүн бүр өөрийн эзэмшил рүүгээ буцна.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "...жилд"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "Йовел"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "буцна"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн бүр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "өөрийн эзэмшил"
+    }
+  ],
+  "timestamp": "2026-10-04T10:31:53.473729402Z",
+  "model": "glm-5.3"
+}

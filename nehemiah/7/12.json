@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Еламын хөвгүүд: мянга хоёр зуу тавин дөрөв.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Еламын"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "хоёр зуу"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "дөрөв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:51:30.157724520Z",
+  "model": "glm-5.3"
+}

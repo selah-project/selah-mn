@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 4:4",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Тэр ⟨את⟩ бухыг уулзлын майхны амсар руу Яхвэгийн өмнө аваачиж, гараа бухын толгой дээр тавьж, бухыг Яхвэгийн өмнө огцолно.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "аваачиж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бух"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "бухыг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "амсар"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "майхны"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "уулзлын"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "тавьж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гар"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "толгой"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "бухын"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "огцолно"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бух"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "бухыг"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:22:15.128947363Z",
+  "model": "glm-5.3"
+}

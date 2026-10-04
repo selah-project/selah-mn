@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэ, Та миний золгүй байдлыг үзсэн; миний шүүлтийг шүүж өг.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Та үзсэн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "миний золгүй байдлыг"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "шүүж өг"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "миний шүүлтийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:17.026567217Z",
+  "model": "glm-5.3"
+}

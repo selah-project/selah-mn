@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Мэтүшалахын бүх өдрүүд есөн зуун жаран есөн жил болжээ; тэрээр нас баржээ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "болжээ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "өдрүүд"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Мэтүшалахын"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "есөн"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "жаран"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "есөн"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "нас баржээ"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:03.345435435Z",
+  "model": "glm-5.3"
+}

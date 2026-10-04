@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Бүх үндэстэн хэлэх болно: Яагаад Яхвэ энэ газарт ингэж үйлдсэн бэ? Энэ их уурын догшин хилэн юу вэ?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "хэлэх болно"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "үндэстэн"
+    },
+    {
+      "surface": "על",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "үйлдсэн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "догшин хилэн"
+    },
+    {
+      "surface": "האף",
+      "gloss": "уурын"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "их"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:02:11.522386020Z",
+  "model": "glm-5.3"
+}

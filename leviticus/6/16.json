@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Харин тахилчийн минха бүхэн бүхэлд нь байг, идэгдэхгүй.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ба ... бүхэн"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "минха"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "тахилчийн"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "бүхэлд нь"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "байг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "идэгдэх"
+    }
+  ],
+  "timestamp": "2026-10-04T10:23:12.754544004Z",
+  "model": "glm-5.3"
+}

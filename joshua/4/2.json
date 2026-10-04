@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Ардаас өөрсдөдөө арван хоёр хүн ав — нэг хүн, нэг хүн нэг аймгаас.",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ав"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өөрсдөдөө"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ас"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "איש",
+      "gloss": "нэг хүн"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "איש",
+      "gloss": "нэг хүн"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "нэг аймгаас"
+    }
+  ],
+  "timestamp": "2026-10-04T11:05:59.004370044Z",
+  "model": "glm-5.3"
+}

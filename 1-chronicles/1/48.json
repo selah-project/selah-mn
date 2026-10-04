@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Самла үхэж, түүний оронд Голын Реховотоос Шаул хаанчлав.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "үхэж"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "хаанчлав"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "түүний оронд"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "Реховотоос"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "Голын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:40.440084418Z",
+  "model": "glm-5.3"
+}

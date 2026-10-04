@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Үүлнээс асгарч, хүн дээр ихээр дуслана.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "нь"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "асгарч"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "үүлнээс"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "дуслана"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ихээр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:24:14.063351614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 25:39",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Хэрэв ах чинь чамайг барах үед ядуурч, чамд зарагдвал, түүнд боолын алба тавихгүй.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Хэрэв"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "ядуурч"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ах чинь"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "чамайг барах үед"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "зарагдвал"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "тавихгүй"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "алба тавих"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "алба"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "боолын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:32:08.384921056Z",
+  "model": "glm-5.3"
+}

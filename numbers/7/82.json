@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "ямны эр үхэр нэг, нүглийн тахилга болгон.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "эр үхэр"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ямны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "нүглийн тахилга болгон"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:45.720010408Z",
+  "model": "glm-5.3"
+}

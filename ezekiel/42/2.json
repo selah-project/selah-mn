@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 42,
+  "translation": "Уртын өмнөд талд амга зуу байлаа — умард талын хаалга — өргөн нь тавин амга.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "פני",
+      "gloss": "өмнөд талд"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "уртын"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "амга"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "зуу"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "хаалга"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "умард талын"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "ба өргөн"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "амга"
+    }
+  ],
+  "timestamp": "2026-10-04T13:13:45.059376738Z",
+  "model": "glm-5.3"
+}

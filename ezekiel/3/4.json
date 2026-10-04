@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр намайг дуудаж: Хүний хүү ээ, яв, Йисраелийн гэрт ор, Миний үгсийг тэдэнд хэл.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "לך",
+      "gloss": "яв"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ор"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-т"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "Миний үгсийг"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "тэдэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T12:58:07.469764082Z",
+  "model": "glm-5.3"
+}

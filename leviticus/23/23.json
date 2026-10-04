@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "ЯХВЭ Мосетой ярьж, айлдав.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ярьж айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ЯХВЭ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мосе"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:31:28.405687826Z",
+  "model": "glm-5.3"
+}

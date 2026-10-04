@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "ямааны эр нэгийг, та нарыг ⟨эвлэрүүлэх⟩ зориулалтаар.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "эр"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ямааны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэгийг"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "⟨эвлэрүүлэх⟩ зориулалтаар"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "та нарыг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:46:30.733708047Z",
+  "model": "glm-5.3"
+}

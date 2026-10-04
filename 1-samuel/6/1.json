@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэгийн ав плиштичүүдийн талд долоон сар байлаа.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байлаа"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "талд"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "плиштичүүдийн"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "сар"
+    }
+  ],
+  "timestamp": "2026-10-04T11:25:02.884468830Z",
+  "model": "glm-5.3"
+}

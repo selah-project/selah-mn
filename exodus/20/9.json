@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Зургаан өдөр чи хөдөлмөрлөж, бүх ажлаа хийжээ.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "хөдөлмөрлөж"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "хийжээ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "ажлаа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:28:04.329837845Z",
+  "model": "glm-5.3"
+}

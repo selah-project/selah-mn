@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Учир нь Адонай үүрд татгалзахгүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "татгалзахгүй"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:22.317042459Z",
+  "model": "glm-5.3"
+}

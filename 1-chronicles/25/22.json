@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 25:22",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Арван тав дахь Иремот, түүний хөвгүүд ба түүний ах дүүс арван хоёр байв.",
+  "tokens": [
+    {
+      "surface": "לחמשה",
+      "gloss": "тав"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "лירמות",
+      "gloss": "Иремот"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "түүний хөвгүүд"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ба түүний ах дүүс"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:28.975729059Z",
+  "model": "glm-5.3"
+}

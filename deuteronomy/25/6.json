@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Тэр төрүүлэх анхны хүү нь үхсэн ахынхаа нэрийн өмнө босож, түүний нэр Йисраелээс арлагдахгүй.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "анхны хүү"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "төрүүлэх"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "босож"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ын өмнө"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ахынхаа"
+    },
+    {
+      "surface": "המת",
+      "gloss": "үхсэн"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "болгоогүй"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "арлагдах"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "түүний нэр"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Йисраелээс"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:30.237411272Z",
+  "model": "glm-5.3"
+}

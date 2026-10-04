@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Билха — Рахелийн зарц — нь Дан, Нефтали гэсэн хөвгүүдтэй байв.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ба хөвгүүд"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билха"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "зарц"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахелийн"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ба Нефтали"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:40.899777409Z",
+  "model": "glm-5.3"
+}

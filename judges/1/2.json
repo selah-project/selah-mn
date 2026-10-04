@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Яхвэ хэлэв: Иехуд дэгшинэ; үз, Би ⟨את⟩ газрыг түүний гарт өгсөн.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иехуд"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "дэгшинэ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "үз"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "өгсөн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "газрыг"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрыг"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "түүний гарт"
+    }
+  ],
+  "timestamp": "2026-10-04T11:13:34.694148085Z",
+  "model": "glm-5.3"
+}

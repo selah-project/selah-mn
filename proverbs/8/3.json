@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Дааман хаалганы хажууд, хотын ам, хаалгуудын орох газар хашгиранэ.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "хажууд"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "дааман хаалганы"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ам"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "хотын"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "орох газар"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "хаалгуудын"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "хашгиране"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:49.567323260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Би цедекийн замаар алхана, шүүлтийн замуудын дунд явна.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "... замаар"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедекийн"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "Би ... алхана"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "замуудын"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлтийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:54.735372975Z",
+  "model": "glm-5.3"
+}

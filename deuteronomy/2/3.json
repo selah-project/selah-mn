@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Энэ уулыг тойрч байхад та нарт хангалттай; та нар хойд зүг рүү эргэгтүн.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "хангалттай"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "סב",
+      "gloss": "тойрч байхад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ уул"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "эргэгтүн"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нар"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "хойд зүг рүү"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:48.321496592Z",
+  "model": "glm-5.3"
+}

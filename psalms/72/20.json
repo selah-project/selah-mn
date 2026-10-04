@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 72,
+  "translation": "Давид, Йишайгийн хүүгийн залбирлууд дууслаа.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "дууслаа"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "залбирлууд"
+    },
+    {
+      "surface": "дוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Йишай"
+    }
+  ],
+  "timestamp": "2026-10-04T13:47:31.117346962Z",
+  "model": "glm-5.3"
+}

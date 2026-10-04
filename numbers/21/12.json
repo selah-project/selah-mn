@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Тэндээс аялж, Зередын хөндийд буудаллав.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "Тэндээс"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "аялж"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "хөндийд"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зередын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:42:07.563340781Z",
+  "model": "glm-5.3"
+}

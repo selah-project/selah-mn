@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Модоо эмхэлж, ⟨את⟩ үхрийг тайрч, модон дээр нь тавив.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "эмхэлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мод"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "мод"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "тайрч"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үхэр"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "тавив"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "модон"
+    }
+  ],
+  "timestamp": "2026-10-04T11:56:24.766390139Z",
+  "model": "glm-5.3"
+}

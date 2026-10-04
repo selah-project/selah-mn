@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 21:27",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Аврахам хонь, үхэр авч Абимелект өгөв, тэд хоёулаа гэрээ байгуулав.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "авч"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "хонь"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "Абимелект"
+    },
+    {
+      "surface": "ויכרתו",
+      "gloss": "байгуулав"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "хоёулаа"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "гэрээ"
+    }
+  ],
+  "timestamp": "2026-10-04T09:51:57.439491283Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Тэр таван хаан зугтан, Маккедагийн агуйд нуугдав.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "зугтан"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "таван"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "нуугдав"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "агуйд"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "Маккедагийн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:07:15.608093695Z",
+  "model": "glm-5.3"
+}

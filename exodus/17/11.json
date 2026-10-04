@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 17:11",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Моше гараа өргөхөд Йисраел давуулж, гараа тавихад Амалек давуулж байв.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "байв"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "хэрэйд"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "өргөхөд"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "давуулж"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "харин"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "тавихад"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "давуулж"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    }
+  ],
+  "timestamp": "2026-10-04T10:11:58.807771509Z",
+  "model": "glm-5.3"
+}

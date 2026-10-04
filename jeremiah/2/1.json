@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Яхвэгийн үг надад ирж, айлтгасан нь:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болсон"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлтгасан нь"
+    }
+  ],
+  "timestamp": "2026-10-04T12:32:16.502279937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 148,
+  "translation": "Уулс болон бүх дов толгод, жимсний модод болон бүх нарс нар.",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Уулс"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "болон бүх"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "дов толгод"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "модод"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "жимсний"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "болон бүх"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "нарс нар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:02:34.544441565Z",
+  "model": "glm-5.3"
+}

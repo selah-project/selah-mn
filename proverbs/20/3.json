@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Хэрүүлээс тэвчих нь хүнд алдар; харин тэнэг бүхэн зодолдоно.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "алдар"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "тэвчих"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "хэрүүлээс"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "харин бүхэн"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "тэнэг"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "зодолдоно"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:24.519662228Z",
+  "model": "glm-5.3"
+}

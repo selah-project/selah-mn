@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Тэд Би бол Яхвэ гэдгийг мэдэх болно; Би дэмий ярьсангүй тэдэнд энэ мууг хийхийн тулд.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ба мэдэх болно"
+    },
+    {
+      "surface": "כי",
+      "gloss": "яг"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "חנם",
+      "gloss": "дэмий"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ярьсан"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "хийхийн тулд"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "мууг"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:57:38.064256973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "уйлах цаг, инээх цаг; гашуудах цаг, бүжиглэх цаг.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "уйлах"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба инээх цаг"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "инээх"
+    },
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "гашуудах"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба бүжиглэх цаг"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "бүжиглэх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:16.819676694Z",
+  "model": "glm-5.3"
+}

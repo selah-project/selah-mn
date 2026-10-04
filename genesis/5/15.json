@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Махалалел таван жил болон жаран жил амьдрав, Яредыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "амьдрав"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Махалалел"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "таван"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жил"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "болон жаран"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яредыг"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Яред"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:24.759796704Z",
+  "model": "glm-5.3"
+}

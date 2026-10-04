@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 5:12",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Ийшралын хүүхдүүдэд хэл, тэдэнд хэлж өг: Хүн бүрийн эхнэр нь хэрэв тэнэгдэж, түүнд золгоон урвabal,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүүхдүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Ийшралын"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "тэдэнд хэлж өг"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "איש",
+      "gloss": "бүрийн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "תשטה",
+      "gloss": "тэнэгдэж"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "эхнэр нь"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "золгоон"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "урвabal"
+    }
+  ],
+  "timestamp": "2026-10-04T10:36:28.468245961Z",
+  "model": "glm-5.3"
+}

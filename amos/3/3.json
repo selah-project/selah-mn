@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хоёр хүн зөвшилцөөгүйгээ хамт явж чадах уу?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "явж чадах уу"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "хэрэв ... биш"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "зөвшилцөөгүйгээ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:21:44.162651135Z",
+  "model": "glm-5.3"
+}

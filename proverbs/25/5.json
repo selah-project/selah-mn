@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Хааны өмнөөс мууг зайлуул, түүний сэнтий цедект бэхжинэ.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "зайлуул"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "мууг"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнөөс"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "бэхжинэ"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "цедект"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "түүний сэнтий"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:36.125689751Z",
+  "model": "glm-5.3"
+}

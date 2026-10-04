@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Гивонд Баалгивоны эцэг ⟨эцэг⟩ суурьшиж, түүний эхнэрийн нэрийг Мааха гэв.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "Гивонд"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "суурьшиж"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивоны"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "нэрийг"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "түүний эхнэрийн"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:29.165352101Z",
+  "model": "glm-5.3"
+}

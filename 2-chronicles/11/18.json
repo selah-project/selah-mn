@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 11:18",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Рехавам өөртөө эхнэр авав — Давидын хүү Йеримотын охин Махалат ⟨את⟩ ба Йишайгийн хүү Элиавын охин Авихайлыг.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "авав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эхнэр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Махалат"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Махалат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "ירימות",
+      "gloss": "Йеримот"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "Авихаил"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Йишай"
+    }
+  ],
+  "timestamp": "2026-10-04T15:11:59.642136816Z",
+  "model": "glm-5.3"
+}

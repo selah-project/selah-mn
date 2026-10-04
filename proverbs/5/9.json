@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Алдараа бусдад өгч, жилүүдээ хатуу сэтгэлтэнд өгөх вий гэж.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "вий гэж"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "өгөх"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "бусдад"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "алдараа"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "жилүүдээ"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "хатуу сэтгэлтэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:04.443861127Z",
+  "model": "glm-5.3"
+}

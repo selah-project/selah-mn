@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Ханох тавин зургаан жил амьдарч, Мэтушэлахыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "амьдарч"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мэтушэлах"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Мэтушэлах"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:05.748551374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 46:6",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 46,
+  "translation": "Хурдан хүн бүү зугтаа, баатар хүн бүү мултар; умард зүгт Перат голын дэргэд тэд бужигнан унав.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "зугтаа"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "хурдан"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "мултар"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "баатар"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "умард зүгт"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ын"
+    },
+    {
+      "surface": "יד",
+      "gloss": "талд"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "гол"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Перат"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "бужигнав"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ба унав"
+    }
+  ],
+  "timestamp": "2026-10-04T12:50:40.961147351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэ, миний дайснууд хэр олон болжээ! Олон хүн над руу босож байна!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "хэр"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "олон болжээ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "миний дайснууд"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "олон"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "босож байна"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над руу"
+    }
+  ],
+  "timestamp": "2026-10-04T13:34:04.165229383Z",
+  "model": "glm-5.3"
+}

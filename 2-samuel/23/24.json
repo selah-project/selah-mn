@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Йоавын дүү Асаел гучны дотор байв; Додогийн хүү Бет-Лехемийн Елханан.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Асаел"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחי",
+      "gloss": "дүү"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоавын"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "гучны дотор"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Елханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "Додогийн"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    }
+  ],
+  "timestamp": "2026-10-04T11:45:28.589205480Z",
+  "model": "glm-5.3"
+}

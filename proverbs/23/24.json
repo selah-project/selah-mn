@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Шударга хүний эцэг их баярлана, мэргэн хүн төрүүлэгч түүнээс баярлана.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "их"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "баярлана"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг нь"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "шударга"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "төрүүлэгч"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мэргэн"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "ба баярлана"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнээс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:59.171571890Z",
+  "model": "glm-5.3"
+}

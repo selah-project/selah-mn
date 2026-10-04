@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Азгадын хөвгүүд, мянга хоёр зуу хорин хоёр.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "Азгадын"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "хоёр зуу"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "хоёр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:04.823112388Z",
+  "model": "glm-5.3"
+}

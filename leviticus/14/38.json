@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Тахилч гэрийг орхин гэрийн хаалганы аман хүрээлэн гарч, тэр гэрийг долоо хоног хааж түгжинэ.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "гэрийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "хаалганы аманд"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "гэрийн"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "хааж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гэрийг"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "гэрийг"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "долоо"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдрийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:26:29.020825384Z",
+  "model": "glm-5.3"
+}

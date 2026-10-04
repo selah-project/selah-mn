@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 86,
+  "translation": "Боолоо сэтгэлийг нь баясга, учир нь Адонай минь, би сүнсээ танд өргөнө.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "баясга"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "сэтгэл"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "боолоо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "танд"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "сүнсээ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "өргөнө"
+    }
+  ],
+  "timestamp": "2026-10-04T13:51:52.427059059Z",
+  "model": "glm-5.3"
+}

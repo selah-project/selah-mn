@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Нүх малтагч түүндээ унаж, хашааны ханаг цөхөлдөгчийг могой хаздаг.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "малтагч"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "нүх"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүндээ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "унаж"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "цөхөлдөгч"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "хашааны ханаг"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "хаздаг"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "могой"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:28.820037137Z",
+  "model": "glm-5.3"
+}

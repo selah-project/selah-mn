@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Моринд ташуур, илжигд хазаар, тэнэгүүдийн нуруунд таяг.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "ташуур"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "моринд"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "хазаар"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "илжигд"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ба таяг"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "нуруунд"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "тэнэгүүд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:01.988459455Z",
+  "model": "glm-5.3"
+}

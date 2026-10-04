@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 34:26",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Йисаскарын хөвгүүдийн овгоос ноён нь Палтиел, Аззанын хүү.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йисаскарын"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Палтиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עזן",
+      "gloss": "Аззанын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:22.211910179Z",
+  "model": "glm-5.3"
+}

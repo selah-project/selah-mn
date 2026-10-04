@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 55,
+  "translation": "Ээ, цангасан бүхнээ, ус руу ирцгээ; мөнгөгүй хүн бас ирцгээ, авч идцгээ; ирцгээ, мөнгөгүй ба үнэгүй дарс, сүү авцгаа.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ээ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "цангасан"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ирцгээ"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ус руу"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "болон"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "мөнгө"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ирцгээ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ав"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "ирцгээ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ав"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "мөнгө"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "ба -гүй"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "үнэ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "дарс"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "сүү"
+    }
+  ],
+  "timestamp": "2026-10-04T12:27:40.206697206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 12:11",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Йойада ⟨את⟩ Йонатаныг төрүүлэв, Йонатан ⟨את⟩ Яддуаг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויוידע",
+      "gloss": "Йойада"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йонатаныг"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатаныг"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яддуаг"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "Яддуаг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:54:09.984443610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Нэфэш нь золих төлбөр хэт үнэтэй тул мөнхөд тасарна.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "хэт үнэтэй"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "золих төлбөр"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "нэфэш нь"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "тасарна"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мөнхөд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:42.616237592Z",
+  "model": "glm-5.3"
+}

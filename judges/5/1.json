@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Тэр өдөр Девора ба Абинoамын хүү Барак дуулж, айлдахдаа:",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "дуулж"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Девора"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "ба Барак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Абинoам"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "тэр өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T11:14:49.539853641Z",
+  "model": "glm-5.3"
+}

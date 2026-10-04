@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Йосеф, түүний бүх ах дүүс, тэр бүхий үеийнхэн нас баржээ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "нас баржээ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "түүний ах дүүс"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "бүхий"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "үеийнхэн"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:04:51.037787967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Тэдний дарс нь тэнгисийн мангасуудын хор, аарцайн маш аюултай хор.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "хор"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "тэнгисийн мангасуудын"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "тэдний дарс"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ба аарцайн"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "аарцай"
+    },
+    {
+      "surface": "אכזар",
+      "gloss": "аюултай хор"
+    }
+  ],
+  "timestamp": "2026-10-04T15:33:42.492522660Z",
+  "model": "glm-5.3"
+}

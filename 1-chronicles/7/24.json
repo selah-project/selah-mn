@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Түүний охин Шеера байв; тэр ⟨את⟩ доод Бет-Хорон, дээд ⟨את⟩ болон ⟨את⟩ Узен-Шеераг барив.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "түүний охин"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Шеера"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "барив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "доод Бет-Хорон"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Хорон"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "доод"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "дээд нь"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "дээд"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Узен-Шеераг"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "Узен"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "Шеера"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:20.923989247Z",
+  "model": "glm-5.3"
+}

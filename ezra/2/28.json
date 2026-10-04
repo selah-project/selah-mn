@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Бет-Эл, Айгийн эрчүүд — хоёр зуун хорин гурван ⟨хүн⟩.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "эрчүүд"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ба Ай"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "хоёр зуун"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "гурав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:12.419208568Z",
+  "model": "glm-5.3"
+}

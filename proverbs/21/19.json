@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Цөлд суух нь маргаант эмээс залгуулан уурласан эмтэй хамт байснаас дээр.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "суух"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "д"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "цөл"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "эмээс"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "маргаант"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "уурласан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:56.091082794Z",
+  "model": "glm-5.3"
+}

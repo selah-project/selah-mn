@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Жигшилтэй ямар ч зүйл бүү ид.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ид"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "жигшилтэй"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:36.404301348Z",
+  "model": "glm-5.3"
+}

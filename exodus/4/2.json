@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Яхвэ түүнд хэлэв: Чиний гар дахь энэ юу вэ? Тэрээр хэлэв: Таяг.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "энэ юу вэ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "чиний гарт"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "таяг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:06:39.159173220Z",
+  "model": "glm-5.3"
+}

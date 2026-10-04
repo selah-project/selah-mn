@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Сихон бидний эсрэг, өөрөө ба бүх ард түмнээ дайнд Яхацад гарч ирэв.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "гарч ирэв"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихон"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "бидний эсрэг"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өөрөө"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ард түмнээ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "дайнд"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Яхацад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:59.362297346Z",
+  "model": "glm-5.3"
+}

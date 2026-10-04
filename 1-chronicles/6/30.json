@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Хашабйагийн хүү, Аматсйагийн хүү, Хилкийагийн хүү.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашабйагийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Аматсйагийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Хилкийагийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:45.677198440Z",
+  "model": "glm-5.3"
+}

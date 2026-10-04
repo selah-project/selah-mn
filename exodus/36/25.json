@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Мишканын хоёр дахь талд, умард зүгт хорин самбар хийв.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "хоёр дахь талд"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишканын"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "хоёр дахь"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "зүгт"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "умард"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийв"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "самбар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:19:34.798113608Z",
+  "model": "glm-5.3"
+}

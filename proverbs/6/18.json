@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Хорон санаа зохиодог зүрх, муу руу гүйхэд хурдан хөлүүд.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "зохиодог"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "санаа"
+    },
+    {
+      "surface": "און",
+      "gloss": "хорон"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "хөлүүд"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "хурдан"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "гүйхэд"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "муу руу"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:32.436866014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Өнчин ба дарлыг шүүхийн тулд, газрын хүн дахин айлгахгүй болно.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "шүүхийн тулд"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "өнчин"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "ба дарлыг"
+    },
+    {
+      "surface": "בל",
+      "gloss": "огт"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "дахин нэмж"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "айлгах"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T13:35:24.382483010Z",
+  "model": "glm-5.3"
+}

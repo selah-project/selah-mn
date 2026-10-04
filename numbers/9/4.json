@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Моше Йисраелын хөвгүүдэд Песахыг хийхийг хэлэв.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "хийхийг"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песах"
+    }
+  ],
+  "timestamp": "2026-10-04T15:31:17.990905109Z",
+  "model": "glm-5.3"
+}

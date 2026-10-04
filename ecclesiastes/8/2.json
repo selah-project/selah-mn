@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Би ⟨зөвлөе⟩: хааны амныг сахь, Элохимын тангарагийн төлөө.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "פי",
+      "gloss": "амныг"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "сахь"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "төлөө"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "тангарагийн"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:49.161767889Z",
+  "model": "glm-5.3"
+}

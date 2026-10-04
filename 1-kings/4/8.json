@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Эдгээр нь тэдний нэрс: Бен-Хур, Эфраимын ууланд.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "тэдний нэрс"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен"
+    },
+    {
+      "surface": "חור",
+      "gloss": "-Хур"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ууланд"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраимын"
+    }
+  ],
+  "timestamp": "2026-10-04T11:46:48.617443657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Тэр Яхвэд итгэсэн бөгөөд Түүний түүнд цедек болгон тооцсон.",
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "итгэсэн"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "тооцсон"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "цедек"
+    }
+  ],
+  "timestamp": "2026-10-04T09:49:44.405551676Z",
+  "model": "glm-5.3"
+}

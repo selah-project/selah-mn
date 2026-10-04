@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Шеломох Ерушалаймд бүх Йисраел дээр дөчин жил хаанчлав.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "хаанчлав"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломох"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Ерушалаймд"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "дөчин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    }
+  ],
+  "timestamp": "2026-10-04T15:11:02.339989121Z",
+  "model": "glm-5.3"
+}

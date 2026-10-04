@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Шүтээн рүү бүү эргэгтүн, цутгамал бурхадаа бүү хийгтүн: Би бол та нарын Элохим Яхвэ буюу.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "эргэгтүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "рүү"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "шүтээн"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "ба бурхад"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "сутгамал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "хийгтүн"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "та нарын Элохим"
+    }
+  ],
+  "timestamp": "2026-10-04T15:29:21.725254455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 62,
+  "translation": "Нэг удаа Элохим айлдав, хоёр удаа би үүнийг сонслоо: хүч Элохимд байдаг гэж.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Нэг"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "זו",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "сонслоо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "гэж"
+    },
+    {
+      "surface": "עז",
+      "gloss": "хүч"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохимд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:45:40.734613935Z",
+  "model": "glm-5.3"
+}

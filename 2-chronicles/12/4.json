@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Тэр Йехудагийн бэхлэлтэн хотууд ⟨את⟩ эзлэн авч, Ерушалайм хүртэл ирэв.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "эзлэн авав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бэхлэлтэн хотууд"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "хотууд"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "бэхлэлтэн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ын"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ирэв"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалайм"
+    }
+  ],
+  "timestamp": "2026-10-04T15:12:06.545617610Z",
+  "model": "glm-5.3"
+}

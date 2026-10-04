@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Харин дорнод тал нь нар мандах зүгт тавин тохой байв.",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "харин … тал нь"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "дордод"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "нар мандах зүгт"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "тохой"
+    }
+  ],
+  "timestamp": "2026-10-04T10:20:02.868500611Z",
+  "model": "glm-5.3"
+}

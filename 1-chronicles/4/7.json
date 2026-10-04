@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Хелагийн хөвгүүд нь Церет, Йицхар, Этнан нар байв.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Хелагийн"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "Церет"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "Йицхар"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "ба Этнан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:52.923650698Z",
+  "model": "glm-5.3"
+}

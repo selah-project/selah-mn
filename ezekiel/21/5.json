@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 21:5",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Би хэлэв: Аяа, Адонай Яхвэ! Тэд над руу хэлдэг: Тэр бол зүйр цэцэн үлгэрлэгч биш гэж үү?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Би хэлэв"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Аяа"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "Тэд"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "хэлдэг"
+    },
+    {
+      "surface": "לי",
+      "gloss": "над руу"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "биш гэж үү"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "зүйрлэдэг"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "зүйрүүд"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:03:16.584148960Z",
+  "model": "glm-5.3"
+}

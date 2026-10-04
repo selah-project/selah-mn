@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Цэвэр амьтдаас долоо долоо нь эрэл ба эмэл нь авагтун; харин цэвэр биш амьтдаас хоёр нь эрэл ба эмэл нь.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "амьтдаас"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "цэвэр"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "авагтун"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "долоо"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "долоо"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эрэл"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ба эмэл нь"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "харин"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "амьтдаас"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(-)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "цэвэр"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "(-)"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эрэл"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "ба эмэл нь"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:12.415247932Z",
+  "model": "glm-5.3"
+}

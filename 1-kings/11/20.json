@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 11:20",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Тахпенесийн эгч түүнд Genubath хүүг төрүүлэв; Тахпенес түүнийг Фараоны ордонд хөхүүлж өсгөв; Genubath Фараоны гэрт Фараоны хөвгүүдийн дунд байв.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "эгч"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "Тахпенесийн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Genubath-ыг"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubath"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "хүүг"
+    },
+    {
+      "surface": "ותגמלהו",
+      "gloss": "хөхүүлж өсгөв"
+    },
+    {
+      "surface": "תחפנס",
+      "gloss": "Тахпенес"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ордонд"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараоны"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "Genubath"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэрт"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараоны"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараоны"
+    }
+  ],
+  "timestamp": "2026-10-04T11:53:24.511402548Z",
+  "model": "glm-5.3"
+}

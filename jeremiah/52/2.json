@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 52:2",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 52,
+  "translation": "Тэр Яхвэгийн нүдэнд муу юм хийжээ, Йехоякимын хийсэн бүхний адилаар.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "хийжээ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "муу юм"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэнд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "бүхний адилаар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийсэн"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Йехоякимын"
+    }
+  ],
+  "timestamp": "2026-10-04T12:56:37.492548767Z",
+  "model": "glm-5.3"
+}

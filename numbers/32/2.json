@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 32:2",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Гадын хөвгүүд ба Рувайн хөвгүүд ирж, Моше, тахилч Элазар ба хурлын ноёдод хэлжээ.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гадын"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ба хөвгүүд"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувайн"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "хэлжээ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошед"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба -д"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба -д"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "ноёдод"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "хурлын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:48:21.398249185Z",
+  "model": "glm-5.3"
+}

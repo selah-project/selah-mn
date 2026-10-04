@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Яир үхэж, Камонд оршуулагдав.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "үхэж"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Яир"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "оршуулагдав"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "Камонд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:17:35.971363747Z",
+  "model": "glm-5.3"
+}

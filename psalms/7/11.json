@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Миний бамбай Элохим дээр байдаг, зүрхээ шулуун байлгагчийг аврагч.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "миний бамбай"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "аврагч"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "шулуун"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрхтэй"
+    }
+  ],
+  "timestamp": "2026-10-04T13:33:35.899909389Z",
+  "model": "glm-5.3"
+}

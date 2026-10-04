@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Давид босож, тэр өдөр Шаулын нүүрээс зугтаж, Гатын хаан Акиш дээр ирэв.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "босож"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "зугтаж"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "нүүрээс"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулын"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ирэв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Акиш"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гатын"
+    }
+  ],
+  "timestamp": "2026-10-04T11:32:18.385635929Z",
+  "model": "glm-5.3"
+}

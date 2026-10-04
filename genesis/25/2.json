@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Ктур түүнд ⟨את⟩ Зимран, ⟨את⟩ Иокшан, ⟨את⟩ Медан, ⟨את⟩ Мидиан, ⟨את⟩ Ишбак, ⟨את⟩ Шуахыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зимран"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Зимран"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Иокшан"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Иокшан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Медан"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Медан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Мидиан"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидиан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ишбак"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Ишбак"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Шуах"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Шуах"
+    }
+  ],
+  "timestamp": "2026-10-04T09:54:16.506220788Z",
+  "model": "glm-5.3"
+}

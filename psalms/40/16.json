@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Надад «Ах-ах» гэж хэлэгчид өөрсдийн ичгүүрийнхөэ хариуг сүйд болог.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "сүйд болог"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ын"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "хариу"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ичгүүрийн"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "хэлэгчид"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ах-ах"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Ах-ах"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:54.926150466Z",
+  "model": "glm-5.3"
+}

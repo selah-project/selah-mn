@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Хаан дугуйран сууж байх үед миний нарда үнэрээ түгээв.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "үед"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "дугуйран сууж байх"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "миний нарда"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "түгээв"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "үнэрээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:27:15.504533667Z",
+  "model": "glm-5.3"
+}

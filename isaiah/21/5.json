@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 21:5",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Ширээг бэлтгэ, харуулд ажигла, ид, уу: босогтун, та ноёд, бамбайгаа тосол.",
+  "tokens": [
+    {
+      "surface": "ערך",
+      "gloss": "бэлтгэ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ширээг"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "ажигла"
+    },
+    {
+      "surface": "הצפית",
+      "gloss": "харуулд"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ид"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "уу"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "босогтун"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "משחו",
+      "gloss": "тосол"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "бамбайгаа"
+    }
+  ],
+  "timestamp": "2026-10-04T12:15:26.027773424Z",
+  "model": "glm-5.3"
+}

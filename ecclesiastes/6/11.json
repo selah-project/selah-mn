@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Учир нь үг олон бөгөөд хэвэлийг олшруулдаг; хүнд юу нэмэгдэх билээ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "үг"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "олон"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "олшруулдаг"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хэвэлийг"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "нэмэгдэх"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "хүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:37.911201532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Шимийн хөвгүүд мөн: Яхат, Зина, Йеуш, Беряа. Эдгээр нь Шимийн хөвгүүд, дөрөв байв.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "мөн хөвгүүд"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яхат"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "Зина"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "Йеуш"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "Беряа"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимийн"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дөрөв"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:39.526743905Z",
+  "model": "glm-5.3"
+}

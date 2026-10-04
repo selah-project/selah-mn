@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 83,
+  "translation": "Гал ойг түймэрддэг шиг, дөл уулсыг бүрэн шатгаадаг шиг.",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "гал шиг"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "түймэрддэг"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ой"
+    },
+    {
+      "surface": "וכלהבה",
+      "gloss": "ба дөл шиг"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "шатгаадаг"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "уулс"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:53.723332723Z",
+  "model": "glm-5.3"
+}

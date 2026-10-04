@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Хараалтай чи хотод, ба хараалтай чи хээрээ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Хараалтай"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "хотод"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ба хараалтай"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "хээрээ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:01:04.835819830Z",
+  "model": "glm-5.3"
+}

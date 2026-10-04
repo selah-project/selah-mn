@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 109,
+  "translation": "Би Яхвэг амнаараа их талархаж, олны дунд Түүнийг магтъя.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "талархаж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэг"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "их"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "амнаараа"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "олны"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "магтъя"
+    }
+  ],
+  "timestamp": "2026-10-04T13:56:45.974253205Z",
+  "model": "glm-5.3"
+}

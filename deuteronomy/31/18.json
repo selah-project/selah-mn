@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 31:18",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Би тэр өдөр тэдний хийсэн бүх муу зүйлийн төлөө, тэд өөр бурхад руу эргэсэн учир Өөрийн нүүрийг лавтай нуух болно.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Би"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "лавтай"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "нуух болно"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Өөрийн нүүр"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "על",
+      "gloss": "төлөө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "муу зүйл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийсэн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "эргэсэн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "бурхад"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "өөр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:04:41.163578986Z",
+  "model": "glm-5.3"
+}

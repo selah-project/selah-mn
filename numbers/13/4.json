@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Эдгээр нь тэдний нэрс: Реувенийн овгоос Заккурын хүү Шаммуа.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Эдгээр нь"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "тэдний нэрс"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувенийн"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шаммуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккурын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:39:38.524354958Z",
+  "model": "glm-5.3"
+}

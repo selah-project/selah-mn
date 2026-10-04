@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "⟨את⟩ бүх тас, өөрийн төрлийнхөө дагуу.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх тас"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "тас"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "өөрийн төрлийнхөө дагуу"
+    }
+  ],
+  "timestamp": "2026-10-04T10:24:28.235818941Z",
+  "model": "glm-5.3"
+}

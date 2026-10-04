@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Арпахшад ⟨את⟩ Шелахыг төрүүлэв, Шелах ⟨את⟩ Ээрийг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Арпахшад"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелахыг"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелахыг"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "Шелах"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ээрийг"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Ээрийг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:51.854725588Z",
+  "model": "glm-5.3"
+}

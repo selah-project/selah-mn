@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Яхвэгийн дуу галд тоймогуудыг сүлдэг.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "сүлдэг"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "тоймогуудыг"
+    },
+    {
+      "surface": "אש",
+      "gloss": "галд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:19.799334199Z",
+  "model": "glm-5.3"
+}

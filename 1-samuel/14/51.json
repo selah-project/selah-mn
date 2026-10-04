@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Киш нь Шаулын эцэг, Нер нь Авнерын эцэг бөгөөд Авиелын хүү байв.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "ба Киш"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг нь"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулын"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ба Нер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг нь"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнерын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авиелын"
+    }
+  ],
+  "timestamp": "2026-10-04T11:27:44.623253933Z",
+  "model": "glm-5.3"
+}

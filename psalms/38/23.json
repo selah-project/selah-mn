@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Туслахыг минь яаран ир, Адонай, миний аврал та.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "яаран ир"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "Туслахыг минь"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "миний аврал та"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:12.834398465Z",
+  "model": "glm-5.3"
+}

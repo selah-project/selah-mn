@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Хэрэв эр хүн сүй тавиагүй онгоон бүсгүйг олж, барьж аваад түүнтэй хэвтэхэд, тэд баригдвал",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ол"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эр хүн"
+    },
+    {
+      "surface": "נער",
+      "gloss": "бүсгүй"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "онгоон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "сүй тавиагүй"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "барьж аваад"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "хэвтэхэд"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "түүнтэй"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "тэд баригдвал"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:03.390093928Z",
+  "model": "glm-5.3"
+}

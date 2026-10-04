@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Гэвч та нар өгсөхийг хүсээгүй бөгөөд Яхвэ Элохимынхөо ⟨את⟩ амыг зөрчин тэрсэлжээ.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "гэвч ... -гүй"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "хүсээгүй"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "өгсөхийг"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "тэрсэлжээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ам"
+    },
+    {
+      "surface": "פי",
+      "gloss": "амыг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимынхоо"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:15.071864323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "genesis 24:62",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Йицхак Беэр-Лахай-Ройгоос иржээ, тэр бол өмнөд нутагт суудаг байв.",
+  "tokens": [
+    {
+      "surface": "ויצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "בא",
+      "gloss": "иржээ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ирэх замаас"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беэр"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Лахай"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Рой"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "суудаг"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "нутагт"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "өмнөд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:59.298933746Z",
+  "model": "glm-5.3"
+}

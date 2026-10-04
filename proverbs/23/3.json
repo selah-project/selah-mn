@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Түүний амттаныг бүү хүс, тэдгээр бол худал зохиосон талх.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "хүс"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "түүний амттаныг"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "тэдгээр бол"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "худал зохиосон"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:35.553826985Z",
+  "model": "glm-5.3"
+}

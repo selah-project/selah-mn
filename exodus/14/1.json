@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Яхвэ Мошед ярин айлдав.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ярин айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:10:26.975860610Z",
+  "model": "glm-5.3"
+}

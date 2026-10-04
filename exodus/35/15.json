@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 35:15",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "ба ⟨את⟩ тахилын жижиг тахилгынến...",
+  "tokens": [],
+  "timestamp": "2026-10-04T10:18:40.274574899Z",
+  "model": "glm-5.3"
+}

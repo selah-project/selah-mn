@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Бела Азазын хүү, Шемагийн хүү, Йоелын хүү — тэрээр Ароерт суурьшиж, Нево хүртэл ба Баал Меон хүртэл оршин суужээ.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "Азазын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Шемагийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоелын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэрээр"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "суурьшиж"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "Ароерт"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ба Баал"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Меон"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:50.341604017Z",
+  "model": "glm-5.3"
+}

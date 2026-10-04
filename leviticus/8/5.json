@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Моше цуглаанд хэлэв: Энэ бол Яхвэгийн тушаасан үг, хийхийн тулд.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "цуглаан"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "хийхийн тулд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:25:10.582538235Z",
+  "model": "glm-5.3"
+}

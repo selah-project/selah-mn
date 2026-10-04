@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Бат-Шева бөхийж, хаанд мөргөв; хаан түүнд: Чамд юу байна? гэв.",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "бөхийж"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "мөргөв"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "хаанд"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:46:09.238736208Z",
+  "model": "glm-5.3"
+}

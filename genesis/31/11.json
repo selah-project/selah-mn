@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Элохимын элч зүйд над хэлэв: Яаков. Би хэлэв: Би энд байна.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "над"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "элч"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "зүйд"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "би хэлэв"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "би энд байна"
+    }
+  ],
+  "timestamp": "2026-10-04T09:57:19.731317791Z",
+  "model": "glm-5.3"
+}

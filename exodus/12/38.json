@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 12:38",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Мөн холимог олон нь тэдэнтэй ⟨את⟩ хамт гарлаа, мөн хонь, үхэр — асар олон мал.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "холимог"
+    },
+    {
+      "surface": "רב",
+      "gloss": "олон"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "гарлаа"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ хамт",
+      "marks": "тэдэнтэй хамт"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "мөн хонь"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "асар олон"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ихээр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:09:33.946200188Z",
+  "model": "glm-5.3"
+}

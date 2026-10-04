@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 38:1",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Яхвэгийн үг над руу ирж, айлтгаж байна.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болжээ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "над руу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлтгаж"
+    }
+  ],
+  "timestamp": "2026-10-04T13:12:01.440518303Z",
+  "model": "glm-5.3"
+}

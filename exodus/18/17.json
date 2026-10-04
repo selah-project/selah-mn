@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Мошегийн хүргэн түүнд хэлэв: Чи хийж байгаа явдал сайн биш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "хүргэн"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "явдал"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ялангуяа"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийж байгаа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:27:29.437972259Z",
+  "model": "glm-5.3"
+}

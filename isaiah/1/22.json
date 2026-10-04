@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Чиний мөнгө хаягдал болов, чиний дарс усанд шингэсэн байна.",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "чиний мөнгө"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болов"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "хаягдал"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "чиний дарс"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "шингэсэн"
+    },
+    {
+      "surface": "במים",
+      "gloss": "усанд"
+    }
+  ],
+  "timestamp": "2026-10-04T12:09:24.032596252Z",
+  "model": "glm-5.3"
+}

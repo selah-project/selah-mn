@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Хатуу ууртай хүн торгохыг үүрнэ; Хэрэв чи түүнийг авравч дахин нэмэгдэнэ.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "Хатуу"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ууртай"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "үүрнэ"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "торгохыг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "чи түүнийг авравч"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "нэмэгдэнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:05.138265019Z",
+  "model": "glm-5.3"
+}

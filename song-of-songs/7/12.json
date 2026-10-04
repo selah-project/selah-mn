@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ир, миний хайрт, хээр талд гарцгаая, тосгод буулцгаая.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Ир"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "миний хайрт"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "гарцгаая"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "хээр талд"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "буулцгаая"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "тосгод"
+    }
+  ],
+  "timestamp": "2026-10-04T14:29:08.803624609Z",
+  "model": "glm-5.3"
+}

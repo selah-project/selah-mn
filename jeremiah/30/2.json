@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Ингэж Яхвэ, Йисраелийн Элохим айлдаж байна: Би чамд ярьсан ⟨את⟩ бүх үгсийг дэвтэрт бич гэж айлдав.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж айлдав"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "бич"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх үгсийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-сан"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "Би ярьсан"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "дэвтэрт"
+    }
+  ],
+  "timestamp": "2026-10-04T15:46:33.216527451Z",
+  "model": "glm-5.3"
+}

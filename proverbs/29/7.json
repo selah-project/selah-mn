@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Цадик ядуусын шүүх хэргийг мэднэ, харин бузар муу хүн мэлмийг ойлгохгүй.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "мэднэ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "цадик"
+    },
+    {
+      "surface": "דין",
+      "gloss": "шүүх хэргийг"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ядуусын"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "бузар муу хүн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ойлгохгүй"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "мэлмийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:54.417854478Z",
+  "model": "glm-5.3"
+}

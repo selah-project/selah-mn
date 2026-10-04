@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Яхвэ Хизкиаг сонсож, ⟨את⟩ ард түмнийг эдгээв.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "сонсов"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизкиа"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "эдгээв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ард түмэн"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:20:02.925665278Z",
+  "model": "glm-5.3"
+}

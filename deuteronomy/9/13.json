@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Яхвэ надад айлдаж: Би ⟨את⟩ энэ ард түмнийг харлаа, үзэгтүн, хүзүүнийхээ хатуу ард түмэн билээ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлж"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "харлаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ ард түмнийг"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "үзэгтүн"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "хатуу"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "хүзүү"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "билээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:54:32.510892019Z",
+  "model": "glm-5.3"
+}

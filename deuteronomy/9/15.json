@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Би эргэж уулаас бууж явсан бөгөөд уул галд бүрэлзэнэ, гэрээний хоёр хавтан хоёр гар дээрээ байв.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "эргэж"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "бууж явсан"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "ба уул"
+    },
+    {
+      "surface": "בער",
+      "gloss": "бүрэлзэнэ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "галд"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "хавтан"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "гэрээний"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "гар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:54:32.511356781Z",
+  "model": "glm-5.3"
+}

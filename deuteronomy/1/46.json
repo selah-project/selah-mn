@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Та нар Кадешед олон хоног суужээ, өмнө нь сууж байсан хоног шигээ.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "суужээ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "Кадешед"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "хоног"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "олон"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "хоног шигээ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-д"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "сууж байсан"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:08.581483637Z",
+  "model": "glm-5.3"
+}

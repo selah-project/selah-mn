@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Ирмэяу арав дахь, Макбаннай арван нэг дэх.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмэяу"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "арав дахь"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "Макбаннай"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "арван"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "нэг дэх"
+    }
+  ],
+  "timestamp": "2026-10-04T15:03:03.015953821Z",
+  "model": "glm-5.3"
+}

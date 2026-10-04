@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Хашааны өргөн нь зүүн тийш, нар мандлах зүгт тавин ам.",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "өргөн"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "хашааны"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "тийш"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "зүүн"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "нар мандлах зүгт"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ам"
+    }
+  ],
+  "timestamp": "2026-10-04T10:14:52.910859776Z",
+  "model": "glm-5.3"
+}

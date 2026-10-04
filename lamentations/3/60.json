@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Та тэдний өшөө авалтыг бүгдийг, над эсрэг зохиосон бүх бодлыг нь үзсэн.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Та үзсэн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгдийг"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "тэдний өшөө авалтыг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "бодлыг нь"
+    },
+    {
+      "surface": "לי",
+      "gloss": "над эсрэг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:17.026671079Z",
+  "model": "glm-5.3"
+}

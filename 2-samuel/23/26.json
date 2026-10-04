@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Хелетц палтит, Ира Икешгийн хүү, текоит,",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "Хелетц"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "палтит"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Икеш"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "текоит"
+    }
+  ],
+  "timestamp": "2026-10-04T11:45:07.216940079Z",
+  "model": "glm-5.3"
+}

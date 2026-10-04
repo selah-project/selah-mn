@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Чи хотод ерөөлтэй, хээр талд ерөөлтэй байг.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ерөөлтэй"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "хотод"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ба ерөөлтэй"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "хээр талд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:01:37.435460220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Елиша түүнд хэлэв: «Нум, сумаа ав.» Тэрээр түүнд нум, сумаа авав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Елиша"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ав"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "Нум"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "сумаа"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "авав"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "нум"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "сумаа"
+    }
+  ],
+  "timestamp": "2026-10-04T12:04:05.377376621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Сүйрэл ба жигшүүрт зүйл газар дээр болжээ.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "сүйрэл"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "ба жигшүүрт зүйл"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "болжээ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газар дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T12:33:50.340839427Z",
+  "model": "glm-5.3"
+}

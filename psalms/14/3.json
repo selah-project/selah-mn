@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Бүгд тэд замаас гажжээ, хамтдаа бузар болжээ. Сайныг үйлдэгч алга, нэг ч үгүй.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "סר",
+      "gloss": "гажжээ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "хамтдаа"
+    },
+    {
+      "surface": "נאלחу",
+      "gloss": "бузар болжээ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "алга"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "үйлдэгч"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "אין",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:36:18.115416894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Тэр ах дүүстээ буцаж ирээд хэлэв: Хүүхэд алга боллоо; би хаашаа одох ву?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "буцаж ирэв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ах дүүстээ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "хүүхэд"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "алга боллоо"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "би"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "хаашаа"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "בא",
+      "gloss": "одох ву"
+    }
+  ],
+  "timestamp": "2026-10-04T10:00:00.421985310Z",
+  "model": "glm-5.3"
+}

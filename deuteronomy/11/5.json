@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Мөн цөлд та нарт юу хийснийг — та нар энэ газарт хүрэх хүртэл.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "мөн юу"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийснийг"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "та нар ирэх"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "энэ газарт"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:54:26.631618366Z",
+  "model": "glm-5.3"
+}

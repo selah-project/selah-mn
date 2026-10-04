@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 27:19",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Зевулуныханд Йишмаiahу Овадiahугийн хүү; Нафталийнханд Йеримот Азриэлийн хүү.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "Зевулуныханд"
+    },
+    {
+      "surface": "ישמעיהו",
+      "gloss": "Йишмаiahу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "-ийн хүү"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Овадiahу"
+    },
+    {
+      "surface": "לנפתלי",
+      "gloss": "Нафталийнханд"
+    },
+    {
+      "surface": "ירימות",
+      "gloss": "Йеримот"
+    },
+    {
+      "surface": "בן",
+      "gloss": "-ийн хүү"
+    },
+    {
+      "surface": "עזריאל",
+      "gloss": "Азриэл"
+    }
+  ],
+  "timestamp": "2026-10-04T15:07:14.702363238Z",
+  "model": "glm-5.3"
+}

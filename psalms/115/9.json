@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 115:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 115,
+  "translation": "Йисраел, Яхвэд найд",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "найд"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "туслагч нь"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "ба тэдний бамбай"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:26.927737482Z",
+  "model": "glm-5.3"
+}

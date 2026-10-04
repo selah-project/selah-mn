@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Аймшгал ирнэ; тэд амар амгалан эрэх боловч үгүй.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "аймшгал"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ирнэ"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "эрэх боловч"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "амар амгалан"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "үгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T12:57:08.741419513Z",
+  "model": "glm-5.3"
+}

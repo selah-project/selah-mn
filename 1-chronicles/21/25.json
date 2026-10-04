@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Давид тэр газарт Арананд шекелээр зургаан зуун шекел жинтэй алт өгөв.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "Арананд"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "тэр газарт"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "шекелээр"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алт"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "жинтэй"
+    },
+    {
+      "surface": "שש",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    }
+  ],
+  "timestamp": "2026-10-04T15:03:54.887636581Z",
+  "model": "glm-5.3"
+}

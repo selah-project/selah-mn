@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Забад Эфлалыг төрүүлж, Эфлал Оведыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "Забад"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эфлалыг"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Эфлал"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "Эфлал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оведыг"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овед"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:36.027887488Z",
+  "model": "glm-5.3"
+}

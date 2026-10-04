@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Надад энхрийн тахилга бий,өнөөдөр би амлалтуудаа биелүүллээ",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "тахилга"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "энхрийн"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Надад"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "биелүүллээ"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "амлалтуудаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:24.701384723Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Реуэлийн хөвгүүд: Нахат, Зерах, Шамма ба Мизза.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуэл"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "Нахат"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шамма"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ба Мизза"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:23.885175439Z",
+  "model": "glm-5.3"
+}

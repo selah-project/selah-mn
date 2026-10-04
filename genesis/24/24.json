@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Тэрээр түүнд хэлэв: Би Бетуелийн охин — Милка Нахорт төрүүлсэн хүү минь.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "тэрээр хэлэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Бетуел"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Милка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрүүлсэн"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Нахорт"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:26.950462325Z",
+  "model": "glm-5.3"
+}

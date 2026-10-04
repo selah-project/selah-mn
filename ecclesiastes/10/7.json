@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Би боолчуудыг морь унаж, ноёд боолчууд шиг газраар алхаж байхыг үзэв.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "би үзэв"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "боолчуудыг"
+    },
+    {
+      "surface": "על",
+      "gloss": "унаж"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "морь"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "алхаж"
+    },
+    {
+      "surface": "кעבדים",
+      "gloss": "боолчууд шиг"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газраар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:28.819911901Z",
+  "model": "glm-5.3"
+}

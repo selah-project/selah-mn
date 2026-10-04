@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Хаалга шаркур дээрээ эргэдэг тул залхуу хүн орныхоо дээр эргэдэг.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "Хаалга"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "эргэдэг"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээрээ"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "шаркур"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "залхуу хүн"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "мтתו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:52.486163203Z",
+  "model": "glm-5.3"
+}

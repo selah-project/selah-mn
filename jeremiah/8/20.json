@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Хөрс хураалт өнгөрч, зун дууслаа, бид аврагдаагүй билээ.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "өнгөрч"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "хөрс хураалт"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "дууслаа"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "зун"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "бид"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "аврагдаагүй билээ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:36:54.650771546Z",
+  "model": "glm-5.3"
+}

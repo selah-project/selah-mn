@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Яхвэгийн дуу цөлрийг доргино; Яхвэ Кадешын цөлрийг доргино.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "доргино"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "цөлрийг"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "доргино"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "цөлрийг"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадешын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:19.799471656Z",
+  "model": "glm-5.3"
+}

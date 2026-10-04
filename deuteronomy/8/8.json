@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Буудай ба арвайн газар, усан үзэм, инжир, анарны газар; оливын тос, балаар дүүрэн газар.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "буудай"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ба арвай"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ба усан үзэм"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ба инжир"
+    },
+    {
+      "surface": "ורימון",
+      "gloss": "ба анар"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "זית",
+      "gloss": "оливын"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "тос"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ба бал"
+    }
+  ],
+  "timestamp": "2026-10-04T10:54:09.517706105Z",
+  "model": "glm-5.3"
+}

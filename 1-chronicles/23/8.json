@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Лааданы хөвгүүд: тэргүүн нь Йехиел, ба Зетам, ба Йоел — гурван.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Лааданы"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "тэргүүн"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Йехиел"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "ба Зетам"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "ба Йоел"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "гурван"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:45.920526209Z",
+  "model": "glm-5.3"
+}

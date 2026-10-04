@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ямааны эр нэг, нүглийн тахилд зориулсан.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "эр"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "Ямааны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "нүглийн тахилд зориулсан"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:36.093125429Z",
+  "model": "glm-5.3"
+}

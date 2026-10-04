@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Маргаанаа найзтайгаа тайл, харин өөр хүний нууцыг бүү задлан хэл.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "маргаанаа"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "тайл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "найзаа"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "найз чамтайгаа"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "харин нууц"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "өөр хүний"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "задлан хэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:01.598731179Z",
+  "model": "glm-5.3"
+}

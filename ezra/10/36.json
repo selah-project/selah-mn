@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Ванья, Мерemoth, Эльяшив.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "Ванья"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "Мерemoth"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Эльяшив"
+    }
+  ],
+  "timestamp": "2026-10-04T14:48:31.716171174Z",
+  "model": "glm-5.3"
+}

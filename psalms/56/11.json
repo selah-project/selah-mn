@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 56,
+  "translation": "Элохимд би үгийг магтана, Яхвэд би үгийг магтана.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Элохимд"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "би магтана"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "би магтана"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үгийг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:44:08.042466535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 68,
+  "translation": "Элохимын уул нь Башаны уул; өндөр орголтой уул нь Башаны уул.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башаны"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "өндөр орголтой"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "Башаны"
+    }
+  ],
+  "timestamp": "2026-10-04T13:46:49.298021870Z",
+  "model": "glm-5.3"
+}

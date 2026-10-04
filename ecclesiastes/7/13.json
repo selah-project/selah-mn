@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Элохимын ⟨את⟩ үйлсийг хар: учир нь Түүний гуйвуулсан юмны ⟨את⟩ хэн ч чийлгэж чадах вэ?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "хар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үйлсийг"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "үйлс"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "чадах"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "чийлгэж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "юмны"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юмны"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "гуйвуулсан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:45.885991884Z",
+  "model": "glm-5.3"
+}

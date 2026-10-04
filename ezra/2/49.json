@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Уззагийн хөвгүүд, Пасеагийн хөвгүүд, Бесайгийн хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Узза"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Пасеа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "Бесай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:46:37.803614588Z",
+  "model": "glm-5.3"
+}

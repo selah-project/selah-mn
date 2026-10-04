@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 64,
+  "translation": "Тэд илд шиг хэлээ сэлбэж, сум шиг аман хорон үгээ чиглүүлж буй.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "шанену",
+      "gloss": "сэлбэж"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "илд шиг"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "хэлээ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "чиглүүлж"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "сум шиг"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "מר",
+      "gloss": "аман хорон"
+    }
+  ],
+  "timestamp": "2026-10-04T13:46:03.166098449Z",
+  "model": "glm-5.3"
+}

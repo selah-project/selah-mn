@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Йерахмэлд өөр эхнэр байв, түүний нэр Атара; тэр бол Онамын эх билээ.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эхнэр"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "Йерахмэлд"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "түүний нэр"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "Атара"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эх"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Онамын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:53.629140459Z",
+  "model": "glm-5.3"
+}

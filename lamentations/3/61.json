@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэ та тэдний доромжлолыг, тэдний над эсрэг бүх бодлыг сонссон.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "та сонссон"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "тэдний доромжлолыг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "тэдний бодлыг"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над эсрэг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:59.560251047Z",
+  "model": "glm-5.3"
+}

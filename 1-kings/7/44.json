@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Мөн ⟨את⟩ нэг далай, ба ⟨את⟩ арван хоёр үхэр далайн доор.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "нэг далайг"
+    },
+    {
+      "surface": "הים",
+      "gloss": "далай"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "арван хоёр үхрийг"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "доор"
+    },
+    {
+      "surface": "הים",
+      "gloss": "далай"
+    }
+  ],
+  "timestamp": "2026-10-04T11:48:37.301619868Z",
+  "model": "glm-5.3"
+}

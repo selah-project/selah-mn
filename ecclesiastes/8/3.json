@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Түүний нүүрнээс явахыг бүү яар, муу хэрэгт бүү зогс, учир нь тэр өөрийн хүссэн бүхнээ хийнэ.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "яар"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "түүний нүүрнээс"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "явахыг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "зогс"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "хэрэгт"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхнээ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "хүссэн"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "хийнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:52.808173654Z",
+  "model": "glm-5.3"
+}

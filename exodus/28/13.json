@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Мөн чи алтан оёдолт суурь хийж,",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Мөн чи ... хийж"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "оёдолт суурь"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтан"
+    }
+  ],
+  "timestamp": "2026-10-04T10:15:48.351336928Z",
+  "model": "glm-5.3"
+}

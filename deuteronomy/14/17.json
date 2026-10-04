@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "ба ⟨את⟩ каат, ба ⟨את⟩ рахама, ба ⟨את⟩ шалах;",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "ба каат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "рахама"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "рахама"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "шалах"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "шалах"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:22.129614426Z",
+  "model": "glm-5.3"
+}

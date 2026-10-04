@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Хэрэмд өртсөн хүнээс хэрэм болгогдсон бүхнийг золин суллахгүй — үхэхээр үхнэ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "хэрэм"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-г"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "хэрэм болгогдсон"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "золин суллахгүй"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхэхээр"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "үхнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:45.889921535Z",
+  "model": "glm-5.3"
+}

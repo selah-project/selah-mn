@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Чи үүлээр Өөрийгөө бүрхэв, залбирлын үг өнгөрч чадахгүй болтол.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "Өөрийгөө бүрхэв"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "үүлээр"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Өөрийгөө"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "өнгөрч чадахгүй"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "залбирлын үг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:04.215261212Z",
+  "model": "glm-5.3"
+}

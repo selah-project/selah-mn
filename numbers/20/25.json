@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Аарон болон түүний хүү Эльазарыг ав, тэднийг Хор ⟨уул⟩ руу өргөн гарга.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "ав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аарон"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Эльазар"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Эльазар"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "өргөн гарга"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ тэднийг",
+      "marks": "Хор уул"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Хор"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "уул"
+    }
+  ],
+  "timestamp": "2026-10-04T10:42:55.828446881Z",
+  "model": "glm-5.3"
+}

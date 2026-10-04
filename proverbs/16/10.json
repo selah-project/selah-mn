@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Усгүй зүйл байхгүй — хааны уруулд илчлэлт бий, шүүлтэд түүний ам betrayal хийхгүй.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "илчлэлт"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уруулд"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "шүүлтэд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "бошиглогдохгүй"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "түүний ам"
+    }
+  ],
+  "timestamp": "2026-10-04T15:54:49.843522960Z",
+  "model": "glm-5.3"
+}

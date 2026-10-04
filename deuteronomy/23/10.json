@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Хуаран дайснуудын чинь эсрэг гарахад чи бүх муу юмнаас өөрийгөө хамгаална.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "үед"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "гарах"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "хуаран"
+    },
+    {
+      "surface": "על",
+      "gloss": "эсрэг"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "дайснуудын чинь"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "хамгаална"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:35.390464921Z",
+  "model": "glm-5.3"
+}

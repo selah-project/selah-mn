@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 4:33",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Ямар ард Элохимын дууг гал дундаас ярьж байгааг сонссон бэ — чи сонссон шиг — ба амьд үлдсэн бэ?",
+  "tokens": [
+    {
+      "surface": "השמע",
+      "gloss": "сонссон бэ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ард"
+    },
+    {
+      "surface": "קול",
+      "gloss": "дууг"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ярьж байгааг"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "дундаас"
+    },
+    {
+      "surface": "האש",
+      "gloss": "гал"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "сонссон"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "амьд үлдсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:52:55.358424712Z",
+  "model": "glm-5.3"
+}

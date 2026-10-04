@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Есдүгээрт Йешуа, аравдугаарт Шехания.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "Йешуад"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "есдүгээрт"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "Шеханияд"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "аравдугаарт"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:23.754433838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Дараа нь Аммоны хөвгүүдийн хаан Нахаш үхэж, түүний оронд хүү нь хаанчлав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "дараа"
+    },
+    {
+      "surface": "כן",
+      "gloss": "үүний"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үхэв"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Нахаш"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Аммоны"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "хаанчлав"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "хүү нь"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "түүний оронд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:04:31.855433764Z",
+  "model": "glm-5.3"
+}

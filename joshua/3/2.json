@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Гурван хоногийн дараа түшмэдийн цэрэг-хот дотор явав.",
+  "tokens": [],
+  "timestamp": "2026-10-04T11:05:17.666037743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Аавынхаа эхнэртэй хэвтсэн хүн хараат, учир нь тэр аавынхаа хормойг задалсан. Бүх ард түмэн амен гэж хэлнэ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "хараат"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "хэвтсэн"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "эхнэр"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "аавынхаа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "задалсан"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "хормойг"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "аавынхаа"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ба хэлнэ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "амен"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:49.564058851Z",
+  "model": "glm-5.3"
+}

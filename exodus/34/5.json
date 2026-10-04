@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Яхвэ үүлээр бууж, түүнтэй тэнд зогсов, ба Яхвэгийн нэрийг дуудав.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "бууж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "үүлээр"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "зогсов"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "түүнтэй"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "дуудав"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "нэрийг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:18:37.237430613Z",
+  "model": "glm-5.3"
+}

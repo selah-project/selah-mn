@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Тэгэхэд Йисраелийн ноёд ба хаан өөрсдийгөө дарж, хэлэв: Яхвэ бол ⟨зөв⟩.",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "өөрсдийгөө дарж"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "ба хаан"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "зөв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:11:30.163526401Z",
+  "model": "glm-5.3"
+}

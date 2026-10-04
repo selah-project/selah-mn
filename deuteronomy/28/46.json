@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Тэд чам дээр тэмдэг ба гайхамшиг болж, үр сад чинь дээр мөнхөд байх болно.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "болж"
+    },
+    {
+      "surface": "בך",
+      "gloss": "чам дээр"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "тэмдэг"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "ба гайхамшиг"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "үр сад чинь дээр"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мөнх"
+    }
+  ],
+  "timestamp": "2026-10-04T11:01:27.308818069Z",
+  "model": "glm-5.3"
+}

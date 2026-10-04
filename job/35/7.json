@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Хэрэв чи цедектэй бол түүнд юу өгөх вэ? Эсвэл чиний гараас юуг авах вэ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Хэрэв"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "цедектэй бол"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "өгөх вэ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "או",
+      "gloss": "Эсвэл"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "чиний гараас"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "авах вэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:24:51.205098375Z",
+  "model": "glm-5.3"
+}

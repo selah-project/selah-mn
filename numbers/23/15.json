@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Тэрээр Балакт хэлэв: Энд байгаад шатсан тахилаа хар, би тэнд очиж уулзана.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "зогс"
+    },
+    {
+      "surface": "כה",
+      "gloss": "эндинь"
+    },
+    {
+      "surface": "על",
+      "gloss": "дэргэд"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "шатсан тахилын чинь"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "би бол"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "очиж уулзана"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:44:57.747048305Z",
+  "model": "glm-5.3"
+}

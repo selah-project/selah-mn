@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Сүйрчээ төөрөгдлийн хот; бүх гэр хаалттай, орох хүнгүй.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "сүйрчээ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "хот"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "төөрөгдлийн"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "хаалттай"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "орох"
+    }
+  ],
+  "timestamp": "2026-10-04T12:17:16.061316377Z",
+  "model": "glm-5.3"
+}

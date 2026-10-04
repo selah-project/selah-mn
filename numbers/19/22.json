@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 19:22",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Бузар хүн юунд хүрбэл тэр нь бузар болж, үүнд хүрсэн хүн үд хүртэл бузар байна.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "мөн бүх"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "хүрвэл"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "бузар хүн"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "бузар болно"
+    },
+    {
+      "surface": "והנפש",
+      "gloss": "харин хүн"
+    },
+    {
+      "surface": "הנגעת",
+      "gloss": "хүрсэн"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "бузар байна"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "үд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:42:12.663693551Z",
+  "model": "glm-5.3"
+}

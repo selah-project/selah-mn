@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 3:15",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр байшин(гээ?) өмнө хоёр багана хийв — урт нь гучин таван тохой, мөн тэдгээрийн толгой дээрх чимэг нь таван тохой.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "хийв"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "байшин"
+    },
+    {
+      "surface": "עמודים",
+      "gloss": "багана"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "тохой"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "гучин"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "таван"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "урт"
+    },
+    {
+      "surface": "והצפת",
+      "gloss": "чимэг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "толгой"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "тохой"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "таван"
+    }
+  ],
+  "timestamp": "2026-10-04T15:08:58.849749111Z",
+  "model": "glm-5.3"
+}

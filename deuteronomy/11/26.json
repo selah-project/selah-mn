@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Үзэгтүн, би өнөөдөр та нарын өмнө ерөөл ба хараал тавина.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "үзэгтүн"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "тавина"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "та нарын өмнө"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ерөөл"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "ба хараал"
+    }
+  ],
+  "timestamp": "2026-10-04T10:53:41.548676967Z",
+  "model": "glm-5.3"
+}

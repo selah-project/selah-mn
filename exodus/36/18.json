@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 36:18",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Тэр ⟨את⟩ майхныг нийлүүлж нэг байлгахын тулд тавин хүрэл бар хийв.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "тэр хийв"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "бар"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "хүрэл"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "לחבר",
+      "gloss": "нийлүүлэх"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "майхныг"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "майхныг"
+    },
+    {
+      "surface": "להית",
+      "gloss": "байлгах"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:28:37.670975187Z",
+  "model": "glm-5.3"
+}

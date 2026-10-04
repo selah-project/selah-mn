@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Тал руу бүү гар, замаар бүү яв, учир нь дайсны илд, аймшгийн золго тойрч байна.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "гар"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "тал руу"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "жамаар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "яв"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "илд"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "дайсны"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "аймшгийн золго"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "тойрч байна"
+    }
+  ],
+  "timestamp": "2026-10-04T12:33:11.319216601Z",
+  "model": "glm-5.3"
+}

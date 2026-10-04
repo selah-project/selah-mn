@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Хар, өнөөдөр би чиний өмнө ⟨את⟩ амь ба ⟨את⟩ сайныг, мөн ⟨את⟩ үхэл ба ⟨את⟩ мууг тавив.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "хар"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "би тавив"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "чиний өмнө"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "амь"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "амь"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "сайтай нь"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "сайтай"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "үхэл"
+    },
+    {
+      "surface": "המות",
+      "gloss": "үхэл"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "муу"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "муу"
+    }
+  ],
+  "timestamp": "2026-10-04T11:02:06.255930583Z",
+  "model": "glm-5.3"
+}

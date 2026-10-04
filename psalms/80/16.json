@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 80,
+  "translation": "Таны баруун гараар суулгасан өргөө ба өөртөө бэхжүүлсэн хүү.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "ба өргөө"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юн"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "суулгасан"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "баруун гараар"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "бэхжүүлсэн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    }
+  ],
+  "timestamp": "2026-10-04T13:50:06.809541230Z",
+  "model": "glm-5.3"
+}

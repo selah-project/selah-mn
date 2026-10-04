@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Хүний хүү, түүнд хэл: Чи бол ариусгаагүй газар, зэвүүцлийн өдөрт бороо орсонгүй.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "לה",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "את",
+      "gloss": "чи"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "ариусгаагүй"
+    },
+    {
+      "surface": "היא",
+      "gloss": "бол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "бороо"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "зэвүүцлийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:05:28.946535444Z",
+  "model": "glm-5.3"
+}

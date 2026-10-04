@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Суф тэнгисээс явж, Син цөлд бүрэлдэн буув.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "явж"
+    },
+    {
+      "surface": "מים",
+      "gloss": "тэнгисээс"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "бүрэлдэн буув"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Син"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:13.197547995Z",
+  "model": "glm-5.3"
+}

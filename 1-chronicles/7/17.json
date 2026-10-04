@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Уламын хөвгүүд — Бедан. Эдгээр нь Гиладын хөвгүүд бөгөөд Махирын хүү, Менашеийн хүү билээ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "Уламын"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Бедан"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гиладын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Махирын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашеийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:13.116045540Z",
+  "model": "glm-5.3"
+}

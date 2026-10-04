@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Ачаа: Яхвэгийн үгийн, Йисраелд хүргэсэн, Малахигийн гараар.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ачаа"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-д"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "гараар"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Малахи"
+    }
+  ],
+  "timestamp": "2026-10-04T13:32:34.451750273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Түүний нэр Йисраелд 'Гутал тайлуулсан хүний гэр' гэж дуудагдана.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "дуудагдана"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "түүний нэр"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраелд"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "тайлуулсан хүний"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "гутал"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:36.238711550Z",
+  "model": "glm-5.3"
+}

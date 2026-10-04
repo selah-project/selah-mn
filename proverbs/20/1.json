@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Дарс бол дооглогч, архи бол шуугиантай; дотор нь төөрч буй хүн бүр мэргэн хүн биш.",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "дооглогч"
+    },
+    {
+      "surface": "היין",
+      "gloss": "дарс"
+    },
+    {
+      "surface": "המה",
+      "gloss": "шуугиантай"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "архи"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "төөрч буй"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дотор нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "мэргэн хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:24.519280583Z",
+  "model": "glm-5.3"
+}

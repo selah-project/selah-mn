@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Миний нефеш Яхвэд баярлаж, Түүний авралд баясна.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "миний нефеш"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "баярлаж"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "баясна"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "Түүний авралд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:39:37.240895496Z",
+  "model": "glm-5.3"
+}

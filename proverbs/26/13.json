@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Залхуу хүн: Замд арслан бий, тайзан дээр арслан бий гэж хэлнэ.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "хэлнэ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "Залхуу"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "арслан"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "Замд"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "арслан"
+    },
+    {
+      "surface": "בין",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "тайзан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:52.485820952Z",
+  "model": "glm-5.3"
+}

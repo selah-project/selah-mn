@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Аравныг заавал аравчил: үрийн чинь ⟨את⟩ бүх ургац, талбайгаас гарч буйг, жил бүр.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "аравныг"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "заавал аравчил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх ургац"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ургац"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "үрийн чинь"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "гарч буйг"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "талбайгаас"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "бүр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:56:19.789671451Z",
+  "model": "glm-5.3"
+}

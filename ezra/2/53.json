@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Баркосын хөвгүүд, Сисерагийн хөвгүүд, Тамахын хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "Баркос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисера"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "Тамах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:46:36.089839341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ямар ч цусыг идэх аливаа амь — тэр амь өөрийн ард түмнээс таслагдах болно.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "аливаа"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амь"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "идэх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "דם",
+      "gloss": "цусыг"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "таслагдах болно"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "тэр амь"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ард түмнээс"
+    }
+  ],
+  "timestamp": "2026-10-04T10:23:28.448777385Z",
+  "model": "glm-5.3"
+}

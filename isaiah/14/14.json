@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Үүлний өндөрлөг өөд би өнгөрнө, Хамгийн Дээд шиг болно.",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "би өнгөрнө"
+    },
+    {
+      "surface": "על",
+      "gloss": "өөд"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "өндөрлөг"
+    },
+    {
+      "surface": "עב",
+      "gloss": "Үүлний"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "Хамгийн Дээд шиг"
+    }
+  ],
+  "timestamp": "2026-10-04T12:13:25.888992359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Бүү ярь гэж тэд хэлдэг — тэд ярина, эднээр бүү ярь, ичгүүр буцахгүй.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "ярь"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "тэд ярина"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "ярь"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "эднээр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "буцахгүй"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "ичгүүр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:25:02.443050609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 12:5",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Давидын уур тэр хүнд маш их бадрав, Натанд хэлж: Яхвэ амьд буй, учир нь энэийг хийсэн хүн бол үхлийн хүү.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "бадрав"
+    },
+    {
+      "surface": "אף",
+      "gloss": "уур"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "тэр хүнд"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш их"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхлийн"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "העשה",
+      "gloss": "хийсэн"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "энэийг"
+    }
+  ],
+  "timestamp": "2026-10-04T11:39:48.488931329Z",
+  "model": "glm-5.3"
+}

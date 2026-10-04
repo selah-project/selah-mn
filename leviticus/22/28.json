@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Үхэр ч бай, хурга ч бай — түүнийг ба түүний үрийг нэг өдөрт бүү нядал.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "Үхэр"
+    },
+    {
+      "surface": "או",
+      "gloss": "ч бай... ч бай"
+    },
+    {
+      "surface": "שה",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "түүнийг"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "түүний үрийг"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний үр"
+    },
+    {
+      "surface": "лא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "нядал"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "нэг өдөрт"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:30:16.268951094Z",
+  "model": "glm-5.3"
+}

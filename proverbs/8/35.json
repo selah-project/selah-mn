@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Учир нь намайг олсон хүн амийг олно, Яхвээс таалал гаргана.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "намайг олсон"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "олно"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амийг"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "ба … гаргана"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "таалал"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхвээс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:42.230527908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Бэлэглэгч сүнс таргална, ус өгөгч нь бас өөрөө усжуулагдана.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "сүнс"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "бэлэглэгч"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "таргална"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "ус өгөгч"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өөрөө"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "усжуулагдана"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:24.904953349Z",
+  "model": "glm-5.3"
+}

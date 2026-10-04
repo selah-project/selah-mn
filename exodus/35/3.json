@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Шаббатын өдөр та нарын бүх оршин суух газарт гал бүү асга.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "асга"
+    },
+    {
+      "surface": "אש",
+      "gloss": "гал"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "та нарын оршин суух газарт"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "Шаббатын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:19:06.798094631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 116,
+  "translation": "Яхвэд би юуг өгөх вэ, өөрт надад хийсэн бүх сайны хариуд?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "өгөх вэ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "кал",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "сайны нь хариуд"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "надад"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:25.238911501Z",
+  "model": "glm-5.3"
+}

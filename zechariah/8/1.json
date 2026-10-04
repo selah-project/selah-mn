@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Яхвэ Цебаотын үг надад ирж, айлдаж байна:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаотын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдаж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T13:31:14.235074137Z",
+  "model": "glm-5.3"
+}

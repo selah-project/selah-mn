@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Аттай зургадугаар, Элиел долдугаар.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "Аттай"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "зургадугаар"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "Элиел"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "долдугаар"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:09.087449677Z",
+  "model": "glm-5.3"
+}

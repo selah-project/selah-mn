@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Рехавам Ерушалаймд сууж, Йехудад бэхлэгээт хотодууд барьжээ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "сууж"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Ерушалаймд"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "барьжээ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "хотодууд"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "бэхлэгээт"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Йехудад"
+    }
+  ],
+  "timestamp": "2026-10-04T15:10:58.258105622Z",
+  "model": "glm-5.3"
+}

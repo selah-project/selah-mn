@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Дөрвөн хөл дээр мөлхөж явдаг бүх нисдэг шувуу та нарт жигшилттэй.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "мөлхөж"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "нисдэг шувуу"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "явдаг"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дөрвөн хөл"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "жигшилттэй"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    }
+  ],
+  "timestamp": "2026-10-04T15:29:54.796892186Z",
+  "model": "glm-5.3"
+}

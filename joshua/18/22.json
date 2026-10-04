@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Бет-Арава, Цемараим, Бет-Эл,",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ба Бет"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Арава"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "Цемараим"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ба Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    }
+  ],
+  "timestamp": "2026-10-04T11:09:58.713619746Z",
+  "model": "glm-5.3"
+}

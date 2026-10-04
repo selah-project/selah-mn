@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 29:9",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Ноёд үгээ хянаж, гарараа амандаа налжээ.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "עצרו",
+      "gloss": "хянаж"
+    },
+    {
+      "surface": "במלים",
+      "gloss": "үгээ"
+    },
+    {
+      "surface": "וכף",
+      "gloss": "ба гар"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "налжээ"
+    },
+    {
+      "surface": "לפיהם",
+      "gloss": "амандаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:22:07.046816787Z",
+  "model": "glm-5.3"
+}

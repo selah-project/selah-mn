@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Магдиелын ноён, Ирамын ноён. Эдгээр нь Эдомын ноёд байв.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "Магдиел"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "Ирам"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдом"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:18.648132295Z",
+  "model": "glm-5.3"
+}

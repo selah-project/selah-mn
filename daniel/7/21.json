@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Би харж байхад тэр эвэр ариун нэгнүүдтэй дайн хийж, тэднийг ялав.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "харж"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "байхад би"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "ба тэр эвэр"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "хийж"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "дайн"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "ариун нэгнүүд"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "ба ялав"
+    },
+    {
+      "surface": "להון",
+      "gloss": "тэднийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:43:28.902026290Z",
+  "model": "glm-5.3"
+}

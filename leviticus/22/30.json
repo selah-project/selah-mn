@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Тэр өдөр нь идэгдэнэ; өглөө хүртэл үлдсэнээс нь юу ч үлдээхгүй: Би Яхвэ ⟨мүн⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "өдөр нь"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "идэгдэнэ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "үлдээхгүй"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "түүнээс"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "өглөө"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:30:36.341478029Z",
+  "model": "glm-5.3"
+}

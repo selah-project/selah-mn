@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Давидын. Яхвэ минь, чам руу би сүнсээ өргөнө.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чам руу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "сүнсээ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "өргөнө"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:32.421968404Z",
+  "model": "glm-5.3"
+}

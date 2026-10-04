@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Элиху нэмж хэлэв:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "нэмж"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Элиху"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:24:46.697984346Z",
+  "model": "glm-5.3"
+}

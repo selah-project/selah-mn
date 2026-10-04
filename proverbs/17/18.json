@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Зүрхгүй хүн алгаа алгадан, өөрийнхөө нөхрийн өмнө барьцаа болдог.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "гүй"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "алгадан"
+    },
+    {
+      "surface": "כף",
+      "gloss": "алгаа"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "болдог"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "барьцаа"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "нөхрийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:49.815678480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Коheлет таалалтай үгсийг олохыг хичээж, шулуун үнэн үгсийг бичжээ.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "хичээж"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Коheлет"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "олоход"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "таалалтай"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "бичжээ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "шулуун"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "үнэн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:36:03.885024211Z",
+  "model": "glm-5.3"
+}

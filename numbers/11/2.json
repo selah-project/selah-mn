@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Ардууд Моше руу хашхирав, Моше Яхвэд залбирсанд гал унтарлаа.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "хашхирав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ардууд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "залбирсанд"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "унтарлаа"
+    },
+    {
+      "surface": "האש",
+      "gloss": "гал"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:55.521255464Z",
+  "model": "glm-5.3"
+}

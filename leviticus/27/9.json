@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 27:9",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Хэрэв мал байгаад түүнээс Яхвэд өргөл болгон ойртуулдаг бол Яхвэд өгөх бүхэн нь ариун байх болно.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "мал"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "ойртуулдаг"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "түүнээс"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "өргөл"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "өгөх"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "түүнээс"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх болно"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ариун"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:45.927597431Z",
+  "model": "glm-5.3"
+}

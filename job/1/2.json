@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Түүнд долоон хүү, гурван охин төржээ.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "төржээ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "охин"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:51.481022293Z",
+  "model": "glm-5.3"
+}

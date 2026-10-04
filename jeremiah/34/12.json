@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Яхвэгийн үг Иеремиад Яхвэгээс ⟨מאת⟩ ирж айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Иеремиа"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨מאת⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгээс"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T12:46:56.288611994Z",
+  "model": "glm-5.3"
+}

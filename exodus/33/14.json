@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэр хэлэв: Миний царай явж, Би чамд амар амгалан өгье.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Тэр хэлэв"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Миний царай"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "явна"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "Би амаржуулъя"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:19:13.871149241Z",
+  "model": "glm-5.3"
+}

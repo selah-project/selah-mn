@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Хүүг ч цохивол, охидыг ч цохивол — энэ шүүлтийн дагуу түүнтэй үйлдэнэ.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "цохивол"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охид"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "цохивол"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "шүүлтийн дагуу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "үйлдэгдэнэ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнтэй"
+    }
+  ],
+  "timestamp": "2026-10-04T10:14:01.361118800Z",
+  "model": "glm-5.3"
+}

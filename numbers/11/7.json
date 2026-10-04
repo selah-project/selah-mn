@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Мана бол кушааны үр шиг; үүний үзэгдэл болдалшийн нүд шиг.",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "Мана"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "үр шиг"
+    },
+    {
+      "surface": "גד",
+      "gloss": "кушааны"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бол"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "үүний үзэгдэл"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "нүд шиг"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "болдалш"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:32.108041269Z",
+  "model": "glm-5.3"
+}

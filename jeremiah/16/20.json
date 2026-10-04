@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Хүн өөртөө бурхад бүтээх үү? Тэд бол бурхад биш.",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "бүтээх үү"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Хүн"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "бурхад"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "Тэд бол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "бурхад"
+    }
+  ],
+  "timestamp": "2026-10-04T12:38:17.575606554Z",
+  "model": "glm-5.3"
+}

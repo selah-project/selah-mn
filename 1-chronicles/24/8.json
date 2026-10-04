@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Гурав дахь нь Харимд, дөрөв дэх нь Сеоримд оногдов.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "Харимд"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "гурав дахь"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "Сеоримд"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "дөрөв дэх"
+    }
+  ],
+  "timestamp": "2026-10-04T15:06:07.702792195Z",
+  "model": "glm-5.3"
+}

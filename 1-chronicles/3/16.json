@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Йехоякимын хөвгүүд: Йехоная түүний хүү, Цидкия түүний хүү.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ба хөвгүүд"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "Йехоякимын"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Йехоная"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "Цидкия"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:45.752979914Z",
+  "model": "glm-5.3"
+}

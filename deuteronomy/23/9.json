@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Тэдэнд төрсөн хөвгүүд, тэдний гуравдугаар үе, Яхвэгийн чуулганд орно.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "төрсөн"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "דור",
+      "gloss": "үе"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "гуравдугаар"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "орно"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдний"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "чуулганд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:35.390203903Z",
+  "model": "glm-5.3"
+}

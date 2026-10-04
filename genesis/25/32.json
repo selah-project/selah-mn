@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Еав хэлэв: Yнэхээр би үхэх гэж байна, ахлах хүүгийн эрх надад юу хэрэгтэй юм бэ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Еав"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Yнэхээр"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "явж байна"
+    },
+    {
+      "surface": "למות",
+      "gloss": "үхэх"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "юунд"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "ахлах хүүгийн эрх"
+    }
+  ],
+  "timestamp": "2026-10-04T09:54:16.196413031Z",
+  "model": "glm-5.3"
+}

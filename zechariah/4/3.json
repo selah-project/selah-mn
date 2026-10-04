@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Хоёр зейт мод түүний дэргэд байна, нэг нь аяганы баруун талд, нэг нь түүний зүүн талд.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "зейт мод"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "түүний дэргэд"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг нь"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "баруун талд"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "аяганы"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "нэг нь"
+    },
+    {
+      "surface": "על",
+      "gloss": "талд"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "зүүн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:30:56.726078358Z",
+  "model": "glm-5.3"
+}

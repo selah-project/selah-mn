@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Нэг үхэрт, эсвэл нэг хуцарт, эсвэл хурганд — хонь эсвэл ямааны — ингэж хийнэ.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "инггэж"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "хийнэ"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "үхэрт"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "хуцарт"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "хурганд"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "хонь"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "ямааны"
+    }
+  ],
+  "timestamp": "2026-10-04T10:40:46.390321709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Долдугаарт Хаккоц, наймдугаарт Авиа.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "Хаккоцод"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "долдугаарт"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "Авиад"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "наймдугаарт"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:23.754255728Z",
+  "model": "glm-5.3"
+}

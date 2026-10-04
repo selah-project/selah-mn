@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Өөрийн талхаа усны дээр илгээ, учир нь олон өдрийн дараа та үүнийг олно.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "илгээ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "өөрийн талхаа"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…ны"
+    },
+    {
+      "surface": "המים",
+      "gloss": "усны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "олон … дараа"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "өдрийн"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "та үүнийг олно"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:14.192741272Z",
+  "model": "glm-5.3"
+}

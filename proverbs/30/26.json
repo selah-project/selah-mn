@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Шафанууд — хүчирхэг бус ард түмэн, гэсэн ч хаданд гэрийгээ байрлуулдаг.",
+  "tokens": [
+    {
+      "surface": "שפנים",
+      "gloss": "Шафанууд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "хүчирхэг"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "байрлуулдаг"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "хаданд"
+    },
+    {
+      "surface": "ביתם",
+      "gloss": "гэрээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:02.390961021Z",
+  "model": "glm-5.3"
+}

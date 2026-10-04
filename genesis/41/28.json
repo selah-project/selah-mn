@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Энэ бол Параод би хэлсэн үг: Элохим юу хийхээ Параод ⟨את⟩ үзүүлж байна.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Энэ бол"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "би хэлсэн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "прעה",
+      "gloss": "Парао"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийхээ"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "үзүүлж байна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Парао"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Параод"
+    }
+  ],
+  "timestamp": "2026-10-04T15:26:12.579819320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 136,
+  "translation": "Бүх маханд талх өгөгч, учир нь Түүний хэсэд үүрд байдаг.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "өгөгч"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "маханд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Түүний хэсэд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:51.106865539Z",
+  "model": "glm-5.3"
+}

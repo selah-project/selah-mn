@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Мишканий болон тойрсон хашааны бүх шантас зэс байв.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "шантас"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Мишканий"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "хашааны"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тойрсон"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "зэс"
+    }
+  ],
+  "timestamp": "2026-10-04T15:28:01.045958184Z",
+  "model": "glm-5.3"
+}

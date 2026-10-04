@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Моше табайлан цугларлаа, тэр ба Йисраелийн ахмадууд.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "цугларлаа"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "табайлан руу"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ба ахмадууд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:30:41.855867215Z",
+  "model": "glm-5.3"
+}

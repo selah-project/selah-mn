@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Бурхад зүгээр л арилж одно.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "бурхад"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "бүрэн"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "арилж одно"
+    }
+  ],
+  "timestamp": "2026-10-04T12:09:16.240569213Z",
+  "model": "glm-5.3"
+}

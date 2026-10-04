@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 39,
+  "translation": "Хоёрдугаар мөрөнд нофех, саппир ба яхалом.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "мөр"
+    },
+    {
+      "surface": "השני",
+      "gloss": "хоёрдугаар"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "нофех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "саппир"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "ба яхалом"
+    }
+  ],
+  "timestamp": "2026-10-04T10:19:36.396549770Z",
+  "model": "glm-5.3"
+}

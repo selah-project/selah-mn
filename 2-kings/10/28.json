@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Тиймээс Еху Баалыг Йисраелаас устгажээ.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "устгажээ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Еху"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Баалыг"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Йисраелаас"
+    }
+  ],
+  "timestamp": "2026-10-04T12:01:05.094146029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Цөлд Тадморыг ⟨את⟩ бүтээж, Хаматад барьсан агуулахын бүх хотуудыг ⟨את⟩ бариад.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "бариад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тадмор"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "Тадмор"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "агуулахын бүх хотууд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "хотууд"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "агуулахын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "барьсан"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "Хаматад"
+    }
+  ],
+  "timestamp": "2026-10-04T15:11:53.870877855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Амьд шувууг ⟨את⟩ хотын гадна тал руу нь суллаж явуулаад, байшинг цагаатгавал байшин ариусна.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "суллаж явуулаад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "амьд шувуу"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "шувуу"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "гадна"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "хотын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "פני",
+      "gloss": "талд"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "тал"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "цагаатгавал"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "байшин"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ариусна"
+    }
+  ],
+  "timestamp": "2026-10-04T10:26:26.859520234Z",
+  "model": "glm-5.3"
+}

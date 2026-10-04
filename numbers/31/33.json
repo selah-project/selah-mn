@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Үхэр хоёр ба далан мянга.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ба далан"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    }
+  ],
+  "timestamp": "2026-10-04T10:47:55.808393714Z",
+  "model": "glm-5.3"
+}

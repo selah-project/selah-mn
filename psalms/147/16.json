@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 147,
+  "translation": "Тэр цасыг ноосон адил өгч, хярууг үнс мэт тарьдаг.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Тэр ... өгч"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "цасыг"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "ноосон адил"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "хярууг"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "үнс мэт"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "тарьдаг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:05.706377850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Дилеан, хамцаа Ха-Мицпе ба Йоктеел",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "Дилеан"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "Ха-Мицпе"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "Йоктеел"
+    }
+  ],
+  "timestamp": "2026-10-04T11:09:44.074031546Z",
+  "model": "glm-5.3"
+}

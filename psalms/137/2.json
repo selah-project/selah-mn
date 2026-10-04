@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 137,
+  "translation": "Хар ганнууд дээр, түүний дунд бид ятгуудаа өлгөв.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "хар ганнууд"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "түүний дунд"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "бид өлгөв"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "ятгуудаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:01:25.021109090Z",
+  "model": "glm-5.3"
+}

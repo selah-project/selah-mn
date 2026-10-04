@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Давидын зэмэр. Яхвэ миний хоньчин — би юугаар ч дутаж зовохгүй.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "зэмэр"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "миний хоньчин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "дутаж зовох"
+    }
+  ],
+  "timestamp": "2026-10-04T13:37:57.557080648Z",
+  "model": "glm-5.3"
+}

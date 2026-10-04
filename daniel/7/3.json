@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ба дөрвөн агуу амьтад тэнгисээс гарч ирэв, нэг нь нөгөөгөөс өөр байв.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "ба дөрвөн"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "амьтад"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "гарч ирэв"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "тэнгис"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "דא",
+      "gloss": "нэг нь"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-өөс"
+    },
+    {
+      "surface": "דא",
+      "gloss": "нөгөө"
+    }
+  ],
+  "timestamp": "2026-10-04T14:43:43.741772677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Агурын үгс — Якехийн хүүгийнх, ⟨энэ бол⟩ ачаа. Эр хүн Итиелд, Итиел ба Ухалд айлдав.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "Агурын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "Якех"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ачаа"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "эр хүн"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "Итиелд"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "Итиелд"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ба Ухал"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:37.873117914Z",
+  "model": "glm-5.3"
+}

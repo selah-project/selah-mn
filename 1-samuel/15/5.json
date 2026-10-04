@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 15:5",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Саул Амалекын хот хүртэл ирж, хөндийд отолож суув.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саул"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалекын"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "отолож суув"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "хөндийд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:28:05.596130734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 105:26",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 105,
+  "translation": "Тэрээр өөрийн боол Мошег, өөрийн сонгосон Аароныг илгээв.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "илгээв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "өөрийн боол"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "сонгосон"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнийг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:55:52.470568324Z",
+  "model": "glm-5.3"
+}

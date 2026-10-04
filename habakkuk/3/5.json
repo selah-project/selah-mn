@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Түүний өмнө тахал явж, түүний хөл дор галт зүйл гарч байв.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "түүний өмнө"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "яваж"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "тахал"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "гарч байв"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "галт зүйл"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "түүний хөл дор"
+    }
+  ],
+  "timestamp": "2026-10-04T13:28:57.399453742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Хурай Гаашийн горхиосуудынх, Авиэл Арабатийнхон.",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "Хурай"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "горхиосуудынх"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Гаашийн"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авиэл"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "Арабатийнхон"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:21.389220895Z",
+  "model": "glm-5.3"
+}

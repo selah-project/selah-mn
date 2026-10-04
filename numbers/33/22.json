@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 33:22",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Риссагаас мордож, Кехелатад буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "мордож"
+    },
+    {
+      "surface": "מרסה",
+      "gloss": "Риссагаас"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בקהלתה",
+      "gloss": "Кехелатад"
+    }
+  ],
+  "timestamp": "2026-10-04T15:31:36.458395079Z",
+  "model": "glm-5.3"
+}

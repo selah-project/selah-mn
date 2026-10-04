@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Хөгжим удирдагчид зориулагдсан, Давидын зул.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хөгжим удирдагчид"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "зул"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:36:07.392337043Z",
+  "model": "glm-5.3"
+}

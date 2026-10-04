@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Шимонын овгоос Шафат, Хорийн хүү.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимонын"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Шафат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "Хорийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:55.889582971Z",
+  "model": "glm-5.3"
+}

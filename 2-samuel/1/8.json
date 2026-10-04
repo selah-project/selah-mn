@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Тэр надад: Чи хэн бэ? гэхэд би түүнд: Би амалек хүн гэв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Тэр хэлэв"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи бэ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "би хэлэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "амалек хүн"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Би"
+    }
+  ],
+  "timestamp": "2026-10-04T11:35:12.263906805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр амгаа тоосонд хийх ёстой — магадгүй найдвар бий.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "хийх ёстой"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "тоосонд"
+    },
+    {
+      "surface": "пיהו",
+      "gloss": "амгаа"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "магадгүй"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "найдвар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:22.316527897Z",
+  "model": "glm-5.3"
+}

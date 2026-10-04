@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Мэргэн хаан муу хүмүүсийг сэлгэнэ, тэдний дээр дугуйг эргүүлнэ.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "сэлгэнэ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "муу хүмүүсийг"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мэргэн"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "эргүүлнэ"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "тэдний дээр"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "дугуй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:55.147581078Z",
+  "model": "glm-5.3"
+}

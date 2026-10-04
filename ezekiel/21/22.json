@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 21:22",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Бас би алгаа алга өөр цохиж, хилэнгээ намжаана; би Яхвэ ⟨юм⟩, би үүнийг ярьсан.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "цоих"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "алгаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "алгаа"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "намжаана"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "хилэнгээ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ярьсан"
+    }
+  ],
+  "timestamp": "2026-10-04T13:03:28.674903983Z",
+  "model": "glm-5.3"
+}

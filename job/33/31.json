@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Чагна, Айув, надад сонс; чимээгүй бай, би өөрөө ярина.",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "чагна"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Айув"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "сонс"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "чимээгүй бай"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "би өөрөө"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ярина"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:26.984955658Z",
+  "model": "glm-5.3"
+}

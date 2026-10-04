@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Эрэх цаг ба алдах цаг; хадгалах цаг ба хаях цаг.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "эрэх"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба цаг"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "алдах"
+    },
+    {
+      "surface": "עת",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "хадгалах"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба цаг"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "хаях"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:04.616599670Z",
+  "model": "glm-5.3"
+}

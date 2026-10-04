@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Шимеонын хилээс зүүн талаас баруун тал хүртэл Йисасхарт нэг хэсэг.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "-н хилээс"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимеон"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "талас"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "зүүн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "тал"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "баруун"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Йисасхар"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:17:13.370513349Z",
+  "model": "glm-5.3"
+}

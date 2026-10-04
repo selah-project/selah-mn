@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 126,
+  "translation": "Яхвэ бидэнтэй их юм хийжээ, бид баярлаж байв.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "их хийжээ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "хийхэд"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "бидэнтэй"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "бид байв"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "баярлаж"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:17.697618056Z",
+  "model": "glm-5.3"
+}

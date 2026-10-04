@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Хамор Шехемын эцэг Яааковын дэргэд түүнтэй ⟨את⟩ ярилдахаар гарав.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "гарав"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамор"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шехемын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дэргэд"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яааковын"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ярилдахаар"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "түүнтэй ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T09:59:11.758004088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Лаван хэлж байна: Ха, яасан миний үгний дагуу байгаасай!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлж байна"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ха"
+    },
+    {
+      "surface": "לו",
+      "gloss": "яасан"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "байгаасай"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "чамайн үгний дагуу"
+    }
+  ],
+  "timestamp": "2026-10-04T15:26:54.508754574Z",
+  "model": "glm-5.3"
+}

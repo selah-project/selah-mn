@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Тэрээр газарт, Йехудагийн бэхлэлттэй бүх хотод, хот бүрд шүүгчдийг томилов.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "томилов"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "шүүгчдийг"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "хотод"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехудагийн"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "бэхлэлттэй"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "хот бүрд"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T15:16:18.831234514Z",
+  "model": "glm-5.3"
+}

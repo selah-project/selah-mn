@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Өдөр бүрэлдэн, сүүдэр зугтаж дуустал би өөртөө зориуд миррийн уул руу, цаврын товцог руу явъя.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "дуустал"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "бүрэлдэн"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "зугтаж"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "сүүдэр"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "явъя"
+    },
+    {
+      "surface": "לי",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "המור",
+      "gloss": "миррийн"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "мөн руу"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "товцог"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "цаврын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:28:20.101669979Z",
+  "model": "glm-5.3"
+}

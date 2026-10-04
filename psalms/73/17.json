@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 73,
+  "translation": "Элохимын ариун сүм рүү ⟨би⟩ ортол тэдний төгсгөлийг ойлгов.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ортол"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "орох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ариун сүм"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "ойлгов"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "тэдний төгсгөлийг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:09.133328874Z",
+  "model": "glm-5.3"
+}

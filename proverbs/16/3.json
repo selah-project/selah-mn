@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Өөрийн үйлсээ Яхвэд өг, тэгвэл чиний бодлууд бэхжинэ.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "өг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "мעשיך",
+      "gloss": "өөрийн үйлсээ"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "тэгвэл ... бэхжинэ"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "чиний бодлууд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:33.820292446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Бидэнд бага эгч бий, хөх байхгүй; эгчийнхээ тухай яригдах өдөрт бид юу хийх вэ?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "эгч"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "бага"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "хөх"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "לה",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "хийх вэ"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "эгчийнхээ тухай"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "яригдах"
+    },
+    {
+      "surface": "בה",
+      "gloss": "түүний"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:31.464880451Z",
+  "model": "glm-5.3"
+}

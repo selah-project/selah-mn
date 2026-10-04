@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 66,
+  "translation": "Мөн тэднээс би тахилчид, леви нарыг авна гэж Яхвэ айлдаж байна.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Мөн"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "тэднээс"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "авна"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "тахилчид"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "леви нар"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:32:04.206342795Z",
+  "model": "glm-5.3"
+}

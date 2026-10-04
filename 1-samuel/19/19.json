@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Шаулд мэдээлэгдэв: Үзэгтүн, Давид Найотод, Рамад байна.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "мэдээлэгдэв"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулд"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэмээн"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "үзэгтүн"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "Найотод"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "Рамад"
+    }
+  ],
+  "timestamp": "2026-10-04T11:30:06.518240224Z",
+  "model": "glm-5.3"
+}

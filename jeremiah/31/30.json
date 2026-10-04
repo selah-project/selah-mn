@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 31:30",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Харин хүн бүр өөрийн гэм буруугаараа үхнэ; бөөрөг идэх хүн бүрийн шүд нь мохно.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "харин"
+    },
+    {
+      "surface": "אם",
+      "gloss": "харин"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "בעונו",
+      "gloss": "өөрийн гэм буруугаараа"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "үхнэ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүр"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "идэх"
+    },
+    {
+      "surface": "הבסר",
+      "gloss": "бөөрөг"
+    },
+    {
+      "surface": "תקהינה",
+      "gloss": "мохно"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "түүний шүд"
+    }
+  ],
+  "timestamp": "2026-10-04T12:45:34.044398356Z",
+  "model": "glm-5.3"
+}

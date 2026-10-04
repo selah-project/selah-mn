@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Муу үг түүн дээр цутгаж байна: хэвтсэн хүн нь дахин босохгүй гэж.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "муу үг"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ямар ч ашиггүй"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "цутгаж байна"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүн дээр"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ба тэр"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "хэвтсэн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "босох"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:28.654904223Z",
+  "model": "glm-5.3"
+}

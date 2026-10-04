@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Ялагдсан хэвтэгч өөрийн хадам эхтэй хамт, ба бүх ард түмэн хэлэх ёстой: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Ялагдсан"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "хэвтэгч"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "өөрийн хадам эхтэй"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ба хэлэх ёстой"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:46.813167642Z",
+  "model": "glm-5.3"
+}

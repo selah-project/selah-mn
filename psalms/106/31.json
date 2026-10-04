@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 106,
+  "translation": "Энэ нь түүнд үеэс үе, үүрд мөнхөд цедек болгон тооцогдов.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "тооцогдов"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "цедек болгон"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "үеэс"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "үе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мөнхөд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:55:54.920682123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Бүх ахмадууд ба бүх ард түмэн түүнд хэлэв: Бүү сонс, бүү зөвшөөр.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "ахмадууд"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "сонс"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "зөвшөөр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:57:04.281690550Z",
+  "model": "glm-5.3"
+}

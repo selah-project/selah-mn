@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Та нар хөвгүүдийнхөө махыг идэж, охидынхоо махыг идэх болно.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "хөвгүүдийнхөө"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "махыг"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "охидынхоо"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "идэх болно"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:03.743429453Z",
+  "model": "glm-5.3"
+}

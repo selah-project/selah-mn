@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Тэр түүнд хэлэв: Надтай ⟨את⟩ хамт гэрт очиж, талх ид.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "тэр хэлэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "לך",
+      "gloss": "оч"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ надтай"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "гэрт"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ид"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    }
+  ],
+  "timestamp": "2026-10-04T11:52:53.668407211Z",
+  "model": "glm-5.3"
+}

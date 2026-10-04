@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Газрын захирагч руу хурга илгээгтүн, Селагаас цөл уруу, Сионы охины уул уруу.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "илгээгтүн"
+    },
+    {
+      "surface": "כר",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "משל",
+      "gloss": "захирагч"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "Селагаас"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "цөл уруу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сионы"
+    }
+  ],
+  "timestamp": "2026-10-04T12:16:02.549280558Z",
+  "model": "glm-5.3"
+}

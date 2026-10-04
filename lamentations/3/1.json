@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Би бол ⟨ той эр ⟩ гэдэг хүн, түүний уурлын таягаар зовлонг үзсэн.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨той⟩ эр"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "үзсэн"
+    },
+    {
+      "surface": "עני",
+      "gloss": "зовлонг"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таягаар"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "түүний уурлын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:07.707641780Z",
+  "model": "glm-5.3"
+}

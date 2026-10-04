@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 35:31",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Үхэх ялтай аллагчаас нүглийн төлбөр авч болохгүй, учир нь тэр заавал үхэх ёстой.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "болохгүй"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "авч"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "нүглийн төлбөр"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "аллагч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тер"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ялтай"
+    },
+    {
+      "surface": "למות",
+      "gloss": "үхэх"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "מות",
+      "gloss": "заавал"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "үхэх ёстой"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:05.380126643Z",
+  "model": "glm-5.3"
+}

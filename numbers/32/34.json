@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Гадын хөвгүүд ⟨את⟩ Дибон, ба ⟨את⟩ Атарот, ба ⟨את⟩ Ароер-ийг барьжээ.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "барьжээ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гадын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Дибон"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Дибон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Атарот"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Атарот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Ароер"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Ароер"
+    }
+  ],
+  "timestamp": "2026-10-04T10:48:02.706080703Z",
+  "model": "glm-5.3"
+}

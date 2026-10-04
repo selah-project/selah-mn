@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр: Чи нүцгэн гэдгээ хэн хэлсэн бэ? Би чамд түүгээр бүү ид гэж тушаасан модноос чи идсэн үү? гэв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "хэлсэн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "гэдгээ"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "нүцгэн"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "המן",
+      "gloss": "-наос үү"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "мод"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-г"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "би чамд тушаасан"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ид"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "түүгээр"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "чи идсэн үү"
+    }
+  ],
+  "timestamp": "2026-10-04T09:45:45.291571195Z",
+  "model": "glm-5.3"
+}

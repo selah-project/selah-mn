@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 50,
+  "translation": "Чи амаа муугаар суллав, хэл чинь мэхээгээр наалддаг.",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "чиний ам"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "суллав"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "муугаар"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "ба чиний хэл"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "наалддаг"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "мэхээгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:43:05.722093354Z",
+  "model": "glm-5.3"
+}

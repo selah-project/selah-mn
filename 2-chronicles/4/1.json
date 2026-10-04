@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Тэрээч зэсэн тахилын ширээ хийв: урт нь хорин ам, өргөн нь хорин ам, өндөр нь арван ам.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "хийв"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "тахилын ширээ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "зэсэн"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ам"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "урт нь"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ам"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "өргөн нь"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ам"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "өндөр нь"
+    }
+  ],
+  "timestamp": "2026-10-04T15:10:06.151716053Z",
+  "model": "glm-5.3"
+}

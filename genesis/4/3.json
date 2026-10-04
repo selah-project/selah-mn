@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Өдрүүдийн төгсгөлд болов, Каин газрын жимснээс Яхвэд минха авчрав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "төгсгөлд"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдрүүдийн"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "авчрав"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "жимснээс"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:40.400912952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Тэндээсээ тэд Гудгодада нүүв; Гудгодадаас Ятбата — усны горхиудын нутаг.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "Тэндээсээ"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "тэд нүүв"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Гудгодад"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Гудгодад"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "Ятбата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "нутаг"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "горхиудын"
+    },
+    {
+      "surface": "מים",
+      "gloss": "усны"
+    }
+  ],
+  "timestamp": "2026-10-04T10:53:35.769872249Z",
+  "model": "glm-5.3"
+}

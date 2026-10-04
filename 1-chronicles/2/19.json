@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Азува нас барсны дараа Калеб өөртөө ⟨את⟩ Эфратыг авсан бөгөөд түүнд ⟨את⟩ Хурыг төрүүлжээ.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "нас барсны дараа"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "Азува"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "авсан"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калеб"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эфратыг"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "Эфратыг"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "төрүүлжээ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хурыг"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хурыг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:11.386320148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Тэдгээрийг гэрийнхээ хаалганы шонд болон дааман хаалган дээрээ бич.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "бич"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "хаалганы шон"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "дааман хаалган дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:54:45.916471451Z",
+  "model": "glm-5.3"
+}

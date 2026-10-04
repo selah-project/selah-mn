@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Өглөө бэлэн байгтун, өглөө нь Синай ууланд өргөгдөж, тэнд надад уулын орой дээр зогсогтун.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "байгтун"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "бэлэн"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "өглөө"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "өргөгдөж"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "өглөө нь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "зогсогтун"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "орой"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "уулын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:18:21.207702420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Нүдний гэрэл зүрхийг баясгана, сонсогдох сайн мэдээ ⟨את⟩ ясыг таргуулна.",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "гэрэл"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "нүдний"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "баясгана"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрхийг"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "мэдээ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "таргуулна"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "ясыг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:57.234549917Z",
+  "model": "glm-5.3"
+}

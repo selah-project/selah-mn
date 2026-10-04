@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 4:21",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Баясаж, баярлаж бай, Эдомын охин, Уз газар суудаг минь; аяга мөн чам дээр өнгөрнө; чи согтож, нүцгэрнэ.",
+  "tokens": [
+    {
+      "surface": "שישי",
+      "gloss": "Баясаж"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "баярлаж бай"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомын"
+    },
+    {
+      "surface": "יושבתי",
+      "gloss": "суудаг"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уз"
+    },
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "чам дээр"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "өнгөрнө"
+    },
+    {
+      "surface": "כוס",
+      "gloss": "аяга"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "чи согтож"
+    },
+    {
+      "surface": "ותתערי",
+      "gloss": "нүцгэрнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:43.528202962Z",
+  "model": "glm-5.3"
+}

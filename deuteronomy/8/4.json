@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Дээл чинь чам дээр элэгдээгүй, хөл чинь хөндийрөөгүй, энэ дөчин жилд.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "дээл чинь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "элэгдээгүй"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "чам дээр"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "хөл чинь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "хөндийрөөгүй"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "дөчин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жилд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:54:59.772201465Z",
+  "model": "glm-5.3"
+}

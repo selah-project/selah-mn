@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Амаа нээ, цедекээр шүү, ядруу ба ядуу хүнийг шүүж өг.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "нээ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "амаа"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "шүү"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедекээр"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "ба шүүж өг"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ядруу"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ба ядуу хүнийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:41.114205990Z",
+  "model": "glm-5.3"
+}

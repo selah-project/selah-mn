@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Мэргэний Тора бол амийн булаг, үхлийн урхиас зайлуулахын тулд.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мэргэний"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "булаг"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амийн"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "зайлуулахын тулд"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "урхиас"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхлийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:13.524816551Z",
+  "model": "glm-5.3"
+}

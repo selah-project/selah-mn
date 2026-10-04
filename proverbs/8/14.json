@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Надад зөвлөгөө ба тушийа бий; би оюун ухаан, надад хүч чадал бий.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Надад"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "зөвлөгөө"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ба тушийа"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "оюун ухаан"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "хүч чадал"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:31.075802278Z",
+  "model": "glm-5.3"
+}

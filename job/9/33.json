@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 9:33",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Бидний дунд зуучлагч алга, бид хоёрын дээр гар тавих.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "алга"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "бидний дунд"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "зуучлагч"
+    },
+    {
+      "surface": "ישת",
+      "gloss": "тавих"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "שנינו",
+      "gloss": "бид хоёр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:16:54.338864778Z",
+  "model": "glm-5.3"
+}

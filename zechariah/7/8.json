@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 7:8",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Яхвэгийн үг Зехариад ирж айлдсан нь",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болсон нь"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зехариа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T13:30:36.330424854Z",
+  "model": "glm-5.3"
+}

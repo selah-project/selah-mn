@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Тэд Мордехайд Эстэрийн үгсийг ⟨את⟩ мэдээлэв.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "мэдээлэв"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Мордехайд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эстэрийн үгс"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Эстэрийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:36:35.641551019Z",
+  "model": "glm-5.3"
+}

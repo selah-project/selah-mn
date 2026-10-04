@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Хаан олон цэргээр аврагдахгүй, баатар их хүчээр автуулахгүй.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "аврагдахгүй"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "аврагдахгүй"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "олон"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "цэргээр"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "баатар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "автуулахгүй"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "автуулахгүй"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "их"
+    },
+    {
+      "surface": "כח",
+      "gloss": "хүчээр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:40:13.272826459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Азарья Хелецыг төрүүлж, Хелец Эльасаг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "Азарья"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хелецыг"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Хелец"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "Хелец"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Эльасаг"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Эльаса"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:36.028414764Z",
+  "model": "glm-5.3"
+}

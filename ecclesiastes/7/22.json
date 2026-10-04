@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Учир нь мөн олон удаа чиний зүрх мэддэг — чи мөн бусдыг хараасныг.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "удаа"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "олон"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мэддэг"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "чиний зүрх"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "את",
+      "gloss": "чи"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "хараасан"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "бусдыг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:34.195824856Z",
+  "model": "glm-5.3"
+}

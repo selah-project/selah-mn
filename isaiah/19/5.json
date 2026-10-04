@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Тэнгисийн ус хасагдаж, гол ширгэж, хатна.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "хасагдаж"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "тэнгисээс"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ба гол"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "ширгэж"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "хатна"
+    }
+  ],
+  "timestamp": "2026-10-04T12:15:14.187147090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 4:6",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Сионд туг өргө, бэхлэгд, бүү зогс: учир нь Би умардаас муу муухайг авчирна ба агуу сүйрлийг.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "өргө"
+    },
+    {
+      "surface": "נס",
+      "gloss": "туг"
+    },
+    {
+      "surface": "ציונה",
+      "gloss": "Сион руу"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "бэхлэгд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "зогс"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу муухайг"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Би"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "авчирна"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "умардаас"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "сүйрлийг"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "агуу"
+    }
+  ],
+  "timestamp": "2026-10-04T12:33:45.700025743Z",
+  "model": "glm-5.3"
+}

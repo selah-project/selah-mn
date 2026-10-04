@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Учир нь тэдгээрийг олсон хүмүүст тэд амь юм, бас бүх маханд эдгэрэлт.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амь"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "тэдгээрийг олсон хүмүүст"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "бас бүх"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "маханд"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "эдгэрэлт"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:51.462327050Z",
+  "model": "glm-5.3"
+}

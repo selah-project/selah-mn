@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Лотаны хөвгүүд Хори, Хемам байв; Лотаны эгч Тимна байлаа.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "байв"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотаны"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Хори"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "Хемам"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "эгч"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотаны"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    }
+  ],
+  "timestamp": "2026-10-04T15:26:39.949988272Z",
+  "model": "glm-5.3"
+}

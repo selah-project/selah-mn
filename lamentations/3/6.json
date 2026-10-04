@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр намайг бүрэн харанхуйд эртний үхэгсдийн адил суулгав.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "бүрэн харанхуйд"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "намайг суулгав"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "үхэгсдийн адил"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "эртний"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:57.733485230Z",
+  "model": "glm-5.3"
+}

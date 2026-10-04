@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Чи нүднийхээ харсан хараагаас ⟨эргүү⟩ галзуу болж хувирна.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "чи болно"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "галзуу"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "хараас"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "нүднийхээ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "чи харах"
+    }
+  ],
+  "timestamp": "2026-10-04T11:01:42.276363417Z",
+  "model": "glm-5.3"
+}

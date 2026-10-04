@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 132:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 132,
+  "translation": "Тэрээр Яхвэд тангараглав, Яаковын Хүчитэнд амлахдаа.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "тэрээр"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "тангараглав"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "амлахдаа"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "Хүчитэнд"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:02.739833951Z",
+  "model": "glm-5.3"
+}

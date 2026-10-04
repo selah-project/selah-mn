@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 34:16",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Шафан ⟨את⟩ номыг хаанд авчирч, хаанд ⟨дахин⟩ үг хариулж айлдав: Таны боулын гарт өгсөн бүхнийг тэд хийж байна.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "авчирч"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "номыг"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ном"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хаанд"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдаж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгсөн"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "гарт"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "таны боулын"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "хийж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T15:24:31.076747343Z",
+  "model": "glm-5.3"
+}

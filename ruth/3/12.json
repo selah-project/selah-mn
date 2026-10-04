@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Одоо үнэхээр, би гоэл мөн, гэвч надаас ойр гоэл бас бий.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Одоо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "үнэхээр"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "гоэл"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "гэвч бас"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "гоэл"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ойр"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "надаас"
+    }
+  ],
+  "timestamp": "2026-10-04T14:29:32.133830461Z",
+  "model": "glm-5.3"
+}

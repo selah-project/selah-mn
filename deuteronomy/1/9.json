@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Би тэр үеэр та нарт хэлж байсаг: Би өөрөө ганцаараа та нарыг ⟨את⟩ үүрэн чадахгүй.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "хэлж байсаг"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "үеэр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "чадахгүй"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "би өөрөө ганцаараа"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "үүрэн"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "та нарыг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:21.347805431Z",
+  "model": "glm-5.3"
+}

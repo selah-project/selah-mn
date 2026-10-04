@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Аарон Яхвэ Мошед хэлсэн бүх үгсийг ⟨את⟩ ярив, тэрээр ард түмний нүдэн дор тэмдгүүдийг үйлдэв.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ярив"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх үгс"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "хэлсэн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "үйлдэв"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "тэмдгүүд"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "нүдэн дор"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмний"
+    }
+  ],
+  "timestamp": "2026-10-04T10:06:22.277231019Z",
+  "model": "glm-5.3"
+}

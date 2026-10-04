@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Үүнийг би зүрхэндээ эргүүлж санна, тийм учраас би найдаж байна.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Үүнийг"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "эргүүлж санна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "зүрхэндээ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ын"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тийм учраас"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "надежд байна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:54.776830991Z",
+  "model": "glm-5.3"
+}

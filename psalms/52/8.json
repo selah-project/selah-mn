@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 52,
+  "translation": "Цадиким үзэж, айж, түүн дээр инээцгээнэ.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "ба тэд үзнэ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "цадиким"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "ба тэд айна"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "ба түүн дээр"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "тэд инээцгээнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:44:38.312720096Z",
+  "model": "glm-5.3"
+}

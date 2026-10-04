@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Гэвч би Эл-ээс хайж, Элохимд өөрийн үгийг өргөнө.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Гэвч"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "хайж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "Элохимд"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "өргөнө"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "өөрийн үгийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:15:54.537161117Z",
+  "model": "glm-5.3"
+}

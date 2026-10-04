@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Одоо, Яхвэ, та өөрөө Элохим мөн бөгөөд боёоо миньд энэ сайныг амласан билээ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Одоо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "та"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "өөрөө"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "амласан"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "боёоо миньд"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:04:26.850786581Z",
+  "model": "glm-5.3"
+}

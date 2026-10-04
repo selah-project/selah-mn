@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Керубуудад хүний гар дүрс нь тэдний далавчны доор харагдав.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "харагдав"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "керубуудад"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "дүрс"
+    },
+    {
+      "surface": "יד",
+      "gloss": "гар"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "доор"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "далавчны"
+    }
+  ],
+  "timestamp": "2026-10-04T12:59:16.746541887Z",
+  "model": "glm-5.3"
+}

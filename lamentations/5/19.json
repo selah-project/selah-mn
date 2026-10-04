@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Харин Та, Яхвэ, мөнхөд суудаг; Таны суудал үеээс үе мөн.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Та"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "мөнхөд"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "суудаг"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "Таны суудал"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "үеээс"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "үе"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:48.874763404Z",
+  "model": "glm-5.3"
+}

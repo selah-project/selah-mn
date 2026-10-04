@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Бецалел, Урийт хүү, Хурын ач, Йехудагийн ovogton, Яхвэ Мошед тушаасан бүхнийг ⟨את⟩ хийв.",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "Бецалел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Ури"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хур"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "овогton"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехудагийн"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүхнийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошед"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-10-04T10:20:27.345416043Z",
+  "model": "glm-5.3"
+}

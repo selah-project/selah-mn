@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Чиний хана барих өдөр; тэр өдөр хил ихэд холдох болно.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "барих"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "чиний хана"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тер"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "ихэд холдох болно"
+    },
+    {
+      "surface": "חק",
+      "gloss": "хил"
+    }
+  ],
+  "timestamp": "2026-10-04T13:26:12.915334845Z",
+  "model": "glm-5.3"
+}

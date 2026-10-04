@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Хаадад зохихгүй, Лемуел ээ, хаадад зохихгүй дарс уух нь, ноёдод архи хүсэх нь.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "зохихгүй"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "хаадад"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемуел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "зохихгүй"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "хаадад"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "уух нь"
+    },
+    {
+      "surface": "יין",
+      "gloss": "дарс"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "ноёдод"
+    },
+    {
+      "surface": "או",
+      "gloss": "хүсэх нь"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "архи"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:17.211961140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Хоёрдугаар мөрөнд — нофех, саппир, Яхалом.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "мөр"
+    },
+    {
+      "surface": "השני",
+      "gloss": "хоёрдугаар"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "нофех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "саппир"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "Яхалом"
+    }
+  ],
+  "timestamp": "2026-10-04T10:15:39.034699309Z",
+  "model": "glm-5.3"
+}

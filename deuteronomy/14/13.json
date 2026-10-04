@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "ба ⟨את⟩ раах шувуу, ба ⟨את⟩ айя, ба дайя — төрөл төрлөөрөө",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ба раах"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "айя"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "айя"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ба дайя"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "төрөл төрлөөрөө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:20.767134193Z",
+  "model": "glm-5.3"
+}

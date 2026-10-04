@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Хаан хэлэв: Ахимелек, чи болон чиний эцгийн бүх гэр үхэхээр үхнө.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхэхээр"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "үхнө"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ахимелек"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "болон бүх"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "чиний эцгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:31:43.831878875Z",
+  "model": "glm-5.3"
+}

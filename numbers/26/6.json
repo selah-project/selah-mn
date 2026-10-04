@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Хецрон — Хецронийн овог, Карми — Кармигийн овог.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "овог"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "Хецронийн"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "Карми"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "овог"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "Кармигийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:45:01.095108724Z",
+  "model": "glm-5.3"
+}

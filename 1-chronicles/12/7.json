@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 12:7",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Элкана, Йишияху, Азарайл, Йоэзер, Йашавам — Корахчууд",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Элкана"
+    },
+    {
+      "surface": "וישיהו",
+      "gloss": "ба Йишияху"
+    },
+    {
+      "surface": "ועזראל",
+      "gloss": "ба Азарайл"
+    },
+    {
+      "surface": "ויועזר",
+      "gloss": "ба Йоэзер"
+    },
+    {
+      "surface": "וישבעם",
+      "gloss": "ба Йашавам"
+    },
+    {
+      "surface": "הקרחים",
+      "gloss": "Корахчууд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:59:00.933485711Z",
+  "model": "glm-5.3"
+}

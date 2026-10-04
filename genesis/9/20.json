@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Ноах gasрын хүн эхлэв, тэрээр усан үзэмний цэцэрлэг суулгаав.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "эхлэв"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "суулгаав"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "усан үзэмний цэцэрлэг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:15.296543783Z",
+  "model": "glm-5.3"
+}

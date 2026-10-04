@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Тийм учраас тэр газрыг Беер-Шеба гэж нэрлэсэн, учир нь тэнд хоёулаа тангаргаа өргөсөн.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "-ын"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тийм учраас"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "нэрлэсэн"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "gasрыг"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тер"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Шеба"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "тангаргаа өргөсөн"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "хоёулаа"
+    }
+  ],
+  "timestamp": "2026-10-04T09:52:14.720388991Z",
+  "model": "glm-5.3"
+}

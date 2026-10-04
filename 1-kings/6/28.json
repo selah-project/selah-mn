@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Керубүүдийг алтаар бүрхэв.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "бүрхэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "керубүүдийг"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "керубүүдийг"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтаар"
+    }
+  ],
+  "timestamp": "2026-10-04T11:49:20.459044282Z",
+  "model": "glm-5.3"
+}

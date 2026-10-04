@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Ямаа хоёр зуу, ямааны эр хорь, хонь хоёр зуу, хунцуй хорь.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "Ямаа"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "хоёр зуу"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "ямааны эр"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорь"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "хонь"
+    },
+    {
+      "surface": "мאתים",
+      "gloss": "хоэр зуу"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "хунцуй"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорь"
+    }
+  ],
+  "timestamp": "2026-10-04T09:56:56.977328739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Давидын залгисан дуу, санааг татахын тулд.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "залгисан дуу"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "санааг татахын тулд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:34.307003922Z",
+  "model": "glm-5.3"
+}

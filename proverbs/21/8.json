@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Гэмт хүний зам эргүү ба гажуу; харин цэвэр хүний үйлс шулуун.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "эргүү"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "ба гажуу"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "харин цэврийн"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "шулуун"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "үйлс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:34.989801937Z",
+  "model": "glm-5.3"
+}

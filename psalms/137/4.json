@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 137,
+  "translation": "Яаж бид Яхвэгийн ⟨את⟩ дууг харь газрын шороо дээр дуулах билээ?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "яаж"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "бид дуулах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дууг"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "дууг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "газрын шороо"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "харь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:01:25.021456718Z",
+  "model": "glm-5.3"
+}

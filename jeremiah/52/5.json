@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 52,
+  "translation": "Хот бүслэлтэд орж, Цидкияг хааны арван нэгдүгээр жил хүртэл бүслэгдэв.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "орж"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "бүслэлтэд"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "арван нэг"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "дугаар"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкияг"
+    }
+  ],
+  "timestamp": "2026-10-04T12:55:41.438677117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ахаз хэлэв: Би асуухгүй, Яхвэг ⟨את⟩ сорихгүй.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "асуухгүй"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "б мөн үгүй"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "сорихгүй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэг"
+    }
+  ],
+  "timestamp": "2026-10-04T12:11:18.525669482Z",
+  "model": "glm-5.3"
+}

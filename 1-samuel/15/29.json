@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 15:29",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Мөн Йисраэлийн Сүр худал хэлэхгүй, гэмшихгүй; учир нь Тэр хүн биш, гэмших хүн биш.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "Сүр"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлийн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ישקר",
+      "gloss": "худал хэлнэ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба үгүй"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "гэмшинэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "להנחם",
+      "gloss": "гэмших"
+    }
+  ],
+  "timestamp": "2026-10-04T11:27:54.667285856Z",
+  "model": "glm-5.3"
+}

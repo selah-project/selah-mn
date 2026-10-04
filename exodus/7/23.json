@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Пароон эргэж, өөрийн гэрт оров; үүнд ч гэсэн зүрхээ зориулсангүй.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "эргэж"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Пароон"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "оров"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-т"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "өөрийн гэрт"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "зориулсангүй"
+    },
+    {
+      "surface": "שת",
+      "gloss": "зориулах"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "зүрхээ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ч гэсэн"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "үүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:06:17.489732188Z",
+  "model": "glm-5.3"
+}

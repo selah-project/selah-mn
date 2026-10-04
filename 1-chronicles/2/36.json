@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Аттай ⟨את⟩ Натаныг төрүүлэв. Натан ⟨את⟩ Завадыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "Аттай"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Натаныг"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натаныг"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Завадыг"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Завадыг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:58.482306680Z",
+  "model": "glm-5.3"
+}

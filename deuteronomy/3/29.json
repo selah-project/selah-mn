@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Бид Бэт-Пеорын хажууд, хөндийн харалдаа бууж амрав.",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "бууж амрав"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "хөндийд"
+    },
+    {
+      "surface": "מול",
+      "gloss": "харалдаа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бэт"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеор"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:32.024310051Z",
+  "model": "glm-5.3"
+}

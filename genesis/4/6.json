@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Яхвэ Каинд хэлэв: Яагаад чамд бүрэлзэж, яагаад чиний царай унасан бэ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каинд"
+    },
+    {
+      "surface": "למה",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "бүрэлзэж"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "унасан"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "чиний царай"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:16.177804995Z",
+  "model": "glm-5.3"
+}

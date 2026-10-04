@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Хүү минь, зүрхээ надад өг, нар чьнь миний замуудыг таашааг.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "өг"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүү минь"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "зүрхээ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "нар чьнь"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "миний замуудыг"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "таашааг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:42.624725782Z",
+  "model": "glm-5.3"
+}

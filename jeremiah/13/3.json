@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Яхвэгийн үг надад хоёр дахь удаа ирлээ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "хоёр дахь удаа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлж"
+    }
+  ],
+  "timestamp": "2026-10-04T12:38:40.321315699Z",
+  "model": "glm-5.3"
+}

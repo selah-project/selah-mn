@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Хизкия ⟨нүүрээ⟩ хананд хандуулж, Яхвэд залбирч, хэлрээрээ:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "хандуулж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нүүрээ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "нүүрээ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "хананд"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "залбирч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж хэлээрээ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:42:39.508134117Z",
+  "model": "glm-5.3"
+}

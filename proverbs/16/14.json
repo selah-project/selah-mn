@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Хааны хилэн бол үхлийн элчүүд, ба мэргэн хүн түүнийг тайвруулна.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "хилэн"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "элчүүд"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхлийн"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ба ... хүн"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мэргэн"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "түүнийг тайвруулна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:24.466686431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 130,
+  "translation": "Учир нь уучлал Таны хамт бий, Таныг хүндлэхийн тулд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "Таны хамт"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "уучлал"
+    },
+    {
+      "surface": "למען",
+      "gloss": "турынд"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "Таныг хүндлэхийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:56.701059124Z",
+  "model": "glm-5.3"
+}

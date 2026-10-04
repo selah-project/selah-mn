@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Яхвэгийн үг Йирмeyахуд ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмeyаху"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдаж"
+    }
+  ],
+  "timestamp": "2026-10-04T12:45:24.237792156Z",
+  "model": "glm-5.3"
+}

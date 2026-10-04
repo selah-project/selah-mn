@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Яхвэгийн үг надад ирж, айлдаж байна.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ба болов"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдаж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T13:08:41.278366970Z",
+  "model": "glm-5.3"
+}

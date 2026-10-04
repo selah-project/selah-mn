@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Хааны үг байгаа газар эрх мэдэл бий, харин түүнд 'Чи юу хийж байна?' гэж хэлэх хэн байх билээ?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "байгаа газар"
+    },
+    {
+      "surface": "дבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "мלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "эрх мэдэл"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "харин хэн"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "хэлэх"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "хийж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:52.808456046Z",
+  "model": "glm-5.3"
+}

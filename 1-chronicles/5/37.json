@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Азария ⟨את⟩ Амариаг төрүүлж, Амариа ⟨את⟩ Ахитубыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азария"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амариаг"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амариа"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "Амариа"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахитубыг"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахитуб"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:44.118779532Z",
+  "model": "glm-5.3"
+}

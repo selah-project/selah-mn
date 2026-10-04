@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Учир нь Тэр хэлсэн бөгөөд болов, Тэр тушаасан бөгөөд зогсов.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэлсэн"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасан"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "зогсов"
+    }
+  ],
+  "timestamp": "2026-10-04T13:39:35.358802329Z",
+  "model": "glm-5.3"
+}

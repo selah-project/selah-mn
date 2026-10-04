@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Ешаяа Хизкияд хэлэв: Яхвэгийн үгийг сонс.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ешаяа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкия"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "сонс"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:07:42.190121892Z",
+  "model": "glm-5.3"
+}

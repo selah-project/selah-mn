@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Энэ чуулганаас салж яваарай, би тэднийг шууд устгая.",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "салж яваарай"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "чуулган"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "устгая"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "тэднийг"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "шууд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:40:47.946204546Z",
+  "model": "glm-5.3"
+}

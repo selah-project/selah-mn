@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Чи өөртөө эм авахгүй, мөн энэ газарт чамд хөвгүүд охид төрөхгүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "авахгүй"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эм"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "мөн үгүй"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "төрөхгүй"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "охид"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "энэ газарт"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:38:33.071403822Z",
+  "model": "glm-5.3"
+}

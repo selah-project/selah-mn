@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Мөн Йисраелын хөвгүүд Мидяны учир Яхвэд хашгирч гомдол гаргахад",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Мөн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-хад"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "хашгирч гомдол гаргахад"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ын"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "учир"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидяны"
+    }
+  ],
+  "timestamp": "2026-10-04T11:14:48.512914153Z",
+  "model": "glm-5.3"
+}

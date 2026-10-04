@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 31:19",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Тэрээр гараа урсгалд сарвайдаж, алгаа тогтмол бариулдаг.",
+  "tokens": [
+    {
+      "surface": "ידיה",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "сарвайдаж"
+    },
+    {
+      "surface": "בכישור",
+      "gloss": "урсгалд"
+    },
+    {
+      "surface": "וכפיה",
+      "gloss": "ба алгаа"
+    },
+    {
+      "surface": "תמכו",
+      "gloss": "бариулдаг"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "тогтмол"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:03.295052202Z",
+  "model": "glm-5.3"
+}

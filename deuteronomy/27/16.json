@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Эцгээ эхээ дорд үздэг хүн хараалтай. Бүх ард түмэн: Амен гэнэ.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Хараалтай"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "дорд үздэг"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцгээ"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "эхээ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "хэлнэ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:18.985805611Z",
+  "model": "glm-5.3"
+}

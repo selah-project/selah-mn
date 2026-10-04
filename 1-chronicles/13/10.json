@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 13:10",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Яхвэ Уззад уурлаж, тэрээр сүн далан дээр гараа сунгасны учир түүнийг цохив; тэрээр тэнд Элохимын өмнө үхэв.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "уурлаж"
+    },
+    {
+      "surface": "אף",
+      "gloss": "уур"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "Уззад"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "цоход"
+    },
+    {
+      "surface": "על",
+      "gloss": "учир"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тийм"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "сунгасан"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "сүн далан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үхэв"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:59.848248015Z",
+  "model": "glm-5.3"
+}

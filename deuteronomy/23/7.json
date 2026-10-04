@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Тэдний амар амгалан ба сайн сайхныг бүү хай, өдөр бүхэнд нь, үүрд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "хай"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "тэдний амар амгаланг"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "ба сайн сайхныг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэнд нь"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:18.654226504Z",
+  "model": "glm-5.3"
+}

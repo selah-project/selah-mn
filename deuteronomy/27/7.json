@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 27:7",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Энхийн тахилууд гаргаж, тэнд идэж, Яхвэ Элохимынхаа өмнө баярлана.",
+  "tokens": [
+    {
+      "surface": "וזבחת",
+      "gloss": "гаргаж"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "энхийн тахилууд"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "баярлана"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохим чинь"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:18.453514756Z",
+  "model": "glm-5.3"
+}

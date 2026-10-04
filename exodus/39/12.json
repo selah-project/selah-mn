@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 39,
+  "translation": "Гуравдугаар мөрөнд лешем, шево ба ахлама.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "мөр"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "гуравдугаар"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "лешем"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "шево"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ба ахлама"
+    }
+  ],
+  "timestamp": "2026-10-04T10:19:36.396657056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэрээр өөртөө нөмрүүр бүтээв — Шеломо хаан Ливаны модоор.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "нөмрүүр"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "бүтээв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "модоор"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Ливаны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:27:33.418735927Z",
+  "model": "glm-5.3"
+}

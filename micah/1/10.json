@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Гатад бүү хэл, бүү уйл; Бет-ле-Афрад тоосонд өнхөр.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "Гатад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "уйл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "уйл"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Бет-...-д"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "ле-Афра"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "тоос"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "өнхөр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:24:34.740470210Z",
+  "model": "glm-5.3"
+}

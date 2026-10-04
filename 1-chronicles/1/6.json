@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Гомерын хөвгүүд: Ашкеназ ба Дифат ба Тогарма.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ба хөвгүүд"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ашкеназ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "ба Дифат"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "ба Тогарма"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:25.554503020Z",
+  "model": "glm-5.3"
+}

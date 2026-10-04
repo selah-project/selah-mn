@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Бебайн хөвгүүд, зургаан зуу хорин гурав.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Бебайн"
+    },
+    {
+      "surface": "שש",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "мאות",
+      "gloss": "зуу"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "гурав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:04.822942450Z",
+  "model": "glm-5.3"
+}

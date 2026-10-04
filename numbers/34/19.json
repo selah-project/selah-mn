@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Эдгээр нь хүмүүсийн нэрс: Йехуда овгоос Йефуннегийн хүү Калев.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ба эдгээр"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "нэрс"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "хүмүүсийн"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йефунне"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:30.659125623Z",
+  "model": "glm-5.3"
+}

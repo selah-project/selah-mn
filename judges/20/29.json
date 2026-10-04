@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Йисраел Гивага тойрч отолго байрлуулав.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "байрлуулав"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "отолго"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тойрч"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Гивага"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тойруулан"
+    }
+  ],
+  "timestamp": "2026-10-04T11:22:34.960040863Z",
+  "model": "glm-5.3"
+}

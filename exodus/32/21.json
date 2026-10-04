@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Моше Ааронд хэлэв: Энэ ард түмэн чамд юу хийсэн билээ, чи тэдэнд ийм агуу нүглийг авчирчээ вэ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийсэн"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "авчирчээ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "нүглийг"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "агуу"
+    }
+  ],
+  "timestamp": "2026-10-04T15:28:49.811887404Z",
+  "model": "glm-5.3"
+}

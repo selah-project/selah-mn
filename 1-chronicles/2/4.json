@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Түүний бэр Тамар түүнд ⟨את⟩ Перец ба ⟨את⟩ Зерахийг төрүүлэв. Иехудагийн хөвгүүд бүгд тав байв.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "Тамар"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "түүний бэр"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Перец"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Зерах"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иехудагийн"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "тав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:06.333174043Z",
+  "model": "glm-5.3"
+}

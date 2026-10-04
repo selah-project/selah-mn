@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Бавелын ачаа, юуг Ешаяху Амоцын хүү харжээ.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ачаа"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "харжээ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ешаяху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Амоц"
+    }
+  ],
+  "timestamp": "2026-10-04T12:14:03.885907917Z",
+  "model": "glm-5.3"
+}

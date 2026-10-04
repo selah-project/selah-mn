@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Эзер тэргүүн, Овадя хоёрдугаар, Элияв гуравдугаар.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "Эзер"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "тэргүүн"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "Овадя"
+    },
+    {
+      "surface": "השני",
+      "gloss": "хоёрдугаар"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элияв"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "гуравдугаар"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:09.087158903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Маргалдах эмэгтэй ба нөхөрсөг байшингаас дээврийн булан дээр суух нь дээр.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "суух"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "булан"
+    },
+    {
+      "surface": "גג",
+      "gloss": "дээвэр"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "эмэгтэйгээс"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "маргалдах"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ба байшин"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "нөхөрсөг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:12.742798995Z",
+  "model": "glm-5.3"
+}

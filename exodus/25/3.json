@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Энэ бол тэднээс ⟨את⟩ авах өргөл: алт, мөнгө, хүрэл.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Энэ бол"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "өргөл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "авах"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ тэднээс"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алт"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "мөнгө"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "хүрэл"
+    }
+  ],
+  "timestamp": "2026-10-04T10:15:01.677145497Z",
+  "model": "glm-5.3"
+}

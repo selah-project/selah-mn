@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Мушийн хөвгүүд: Махли, Эдэр, Йеремот — гурван.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Мушийн"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "Эдэр"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "Йеремот"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "гурав"
+    }
+  ],
+  "timestamp": "2026-10-04T15:06:07.425421551Z",
+  "model": "glm-5.3"
+}

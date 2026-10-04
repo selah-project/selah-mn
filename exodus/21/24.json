@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Нүд нүдний оронд, шүд шүдний оронд, гар гарын оронд, хөл хөлийн оронд.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "Нүд"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "оронд"
+    },
+    {
+      "surface": "עין",
+      "gloss": "нүдний"
+    },
+    {
+      "surface": "שן",
+      "gloss": "шүд"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "оронд"
+    },
+    {
+      "surface": "שן",
+      "gloss": "шүдний"
+    },
+    {
+      "surface": "יד",
+      "gloss": "гар"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "оронд"
+    },
+    {
+      "surface": "יד",
+      "gloss": "гарын"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "хөл"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "оронд"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "хөлийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:13:09.124535248Z",
+  "model": "glm-5.3"
+}

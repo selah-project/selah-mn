@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Чиний хувь заяаг бидний дунд хая, бид бүгдэд нэгэн түрийвч байг.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "Чиний хувь заяаг"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "хая"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "бидний дунд"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "түрийвч"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэгэн"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байг"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "бид бүгдэд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:28.510707797Z",
+  "model": "glm-5.3"
+}

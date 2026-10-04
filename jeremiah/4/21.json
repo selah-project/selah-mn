@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Хэзээ хүртэл би туг харж, бүрээний дуу сонсох вэ?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "хэзээ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "би харж"
+    },
+    {
+      "surface": "נס",
+      "gloss": "туг"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "сонсох"
+    },
+    {
+      "surface": "קול",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "бүрээний"
+    }
+  ],
+  "timestamp": "2026-10-04T12:33:18.734689256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Яхвэ Йисраел дээр тахал илгээж, Йисраелаас далан мянган хүн унав.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "илгээж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "тахал"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраел дээр"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "унав"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "Йисраелаас"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "далан"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянган"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:31.902988237Z",
+  "model": "glm-5.3"
+}

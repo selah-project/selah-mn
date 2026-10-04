@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Учир нь энэ Иовел бол та нарт ариун; хээрийн ургацаас нь та ⟨את⟩ түүний ургацыг иднэ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Иовел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "хээр"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "та иднэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түүний ургацыг"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "түүний ургац"
+    }
+  ],
+  "timestamp": "2026-10-04T10:32:47.945098597Z",
+  "model": "glm-5.3"
+}

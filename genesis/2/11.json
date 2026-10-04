@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Нэгний нэр Пишон; тэр нь алт байдаг Хавилахын ⟨את⟩ бүх газрыг тойрон урсдаг.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "нэгний"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Пишон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр нь"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "тойрон урсдаг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хавилахын бүх газрыг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газрыг"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Хавилахын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…-ыг"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алт"
+    }
+  ],
+  "timestamp": "2026-10-04T09:45:49.287759048Z",
+  "model": "glm-5.3"
+}

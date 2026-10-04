@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Эртний хилийг бүү зөө, өнчин нарын хөдөөгүүд рүү бүү ор.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "зөө"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "эртний"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "хөдөөгүүд рүү"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "өнчин нарын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ор"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:16.073428349Z",
+  "model": "glm-5.3"
+}

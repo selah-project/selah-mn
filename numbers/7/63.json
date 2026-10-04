@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Үхэр нэг, үхрийн тугал, хун нэг, хурга нэг, настай нэг жилийн, бүрэн шатаах тахилга.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "Үхэр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "-ын тугал"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "үхрийн"
+    },
+    {
+      "surface": "איל",
+      "gloss": "хун"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "-ын"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "нэг жилийн настай"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "бүрэн шатаах тахилга"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:36.289768290Z",
+  "model": "glm-5.3"
+}

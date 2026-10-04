@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Хүү минь, хэрэв нүгэлтнүүд чамайг ятгавал бүү зөвшөөр.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Хүү минь"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ятгавал"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "нүгэлтнүүд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "зөвшөөр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:15.701723754Z",
+  "model": "glm-5.3"
+}

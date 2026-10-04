@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 90,
+  "translation": "Та тэднийг урсулав; тэд нойр болов; өглөө нь өвс шиг өнгөрнө.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "урсулав"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "нойр"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болов"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "өглөө нь"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "өвс шиг"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "өнгөрнө"
+    }
+  ],
+  "timestamp": "2026-10-04T13:52:48.558764824Z",
+  "model": "glm-5.3"
+}

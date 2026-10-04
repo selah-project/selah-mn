@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 132,
+  "translation": "Би өөрийн гэр майханд орохгүй, өөрийн орond дээр өргөгдөхгүй.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "би орохгүй"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "майханд"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "өөрийн гэр"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "би өргөгдөхгүй"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "оронд"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "өөрийн ор"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:02.739990897Z",
+  "model": "glm-5.3"
+}

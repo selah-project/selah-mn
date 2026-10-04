@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 129,
+  "translation": "Сионыг үзэн ядагчид бүгд ичээд буцан ухарч заартуг.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ичээд"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "буцан ухарч"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "заартуг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "үзэн ядагчид"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сионыг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:08.275789655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Давид ⟨את⟩ Цийны бэхлэлтийг эзлэн авав; энэ ⟨юм⟩ Давидын хот.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "эзлэн авав"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цийны бэхлэлт"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "бэхлэлт"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийн"
+    },
+    {
+      "surface": "היא",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T11:37:23.428297383Z",
+  "model": "glm-5.3"
+}

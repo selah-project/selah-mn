@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Билеам Элохимд хэлэв: Балак, Циппорын хүү, Моабын хаан над руу илгээжээ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билеам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Циппор"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "илгээжээ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "над руу"
+    }
+  ],
+  "timestamp": "2026-10-04T10:43:23.525319963Z",
+  "model": "glm-5.3"
+}

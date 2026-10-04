@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Тэр өдөр Шушан цайзад алагдсан хүмүүсийн тоо хааны өмнө ирлээ.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Тэр өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ирлээ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "тоо"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "алагдсан хүмүүсийн"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "Шушанд"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "цайз"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:38:15.263223136Z",
+  "model": "glm-5.3"
+}

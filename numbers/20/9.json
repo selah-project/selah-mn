@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Моше таягийг Яхвэгийн өмнөөс авав, Түүний тушаасанчлан.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "авав"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "таяг"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "наяг"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "өмнөөс"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "-члан"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "Түүний тушаасан"
+    }
+  ],
+  "timestamp": "2026-10-04T10:42:48.258011138Z",
+  "model": "glm-5.3"
+}

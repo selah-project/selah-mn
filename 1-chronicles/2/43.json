@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хевроны хөвгүүд: Корах, Таппуах, Рекем ба Шема.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хевроны"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "Таппуах"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "Рекем"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "Шема"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:36.342921182Z",
+  "model": "glm-5.3"
+}

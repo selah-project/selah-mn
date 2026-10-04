@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Мөн ⟨את⟩ Кешед, ⟨את⟩ Хазо, ⟨את⟩ Пилдаш, ⟨את⟩ Йидлаф ба ⟨את⟩ Бетуел.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Кешед"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Кешед"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хазо"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Хазо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Пилдаш"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Пилдаш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Йидлаф"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Йидлаф"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Бетуел"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Бетуел"
+    }
+  ],
+  "timestamp": "2026-10-04T09:52:32.651854837Z",
+  "model": "glm-5.3"
+}

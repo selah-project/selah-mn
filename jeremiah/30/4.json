@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Эдгээр нь Яхвэ Йисраел ба Иехудын тухай айлдсан үгс мөн.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ба Эдгээр"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "уг"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдсан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "тухай"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба тухай"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иехуда"
+    }
+  ],
+  "timestamp": "2026-10-04T15:46:12.347666732Z",
+  "model": "glm-5.3"
+}

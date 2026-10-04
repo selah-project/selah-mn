@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Тэдний нүдэн дор би Барухыг тушааж, ингэж хэлэв.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "тушаав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Барух"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "тэдний нүдэн дор"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлэхдээ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:46:39.806918176Z",
+  "model": "glm-5.3"
+}

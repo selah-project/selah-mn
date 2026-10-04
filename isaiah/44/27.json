@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 44:27",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 44,
+  "translation": "Гүн рүү: Хат, гэгч, мөнөөс чинь гол горхиудыг хатаана.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "гэгч"
+    },
+    {
+      "surface": "лצולה",
+      "gloss": "Гүн рүү"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "Хат"
+    },
+    {
+      "surface": "ונהרתיך",
+      "gloss": "гол горхиудыг чинь"
+    },
+    {
+      "surface": "אוביש",
+      "gloss": "хатаана"
+    }
+  ],
+  "timestamp": "2026-10-04T12:24:52.314655273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 10:23",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Мэднэ, Яхвэ минь, хүний зам түүний мэдэлд биш, алхагч хүнд өөрийн ⟨את⟩ алхмаа бэлдэх биш.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Мэднэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ минь"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "түүний зам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "алхагч"
+    },
+    {
+      "surface": "והכין",
+      "gloss": "ба бэлдэх"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алхмаа"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "алхмаа"
+    }
+  ],
+  "timestamp": "2026-10-04T12:35:38.671163007Z",
+  "model": "glm-5.3"
+}

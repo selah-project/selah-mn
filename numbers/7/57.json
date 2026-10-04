@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Нэг үхэр, сүрэгний төл, нэг хун үхэр, нэг хурга, нэг настай, бүтээлэгт.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "төл"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "сүрэгний"
+    },
+    {
+      "surface": "איל",
+      "gloss": "хун үхэр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "нэг настай"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "бүтээлэгт"
+    }
+  ],
+  "timestamp": "2026-10-04T10:36:33.585247841Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 50,
+  "translation": "Газарт дайны чимээ, ба агуу сүйрэл.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "чимээ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "дайны"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "Газарт"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ба сүйрэл"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "агуу"
+    }
+  ],
+  "timestamp": "2026-10-04T12:53:07.625590109Z",
+  "model": "glm-5.3"
+}

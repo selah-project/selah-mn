@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 121,
+  "translation": "Туслах минь Яхвээс, тэнгэр ба газрыг Бүтээгчээс ирнэ.",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "туслах минь"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Бүтээгч"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "тэнгэр"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ба газар"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:42.929075Z",
+  "model": "glm-5.3"
+}

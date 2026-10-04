@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 25:11",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Дөрөв дэх нь Йицрид, түүний хөвгүүд ба ах дүүс нь арван хоёр.",
+  "tokens": [
+    {
+      "surface": "הרביעי",
+      "gloss": "дөрөв дэх нь"
+    },
+    {
+      "surface": "ליצרי",
+      "gloss": "Йицрид"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "түүний хөвгүүд"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ба түүний ах дүүс"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:30.186690759Z",
+  "model": "glm-5.3"
+}

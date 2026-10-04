@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "мөн ⟨את⟩ Эвалыг, ⟨את⟩ Авимаэлыг, ⟨את⟩ Шебаг.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Эвалыг"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Эвал"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Авимаэлыг"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Авимаэл"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Шебаг"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шеба"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:22.997949945Z",
+  "model": "glm-5.3"
+}

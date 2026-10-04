@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Миний дайснууд бүгд ичиг, маш их айг; тэд буцаж, агшин зуур ичигтүн.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ичиг"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "маш их айг"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш их"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "миний дайснууд"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "буцаж"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "ичиг"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "агшин зуур"
+    }
+  ],
+  "timestamp": "2026-10-04T13:33:37.345170980Z",
+  "model": "glm-5.3"
+}

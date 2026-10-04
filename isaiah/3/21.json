@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "болгоохойн бөгжүүд, хамрын бөгжүүд",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "болгоохойн бөгжүүд"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "хамрын бөгжүүд"
+    },
+    {
+      "surface": "האף",
+      "gloss": "хамар"
+    }
+  ],
+  "timestamp": "2026-10-04T12:11:04.269722049Z",
+  "model": "glm-5.3"
+}

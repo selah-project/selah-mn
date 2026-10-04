@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Бүх бэлэвсэн эм ба өнч хүүхдийг битгий дарлалтлаарай.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "бэлэвсэн эм"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ба өнч хүүхэд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "битгий"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "дарлалтлаарай"
+    }
+  ],
+  "timestamp": "2026-10-04T15:28:32.808887973Z",
+  "model": "glm-5.3"
+}

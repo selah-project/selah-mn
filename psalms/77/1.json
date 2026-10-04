@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 77,
+  "translation": "Хөгжмийн удирдагчид, Едутуны тухай; Асафын залмууд.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хөгжмийн удирдагчид"
+    },
+    {
+      "surface": "על",
+      "gloss": "тухай"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Едутун"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафын"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "залмууд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:57.058244429Z",
+  "model": "glm-5.3"
+}

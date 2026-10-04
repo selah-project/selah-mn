@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Калебын татвар эм Мааха Шебер, ⟨את⟩ Тирхана нарыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "татвар эм"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калебын"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Шебер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Тирхана"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "Тирхана"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:52.235259820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Керосын үрс, Сиагийн үрс, Падонын үрс.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "үрс"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "Керосын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "үрс"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "Сиагийн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "үрс"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Падонын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:24.826359034Z",
+  "model": "glm-5.3"
+}

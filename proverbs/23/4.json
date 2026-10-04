@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Баяжихын тулд бүү ядар, өөрийн оюундаа захирагдаж болих.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "ядар"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "баяжихын тулд"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "өөрийн оюунаас"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "болих"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:35.553951592Z",
+  "model": "glm-5.3"
+}

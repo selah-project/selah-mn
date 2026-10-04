@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Дуугаа чанга дуул, Галимын охин! Сонс, Лайша! Зовсон Анатот!",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "чанга дуул"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "дуугаа"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "Галимын"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "сонс"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Лайша"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "зовсон"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анатот"
+    }
+  ],
+  "timestamp": "2026-10-04T12:13:42.801057413Z",
+  "model": "glm-5.3"
+}

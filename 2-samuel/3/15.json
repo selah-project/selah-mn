@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Иш-Бошет илгээж түүнийг нөхрөөс нь, Палтиел болох Лашийн хүүгээс нь авчрав.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "илгээж"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Иш"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "-Бошет"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "авчрав"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "איש",
+      "gloss": "нөхрөөс"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Палтиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "Лашийн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:35:55.211877668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 21:15",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Шүүлт хийх нь цедек хүнд баяр бөгөөд авир үйлдэгчдэд сүйрэл.",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "баяр"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "цедек хүнд"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "хийх"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлт"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "ба сүйрэл"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "үйлдэгчдэд"
+    },
+    {
+      "surface": "און",
+      "gloss": "авир"
+    }
+  ],
+  "timestamp": "2026-10-04T15:55:14.720549255Z",
+  "model": "glm-5.3"
+}

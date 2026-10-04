@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Тэр хэлнэ: Тэдний бурхад хаана байна, тэдний орогнож байсан хад нь хаана байна вэ?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Тэр хэлнэ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "хаана"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "тэдний бурхад"
+    },
+    {
+      "surface": "צור",
+      "gloss": "хад"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "орогнож байсан"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:06.536630732Z",
+  "model": "glm-5.3"
+}

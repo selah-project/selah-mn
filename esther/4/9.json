@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Хатаг ирж, Эстэрд Мордехайн үгсийг ⟨את⟩ мэдээлэв.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Хатаг"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "мэдээлэв"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Эстэрд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мордехайн үгс"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехайн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:36:35.640804006Z",
+  "model": "glm-5.3"
+}

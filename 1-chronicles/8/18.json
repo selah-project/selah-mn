@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "ба Ишмерай, ба Излиа, ба Йовав — Элпаалын хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "ба Ишмерай"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "ба Излиа"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "ба Йовав"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Элпаал"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:52.715928425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 18:9",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Тор өсгийг нь барина, бүслүүр түүн дээр нь бэхжинэ.",
+  "tokens": [
+    {
+      "surface": "יאחז",
+      "gloss": "барина"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "өсгийг"
+    },
+    {
+      "surface": "פח",
+      "gloss": "тор"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "бэхжинэ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүн дээр нь"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "бүслүүр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:19:01.822080777Z",
+  "model": "glm-5.3"
+}

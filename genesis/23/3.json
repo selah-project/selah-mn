@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "And Abraham rose up from before his dead, and spoke to the children of Chet, saying:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "and rose up"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Abraham"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "from over"
+    },
+    {
+      "surface": "פני",
+      "gloss": "the face of"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "his dead"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "and spoke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בני",
+      "gloss": "the children of"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chet"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying"
+    }
+  ],
+  "timestamp": "2026-10-04T09:52:22.528351954Z",
+  "model": "glm-5.3"
+}

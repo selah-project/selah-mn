@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Яхвэгийн үг надад ирж, айлдсан нь",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T12:40:16.317902726Z",
+  "model": "glm-5.3"
+}

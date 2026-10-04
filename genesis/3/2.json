@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Эмэгтэй могойнд хэлэв: Цэцэрлэгийн модны жимснээс бид иддэг.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "эмэгтэй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "могой"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "жимснээс"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "модны"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "цэцэрлэгийн"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "иддэг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:40.168500588Z",
+  "model": "glm-5.3"
+}

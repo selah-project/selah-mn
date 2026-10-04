@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Яхвэ ⟨את⟩ Иовыг шуурганаас хариулж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иовыг"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "шуурга"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:26:25.218207487Z",
+  "model": "glm-5.3"
+}

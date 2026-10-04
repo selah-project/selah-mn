@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "та түүний гарыг ⟨את⟩ огтлон хая; чиний нүд түүнд өршөөл үзүүлэхгүй.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "огтлон хая"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түүний гар"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "түүний гар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "өршөөнө"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "чиний нүд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:36.239055337Z",
+  "model": "glm-5.3"
+}

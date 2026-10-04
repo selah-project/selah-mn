@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Муугаас бууж, сайныг үйлд, тэгвэл үүрд оршин суугтун.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "бууж"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "муугаас"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "үйлд"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "оршин суугтун"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:04.625139059Z",
+  "model": "glm-5.3"
+}

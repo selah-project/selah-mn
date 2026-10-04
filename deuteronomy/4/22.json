@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Учир нь би энэ газарт үхнэ, Иорданыг ⟨את⟩ би давахгүй, харин та нар давж, энэ сайн газрыг ⟨את⟩ эзэмшинэ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "מת",
+      "gloss": "үхнэ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "энэ газарт"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "би -гүй"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "давах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иорданыг"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иордан"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "харин та нар"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "давж"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "эзэмшинэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ сайн газрыг"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:55.759994241Z",
+  "model": "glm-5.3"
+}

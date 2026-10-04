@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Гурвын дор газар тэмцэлддэг, дөрвийн дор ⟨энэ⟩ дарагдаж чадахгүй.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "гурвын"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "тэмцэлддэг"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ба dor"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дөрвийн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "чадахгүй"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "дарагдаж чадах"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "дарагдах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:43.737143189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 7:11",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Яхвэ Элохимоос өөртөө тэмдэг гуй: хүсэлтээ гүн рүү, эсвэл дээш өндөр рүү хий.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "гуй"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "אות",
+      "gloss": "тэмдэг"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "-оос"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимоос"
+    },
+    {
+      "surface": "העמק",
+      "gloss": "гүн рүү"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "хүсэлтээ"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "הגבה",
+      "gloss": "өндөр рүү"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "дээш"
+    }
+  ],
+  "timestamp": "2026-10-04T12:11:18.525535376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Ерихогийн хөвгүүд — гурван зуу дөчин таван.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Ерихо"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуу"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "дөчин"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ба таван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:09.480360038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Аврахам нэмж ⟨эмиг⟩ авав, түүний нэр Ктур байв.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "нэмж"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "авав"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эм"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "түүний нэр"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Ктур"
+    }
+  ],
+  "timestamp": "2026-10-04T09:54:16.505897047Z",
+  "model": "glm-5.3"
+}

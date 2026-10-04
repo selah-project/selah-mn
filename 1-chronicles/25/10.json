@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Гурав дахь нь Заккурд, түүний хөвгүүд ба ах дүүс нь арван хоёр.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "гурав дахь нь"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккурт"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "түүний хөвгүүд"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ба түүний ах дүүс"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:30.186544080Z",
+  "model": "glm-5.3"
+}

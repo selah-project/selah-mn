@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Шеломод нэг жилд ирсэн алтны жин зургаан зуун жаран зургаан алтны кикар байв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "жин"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтны"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ирсэн"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломод"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "жилд"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "שש",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ба жаран"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ба зургаан"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "кикар"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтны"
+    }
+  ],
+  "timestamp": "2026-10-04T15:11:41.152055146Z",
+  "model": "glm-5.3"
+}

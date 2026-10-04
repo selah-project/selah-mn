@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 135,
+  "translation": "Кто Мицраймын ууганчдыг хүнээс мал хүртэл цохив.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Кто ... цохив"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "ууганчдыг"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраймын"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "хүнээс"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "мал"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:42.601084607Z",
+  "model": "glm-5.3"
+}

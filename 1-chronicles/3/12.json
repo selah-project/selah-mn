@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Амациja түүний хөвгүүд, Азарja түүний хөвгүүд, Йотам түүний хөвгүүд",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "Амациja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хөвгүүд"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хөвгүүд"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Йотам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хөвгүүд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:45.290686429Z",
+  "model": "glm-5.3"
+}

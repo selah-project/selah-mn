@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэ та тэдэнд тэдний гарийн үйлсийн дагуу хариу буцаан өгөх болно.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "та буцаан өгөх болно"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "хариу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "үйлсийн дагуу"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "тэдний гар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:59.560759673Z",
+  "model": "glm-5.3"
+}

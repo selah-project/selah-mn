@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Харимын хөвгүүд — мянга долоон зуун.\n\n",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харим"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "долоо"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(арван)"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:30.130362405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Бид өнчид боллоо, эцэггүй; бидний эхчүүд бэлэвсэн эмс шиг ⟨байна⟩.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "өнчид"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "гүй"
+    },
+    {
+      "surface": "אב",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "бидний эхчүүд"
+    },
+    {
+      "surface": "кאלמנות",
+      "gloss": "бэлэвсэн эмс шиг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:02.348849823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Яхвэ ⟨את⟩ Кушчуудыг Асагийн өмнө ба Иудагийн өмнө дарж, Кушчууд зугтав.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "дарж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Кушчууд"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Кушчуудыг"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асагийн"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ба ... өмнө"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иудагийн"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "зугтав"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "Кушчууд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:13:36.146416034Z",
+  "model": "glm-5.3"
+}

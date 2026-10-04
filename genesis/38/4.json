@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Тэр дахин жирэмсэлж, хүү төрүүлэв; тэр түүний нэрийг Онан гэж нэрлэв.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "жирэмсэлж"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "нэрлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түүний нэр"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "түүний нэр"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Онан"
+    }
+  ],
+  "timestamp": "2026-10-04T10:00:17.563283688Z",
+  "model": "glm-5.3"
+}

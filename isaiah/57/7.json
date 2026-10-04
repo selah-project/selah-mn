@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 57:7",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 57,
+  "translation": "Өндөр өргөгдсөн уулан дээр ор тавьжээ; тэнд ч бас тахил өргөхөөр өргөгджээ.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уулан"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "өргөгдсөн"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "тавьжээ"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ор"
+    },
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "өргөгджээ"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "тахил өргөхөөр"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "тахил"
+    }
+  ],
+  "timestamp": "2026-10-04T12:28:47.234871319Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Учир нь ардуудын заншил хоосон юм; учир нь ойгоос мод огтолжээ, дархны гарын бүтээл, балтаар.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "заншил"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ардуудын"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хоосон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "юм"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "мод"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "ойгоос"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "огтолжээ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "бүтээл"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "гарын"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "дархны"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "балтаар"
+    }
+  ],
+  "timestamp": "2026-10-04T12:36:51.645953946Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Пашхурын хөвгүүд: мянга хоёр зуун дөчин долоон.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Пашхурын"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "хоёр зуун"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "дөчин"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "долоон"
+    }
+  ],
+  "timestamp": "2026-10-04T15:56:41.945094225Z",
+  "model": "glm-5.3"
+}

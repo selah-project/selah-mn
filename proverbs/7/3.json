@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Тэдгээрийг хуруундаа боож, зүрхнийхээ хавтан дээр бич.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "боож"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "хуруундаа"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "бич"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "хавтан"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "зүрхнийхээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:54.472788756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Түүний орон дээр гэм бурууг зохиодог, сайн бус замд зогсдог, мууг үзэн яддаггүй.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "гэм бурууг"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "зохиодог"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "түүний орон"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "зогсдог"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бус"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "רע",
+      "gloss": "мууг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үзэн яддаггүй"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T13:39:58.295921549Z",
+  "model": "glm-5.3"
+}

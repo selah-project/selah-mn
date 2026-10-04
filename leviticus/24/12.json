@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Яхвэгийн амаас тэдэнд тодруулж өгөх хүртэл түүнийг хорьцонд орхив.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "орхив"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "хорьцонд"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "тодруулж өгөх"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "על",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:29:54.231348634Z",
+  "model": "glm-5.3"
+}

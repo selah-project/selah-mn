@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Перцийн хөвгүүдээс — бүх цэргийн ноёдын тэргүүн, эхний сард.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ээс"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перцийн"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "тэргүүн"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ноёдын"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "цэргийн"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "сард"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "эхний"
+    }
+  ],
+  "timestamp": "2026-10-04T15:07:25.287830124Z",
+  "model": "glm-5.3"
+}

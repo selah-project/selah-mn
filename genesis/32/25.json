@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Яаков ганцаараа үлдэв, бүр үүр гийтал нэгэн эр түүнтэй бөхийв.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "үлдэв"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "ганцаараа"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "бөхийв"
+    },
+    {
+      "surface": "איש",
+      "gloss": "нэгэн эр"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "түүнтэй"
+    },
+    {
+      "surface": "עד",
+      "gloss": "бүр…тал"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "гийтал"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "үүр"
+    }
+  ],
+  "timestamp": "2026-10-04T09:56:35.678029663Z",
+  "model": "glm-5.3"
+}

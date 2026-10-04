@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Дуулагчид: Асафын хөвгүүд, зуун хорин найм.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "дуулагчид"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асафын"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "найм"
+    }
+  ],
+  "timestamp": "2026-10-04T14:46:37.654002235Z",
+  "model": "glm-5.3"
+}

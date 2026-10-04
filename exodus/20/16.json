@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Бүү хариулж, найздаа худал гэрчлэл өг.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "найздаа"
+    },
+    {
+      "surface": "עד",
+      "gloss": "гэрчлэл"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "худал"
+    }
+  ],
+  "timestamp": "2026-10-04T10:11:04.562948974Z",
+  "model": "glm-5.3"
+}

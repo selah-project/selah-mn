@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 9:22",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Хаан Шеломо дэлхийн бүх хаадаас баялжаар ухаанаар давж гүйцэв.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "давж гүйцэв"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "хаадаас"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "дэлхийн"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "баялжаар"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ухаанаар"
+    }
+  ],
+  "timestamp": "2026-10-04T15:11:25.757719897Z",
+  "model": "glm-5.3"
+}

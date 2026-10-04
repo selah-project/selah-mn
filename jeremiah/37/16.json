@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Ирмаяху нүхний гэр болон хорих өрөөнүүд рүү орж ирэхэд Ирмаяху тэнд олон өдөр суув.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "үед"
+    },
+    {
+      "surface": "בא",
+      "gloss": "орж"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмаяху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "нүхний"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "өрөөнүүд рүү"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "суув"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмаяху"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "олон"
+    }
+  ],
+  "timestamp": "2026-10-04T12:48:37.617725298Z",
+  "model": "glm-5.3"
+}

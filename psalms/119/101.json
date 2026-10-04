@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Бүх муу замаас би хөлөө хорьсон, Чиний үгийг сахин.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "бүх ... аас"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "зам"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "би хорьсон"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "хөлөө"
+    },
+    {
+      "surface": "למען",
+      "gloss": "сахин есөөр"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "сахьж"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Чиний үгийг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:58:43.172734353Z",
+  "model": "glm-5.3"
+}

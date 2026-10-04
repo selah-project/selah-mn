@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Нүх малтагч түүндээ унана, чулуу өнхрүүлэгчид тэр нь буцаж эргэнэ.",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "малтагч"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "нүх"
+    },
+    {
+      "surface": "בה",
+      "gloss": "түүндээ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "унана"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "өнхрүүлэгчид"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "чулуу"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүн рүү"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "буцаж эргэнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:01.856849751Z",
+  "model": "glm-5.3"
+}

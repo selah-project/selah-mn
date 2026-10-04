@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Тэнэг өөрийн гарыхаа тэврээд, өөрийн махаа иднэ.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Тэнэг"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "тэврээд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өөрийн гарууд"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "өөрийн гарууд"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "иднэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өөрийн мах"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "өөрийн мах"
+    }
+  ],
+  "timestamp": "2026-10-04T15:55:56.244576114Z",
+  "model": "glm-5.3"
+}

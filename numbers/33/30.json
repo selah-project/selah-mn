@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 33:30",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Хашмоноос одож, Мосеротод буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "одож"
+    },
+    {
+      "surface": "מחשמנה",
+      "gloss": "Хашмоноос"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "במסרות",
+      "gloss": "Мосеротод"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:16.824112855Z",
+  "model": "glm-5.3"
+}

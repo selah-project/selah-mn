@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Тэр шөнө Элохимын үг Натанд ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "шөнө"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахад"
+    }
+  ],
+  "timestamp": "2026-10-04T15:04:41.033513209Z",
+  "model": "glm-5.3"
+}

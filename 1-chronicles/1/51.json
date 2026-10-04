@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Хадад үхэв. Эдомы ноёд байв: Тимна ноён, Альва ноён, Йетет ноён.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "үхэж"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "байв"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомы"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "Альва"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Йетет"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:25.703137981Z",
+  "model": "glm-5.3"
+}

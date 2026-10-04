@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Ус далайгаа орхин одох бөгөөд гол хатах ба ширгэнэ.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "одох"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-гаа"
+    },
+    {
+      "surface": "ים",
+      "gloss": "далай"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ба гол"
+    },
+    {
+      "surface": "יחרб",
+      "gloss": "хатах"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ба ширгэнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:17:44.661696790Z",
+  "model": "glm-5.3"
+}

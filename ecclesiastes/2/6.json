@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Би өөртөө усан сангууд хийж, тэдгээрээс модод ургадаг ойг усжуулахын тулд.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "хийж"
+    },
+    {
+      "surface": "לי",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "усан сангууд"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "усжуулахын тулд"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "тэдгээрээс"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ойг"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "ургадаг"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "модод"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:43.668683943Z",
+  "model": "glm-5.3"
+}

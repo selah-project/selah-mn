@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 25:26",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Арван есд Маллоти, түүний хөвгүүд болон ах дүүс нь арван хоёр байв.",
+  "tokens": [
+    {
+      "surface": "לתשעה",
+      "gloss": "есд"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "למלותי",
+      "gloss": "Маллоти"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "түүний хөвгүүд"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "болон ах дүүс нь"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:42.450077815Z",
+  "model": "glm-5.3"
+}

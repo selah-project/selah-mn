@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Шафаны хүү Гемарйагийн хүү Микаайа номоос ⟨את⟩ Яхвэгийн бүх үгсийг сонсов.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "сонсов"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Микаайа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "Гемарйагийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафаны"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэгийн бүх үгс"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "номоос"
+    },
+    {
+      "surface": "הספר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T12:47:09.847615616Z",
+  "model": "glm-5.3"
+}

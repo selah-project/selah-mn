@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Бүх үед нөхөр хайрлаж байдаг, ах дүс нь зовлонд төрөгддөг.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "бүх үед"
+    },
+    {
+      "surface": "עת",
+      "gloss": "үед"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "хайрлаж байдаг"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "нөхөр"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "ах дүс"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "зовлонд"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "төрөгддөг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:49.815431709Z",
+  "model": "glm-5.3"
+}

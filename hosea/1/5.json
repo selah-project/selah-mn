@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Тэр өдөр болохдоо би Йисраелийн нумыг Изреелын хөндийд эвдэнэ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болохдоо"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "би эвдэнэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нумыг"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "нум"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "хөндийд"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Изреелын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:17:39.108694254Z",
+  "model": "glm-5.3"
+}

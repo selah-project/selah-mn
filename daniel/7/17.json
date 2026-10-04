@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Эдгээр дөрвөн агуу амьтан нь дөрвөн хаан бөгөөд газраас босох болно.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "амьтан"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "די",
+      "gloss": "нь"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дөрөв"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "босох болно"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:43:26.107385771Z",
+  "model": "glm-5.3"
+}

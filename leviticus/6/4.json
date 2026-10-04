@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Хувцсаа тайлж, өөр хувцас өмсөөд, ⟨את⟩ үнэсийг табрын гадна цэвэр газар гаргана.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "тайлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хувцсаа"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "хувцсаа"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "өмсөөд"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "хувцас"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "гаргана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үнэсийг"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "үнэсийг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "гадна"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "табрын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...д"
+    },
+    {
+      "surface": "מקום",
+      "gloss": " газар"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "цэвэр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:23:46.272312874Z",
+  "model": "glm-5.3"
+}

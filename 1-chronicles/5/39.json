@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Шаллум ⟨את⟩ Хилкияаг төрүүлж, Хилкияа ⟨את⟩ Азариаг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Шаллум"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хилкияаг"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Хилкияа"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "Хилкияа"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азариаг"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азария"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:44.119277541Z",
+  "model": "glm-5.3"
+}

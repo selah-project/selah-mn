@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Би та нарт хэлэв: Та нар Яхвэ бидний Элохим бидэнд өгч байгаа Аморын уулд хүрч иржээ.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "би хэлэв"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "та нар хүрч иржээ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уулд"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Аморын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "бидний Элохим"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгч байгаа"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бидэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:02.927235568Z",
+  "model": "glm-5.3"
+}

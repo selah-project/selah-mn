@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 81,
+  "translation": "Хөгжмийн захираагчид, гиттит дээр, Асафын зохиосон.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "захираагчид"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "гиттит"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:50:08.990703460Z",
+  "model": "glm-5.3"
+}

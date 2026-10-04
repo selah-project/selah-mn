@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Дарснаас бүдэг гялалзсан нүд, сүүнээс цагаан шүд.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "бүдэг гялалзсан"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "нүд"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "дарснаас"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "цагаан"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "шүд"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "сүүнээс"
+    }
+  ],
+  "timestamp": "2026-10-04T10:05:03.042282606Z",
+  "model": "glm-5.3"
+}

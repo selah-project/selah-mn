@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Йисраелийн хаан болон Йехудагийн хаан Йехошафат Рамот-Гилад руу гарчээ.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "гарчээ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "Йехошафат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехудагийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "-Гилад"
+    }
+  ],
+  "timestamp": "2026-10-04T15:14:10.083118952Z",
+  "model": "glm-5.3"
+}

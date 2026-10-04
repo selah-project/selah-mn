@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 39:7",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 39,
+  "translation": "Эдгээр үгсийн дараа түүний эзний эхнэр ⟨את⟩ нүдээ Йосеф рүү өргөж, Надтай нэг ор гэв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болсон"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "дараа"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "өргөж"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "эхнэр"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "түүний эзний"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нүдээ"
+    },
+    {
+      "surface": "עיניה",
+      "gloss": "нүдээ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "ор"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "надтай"
+    }
+  ],
+  "timestamp": "2026-10-04T15:26:19.156532593Z",
+  "model": "glm-5.3"
+}

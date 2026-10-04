@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Хэрэв үр дээр ус цацаж, тэдний үхдэл түүн дээр унавал тэр танд бузар билээ.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Хэрэв"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "цацаж"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "үр"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "унавал"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "тэдний үхдэл"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүн дээр"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "бузар"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "билээ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "танд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:30:08.248281312Z",
+  "model": "glm-5.3"
+}

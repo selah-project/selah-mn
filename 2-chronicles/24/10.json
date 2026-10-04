@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 24:10",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Бүх ноёд ба бүх ард түмэн баярлаж, авчирж, хайрцагт хүртэл дүүрэнгүүт нь хаяв.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "баярлаж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "авчирч"
+    },
+    {
+      "surface": "וישליכו",
+      "gloss": "хаяв"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "хайрцагт"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "לכלה",
+      "gloss": "дуустал нь"
+    }
+  ],
+  "timestamp": "2026-10-04T15:16:39.194294806Z",
+  "model": "glm-5.3"
+}

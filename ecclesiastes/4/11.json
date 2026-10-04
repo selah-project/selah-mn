@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Мөн хэрэв хоёр хэвтвэл тэдэнд дулаан ⟨байдаг⟩; харин нэг хүнд яаж дулаан болох билээ?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "хэвтвэл"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ба дулаан"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "харин нэг хүнд"
+    },
+    {
+      "surface": "איך",
+      "gloss": "яаж"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "дулаан болох"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:12.859343194Z",
+  "model": "glm-5.3"
+}

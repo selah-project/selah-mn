@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 2:33",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Лод, Хадид, Оно хотын хөвгүүд — долоон зуу хорин таван.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "Хадид"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ба Оно"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуу"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ба таван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:09.480150566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 89,
+  "translation": "Сургаалын шүлэг, Езрах Эйтаны зохиосон.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "сургаалын шүлэг"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Эйтанд"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Езрах"
+    }
+  ],
+  "timestamp": "2026-10-04T13:51:37.760364391Z",
+  "model": "glm-5.3"
+}

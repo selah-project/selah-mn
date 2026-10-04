@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Би чамайг цөлд, гүн хатууцарсан нутагт таньсан.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "чамайг таньсан"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "нутагт"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "гүн хатууцарсан"
+    }
+  ],
+  "timestamp": "2026-10-04T13:19:27.876805586Z",
+  "model": "glm-5.3"
+}

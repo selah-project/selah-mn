@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Хүний хүсэл бол түүний хэсэд мөн; ядуу хүн худалч хүнээс дээр.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "хүсэл"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "түүний хэсэд"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ба дээр"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ядуу"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "хүнээс"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "худалч"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:26.313241210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 2:25",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хецроны ууган хүү Йерахмэлийн хөвгүүд байв: ууган нь Рам, Буна, Орен, Оцем, Ахиа.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "байв"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Йерахмэл"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ууган хүү"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ууган нь"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "ובונה",
+      "gloss": "Буна"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "Орен"
+    },
+    {
+      "surface": "ואצם",
+      "gloss": "Оцем"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ахиа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:53.628909615Z",
+  "model": "glm-5.3"
+}

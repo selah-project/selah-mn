@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 6:12",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Иехошуа өглөө эрт босож, тахилчид Яхвэгийн авдрыг ⟨את⟩ өргөв.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "эрт босож"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иехошуа"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "өглөө"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "өргөв"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "тахилчид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "авдрыг"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "авдрыг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:34:31.830223221Z",
+  "model": "glm-5.3"
+}

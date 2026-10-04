@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Хиром хаанд зуун хорин талант алт илгээв.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "илгээв"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хиром"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "хаанд"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "талант"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алт"
+    }
+  ],
+  "timestamp": "2026-10-04T11:52:09.669641260Z",
+  "model": "glm-5.3"
+}

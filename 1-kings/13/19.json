@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Тэр ⟨את⟩ түүнтэй хамт буцаж, түүний гэрт талх идэж, ус уув.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "буцаж"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ түүнтэй",
+      "marks": "түүнийг"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "түүний гэрт"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "уув"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    }
+  ],
+  "timestamp": "2026-10-04T11:53:01.564668552Z",
+  "model": "glm-5.3"
+}

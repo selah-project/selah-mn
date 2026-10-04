@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Шаллум төрүүлж ⟨את⟩ Йекамйаг, Йекамйа төрүүлж ⟨את⟩ Элишама.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "Шаллум"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йекамйаг"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Йекамйаг"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "Йекамйа"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элишамаг"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Элишама"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:36.342510482Z",
+  "model": "glm-5.3"
+}

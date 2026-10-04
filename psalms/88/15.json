@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 88,
+  "translation": "Яагаад, Яхвэ, нэфэш минь хаягдаж, Царайгаа надаас нууна вэ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Яагаад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "хаягдаж"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нэфэш минь"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "нууна"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Царайгаа"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "надаас"
+    }
+  ],
+  "timestamp": "2026-10-04T13:51:16.114587157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 46,
+  "translation": "Мицрайм бол гоо сайхант үнээ, харин хойноос сүйрэл ирж байна, ирж байна.",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "үнээ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "гоо сайхант"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "маш сайхан"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайм"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "сүйрэл"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "хойноос"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ирж байна"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ирж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T15:47:38.445949019Z",
+  "model": "glm-5.3"
+}

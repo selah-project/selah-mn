@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Цадик нар газрыг өвлөнө, түүн дээр мөнхөд оршино.",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "Цадик нар"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "өвлөнө"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газрыг"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "оршино"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "мөнхөд"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "түүн дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:00.622685930Z",
+  "model": "glm-5.3"
+}

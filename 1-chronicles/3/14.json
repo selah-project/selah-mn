@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Амон түүний хүү, Йошия түүний хүү.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "Амон"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Йошия"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:45.752698710Z",
+  "model": "glm-5.3"
+}

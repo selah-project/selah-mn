@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Йисраел Сихон руу элчүүдийг илгээж, Эморийн хаан Сихонд хэлэхэд:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "илгээж"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "элчүүдийг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихон"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Эморийн"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлэхэд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:43:11.636255130Z",
+  "model": "glm-5.3"
+}

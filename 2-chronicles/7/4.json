@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Хаан ба бүх ард түмэн Яхвэгийн өмнө тахил өргөж байв.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Хаан"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "өргөж байв"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "тахил"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:10:26.083344157Z",
+  "model": "glm-5.3"
+}

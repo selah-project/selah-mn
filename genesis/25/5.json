@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Аврахам өөрийн ⟨את⟩ бүхнийг Йицхакад өгөв.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өөрийн бүхнийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхнийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөрийн"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Йицхакад"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:54.354687444Z",
+  "model": "glm-5.3"
+}

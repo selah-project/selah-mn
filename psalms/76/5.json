@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 76,
+  "translation": "Гэрэлт мөн Чи, сүрлэг, олзны уулсаас дээгүүр.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Гэрэлт"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Чи"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "сүрлэг"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "уулсаас"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "олзны"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:42.634642629Z",
+  "model": "glm-5.3"
+}

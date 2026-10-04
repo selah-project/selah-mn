@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Харин чи ариун, Йисраелын магтаасууд дээр суудаг.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "харин чи"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "суудаг"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "магтаасууд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:37:30.420660811Z",
+  "model": "glm-5.3"
+}

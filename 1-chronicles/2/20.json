@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хур ⟨את⟩ Урига төрүүлжээ; Хурын хүү Ури ⟨את⟩ Бецалелийг төрүүлжээ.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Хур"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлжээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урига"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Урига"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "Ури"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлжээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бецалелийг"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бецалелийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:11.386472764Z",
+  "model": "glm-5.3"
+}

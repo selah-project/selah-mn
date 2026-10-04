@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Сургаалд сонс, мэргэн ухаант бол, бүү түүнийг үл тоо.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "сонс"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "сургаалд"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "ба мэргэн ухаант бол"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "үл тоо"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:42.230100512Z",
+  "model": "glm-5.3"
+}

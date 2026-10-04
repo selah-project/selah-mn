@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Тэр өдөр болохоор нэг хүн нэг үнээ болон хоёр хониуг амьд үлдээнэ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болохоор"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тер"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "амьд үлдээнэ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "нэг хүн"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "нэг үнээ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "үхрийн"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "болон хоёр"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "хониуг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:42:26.822738008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Намайг орхиж битгий яв, Яхвэ, Элохим минь, надаас бүү холд.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "битгий"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "Намайг орхиж битгий яв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим минь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "холд"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "надаас"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:12.834163641Z",
+  "model": "glm-5.3"
+}

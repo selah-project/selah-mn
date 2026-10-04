@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "ба Элиенай, ба Циллетай, ба Элиел.",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "ба Элиенай"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "ба Циллетай"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ба Элиел"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:52.716210048Z",
+  "model": "glm-5.3"
+}

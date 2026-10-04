@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ус газар дээр тавин зуун өдөр ноёрхлоо.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "ноёрхлоо"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:50.279043563Z",
+  "model": "glm-5.3"
+}

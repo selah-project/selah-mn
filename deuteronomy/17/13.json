@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Бүх ард түмэн сонсож, айж, цаашдаа зөрүүлж элдэвлэхгүй болог.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "сонсох болно"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ба айх болно"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба үгүй"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "зөрүүлэх"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "цаашдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:58:02.063207482Z",
+  "model": "glm-5.3"
+}

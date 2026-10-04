@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хэрэв тэр хурга ⟨את⟩ өргөлөө өргөж байвал, ⟨את⟩ түүнийг Яхвэгийн өмнө өргөнө.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "өргөж байвал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "өргөлөө"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "өргөнө"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ түүнийг"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:21:53.343828904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 3:6",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Харин хэн унаж мөргөхгүй бол тэр мөчид бүрэн асаасан галт зууханд дот нь хаягдана.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "харин хэн"
+    },
+    {
+      "surface": "די",
+      "gloss": "бол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "унаж"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "ба мөргөх"
+    },
+    {
+      "surface": "בה",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "שעתא",
+      "gloss": "мөчид"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "хаягдана"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "дот нь"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "зууханд"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "гал"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "асаасан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:41:25.647740835Z",
+  "model": "glm-5.3"
+}

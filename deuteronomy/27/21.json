@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Ялагдсан хэвтэгч аливаа малтай хамт, ба бүх ард түмэн хэлэх ёстой: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Ялагдсан"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "хэвтэгч"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "כל",
+      "gloss": "аливаа"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "малтай"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ба хэлэх ёстой"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:46.812754428Z",
+  "model": "glm-5.3"
+}

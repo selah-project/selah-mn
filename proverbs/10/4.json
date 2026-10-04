@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Зальжин гарыг эзэлбэл ядуурна, харин хөдөлмөрлөгч гар баяжуулна.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ядуурна"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "эзэлбэл"
+    },
+    {
+      "surface": "כף",
+      "gloss": "гарыг"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "зальжин"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "харин гар"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "хөдөлмөрлөгч"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "баяжуулна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:17.526606568Z",
+  "model": "glm-5.3"
+}

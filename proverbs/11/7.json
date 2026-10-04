@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Мууг үйлдэгч хүн үхэхэд найдвар мөхдөг ба хүчтний хүлээлт мөхжээ.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "үхэхэд"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "мууг үйлдэгч"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "мөхдөг"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "найдвар"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "ба хүлээлт"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "хүчтний"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "мөхжээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:54.607920402Z",
+  "model": "glm-5.3"
+}

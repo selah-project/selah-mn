@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Биньямины хилээс дорно зүгээс өрнийн зүг хүртэл Шимон нэг хэсэг.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ба ... -ээс"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямины"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "зүгээс"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "дорно"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "зүг"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "өрнийн"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг хэсэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:16:59.053104986Z",
+  "model": "glm-5.3"
+}

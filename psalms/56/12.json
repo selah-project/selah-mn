@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 56,
+  "translation": "Элохимд би найдсан, би айхгүй; хүн надад юу хийх вэ?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Элохимд"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "би найдсан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "би айхгүй"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "айхгүй"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "хийх"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    }
+  ],
+  "timestamp": "2026-10-04T13:44:08.042598685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Шаддайд таашаал төрүүлж, бүх цагт Элоахыг дуудах уу?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "таашаал төрүүлж"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "дуудах уу"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоах"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עת",
+      "gloss": "цагт"
+    }
+  ],
+  "timestamp": "2026-10-04T14:21:34.159910384Z",
+  "model": "glm-5.3"
+}

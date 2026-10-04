@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Шеол, төрөөгүй умай, усаар цаддаггүй хөрс, ба «Хангалттай» гэж хэлдэггүй гал.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "ба төрөөгүй"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "умай"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "хөрс"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "цаддаггүй"
+    },
+    {
+      "surface": "מים",
+      "gloss": "усаар"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "ба гал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "хэлдэггүй"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Хангалттай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:15.401952493Z",
+  "model": "glm-5.3"
+}

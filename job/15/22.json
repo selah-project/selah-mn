@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 15:22",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Тэр харанхуйгаас буцна гэж итгэхгүй, илд түүнийг хүлээнэ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "итгэхгүй"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "буцна"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "харанхуй"
+    },
+    {
+      "surface": "וצפו",
+      "gloss": "хүлээнэ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "түүнийг"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨рүү⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "илд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:18:54.938211290Z",
+  "model": "glm-5.3"
+}

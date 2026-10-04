@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Овед Йехуг төрүүлж, Йеху Азарьяг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йехуг"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Йеху"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "Йеху"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азарьяг"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарья"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:36.028121685Z",
+  "model": "glm-5.3"
+}

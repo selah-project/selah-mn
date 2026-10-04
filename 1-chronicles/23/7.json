@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Гершончуудын хөвгүүд: Лаадан ба Шимей.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "Гершончуудын"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Лаадан"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ба Шимей"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:45.920381905Z",
+  "model": "glm-5.3"
+}

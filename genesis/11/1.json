@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Бүхэл газар нэг хэлтэй, үгс нь нэгэн байв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэл"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "нэгэн"
+    }
+  ],
+  "timestamp": "2026-10-04T09:49:29.846020947Z",
+  "model": "glm-5.3"
+}

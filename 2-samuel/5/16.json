@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Элишама, Элиада, Элифелет.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "Элишама"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "Элиада"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "Элифелет"
+    }
+  ],
+  "timestamp": "2026-10-04T11:36:46.363074736Z",
+  "model": "glm-5.3"
+}

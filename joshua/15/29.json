@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 15:29",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Баала ба Иим ба Эцем,",
+  "tokens": [
+    {
+      "surface": "בעלה",
+      "gloss": "Баала"
+    },
+    {
+      "surface": "ועיים",
+      "gloss": "ба Иим"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ба Эцем"
+    }
+  ],
+  "timestamp": "2026-10-04T11:09:47.010122648Z",
+  "model": "glm-5.3"
+}

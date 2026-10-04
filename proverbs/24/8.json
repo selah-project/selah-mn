@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 24:8",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Муу зүйл хийхээр боддог хүнийг муу санааны эзэн гэж дуудна.",
+  "tokens": [
+    {
+      "surface": "מחשב",
+      "gloss": "боддог"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "муу зүйл хийхээр"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнийг"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "эзэн"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "муу санааны"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "дуудна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:46.340098544Z",
+  "model": "glm-5.3"
+}

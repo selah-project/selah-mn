@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 20:32",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Тэрээр эцэг Асаагийн замаар явж, түүнээс гажсангүй; Яхвэгийн нүдэнд зөвийг үйлдэв.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцэгийн"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асаагийн"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "סר",
+      "gloss": "гажсангүй"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "түүнээс"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "үйлдэхээр"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "зөв"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэнд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:15:44.910663516Z",
+  "model": "glm-5.3"
+}

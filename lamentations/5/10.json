@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Бидний арьс зуухай шиг халууцаж байна, өлсгийн түймэр шатламтаас болж.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "бидний арьс"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "зуухай шиг"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "халууцаж байна"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-аас болж"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "түймэр шатлам"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "өлсгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:57.529825739Z",
+  "model": "glm-5.3"
+}

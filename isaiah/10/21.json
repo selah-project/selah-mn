@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Үлдэгдэл бүхэн буцаж ирнэ, Яаковын үлдэгдэл хүчтэй Эл дээр очино.",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "үлдэгдэл"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "буцаж ирнэ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "үлдэгдэл"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "хүчтэй"
+    }
+  ],
+  "timestamp": "2026-10-04T15:43:39.084959453Z",
+  "model": "glm-5.3"
+}

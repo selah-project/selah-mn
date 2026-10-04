@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Шафэр уулаас нүүж, Баhaрадад буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүж"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "уулаас"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "Шафэр"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "Бахарадад"
+    }
+  ],
+  "timestamp": "2026-10-04T15:31:30.019556272Z",
+  "model": "glm-5.3"
+}

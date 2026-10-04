@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Учир нь суурь нь нураагдаж байхад зөвт хүн юу хийх вэ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "суурь"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "нураагдаж байхад"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "зөвт хүн"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "хийх вэ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:52:24.486968753Z",
+  "model": "glm-5.3"
+}

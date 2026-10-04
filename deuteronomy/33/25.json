@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Түгжүүр чинь төмөр ба хүрэл болог; өдрүүд чинь шиг чиний хүч болог.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "төмөр"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ба хүрэл"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "түгжүүр чинь"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "өдрүүд чинь шиг"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "чинь хүч"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:54.934834630Z",
+  "model": "glm-5.3"
+}

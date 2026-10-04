@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Мөн үүнийг би харсан — нарны дорхи мэргэн ухаан, ба энэ надад агуу юм.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "זה",
+      "gloss": "үүнийг"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "би харсан"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мэргэн ухаан"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дорхи"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нарны"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ба агуу"
+    },
+    {
+      "surface": "היא",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:41.292798016Z",
+  "model": "glm-5.3"
+}

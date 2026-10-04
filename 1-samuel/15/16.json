@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 15:16",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Самуэл Шаулд хэлэв: Зогс, би чамд шөнө Яхвэ надад ⟨את⟩ юу хэлснийг хэлье. Шаул хэлэв: Хэл.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Самуэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "הרף",
+      "gloss": "Зогс"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "би хэлье"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "юуг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "хэлсэн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "шөнө"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Хэл"
+    }
+  ],
+  "timestamp": "2026-10-04T11:28:14.910853047Z",
+  "model": "glm-5.3"
+}

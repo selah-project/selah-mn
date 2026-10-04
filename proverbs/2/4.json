@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 2:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хэрэв чи түүнийг мөнгө мэт эрж, нууц эрдэнэс мэт хайвал,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "תבקשנה",
+      "gloss": "эрж"
+    },
+    {
+      "surface": "ככסף",
+      "gloss": "мөнгө мэт"
+    },
+    {
+      "surface": "וכמטמונים",
+      "gloss": "нууц эрдэнэс мэт"
+    },
+    {
+      "surface": "תחפשנה",
+      "gloss": "хайвал"
+    }
+  ],
+  "timestamp": "2026-10-04T15:54:26.636640753Z",
+  "model": "glm-5.3"
+}

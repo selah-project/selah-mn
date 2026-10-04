@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Тэр чамд зээл өгнө, харин чи түүнд зээл өгөхгүй; тэр ⟨бол⟩ толгой, харин чи сүүл байх болно.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "зээл өгнө"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "харин чи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "өгөхгүй"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "зээл өгөх"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх болно"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "толгой"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "харин чи"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "байх болно"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "сүүл"
+    }
+  ],
+  "timestamp": "2026-10-04T11:01:06.026326850Z",
+  "model": "glm-5.3"
+}

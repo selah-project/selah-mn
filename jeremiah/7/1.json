@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Яхвэгээс Ирмийауд элдсэн үг, ингэж айлдахын тулд.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "היה",
+      "gloss": "элдсэн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмийауд"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "гээс ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахын тулд"
+    }
+  ],
+  "timestamp": "2026-10-04T12:34:49.816033504Z",
+  "model": "glm-5.3"
+}

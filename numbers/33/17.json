@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 33:17",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Киброт-ха-Таавагаас нүүж, Хацеротод буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүж"
+    },
+    {
+      "surface": "מקברת",
+      "gloss": "Киброт"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ха-Таавагаас"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בחצרת",
+      "gloss": "Хацеротод"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:15.208214133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Хэн Ийов шиг эр билээ? Далдлалыг ус мэт шингээнэ.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "эр"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "Ийов шиг"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "шингээнэ"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "далдлал"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ус мэт"
+    }
+  ],
+  "timestamp": "2026-10-04T14:24:36.215967733Z",
+  "model": "glm-5.3"
+}

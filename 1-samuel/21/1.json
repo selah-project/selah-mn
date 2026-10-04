@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Тэр босож, явав; Йонатан хот руу оров.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "босож"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "явав"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "בא",
+      "gloss": "оролон"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хот руу"
+    }
+  ],
+  "timestamp": "2026-10-04T11:31:24.119864566Z",
+  "model": "glm-5.3"
+}

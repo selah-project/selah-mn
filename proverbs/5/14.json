@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Бараг бүх муугийн дунд орох нь тулж байлаа, чуулган ба цуглааны дунд.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "бараг"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "байлаа"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муугийн"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "чуулган"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ба цуглаан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:15.188860361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "ба ⟨את⟩ яааны дэгдээхэй, ба ⟨את⟩ тахмас, ба ⟨את⟩ сахаф, ба ⟨את⟩ нец — төрөл төрлөөрөө",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "яааны дэгдээхэй"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дэгдээхэй"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "яаа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "тахмас"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "тахмас"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "сахаф"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "сахаф"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "нец"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "нец"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "төрөл төрлөөрөө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:20.767652876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Тэд хариулж хэлнэ: Бидний гар энэ цусыг асгаагүй, бидний нүд ⟨түүнийг⟩ үзээгүй.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "хэлнэ"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "бидний гар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "асгаагүй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ цусыг"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "цус"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ба бидний нүд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "үзээгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T10:57:49.190831341Z",
+  "model": "glm-5.3"
+}

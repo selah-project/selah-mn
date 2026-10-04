@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Тэр хэлэв: Эдгээр нь бүх газрын эзний өмнө зогсдог тунгалаг тосны хоёр хүү.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Тэр хэлэв"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "שני",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "тунгалаг тосны"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "зогсдог"
+    },
+    {
+      "surface": "על",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "эзний"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:29:37.539141384Z",
+  "model": "glm-5.3"
+}

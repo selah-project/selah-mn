@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Үүнийг Яаковын гэрт зарла, Йеудад сонсгож хэл: гэж.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "зарла"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "үүнийг"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "гэрт"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковын"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "ба сонсгож хэл"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Йеудад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    }
+  ],
+  "timestamp": "2026-10-04T12:34:48.908284152Z",
+  "model": "glm-5.3"
+}

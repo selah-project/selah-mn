@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 29:24",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Бүх ноёд, баатрууд, мөн хаан Давидын бүх хөвгүүд хаан Шеломогийн дор гар өгч захирагдав.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "והגברים",
+      "gloss": "баатрууд"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "өгч"
+    },
+    {
+      "surface": "יד",
+      "gloss": "гар"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломогийн"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    }
+  ],
+  "timestamp": "2026-10-04T15:07:54.039057093Z",
+  "model": "glm-5.3"
+}

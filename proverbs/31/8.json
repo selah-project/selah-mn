@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 31:8",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Хэлгүйд амангаа нээ, өнгөрч буй бүх хүүхдийн шүүлтэд.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "нээ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "амангаа"
+    },
+    {
+      "surface": "לאלם",
+      "gloss": "хэлгүйд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "д"
+    },
+    {
+      "surface": "דין",
+      "gloss": "шүүлтэд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүүхдийн"
+    },
+    {
+      "surface": "חלוף",
+      "gloss": "өнгөрч буй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:02.137332104Z",
+  "model": "glm-5.3"
+}

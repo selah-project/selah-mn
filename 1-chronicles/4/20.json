@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 4:20",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Шимоны хөвгүүд: Амнон, Ринна, Бен-Ханан, Тилон; Ишийн хөвгүүд: Зохет, Бен-Зохет.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "שימון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Амнон"
+    },
+    {
+      "surface": "ורנה",
+      "gloss": "Ринна"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "חנ׸",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "ותולון",
+      "gloss": "Тилон"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Иши"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "Зохет"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "Зохет"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:34.811365680Z",
+  "model": "glm-5.3"
+}

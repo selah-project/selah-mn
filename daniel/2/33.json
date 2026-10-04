@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "түүний өгзөг нь төмөр, түүний хөл нь хагас нь төмөр, хагас нь шавар байв.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "түүний өгзөг"
+    },
+    {
+      "surface": "די",
+      "gloss": "нь"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "төмөр"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "түүний хөл"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "хагас нь"
+    },
+    {
+      "surface": "די",
+      "gloss": "нь"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "төмөр"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "ба хагас нь"
+    },
+    {
+      "surface": "די",
+      "gloss": "нь"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "шавар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:40:02.100544340Z",
+  "model": "glm-5.3"
+}

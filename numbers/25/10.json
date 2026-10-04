@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Яхвэ Мошетэй ярьж, ингэж айлдав.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ярьж айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлэхдээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:44:46.248362694Z",
+  "model": "glm-5.3"
+}

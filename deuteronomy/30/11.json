@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Учир нь өнөөдөр би чамд тушааж буй энэ тушаал чамд ⟨надад⟩ үл ойлгогдох биш, мөн хол биш тэр.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "энэ тушаал"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ыг"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "чамд тушааж буй"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "үл ойлгогдох"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба үгүй"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "хол"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:01:20.973240837Z",
+  "model": "glm-5.3"
+}

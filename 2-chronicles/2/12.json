@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Одоо би ухаалаг, ухамсрыг мэддэг эр Хурам аавыг чамд илгээлээ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Одоо"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "би илгээлээ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эр"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ухаалаг"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "мэддэг"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ухамсар"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "Хурам"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "аав"
+    }
+  ],
+  "timestamp": "2026-10-04T15:09:47.386447696Z",
+  "model": "glm-5.3"
+}

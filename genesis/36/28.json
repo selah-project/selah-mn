@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Эдгээр нь Дишанын хөвгүүд: Уц, Аран.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Эдгээр нь"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Дишанын"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "Аран"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:10.085895116Z",
+  "model": "glm-5.3"
+}

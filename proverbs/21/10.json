@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Буруутны сүнс мууг хүсдэг; түүний нүдэнд хөрш нь өршөөл олдохгүй.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "сүнс"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "буруутны"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "хүсдэг"
+    },
+    {
+      "surface": "רע",
+      "gloss": "мууг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "өршөөл олдох"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "түүний нүдэнд"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "хөрш нь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:22.801106744Z",
+  "model": "glm-5.3"
+}

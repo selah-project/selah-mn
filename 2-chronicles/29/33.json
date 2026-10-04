@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Ариун өргөлүүд нь үхэр зургаан зуу, хонь гурван мянга байв.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "ариун өргөлүүд"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "שש",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуу"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ба хонь"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мянга"
+    }
+  ],
+  "timestamp": "2026-10-04T15:19:21.323456434Z",
+  "model": "glm-5.3"
+}

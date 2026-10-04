@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Калебын татвар эм Эйфа Харан, Моца, Газез нарыг төрүүлж, Харан Газезийг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "Эйфа"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "татвар эм"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калебын"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Харан"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Харан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Моца"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Моца"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Газез"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Газез"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "Харан"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Газез"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "Газез"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:52.234952773Z",
+  "model": "glm-5.3"
+}

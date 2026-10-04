@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Йисраелийн гэрээс хүн бүр үхэр, эсвэл хурга, эсвэл ямааг хуаранд нядалбал, эсвэл хуарны гадна нядалбал",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "хүн бүр"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн бүр"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "-ийн гэрээс"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "- бол"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "нядалбал"
+    },
+    {
+      "surface": "שור",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ямаа"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "хуаранд"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "- бол"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "нядалбал"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "гадна"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "хуарны"
+    }
+  ],
+  "timestamp": "2026-10-04T15:29:27.662407479Z",
+  "model": "glm-5.3"
+}

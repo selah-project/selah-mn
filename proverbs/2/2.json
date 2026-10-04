@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Чихээ мэргэн ухаанд чиглүүлж, зүрхээ ойлголтонд хандуулж,",
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "чиглүүлж"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "мэргэн ухаанд"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "Чихээ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "хандуулж"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "зүрхээ"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ойлголтонд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:54:36.007272295Z",
+  "model": "glm-5.3"
+}

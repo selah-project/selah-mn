@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Нециахын хөвгүүд, Хатифагийн хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "Нециахын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "Хатифагийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:42.898995184Z",
+  "model": "glm-5.3"
+}

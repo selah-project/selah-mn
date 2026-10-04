@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Та нар Надад ард болж, Би та нарт Элохим болж байх болно.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "Та нар болно"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Надад"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ард"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ба Би"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "байх болно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохим"
+    }
+  ],
+  "timestamp": "2026-10-04T12:43:51.507868053Z",
+  "model": "glm-5.3"
+}

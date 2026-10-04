@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Тэгээд Цидкияах Ирмеяахад хэлэв: Хүн эдгээр үгийг мэдэхгүй байг, тэгвэл чи үхэхгүй.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкияах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяах"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "битгий"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мэдэх"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "тэгвэл үгүй"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "үхэх"
+    }
+  ],
+  "timestamp": "2026-10-04T12:49:31.906656629Z",
+  "model": "glm-5.3"
+}

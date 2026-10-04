@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Харин дөрөв дэх жилд түүний бүх жимс ариун — Яхвэд талархлын магтаал болно.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "жилд"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "дөрөв дэх"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байна"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "пריו",
+      "gloss": "жимс"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "талархлын магтаал"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:30:06.532692933Z",
+  "model": "glm-5.3"
+}

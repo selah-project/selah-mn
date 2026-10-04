@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 33:36",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Эцён Гебераас нүүж, Цины цөлд — энэ бол Кадеш — буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүж"
+    },
+    {
+      "surface": "מעציון",
+      "gloss": "Эцён"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Гебераас"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Цины"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ бол"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:09.529941540Z",
+  "model": "glm-5.3"
+}

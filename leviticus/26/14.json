@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Хэрэв та нар Надад сонсохгүй, эдгээр ⟨את⟩ бүх тушаалыг хийхгүй бол",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Хэрэв"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "сонсохгүй"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Надад"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "болон үгүй"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "хийхгүй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх тушаалыг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "тушаалуудыг"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:32:55.918522177Z",
+  "model": "glm-5.3"
+}

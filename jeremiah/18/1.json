@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Яхвэгээс ⟨את⟩ Ирмеяу руу ирсэн үг, ингэж айлдахдаа:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яаж ирсэн нь"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ирсэн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяу"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэгээс — Яхвэгээс"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T12:40:40.657709721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэ чамайг ерөөж, чамайг хамгаалаг.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "чамайг ерөөж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "чамайг хамгаалаг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:42.431441912Z",
+  "model": "glm-5.3"
+}

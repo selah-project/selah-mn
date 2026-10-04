@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 27:26",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Гэвч мал дунд Яхвэд анх төрсөн төл бол түүнийг хэн ч ариусгаж болохгүй; үхэр ч бай, хурга ч бай — Яхвэд бий.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "гэвч"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "анх төрсөн төл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יבכר",
+      "gloss": "анх төрөх"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "мал дунд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болохгүй"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "ариусгаж"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хэн ч"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "түүнийг"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "שור",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "שה",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бий"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:29.474022942Z",
+  "model": "glm-5.3"
+}

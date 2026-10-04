@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Мицраймд боол байснаа санаад эдгээр ⟨את⟩ зарлигуудыг сахиж, биелүүл.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "санаад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "-г"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "боол"
+    },
+    {
+      "surface": "היית",
+      "gloss": "байснаа"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "Мицраймд"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "сахиж"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "биелүүл"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эдгээр зарлигуудыг"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "зарлигуудыг"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T15:33:24.345965425Z",
+  "model": "glm-5.3"
+}

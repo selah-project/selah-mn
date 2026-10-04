@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Яхвэгийн Тора дор явах замдаа төгс хүмүүс ямар азтай юм.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ямар азтай"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "төгс"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "замдаа"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "явах"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "Тора дор"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:56.970152605Z",
+  "model": "glm-5.3"
+}

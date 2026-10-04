@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Гурав нь надад гайхамшигтай юм, дөрөв нь би мэдэхгүй зүйлс:",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "гурав"
+    },
+    {
+      "surface": "המה",
+      "gloss": "нь"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "гайхамшигтай"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "надад"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "дөрөв"
+    },
+    {
+      "surface": "לא",
+      "gloss": "мэдэхгүй"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "би мэдэхгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:25.868927051Z",
+  "model": "glm-5.3"
+}

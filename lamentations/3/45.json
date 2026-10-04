@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хог шавхай болж Та биднийг ард түмнүүдийн дунд тавив.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "хог шавхай"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "болож"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "Та биднийг тавив"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ард түмнүүдийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:52.405976886Z",
+  "model": "glm-5.3"
+}

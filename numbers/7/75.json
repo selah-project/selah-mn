@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Үхэр нэг, сүрэгний төл, хун нэг, хурга нэг, настай, бүтээлэг тахилд зориулсан.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "Үхэр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "төл"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "сүрэгний"
+    },
+    {
+      "surface": "איל",
+      "gloss": "хун"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "нэг настай"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "бүтээлэг тахилд зориулсан"
+    }
+  ],
+  "timestamp": "2026-10-04T10:37:36.093001660Z",
+  "model": "glm-5.3"
+}

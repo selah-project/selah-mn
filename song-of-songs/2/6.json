@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Түүний зүүн гар миний толгойн дор, барун гар минийг тэврэв.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "Түүний зүүн гар"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "лראשי",
+      "gloss": "миний толгойн"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ба түүний барун гар"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "минийг тэврэв"
+    }
+  ],
+  "timestamp": "2026-10-04T15:55:46.085873139Z",
+  "model": "glm-5.3"
+}

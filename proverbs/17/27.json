@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 17:27",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Үгээ хэмжигч хүн мэдлэгтэй, хүйтэн руахтай хүн оюун ухаантай байдаг.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "хэмжигч"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "үгээ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "мэдлэгтэй"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "мэдлэг"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "ба хүйтэн"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "оюун ухаантай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:54.697490900Z",
+  "model": "glm-5.3"
+}

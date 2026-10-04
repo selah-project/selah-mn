@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Узийелийн хөвгүүд: Миха; Михагийн хөвгүүдээс Шамир.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Узийелийн"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миха"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдээс"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Михагийн"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "Шамир"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:25.027823259Z",
+  "model": "glm-5.3"
+}

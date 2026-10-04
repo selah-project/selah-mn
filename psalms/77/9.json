@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 77,
+  "translation": "Түүний хэсэд үүрд дуусав уу? Түүний үг үе удамд төгсөх үү?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "дуусав уу"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "Түүний хэсэд"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "төгсөх"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Түүний үг"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "үе удамд"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "удамд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:23.452170147Z",
+  "model": "glm-5.3"
+}

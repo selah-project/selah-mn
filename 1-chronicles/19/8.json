@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Давид сонсоод, ⟨את⟩ Иоав болон ⟨את⟩ бүх баатруудын цэрэгийг илгээв.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "сонсоод"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "илгээв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иоавыг"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Иоав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "бүх баатруудын цэргийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "цэрэг"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "баатруудын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:15.205702089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Муу хүмүүс шүүлтийг ойлгохгүй, харин Яхвэг хайгчид бүхнийг ойлгоно.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "хүмүүс"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ойлгохгүй"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлт"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "харин хайгчид"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "ойлгоно"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхнийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:58.928205271Z",
+  "model": "glm-5.3"
+}

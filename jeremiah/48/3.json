@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Хоронаимээс хашхирах дуу: сүйрэл ба их нураалт!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "хашхирах"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "Хоронаимээс"
+    },
+    {
+      "surface": "שד",
+      "gloss": "сүйрэл"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ба нураалт"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "их"
+    }
+  ],
+  "timestamp": "2026-10-04T12:52:08.286455850Z",
+  "model": "glm-5.3"
+}

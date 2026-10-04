@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Тэгээд хутгыг хоолойдоо тавь, хэрэв чи амьсгалын эзэн бол.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "тэгээд тавь"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "хутга"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "хоолойдоо"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "эзэн"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амьсгалын"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:35.553708664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Яхвэ надад нэмж дахин айлдав, ингэж хэлэхдээ:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "нэмж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлэхдээ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:12:28.921037557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Ухаантай хүү эцгийн хичээлийг сонсдог, довдлогч хүн загнахыг сонсдоггүй.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ухаантай"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "хичээл"
+    },
+    {
+      "surface": "אב",
+      "gloss": "эцгийн"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "довдлогч хүн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "сонсдоггүй"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "сонсдог"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "загнах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:33.898972878Z",
+  "model": "glm-5.3"
+}

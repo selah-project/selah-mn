@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 71,
+  "translation": "Харин би үргэлж найдаж, Таны бүх магтаалын дээр нэмж магтъя.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Харин би"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "үргэлж"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "найдаж"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "нэмж магтъя"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "Таны магтаалын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:47:02.340312696Z",
+  "model": "glm-5.3"
+}

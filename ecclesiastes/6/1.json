@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Нарны доор би үзсэн муу зүйл бий, ба тэр хүмүүс дээр хүндэрхэй билээ.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу зүйл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "би үзсэн"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "доор"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нарны"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ба хүндэрхэй"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тер"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүмүүс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:36.714866210Z",
+  "model": "glm-5.3"
+}

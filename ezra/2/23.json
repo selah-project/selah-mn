@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Анатотынхон, зуун хорин найман.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "эрчүүд"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анатот"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "найм"
+    }
+  ],
+  "timestamp": "2026-10-04T14:44:47.342403547Z",
+  "model": "glm-5.3"
+}

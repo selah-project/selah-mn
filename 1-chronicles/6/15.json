@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "түүний хүү Шимаа, түүний хүү Хаггиа, түүний хүү Асайа.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "Шимаа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "Хаггиа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асайа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:57.018907854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Хэн бол энэ алдрын хаан? Яхвэ — хүчит ба эрэлхэг, Яхвэ — дайнд эрэлхэг.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Хэн"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "алдрын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "хүчит"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "ба эрэлхэг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "эрэлхэг"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "дайнд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:49.576086114Z",
+  "model": "glm-5.3"
+}

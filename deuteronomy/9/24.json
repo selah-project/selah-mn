@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Та нар Яхвэтэй байнга тэрсэлж байсан, би ⟨את⟩ та нарыг мэдсэн өдрөөсөө хойш.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "тэрсэлж"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "та нар байсан"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "өдрөөс"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "би мэдсэн"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "та нарыг ⟨את⟩",
+      "marks": "та нарыг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:53:53.981930734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ямааны эр нэг, нүглийн тахилга ",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "эр"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ямааны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "нүглийн тахилга"
+    }
+  ],
+  "timestamp": "2026-10-04T10:36:22.737132504Z",
+  "model": "glm-5.3"
+}

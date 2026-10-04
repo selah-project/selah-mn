@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Хэрэв чи явуулахаас татгалзаж, үүнийг ⟨эзэндээ⟩ барьсаар байвал",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "татгалзаж"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "явуулахаас"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "үүнийг"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "барьсаар байвал"
+    },
+    {
+      "surface": "בם",
+      "gloss": "тэдэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:07:55.544281164Z",
+  "model": "glm-5.3"
+}

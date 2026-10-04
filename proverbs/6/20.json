@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Хүү минь, аавынхаа тушаалыг сахьж, ээжийнхээ Тора-г бүү орхигдуул.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "сахьж"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүү минь"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "тушаалыг"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "аавынхаа"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "орхигдуул"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора-г"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ээжийнхээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:32.437141143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Мөнгөний хаягдал шавар саван дээр түрхсэн мэт, галт уруул ба муу зүрх байдаг.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "мөнгө"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "хаягдал"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "түрхсэн"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "шавар саван"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "уруул"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "галт"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ба зүрх"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:15.835353811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 12:22",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Элохимын үг Элохимын хүн Шемаяд ирж, айлдав:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болоод"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемая"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдав:"
+    }
+  ],
+  "timestamp": "2026-10-04T15:40:12.076259337Z",
+  "model": "glm-5.3"
+}

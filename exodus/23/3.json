@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Мөн ядуу хүнийг түүний маргаанд бүү хүндэл.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "мөн ядуу хүнийг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "хүндэл"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "түүний маргаанд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:13:42.198020887Z",
+  "model": "glm-5.3"
+}

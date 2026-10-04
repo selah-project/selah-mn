@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Яхвэ бидний Элохим Хоребд бидэнд айлдав: Та нар энэ ууланд суугаад хангалттай болжээ.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "бидний Элохим"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Хоребд"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлэхдээ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "хангалттай"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "суугаад"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ууланд"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:48.980805487Z",
+  "model": "glm-5.3"
+}

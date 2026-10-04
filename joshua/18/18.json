@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 18:18",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Араваагийн эсрэг өмнө зүүн талд өнгөрч, Араваа руу буужээ.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "өнгөрч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "талд"
+    },
+    {
+      "surface": "מול",
+      "gloss": "эсрэг"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Араваагийн"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "зүүн тийш"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "буужээ"
+    },
+    {
+      "surface": "הערבתה",
+      "gloss": "Араваа руу"
+    }
+  ],
+  "timestamp": "2026-10-04T11:10:19.060915759Z",
+  "model": "glm-5.3"
+}

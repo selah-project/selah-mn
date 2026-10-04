@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Лаванд хоёр охин байв: ахлах нь Лийа, отгон нь Рахел байлаа.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "Лаванд"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "охин"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ахлах нь"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ахлах"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лийа"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "отгон нь"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "отгон"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:40.878307355Z",
+  "model": "glm-5.3"
+}

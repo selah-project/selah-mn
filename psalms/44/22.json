@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 44,
+  "translation": "Энэ чинь Элохимоос далд байх гэж үү? Учир нь Тэр зүрхний нууцыг мэднэ.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "…гэж үү?"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "шалгадаггүй"
+    },
+    {
+      "surface": "зאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мэднэ"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "нууцыг"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрхний"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:23.145992431Z",
+  "model": "glm-5.3"
+}

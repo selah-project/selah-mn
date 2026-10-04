@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Моше ингэж бүтээв: Яхвэ ⟨את⟩ түүнд тушаасан бүхний дагуу тийм ч бүтээв.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "бүтээв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "бүхний дагуу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "_-"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ түүнд"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тийм ч"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "бүтээв"
+    }
+  ],
+  "timestamp": "2026-10-04T10:21:20.975599956Z",
+  "model": "glm-5.3"
+}

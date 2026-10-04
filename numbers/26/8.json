@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Палуагийн хөвгүүд: Элиав.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "Палуагийн"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Элиав"
+    }
+  ],
+  "timestamp": "2026-10-04T10:45:01.095471438Z",
+  "model": "glm-5.3"
+}

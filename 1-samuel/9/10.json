@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 9:10",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Шаул зарцдаа хэлэв: Чиний үг сайн, явъя, одъё. Тэгээд тэд Элохимын хүн байгаа хот руу явжээ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לנערו",
+      "gloss": "зарцдаа"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "чиний үг"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "явъя"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "одъё"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "явжээ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "там"
+    },
+    {
+      "surface": "שם",
+      "gloss": "байгаа"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимын"
+    }
+  ],
+  "timestamp": "2026-10-04T11:25:34.995158172Z",
+  "model": "glm-5.3"
+}

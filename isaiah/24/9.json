@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Дуутайгаар дарс уухгүй, архи уугчдад нь гунингэнэ.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "дуутайгаар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "уухгүй"
+    },
+    {
+      "surface": "יין",
+      "gloss": "дарс"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "гунингэнэ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "архи"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "уугчдад нь"
+    }
+  ],
+  "timestamp": "2026-10-04T12:17:16.061017991Z",
+  "model": "glm-5.3"
+}

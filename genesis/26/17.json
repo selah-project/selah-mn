@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 26:17",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Йицхак тэндээс явж, Герарын хөндийд буудаллаж, тэнд суурьшив.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "משם",
+      "gloss": "тэндээс"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "буудаллаж"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "хөндийд"
+    },
+    {
+      "surface": "גרר",
+      "gloss": "Герар"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "суурьшив"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:50.688732362Z",
+  "model": "glm-5.3"
+}

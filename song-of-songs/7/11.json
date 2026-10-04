@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Би миний хайртынх нь бөгөөд түүний хүсэл над дээр бий.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "миний хайртынх"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "над дээр"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "түүний хүсэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:29:08.803470247Z",
+  "model": "glm-5.3"
+}

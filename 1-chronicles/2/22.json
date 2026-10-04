@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Сегуб ⟨את⟩ Яхир төрүүлэв; түүнд Гиладын нутагт хорь гурван хот байв.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "Сегуб"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхир"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Яхир"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорь"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "хот"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "нутагт"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гиладын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:17.065725130Z",
+  "model": "glm-5.3"
+}

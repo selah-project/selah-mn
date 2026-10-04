@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Дэлхий бүхэлдээ Яхвэд дуул, Өдрөөс өдөрт түүний аврал тунхагла.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "дуул"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэлдээ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "дэлхий"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "тунхагла"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "өдрөөс"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "түүний авралыг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:08.761894104Z",
+  "model": "glm-5.3"
+}

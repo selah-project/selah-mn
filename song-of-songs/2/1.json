@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Би бол Шароны цэцэг, хөндийнүүдийн саран цэцэг.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "цэцэг"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Шароны"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "саран цэцэг"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "хөндийнүүдийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:28:05.339671078Z",
+  "model": "glm-5.3"
+}

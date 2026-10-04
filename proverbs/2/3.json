@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хэрэв чи оюун ухааныг дуудаж, ухамсарт дуу хоолоо өргөвөөс,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "אם",
+      "gloss": "үнэхээр"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "оюун ухааныг"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "дуудаж"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ухамсарт"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "өргөвөөс"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "дуу хоолоо"
+    }
+  ],
+  "timestamp": "2026-10-04T15:54:26.636461176Z",
+  "model": "glm-5.3"
+}

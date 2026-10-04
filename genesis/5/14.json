@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Кейнаны бүх өдөрс нь арван жил болон есөн зуун жил байв; тэрээр үхэв.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "байв"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "өдөрс"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Кейнаны"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "болон есөн"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үхэв"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:24.759625789Z",
+  "model": "glm-5.3"
+}

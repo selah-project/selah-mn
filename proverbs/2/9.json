@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Тэгээд чи цедек ба шүүлт, тэгш байдлыг ойлгож, сайн мөр бүрийг ойлгоно.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тэгээд"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "чи ойлгоно"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ба шүүлт"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "тэгш байдал"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүр"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "мөр"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:50.185803430Z",
+  "model": "glm-5.3"
+}

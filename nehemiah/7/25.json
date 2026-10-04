@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Гивонынхон ерэн тав.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "...ынхон"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивон"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ерэн"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "тав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:32.385486553Z",
+  "model": "glm-5.3"
+}

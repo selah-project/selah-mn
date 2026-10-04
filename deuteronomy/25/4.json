@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Талхан дээрээ будаа гаргаж буй үхрийн ам хамхиж болохгүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "болохгүй"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ам хамхиж"
+    },
+    {
+      "surface": "שור",
+      "gloss": "үхрийн"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "талхан дээрээ будаа гаргаж буй"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:58.821149563Z",
+  "model": "glm-5.3"
+}

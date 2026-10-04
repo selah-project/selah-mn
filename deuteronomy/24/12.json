@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Хэрэв тэр хүн ядуу бол түүний барьцаатай хамт бүү хэвт.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ядуу"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "хэвт"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "түүний барьцаатай хамт"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:36.001245587Z",
+  "model": "glm-5.3"
+}

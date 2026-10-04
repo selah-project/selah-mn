@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Мэргэд мэдлэгийг нуудаг, харин тэнэгийн ам сүйрэлд ойр.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "Мэргэд"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "нуудаг"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "мэдлэгийг"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "харин ам"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "тэнэгийн"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "сүйрэлд"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "ойр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:28.181119908Z",
+  "model": "glm-5.3"
+}

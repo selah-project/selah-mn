@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Ардаа дундаа хов жив болж бүү яв: нөхрийнхөө цусан дээр бүү зогс: Би Яхвэ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "яв"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "хов жив болж"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "ардаа дундаа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "зогс"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "דם",
+      "gloss": "цусан"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "нөхрийнхөө"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:29:49.507313589Z",
+  "model": "glm-5.3"
+}

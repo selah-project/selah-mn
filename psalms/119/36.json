@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Миний зүрхийг Таны гэрчлэлүүд рүү халт босуул, шунах руу биш.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "халт босуул"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "миний зүрхийг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "рүү"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "Таны гэрчлэлүүд"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "биш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "шунах"
+    }
+  ],
+  "timestamp": "2026-10-04T13:58:06.996100238Z",
+  "model": "glm-5.3"
+}

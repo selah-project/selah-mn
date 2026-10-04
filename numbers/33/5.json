@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 33:5",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Йисраелийн хөвгүүд Раамсесаас нүүж, Суккотод буув.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүж"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "מרעמסס",
+      "gloss": "Раамсесаас"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буув"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "Суккотод"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:28.235327322Z",
+  "model": "glm-5.3"
+}

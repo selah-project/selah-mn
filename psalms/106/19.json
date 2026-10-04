@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 106,
+  "translation": "Хоребт тэд бугуйл хийж, цутгам бурханд мөргөв.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "хийж"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "бугуйл"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "Хоребт"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "мөргөв"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "цутгам бурханд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:55:45.240866710Z",
+  "model": "glm-5.3"
+}

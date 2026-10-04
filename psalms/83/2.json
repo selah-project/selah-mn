@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 83,
+  "translation": "Элохим, чи бүү чимээгүй бай, бүү дуугүй бол, Эл минь, нам гүм бүү бай.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "чимээгүй бай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "дуугүй бол"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "нам гүм бай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл минь"
+    }
+  ],
+  "timestamp": "2026-10-04T13:50:16.548409215Z",
+  "model": "glm-5.3"
+}

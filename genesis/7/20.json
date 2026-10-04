@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ус уулсыг бүрхэж, тэдгээрээс дээш тавин таван тохой хүчлэв.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "тав"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "тохой"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "дээш"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "хүчлэв"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "бүрхэж"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "уулсыг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:45.682921112Z",
+  "model": "glm-5.3"
+}

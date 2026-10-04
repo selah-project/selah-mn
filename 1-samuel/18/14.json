@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 18:14",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Давид бүх замдаа ухаантай байж, Яхвэ түүнтэй байв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "дרכו",
+      "gloss": "замдаа"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ухаантай"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "түүнтэй"
+    }
+  ],
+  "timestamp": "2026-10-04T11:29:22.337316323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хүн бөхийж, эр хүн доошлоод байхад та тэднийг өршөөж бүү өргө.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "бөхийж"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "доошлоод байхад"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эр хүн"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "өршөөж өргө"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэднийг"
+    }
+  ],
+  "timestamp": "2026-10-04T12:09:16.704611136Z",
+  "model": "glm-5.3"
+}

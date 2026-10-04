@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Мамзэр Яхвэгийн чуулган руу орохгүй; арав дахь үе хүртэл түүнихэн Яхвэгийн чуулган руу орохгүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "орохгүй"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "Мамзэр"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "чуулган руу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "גם",
+      "gloss": "навч"
+    },
+    {
+      "surface": "דור",
+      "gloss": "үе"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "ав дахь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "орохгүй"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "чуулган руу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:08.558146397Z",
+  "model": "glm-5.3"
+}

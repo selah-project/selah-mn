@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 63,
+  "translation": "Учир нь өшөө авах өдөр миний зүрхэнд байв, Миний золилтын жил ирлээ.",
+  "tokens": [],
+  "timestamp": "2026-10-04T12:29:10.550660431Z",
+  "model": "glm-5.3"
+}

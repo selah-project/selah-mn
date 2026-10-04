@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Лемуел хааны үгс — түүний эх түүнийг сургасан ачаа.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемуел"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ачаа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэмээн"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "түүнийг сургасан"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "түүний эх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:17.211203927Z",
+  "model": "glm-5.3"
+}

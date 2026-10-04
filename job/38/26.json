@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 38:26",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Хүнгүй газар дээр, дотор нь хүнгүй цөлд бороо оруулахын тулд",
+  "tokens": [
+    {
+      "surface": "להמטיר",
+      "gloss": "бороо оруулахын тулд"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "цөл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "בו",
+      "gloss": "дотор нь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:25:55.183357326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Давид Йишайгийн хүү бүх Йисраел дээр хаанчлав.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Йишайгийн"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаанчлав"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    }
+  ],
+  "timestamp": "2026-10-04T15:07:27.040242240Z",
+  "model": "glm-5.3"
+}

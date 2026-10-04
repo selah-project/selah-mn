@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 89,
+  "translation": "Сар шиг үүрд бэхжинэ, тэнгэрийн хаяанд итгэлт гэрч байна. Сэлах.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "Сар шиг"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "бэхжинэ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ба"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "тэнгэрийн хаяанд"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "итгэлт"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Сэлах"
+    }
+  ],
+  "timestamp": "2026-10-04T15:53:36.191005815Z",
+  "model": "glm-5.3"
+}

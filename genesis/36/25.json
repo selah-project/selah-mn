@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Эдгээр нь Анын хөвгүүд юм: Дишон ба Анын охин Оголивама.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Эдгээр нь"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Анын"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "ба Оголивама"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Анын"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:10.085270894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Иехошуа, Нуны хөвгүүн, Яхвэгийн зарц, зуун арван настайдаа нас баржээ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "нас баржээ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иехошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хөвгүүн"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуны"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "зарц"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "настайдаа"
+    },
+    {
+      "surface": "мאה",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "нас"
+    }
+  ],
+  "timestamp": "2026-10-04T11:12:38.953085067Z",
+  "model": "glm-5.3"
+}

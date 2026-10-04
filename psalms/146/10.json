@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 146,
+  "translation": "Яхвэ үүрд хаанчлах болно — Цийон, чиний Элохим үеэс үед. Ях-ыг магт!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "хаанчлах болно"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "чиний Элохим"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цийон"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "үеэс"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "үед"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "магт"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    }
+  ],
+  "timestamp": "2026-10-04T14:02:24.007234728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Сонс, хүү минь, мэргэн ухаантай болж, зам дээр зүрхээ чиглүүл.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Сонс"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чам"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүү минь"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "мэргэн ухаантай болж"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "чиглүүл"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "зам дээр"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "зүрхээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:34.636043099Z",
+  "model": "glm-5.3"
+}

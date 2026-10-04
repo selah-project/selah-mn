@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Хецро ха-Кармели, Паарай ха-Арби.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Хецро"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ха-Кармели"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "Паарай"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "ха-Арби"
+    }
+  ],
+  "timestamp": "2026-10-04T11:45:12.150200777Z",
+  "model": "glm-5.3"
+}

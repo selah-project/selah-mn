@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Шеломо Хирамд ингэж хэлүүлэн илгээв.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "илгээв"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирамд"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлүүлэн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:48:15.511180789Z",
+  "model": "glm-5.3"
+}

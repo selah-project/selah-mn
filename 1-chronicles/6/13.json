@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Шемуэлийн хөвгүүд — төрөлхийн анхны нь Вашни, мөн Абиа.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ба хөвгүүд"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуэлийн"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "төрөлхийн анхны нь"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "Вашни"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "мөн Абиа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:57.018538573Z",
+  "model": "glm-5.3"
+}

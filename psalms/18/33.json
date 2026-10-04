@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Эл намайг хүчээр бүсэлж, замыг минь төгс болгоно.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "намайг бүсэлж"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "хүчээр"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "болгоно"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "төгс"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "замыг минь"
+    }
+  ],
+  "timestamp": "2026-10-04T13:37:07.246801038Z",
+  "model": "glm-5.3"
+}

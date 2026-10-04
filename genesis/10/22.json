@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Шемийн хөвгүүд: Элам, Ашшур, Арпахшад, Луд, Арам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шемийн"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Элам"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "Ашшур"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "Арпахшад"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "Луд"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "Арам"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:51.854454512Z",
+  "model": "glm-5.3"
+}

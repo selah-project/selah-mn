@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Сонсдог чих, хардаг нүд — Яхвэ хоёуланг нь бүтээв.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "чих"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "Сонсдог"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "нүд"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "хардаг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "бүтээв"
+    },
+    {
+      "surface": "גם",
+      "gloss": "хоёуланг"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "нь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:19.675992254Z",
+  "model": "glm-5.3"
+}

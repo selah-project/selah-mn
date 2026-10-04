@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Шеломо Хамат-Цовба руу явж, түүнийг даван эзэлжээ.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цовба"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "даван эзэлжээ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "түүний эсрэг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:11:53.870744307Z",
+  "model": "glm-5.3"
+}

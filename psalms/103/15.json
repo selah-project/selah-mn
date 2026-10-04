@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 103,
+  "translation": "Хүний өдрүүд өвс шиг; хээрийн цэцэг шиг тэр цэцэглэнэ.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Хүний"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "өвс шиг"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "өдрүүд"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "цэцэг шиг"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "хээрийн"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "цэцэглэнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:54:12.329975558Z",
+  "model": "glm-5.3"
+}

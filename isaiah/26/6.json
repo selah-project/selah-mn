@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Хөл түүнийг дардаг — ядуусын хөл, гуйнгийн алхам түүнийг дардаг.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "түүнийг дардаг"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "хөл"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "хөл"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ядуусын"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "алхам"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "гуйнгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:16:56.101604881Z",
+  "model": "glm-5.3"
+}

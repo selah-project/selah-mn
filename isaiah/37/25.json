@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Би ус гаргаж уусан, хөлийн ул маань Мицраймын бүх сувгуудыг хатаасан.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "ус гаргасан"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "ба уусан"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "ואחרב",
+      "gloss": "ба хатаасан"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "ул"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "хөл"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "сувгууд"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "Мицраймын"
+    }
+  ],
+  "timestamp": "2026-10-04T12:21:13.918546756Z",
+  "model": "glm-5.3"
+}

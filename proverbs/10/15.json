@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Баяны баялаг түүний хүчт хот мөн, ядуусын сүйрэл бол тэдний ядуурал.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "баялаг"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "баяны"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "хот"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "хүчт"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "сүйрэл"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ядуусын"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "ядуурал"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:28.181379042Z",
+  "model": "glm-5.3"
+}

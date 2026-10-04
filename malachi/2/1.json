@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Одоо энэ тушаал та тахин үйлчлэгчид нарт байна.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "энэ тушаал"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "тахин үйлчлэгчид"
+    }
+  ],
+  "timestamp": "2026-10-04T13:33:06.087713775Z",
+  "model": "glm-5.3"
+}

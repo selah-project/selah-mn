@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Ха, долоон жил ирж байна — Мицраймын бүх нутагт их элбэг.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ха"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жил"
+    },
+    {
+      "surface": "באות",
+      "gloss": "ирж байна"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "элбэг"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "их"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "нутагт"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраймын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:01:17.835052055Z",
+  "model": "glm-5.3"
+}

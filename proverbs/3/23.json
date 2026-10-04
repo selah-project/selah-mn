@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэгээд чи замдаа аюулгүй явна, чиний хөл бүдрэхгүй.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тэгээд"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "явна"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "аюулгүй"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "чиний замдаа"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ба чиний хөл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү \/ үгүй"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "бүдрэх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:52.172061070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Үхэр гучин зургаан мянга.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "гучин"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    }
+  ],
+  "timestamp": "2026-10-04T10:47:29.150882837Z",
+  "model": "glm-5.3"
+}

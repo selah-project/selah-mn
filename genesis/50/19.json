@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 50,
+  "translation": "Йосеф тэдэнд хэлэв: Бүү ай; учир нь би Элохимын оронд байгаа юм уу?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "оронд"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    }
+  ],
+  "timestamp": "2026-10-04T10:04:38.980367278Z",
+  "model": "glm-5.3"
+}

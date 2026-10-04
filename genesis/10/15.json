@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Кенаан ⟨את⟩ өөрийн ууган хүү Цидон, ⟨את⟩ Хетыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цидон"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Цидон"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ууган хүү нь"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хет"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хет"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:52.660282009Z",
+  "model": "glm-5.3"
+}

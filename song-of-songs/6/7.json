@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Халхны чинь цаана чамархай чинь анарны хэлтэг шиг.",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "хэлтэг шиг"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "анарны"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "чамархай чинь"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "…ны цаана"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "халхны чинь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:27:39.679335638Z",
+  "model": "glm-5.3"
+}

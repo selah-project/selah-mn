@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Сум нумаар хүн тэнд орж болно: учир нь бүхэл газар нь ширэнг ба өд болж хувирах болно.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "сумаар"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "ба нумаар"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "орно"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ширэнг"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "ба өд"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэл"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T15:42:12.367793369Z",
+  "model": "glm-5.3"
+}

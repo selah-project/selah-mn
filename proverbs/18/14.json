@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 18:14",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Хүний руах өвчин нь түүнийг тэвчинэ, гэвч дарлагдсан руахыг хэн өргөх вэ?",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "тэвчинэ"
+    },
+    {
+      "surface": "מחלהו",
+      "gloss": "өвчин нь"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "гэвч руахыг"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "дарлагдсан"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "ישאנה",
+      "gloss": "өргөх вэ?"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:12.441107962Z",
+  "model": "glm-5.3"
+}

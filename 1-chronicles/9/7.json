@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Биньяминий хөвгүүдийн дундаас: Саллу, Мешулламын хүү, Ходавяагийн хүү, Хасенуагийн хүү.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "-ын дундаас"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямин"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Саллу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешуллам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Ходавяа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Хасенуа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:17.420954359Z",
+  "model": "glm-5.3"
+}

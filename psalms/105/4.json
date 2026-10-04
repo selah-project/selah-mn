@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 105,
+  "translation": "Яхвэг ба Түүний хүчийг эрэн, Үргэлж Түүний нүүрийг хай.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "эрэн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэг"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "ба Түүний хүчийг"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "хай"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Түүний нүүрийг"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "Үргэлж"
+    }
+  ],
+  "timestamp": "2026-10-04T13:55:27.283564523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Эсав хэлэв: Миний их бий, ах минь, чинийх чинь өөрт чинь байг.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсав"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "לי",
+      "gloss": "миний"
+    },
+    {
+      "surface": "רב",
+      "gloss": "их"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ах минь"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "байг"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөрт чинь"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу нь"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чинийх"
+    }
+  ],
+  "timestamp": "2026-10-04T09:57:23.726895638Z",
+  "model": "glm-5.3"
+}

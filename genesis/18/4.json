@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Ядахдаа бага зэрэг ус авагдаж, хөлөө угаагаад, модны доор түшиж амраач.",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "авагдаж"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Ядахдаа"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "бага зэрэг"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "угаагаад"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "хөлөө"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "түшиж амраач"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "доор"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "модны"
+    }
+  ],
+  "timestamp": "2026-10-04T09:50:59.281056840Z",
+  "model": "glm-5.3"
+}

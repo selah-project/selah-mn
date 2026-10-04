@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Яхвэ Билеамд уулзаж, үгийг түүний аманд өгөөд хэлсэн нь: Балак руу буц, ингэж ярь.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "уулзаж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билеам"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "өгөөд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "түүний аманд"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлсэн нь"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "буц"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ярь"
+    }
+  ],
+  "timestamp": "2026-10-04T10:44:57.747213422Z",
+  "model": "glm-5.3"
+}

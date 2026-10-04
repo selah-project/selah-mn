@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "ба Яхац, Кедемот, Мефаат.",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "ба Яхац"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "Кедемот"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "Мефаат"
+    }
+  ],
+  "timestamp": "2026-10-04T11:08:27.762023449Z",
+  "model": "glm-5.3"
+}

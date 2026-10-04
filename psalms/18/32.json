@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Учир нь Яхвээс өөр Элохим хэн байна? Бидний Элохимоос өөр хад хэн байна?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "мי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ба хэн"
+    },
+    {
+      "surface": "צור",
+      "gloss": "хад"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "бидний Элохим"
+    }
+  ],
+  "timestamp": "2026-10-04T13:37:26.777751637Z",
+  "model": "glm-5.3"
+}

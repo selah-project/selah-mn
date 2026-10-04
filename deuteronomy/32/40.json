@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Учир нь Би тэнгэр рүү гараа өргөж хэлнэ: Би мөнхөд амьд байна.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "өргөж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "рүү"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "тэнгэр"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "хэлнэ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Би"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "мөнхөд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:06.537418187Z",
+  "model": "glm-5.3"
+}

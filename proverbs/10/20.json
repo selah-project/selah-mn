@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Шударгын хэл сонгосон мөнгө мөн, муусайнхны зүрх бага үнэтэй.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "мөнгө"
+    },
+    {
+      "surface": "нבחר",
+      "gloss": "сонгосон"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "шударгын"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "муусайнхны"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "бага үнэтэй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:27.801834994Z",
+  "model": "glm-5.3"
+}

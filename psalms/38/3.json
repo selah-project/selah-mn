@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Учир нь Таны сумнууд надад шургалж, Таны гар над дээр даржээ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "Таны сумнууд"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "шургалж"
+    },
+    {
+      "surface": "בי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "даржээ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над дээр"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Таны гар"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:34.307535733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 4:44",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Энэ бол Тора, Мошегийн Йисраэлийн хөвгүүдийн өмнө тавьсан.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Энэ бол"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "שם",
+      "gloss": "тавьсан"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошегийн"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэл"
+    }
+  ],
+  "timestamp": "2026-10-04T10:52:13.721533892Z",
+  "model": "glm-5.3"
+}

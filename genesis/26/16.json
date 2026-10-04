@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Абимелех Йицхакт хэлэв: Биднээс яв, учир нь чи биднээс маш их хүчтэй болсон.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Абимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-т"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "לך",
+      "gloss": "яв"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "биднээс"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "хүчтэй болсон"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "биднээс"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш их"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:59.209111993Z",
+  "model": "glm-5.3"
+}

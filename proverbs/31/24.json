@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Тэр ноосон дээл хийж зарна, бүс Кенаан худалдаачинд өгөв.",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "ноосон дээл"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "хийж"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "зарна"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "бүс"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "Кенаан худалдаачинд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:40.820086973Z",
+  "model": "glm-5.3"
+}

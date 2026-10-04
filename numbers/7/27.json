@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Үхэр нэг, сүргийн төл, хун нэг, хурга нэг, нэгэн настай, шатаах тахилд.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "төл"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "сүргийн"
+    },
+    {
+      "surface": "איל",
+      "gloss": "хун"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "нэгэн насаар"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "шатаах тахилд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:36:03.770268272Z",
+  "model": "glm-5.3"
+}

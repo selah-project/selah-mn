@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Тэрээр төрөхдөө хүндэрч байхад эх баригч түүнд хэлэв: Бүү ай, учир нь энэ ч бас чамд хүү юм.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болоод"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "хүндэрч байхад"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "төрөхдөө"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לה",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "эх баригч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:48.276520561Z",
+  "model": "glm-5.3"
+}

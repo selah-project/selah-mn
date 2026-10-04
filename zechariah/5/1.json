@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Би эргэж, нүдээ өргөж харвал ⟨яа⟩ нисдэг дэвтэр байна.",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "Би эргэж"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "өргөж"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "нүдээ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "харвал"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "яа"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "дэвтэр"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "нисдэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:30:39.018124286Z",
+  "model": "glm-5.3"
+}

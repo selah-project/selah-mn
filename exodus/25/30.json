@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Ширээн дээр Миний өмнө үргэлж байх нүүрний талх тавь.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "тавь"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "ширээн"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "нүүрний"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "Миний өмнө"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "үргэлж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:15:24.044411758Z",
+  "model": "glm-5.3"
+}

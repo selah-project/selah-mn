@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Учир нь тэр хэлнэ: Миний ноёд бүгдээрээ хаад биш гэж үү?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "тэр хэлнэ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "биш гэж үү"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Миний ноёд"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "бүгдээрээ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "хаад"
+    }
+  ],
+  "timestamp": "2026-10-04T12:13:01.887758709Z",
+  "model": "glm-5.3"
+}

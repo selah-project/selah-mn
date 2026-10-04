@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Тэд дарс ууж, алт, мөнгө, зэс, төмөр, мод, чулуун бурхадыг магтав.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "ууж"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "дарс"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "ба магтав"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "бурхадад"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "ба мөнгөн"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "зэс"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "төмөр"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "модон"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "ба чулуун"
+    }
+  ],
+  "timestamp": "2026-10-04T14:41:23.065446387Z",
+  "model": "glm-5.3"
+}

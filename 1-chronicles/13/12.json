@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Давид тэр өдөр ⟨את⟩ Элохимээс айн: «Элохимын сүн даланг би өөртөө хэрхэн авчрах билээ?» гэв.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "айн"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тер"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    },
+    {
+      "surface": "היך",
+      "gloss": "хэрхэн"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "авчрах"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сүн даланг"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "сүн далан"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:59.848563375Z",
+  "model": "glm-5.3"
+}

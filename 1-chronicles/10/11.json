@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Ябеш Гилеадын бүх хүмүүс Филиштимчүүд Шаулд юу хийснийг ⟨את⟩ бүгдийг сонсов.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "сонсов"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Ябеш"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилеад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүгдийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгдийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "хийснийг"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Филиштимчүүд"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:06.100056412Z",
+  "model": "glm-5.3"
+}

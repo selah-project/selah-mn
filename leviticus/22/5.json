@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 22:5",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "эсвэл хүн шүүлтэр ямар ч нь хүрвэл түүнд бузарлах, эсвэл хүнээр түүнд бузарлах, түүний бузар бүхэд нь.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "хүрвэл"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "шүүлтэр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "бузарлах"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "או",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "хүнээр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "бузарлах"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүхэд нь"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "түүний бузар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:29:56.463716431Z",
+  "model": "glm-5.3"
+}

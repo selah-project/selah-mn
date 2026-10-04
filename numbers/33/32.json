@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 33:32",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Бенэй-Яаканаас одож, Хор-Хагидгадад буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "одож"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "Бенэй-Яаканаас"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": ""
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "Хор-"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "Хагидгадад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:16.824491145Z",
+  "model": "glm-5.3"
+}

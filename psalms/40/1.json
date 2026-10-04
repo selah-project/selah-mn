@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Хөгжмийн удирдагчид — Давидын залмас.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Хөгжмийн удирдагчид"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "залмас"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:48.876623324Z",
+  "model": "glm-5.3"
+}

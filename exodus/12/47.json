@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Йисраелийн бүх чуулган ⟨את⟩ түүнийг гүйцэтгэнэ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "чуулган"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "гүйцэтгэнэ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "түүнийг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:09:34.803960257Z",
+  "model": "glm-5.3"
+}

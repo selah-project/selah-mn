@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 33:44",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Оботоос нүүж, Моабын хил дээрх Эй-ха-Аваримд бүгжээ.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүжээ"
+    },
+    {
+      "surface": "מאבת",
+      "gloss": "Оботоос"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "бүгжээ"
+    },
+    {
+      "surface": "בעיי",
+      "gloss": "Эй...д"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "ха-Аварим"
+    },
+    {
+      "surface": "בגבול",
+      "gloss": "хил дээрх"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:09.448506258Z",
+  "model": "glm-5.3"
+}

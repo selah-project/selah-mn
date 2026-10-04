@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Ухаантан тэнэгээс юу илүүтэй вэ? Амьд хүмүүсийн дунд яаж алхахаа мэддэг ядуудад юу бий?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "илүү"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ухаантанд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "тэнэг"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ядуудад"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "мэддэг"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "алхахаа"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "амьд хүмүүсийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:00.305911077Z",
+  "model": "glm-5.3"
+}

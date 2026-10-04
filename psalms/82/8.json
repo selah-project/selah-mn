@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 82,
+  "translation": "Бос, Элохим минь, дэлхийг шүүж, үндэстнүүдийн бүхий л нутгийг өвлөн ав.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Бос"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "шүүж"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "дэлхийг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "өвлөн ав"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүхий л"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "үндэстнүүдийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:45.217691446Z",
+  "model": "glm-5.3"
+}

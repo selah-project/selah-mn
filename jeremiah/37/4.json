@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 37:4",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Ирмая ард түмний дунд орж гарч байлаа, ⟨את⟩ түүнийг хорих байранд оруулаагүй байв.",
+  "tokens": [
+    {
+      "surface": "וירמיהו",
+      "gloss": "Ирмая"
+    },
+    {
+      "surface": "בא",
+      "gloss": "орж"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмний"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "оруулаагүй"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "түүнийг ⟨את⟩",
+      "marks": "Ирмая"
+    },
+    {
+      "surface": "בית",
+      "gloss": "байр"
+    },
+    {
+      "surface": "הכליא",
+      "gloss": "хорих"
+    }
+  ],
+  "timestamp": "2026-10-04T12:48:49.634066341Z",
+  "model": "glm-5.3"
+}

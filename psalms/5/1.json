@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Хөгжийн захирагчид — нэхилот дээр. Давидын залмас.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "захирагчид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "нэхилот"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "залмас"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:34:25.597326257Z",
+  "model": "glm-5.3"
+}

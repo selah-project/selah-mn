@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Ядарсан сэтгэлд сэрүүн ус мэт, алслагдсан нутгаас ⟨ирсэн⟩ сайн мэдээ.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "сэрүүн"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "сэтгэл"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ядарсан"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "ба … мэдээ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "нутгаас"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "алслагдсан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:52.319880997Z",
+  "model": "glm-5.3"
+}

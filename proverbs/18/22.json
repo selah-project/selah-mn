@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Эмэгтэй олсон хүн сайныг олжээ, Яхвэгийн тааллыг олж авна.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "олсон"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эмэгтэй"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "олжээ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "ба олж авна"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "тааллыг"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:22.446782881Z",
+  "model": "glm-5.3"
+}

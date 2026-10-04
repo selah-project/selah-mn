@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Бигвайн хөвгүүд, хоёр мянган тавин зургаа.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Бигвайн"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хоёр мянган"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ба зургаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:11.534394045Z",
+  "model": "glm-5.3"
+}

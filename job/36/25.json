@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Хүн бүхэн түүнийг харсан, энэс холыг хардаг.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "харсан"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнийг"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "энэс"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "хардаг"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "холыг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:24:14.062845083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Йехудаас — Нахшон, Аминадавын хүү.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "Йехудаас"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Нахшон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Аминадав"
+    }
+  ],
+  "timestamp": "2026-10-04T10:32:52.126382144Z",
+  "model": "glm-5.3"
+}

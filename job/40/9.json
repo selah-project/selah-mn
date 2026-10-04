@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 40:9",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Чи Эл шиг гартай юу? Түүн шиг дуугаар аяндаах чадвартай юу?",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "чи ... юу?"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "гар"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "Эл шиг"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "дуугаар"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "түүн шиг"
+    },
+    {
+      "surface": "תרעם",
+      "gloss": "аяндаах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:25:33.677592304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 83,
+  "translation": "Дуу, мөргөлийн дуу, Асафынх.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Дуу"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мөргөлийн дуу"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафынх"
+    }
+  ],
+  "timestamp": "2026-10-04T13:50:16.548069480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Хоёр дахь өдөр Зуарын хүү Нетанел, Иссахарын ноён, ойртуулав.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "השני",
+      "gloss": "хоёр дахь"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "ойртуулав"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Зуар"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Иссахар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:45.551150247Z",
+  "model": "glm-5.3"
+}

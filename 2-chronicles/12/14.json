@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Тэр мууг үйлдэв, учир нь Яхвэг ⟨את⟩ эрж хайхын тулд зүрхээ бэлдээгүй байв.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Тэр үйлдэв"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "мууг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "бэлдээгүй"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "зүрхээ"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "эрж хайхын тулд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:13:14.123555480Z",
+  "model": "glm-5.3"
+}

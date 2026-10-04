@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "ба Ногah... ",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "ба Ногах"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ба Нефег"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ба Яфиа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:22.902830736Z",
+  "model": "glm-5.3"
+}

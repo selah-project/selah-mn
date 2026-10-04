@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Йисраел аа, сонс: Яхвэ бол бидний Элохим, Яхвэ бол нэг.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "сонс"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "бидний Элохим"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:26.758690173Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 7:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Тэр түүнийг барьж, түүнд үнсэж, царайгаа зоригжуулан түүнд хэлэв",
+  "tokens": [
+    {
+      "surface": "והחזיקה",
+      "gloss": "барьж"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнийг"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "үнсэж"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "העזה",
+      "gloss": "зоригжуулан"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "царайгаа"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:24.701073413Z",
+  "model": "glm-5.3"
+}

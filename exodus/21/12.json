@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Хүнийг цохиод үхүүлбэл түүнийг заавал цаазаар авна.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "цохиход"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүнийг"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "үхвэл"
+    },
+    {
+      "surface": "מות",
+      "gloss": "цаазаар"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "авагдана"
+    }
+  ],
+  "timestamp": "2026-10-04T10:12:55.550167270Z",
+  "model": "glm-5.3"
+}

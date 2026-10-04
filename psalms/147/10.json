@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 147,
+  "translation": "Тэр морины хүчээр баясдаггүй, хүний шөрмөсөөр таардаггүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "баясдаггүй"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "хүчээр"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "морины"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "таардаггүй"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "шөрмөсөөр"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T14:02:45.362723501Z",
+  "model": "glm-5.3"
+}

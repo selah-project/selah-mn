@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хабаккук эш үзүүлэгчийн залбирал, Шигйонот дээр.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "залбирал"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "Хабаккукийн"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "эш үзүүлэгчийн"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "Шигйонот"
+    }
+  ],
+  "timestamp": "2026-10-04T13:28:18.012170205Z",
+  "model": "glm-5.3"
+}

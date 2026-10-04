@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Эдомыг бүү жигш, учир нь тэр чиний ах мөн; Мицрайм хүнийг бүү жигш, учир нь чи түүний нутагт суурин байсан.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "жигш"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Эдомыг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "чиний ах"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "жигш"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "Мицрайм хүнийг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "גר",
+      "gloss": "суурин"
+    },
+    {
+      "surface": "היית",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "түүний нутагт"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:18.654355861Z",
+  "model": "glm-5.3"
+}

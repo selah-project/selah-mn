@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "ба Ишмайа Гивеон хүн, гучийн дунд баатар, ба гучингийн тэргүүн.",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "ба Ишмайа"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "Гивеон хүн"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "баатар"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "гучийн дунд"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ба ... дээр"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "гучин"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:03.930849873Z",
+  "model": "glm-5.3"
+}

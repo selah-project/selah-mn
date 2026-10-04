@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Йисраел Йосефын хөвгүүдийг ⟨את⟩ хараад: Энэ чинь хэн бэ? гэв.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "хараад"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йосефын хөвгүүд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефын"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:04:25.207534498Z",
+  "model": "glm-5.3"
+}

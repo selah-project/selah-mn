@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Өргөгдсөн нүд, худал хэлсэн хэл, цус гаргадаг гарүүд, гэмгүй хүний цусыг асгадаг.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "нүд"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "өргөгдсөн"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "худал"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "ба гарүүд"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "асгадаг"
+    },
+    {
+      "surface": "דם",
+      "gloss": "цус"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "гэмгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:32.436614982Z",
+  "model": "glm-5.3"
+}

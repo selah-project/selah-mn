@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "ба Шамшерай, ба Шехарья, ба Аталья",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "ба Шамшерай"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "ба Шехарья"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "ба Аталья"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:21.789519075Z",
+  "model": "glm-5.3"
+}

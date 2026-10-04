@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Надад бүү хол бай, учир нь шаналал ойрхон билээ, учир нь туслагч алга.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "хол бай"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "надад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "шаналал"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "ойрхон билээ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אין",
+      "gloss": "алга"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "туслагч"
+    }
+  ],
+  "timestamp": "2026-10-04T13:36:50.293533061Z",
+  "model": "glm-5.3"
+}

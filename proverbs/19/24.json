@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Залхуу хүн гараа тавагт нууна; бүр амандаа хүртэл буцааж авахгүй.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "нууна"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "залхуу"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "тавагт"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бүр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "амандаа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "буцааж авахгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:26.313554265Z",
+  "model": "glm-5.3"
+}

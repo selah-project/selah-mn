@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Бейт-Эл ба Айгийн хүмүүс — зуун хорин гурван.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "хүмүүс"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Эл"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ба Ай"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "гурван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:37.666668066Z",
+  "model": "glm-5.3"
+}

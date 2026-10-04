@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр надад отох баавгай бол нууц газар нуугдах арслан мөн.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "баавгай"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "отох"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "арслан"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "нууц газар нуугдах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:49.937535276Z",
+  "model": "glm-5.3"
+}

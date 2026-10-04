@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Чи үзсэн, Яхвэ минь, чимээгүй бүү бай; Адонай минь, надаас бүү холд.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Чи үзсэн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ минь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "чимээгүй бай"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай минь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "холд"
+    },
+    {
+      "surface": "мמני",
+      "gloss": "надаас"
+    }
+  ],
+  "timestamp": "2026-10-04T13:39:48.724069110Z",
+  "model": "glm-5.3"
+}

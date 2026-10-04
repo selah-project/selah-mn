@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 127,
+  "translation": "Баатарын гар дахь сум шиг — залуу насны хөвгүүд тийм.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "сум шиг"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "гар дахь"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "баатарын"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тийм"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "залуу насны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:04.474417760Z",
+  "model": "glm-5.3"
+}

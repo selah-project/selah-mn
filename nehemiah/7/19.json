@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Бигвагийн хөвгүүд — хоёр мянга жаран долоон.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Бигва"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хоёр мянга"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "жаран"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ба долоон"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:25.776833243Z",
+  "model": "glm-5.3"
+}

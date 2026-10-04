@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 140,
+  "translation": "Би мэднэ: Яхвэ ядруугийн шүүлт, ядуучуудын шүүхийг хийнэ.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Би мэднэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "хийнэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "шүүлт"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ядруугийн"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүхийг"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "ядуучуудын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:55.679622047Z",
+  "model": "glm-5.3"
+}

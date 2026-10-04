@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 50,
+  "translation": "Би уулын бүх шувуудыг мэднэ, хээрийн араатан Надтай хамт байдаг.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Би мэднэ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "шувуудыг"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "уулын"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "араатан"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "хээрийн"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "Надтай хамт"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:32.898865981Z",
+  "model": "glm-5.3"
+}

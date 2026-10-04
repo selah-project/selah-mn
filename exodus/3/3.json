@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Моше хэлэв: Би одоо түр хазайж ⟨את⟩ энэ агуун үзэгдлийг харъя, яагаад сүн шатдаггүй юм бол?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "хазайя"
+    },
+    {
+      "surface": "נא",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "харъя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үзэгдлийг"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "үзэгдлийг"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "агуун"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "шатдаг"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "сүн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:05:49.277302025Z",
+  "model": "glm-5.3"
+}

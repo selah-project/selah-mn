@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Харин дөрвөн хөлтэй нүүрлэгч шувууд бүхэн та нарын дургүй тул байх болно.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "харин бүхэн"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "нүүрлэгч"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "шувууд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нийт"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нь"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "хөлтэй"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "дургүй тул"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "байх"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:24:24.105581359Z",
+  "model": "glm-5.3"
+}

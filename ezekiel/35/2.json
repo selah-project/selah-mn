@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Хүний хүү аа, царайгаа Сеирийн уул руу хандуулж, түүний эсрэг эш үзүүл.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "שים",
+      "gloss": "хандуулж"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "царайгаа"
+    },
+    {
+      "surface": "על",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеирийн"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "эш үзүүл"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүний эсрэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:11:00.932388673Z",
+  "model": "glm-5.3"
+}

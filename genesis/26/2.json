@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Яхвэ түүнд үзэгдэж, айлдав: Мицрайм руу бүү бууж, чамд хэлэх газарт суурьша.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "үзэгдэж"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "бууж"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "Мицрайм руу"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "суурьша"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "Газарт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кийг"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэлэх"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:25.496969042Z",
+  "model": "glm-5.3"
+}

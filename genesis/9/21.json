@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Тэр даруунаас ууж, согтуурав, майхныхаа дунд нүцгэрчээ.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "ууж"
+    },
+    {
+      "surface": "מן",
+      "gloss": "даруунаас"
+    },
+    {
+      "surface": "היין",
+      "gloss": "даруу"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "согтуурав"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "нүцгэрчээ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "майхныхаа"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:23.193394329Z",
+  "model": "glm-5.3"
+}

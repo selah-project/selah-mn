@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Хэрэв эмэгтэй бол таны үнэлгээ гучин шекел байг.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "эмэгтэй"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бол"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "байг"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "таны үнэлгээ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "гучин"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "шекел"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:53.808078162Z",
+  "model": "glm-5.3"
+}

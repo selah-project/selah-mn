@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 6:19",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Худал амьсгалдаг худал гэрч, ах дүүсийн дунд маргаан өдөөгч.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "амьсгалдаг"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "худал"
+    },
+    {
+      "surface": "עד",
+      "gloss": "гэрч"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "худал"
+    },
+    {
+      "surface": "ומשלח",
+      "gloss": "ба өдөөгч"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "маргаан"
+    },
+    {
+      "surface": "בין",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ах дүүсийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:32.437024847Z",
+  "model": "glm-5.3"
+}

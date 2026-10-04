@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Парох Йосефт хэлэв: Зүүдэндээ үзэхэд ⟨би⟩ мөрөн дээрээ зогсож байна.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-т"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "зүүдэндээ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "үзэхэд"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "зогсож байна"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээрээ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "эрэг"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "мөрөн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:01:08.085215755Z",
+  "model": "glm-5.3"
+}

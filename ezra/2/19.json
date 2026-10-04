@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хашумын хөвгүүд — хоёр зуу хорин гурван.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хашумын"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "хоёр зуу"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "гурван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:16.855174299Z",
+  "model": "glm-5.3"
+}

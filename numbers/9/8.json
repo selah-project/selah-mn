@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Моше тэдэнд хэлэв: Зогсогтун, Яхвэ та нарын тухай юу тушаахыг би сонсъё.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "Зогсогтун"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "сонсъё"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "тушаах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарын тухай"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:23.030542477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Учир нь амьд бүгдэд холбогдсон хэн боловч найдвар бий: амьд нохой нь үхсэн арслангаас дээр.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "бол"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "холбогдсон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "найдвар"
+    },
+    {
+      "surface": "כי",
+      "gloss": "яагаад гэвэл"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "ноход"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...аас"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "арслан"
+    },
+    {
+      "surface": "המת",
+      "gloss": "үхсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:47.288050392Z",
+  "model": "glm-5.3"
+}

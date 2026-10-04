@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Давид Яхвэгийн Нэрийн өмнөөс ярьсан Гадын үгээр өгсөв.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "өгсөв"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "үгээр"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гадын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "нь"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ярьсан"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Нэрийн өмнөөс"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:06.413390472Z",
+  "model": "glm-5.3"
+}

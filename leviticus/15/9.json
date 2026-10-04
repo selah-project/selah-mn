@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Мөн завжтай хүн түүн дээр нь унах бүх эмээл бузар болно.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "эмээл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "түүн дээр нь унах"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "унадаг"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүн дээр"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "завжтай хүн"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "бузар болно"
+    }
+  ],
+  "timestamp": "2026-10-04T10:28:29.979986294Z",
+  "model": "glm-5.3"
+}

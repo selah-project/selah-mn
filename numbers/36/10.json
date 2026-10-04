@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Яахвэ Мошед тушаасны дагуу Цлофхадын охид тэгж гүйцэтгэв.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "…ны дагуу"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яахвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тэгж"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "гүйцэтгэв"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "охид"
+    },
+    {
+      "surface": "цלפחד",
+      "gloss": "Цлофхадын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:16.443659355Z",
+  "model": "glm-5.3"
+}

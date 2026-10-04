@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэ доош төвхнөж, тэнгэрээс үзэх хүртэл.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "доош төвхнөж"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ба үзэх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "тэнгэрээс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:30:58.935654185Z",
+  "model": "glm-5.3"
+}

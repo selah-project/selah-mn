@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 18:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Хүслийн төлөө ⟨хүн⟩ ганцаарч, бүх ухааны эсрэг ⟨хэтрүүлж⟩ зөрчинө.",
+  "tokens": [
+    {
+      "surface": "לתאוה",
+      "gloss": "хүслийн төлөө"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "хайна"
+    },
+    {
+      "surface": "נפרד",
+      "gloss": "ганцаардагч"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "ухаан"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "зөрчинө"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:10.504753976Z",
+  "model": "glm-5.3"
+}

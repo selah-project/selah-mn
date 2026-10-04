@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Гедалияг аласнаас хоёр дахь өдөр боллоо, хүн ч үүнийг мэдсэнгүй.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "השני",
+      "gloss": "хоёр дахь"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "аласнаас"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гедалияг"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Гедалия"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ба хүн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мэдсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:49:59.736051631Z",
+  "model": "glm-5.3"
+}

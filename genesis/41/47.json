@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Газар элбэг долоон жилд бүрэн хуруугаар ургац өгөв.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Газар"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "שני",
+      "gloss": "жилд"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "элбэг"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "бүрэн хуруугаар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:02:03.079776385Z",
+  "model": "glm-5.3"
+}

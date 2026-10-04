@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Сүй! Тэр бослого гаргагч бузарласан нь, дарамтладаг хот билээ!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Сүй"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "бослого гаргагч"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "бузарласан нь"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "дарамтладаг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:28:55.058331528Z",
+  "model": "glm-5.3"
+}

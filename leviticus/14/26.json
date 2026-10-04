@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Тахилч тосноос өөрийн зүүн алган дээрээ асгана.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "-оос"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "тосноос"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "асгана"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כף",
+      "gloss": "алган"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилчийн"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "зүүн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:27:08.558421617Z",
+  "model": "glm-5.3"
+}

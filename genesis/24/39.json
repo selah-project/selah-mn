@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Би эзэн минь гэж хэлэхэд: Магадгүй тэр эм надад дагаж ирэхгүй байж болно.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "би … гэж хэлэхэд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-д"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "эзэн минь"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "магадгүй"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "явахгүй"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "тер эм"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "над дагаж"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:25.724967683Z",
+  "model": "glm-5.3"
+}

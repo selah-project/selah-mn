@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Рефах түүний хүү, Решеф, Телах түүний хүү, Тахан түүний хүү бөгөөд",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "Рефах"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "Решеф"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "Телах"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "Тахан"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хүү"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:07.895150486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 36:38",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Шаул нас барж, түүний оронд Ахборын хүү Баал-Ханан хаанчлав.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "нас барж"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "хаанчлав"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "түүний оронд"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "Ахборын"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:08.226395779Z",
+  "model": "glm-5.3"
+}

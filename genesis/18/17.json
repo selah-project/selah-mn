@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Яхвэ өөртөө айлдав: Би хийх гэж буй зүйлээ Аврахамаас нуух ёстой юу?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "нуух ёстой юу"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "Аврахамаас"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "зүйлээ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийх гэж буй"
+    }
+  ],
+  "timestamp": "2026-10-04T09:51:00.498638516Z",
+  "model": "glm-5.3"
+}

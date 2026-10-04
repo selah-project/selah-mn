@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Бузар ба цэврийн, идэж болох амьтан ба идэж болохгүй амьтныг ялгахын тулд.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "ялгахын тулд"
+    },
+    {
+      "surface": "בין",
+      "gloss": "хооронд"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "бузар"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ба"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "цэвэр"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ба"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "амьтан"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "идэж болох"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ба"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "амьтан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "үүнийг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "болохгүй"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "идэж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:24:18.625718501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Пелег гучин жил амьдарч, ⟨את⟩ Реуг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "амьдарч"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Пелег"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "гучин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Реуг"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Реуг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:49:08.150657454Z",
+  "model": "glm-5.3"
+}

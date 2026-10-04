@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Шеломод нэг жилд ирсэн алтны жин зургаан зуун жаран зургаан тал алт байв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "жин"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтны"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юн нь"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ирсэн"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "Шеломод"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "жилд"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "שש",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "жаран"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ба зургаан"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "тал"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алт"
+    }
+  ],
+  "timestamp": "2026-10-04T11:50:36.359048983Z",
+  "model": "glm-5.3"
+}

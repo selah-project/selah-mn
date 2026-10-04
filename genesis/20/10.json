@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Абимелех Аврахамд хэлэв: Юу харсан учир чи ⟨את⟩ энэ үйлийг хийв?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Абимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "харсан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "чи хийв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ үйл"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үйл"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T09:52:34.908125610Z",
+  "model": "glm-5.3"
+}

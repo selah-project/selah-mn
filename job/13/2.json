@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Та нарын мэддэг шиг би ч бас мэднэ; би та нараас доогүй.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "та нарын мэддэг шиг"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "би мэднэ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "доогүй"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "та нараас"
+    }
+  ],
+  "timestamp": "2026-10-04T14:17:43.973798983Z",
+  "model": "glm-5.3"
+}

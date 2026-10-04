@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Хоребаас Сеэр уулын замаар Кадеш-Барнеа хүртэл арван нэгэн өдрийн зай.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "нэгэн"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдрийн"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "Хоребаас"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "замаар"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уулын"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеэр"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Барнеа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:11.022874693Z",
+  "model": "glm-5.3"
+}

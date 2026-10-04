@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Тэд: Ойрхон биш, байшин барьцгаая гэж хэлдэг. Энэ хот бол тогоо, бид бол мах.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "хэлдэг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "ойрхон"
+    },
+    {
+      "surface": "бנות",
+      "gloss": "барьцгаая"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "байшин"
+    },
+    {
+      "surface": "היא",
+      "gloss": "бол"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "тогоо"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "бид"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "мах"
+    }
+  ],
+  "timestamp": "2026-10-04T12:59:59.425477174Z",
+  "model": "glm-5.3"
+}

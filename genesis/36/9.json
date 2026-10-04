@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Эдгээр нь Эдомын эцэг Эсавийн үр удам бөгөөд тэд Сеир ууланд байв.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Эдгээр нь"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "үр удам"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Эсавийн"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомын"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ууланд"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:13.338738871Z",
+  "model": "glm-5.3"
+}

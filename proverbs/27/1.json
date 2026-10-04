@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Маргаашын өдөрт бүү бахдаж ярь, учир нь ямар өдөр төрүүлэхийг чи мэдэхгүй.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "бахдаж ярь"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "маргаашын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "мэдэхгүй"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "чи мэдэхгүй"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "төрүүлэхийг"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:39.350703982Z",
+  "model": "glm-5.3"
+}

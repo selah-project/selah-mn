@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 9:4",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Үзэгтүн, Адонай түүнийг залгамдан, түүний хүчийг далайд цохино, тэр галд идэгдэнэ.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Үзэгтүн"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יורשנה",
+      "gloss": "залгамдан"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "цохино"
+    },
+    {
+      "surface": "בים",
+      "gloss": "далайд"
+    },
+    {
+      "surface": "חילה",
+      "gloss": "хүчийг"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "באש",
+      "gloss": "галд"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "идэгдэнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:31:18.120063992Z",
+  "model": "glm-5.3"
+}

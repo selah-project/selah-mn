@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Чиний толгойн дээрх тэнгэр чинь хүрэл болог, чиний доорх газар чинь төмөр болог.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "болог"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "чиний тэнгэр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "толгойн"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "хүрэл"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "доорх"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "төмөр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:01:48.097751786Z",
+  "model": "glm-5.3"
+}

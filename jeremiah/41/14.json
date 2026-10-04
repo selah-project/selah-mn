@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 41:14",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Ишмаел Мицпагаас олзолж авсан бүх ард түмэн буцаж, Йоханан Кареахын хүү рүү очижээ.",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "эргэв"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэн нь"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "олзолж"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ишмаел"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Мицпа"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "буцаж"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "явав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "рүү"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Йоханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кареах"
+    }
+  ],
+  "timestamp": "2026-10-04T12:49:26.827483902Z",
+  "model": "glm-5.3"
+}

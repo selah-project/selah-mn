@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Чуулганд ус байсангүй, тэд Моше ба Аарон дээр цуглрав.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ба ... байсангүй"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байсангүй"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "чуулганд"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "цуглрав"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ба ... дээр"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    }
+  ],
+  "timestamp": "2026-10-04T10:43:07.716804719Z",
+  "model": "glm-5.3"
+}

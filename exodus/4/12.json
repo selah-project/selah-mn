@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Одоо яв: Би чиний амтай хамт байх болно, чамд юу ярихаа заая.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "לך",
+      "gloss": "яв"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ба Би"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "байх болно"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "чиний амтай"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "заая"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ярих"
+    }
+  ],
+  "timestamp": "2026-10-04T10:05:59.030512013Z",
+  "model": "glm-5.3"
+}

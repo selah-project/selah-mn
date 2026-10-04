@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Моше тэдэнд хэлэв: Та нар бүх эмсийг амьдаа үлдээв үү?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "амьдаа үлдээв үү"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "эмсийг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:47:52.617575626Z",
+  "model": "glm-5.3"
+}

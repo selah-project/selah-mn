@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 43,
+  "translation": "Нүдтэй боловч сохор, чихтэй боловч дүл ард түмнийг ⟨гаргаж⟩ ир.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "гарга"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "עור",
+      "gloss": "сохор"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ба нүдтэй"
+    },
+    {
+      "surface": "יש",
+      "gloss": "байх"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "ба дүл"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ба чихтэй"
+    },
+    {
+      "surface": "למו",
+      "gloss": "тэдэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:44:15.546237695Z",
+  "model": "glm-5.3"
+}

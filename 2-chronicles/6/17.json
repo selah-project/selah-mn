@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 6:17",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Одоо Йисраелийн Элохим Яхвэ минь, бо Давидад айлдсан үгээ батлах болтуг.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Одоо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "יאמן",
+      "gloss": "батлагдах болтуг"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Таны үг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "айлдсан"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "Таны боход"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давидад"
+    }
+  ],
+  "timestamp": "2026-10-04T16:00:01.261591133Z",
+  "model": "glm-5.3"
+}

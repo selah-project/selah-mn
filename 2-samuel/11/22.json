@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Элч явж, ирээд Иоаб түүнийг илгээсэн ⟨את⟩ бүхнийг Давидад мэдэглэв.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "элч"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ирээд"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "мэдэглэв"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүхнийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхнийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "илгээсэн"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Иоаб"
+    }
+  ],
+  "timestamp": "2026-10-04T11:38:58.381356778Z",
+  "model": "glm-5.3"
+}

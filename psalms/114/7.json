@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 114,
+  "translation": "Чичир, газар, Адоны өмнө, Яаковы Элоахын өмнө!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "…ын өмнө"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Адон"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "чичир"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "…ын өмнө"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Элоах"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-10-04T13:56:57.331875422Z",
+  "model": "glm-5.3"
+}

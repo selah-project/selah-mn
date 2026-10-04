@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 30:29",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Гурван зүйл бий — тэд сайхан алхагчид, ба дөрвөн зүйл сайхан явагчид:",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Гурван"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "מיטיבי",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "צעד",
+      "gloss": "алхагчид"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ба дөрвөн"
+    },
+    {
+      "surface": "מיטבי",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "явагчид"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:31.061556331Z",
+  "model": "glm-5.3"
+}

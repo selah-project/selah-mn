@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Хөгжмийн удирдагчид — Давидын залгасан дуу.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хөгжмийн удирдагчид"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "залгасан дуу"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:52:30.386833911Z",
+  "model": "glm-5.3"
+}

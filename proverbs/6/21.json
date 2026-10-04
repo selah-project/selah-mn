@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Тэдгээрийг зүрхэндээ үргэлж боож, хоолойгоо чимэглэн уяж бай.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "тэдгээрийг боож"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "зүрхэндээ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "үргэлж"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "уяж"
+    },
+    {
+      "surface": "על",
+      "gloss": "-аа"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "хоолойгоо"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:15.153946772Z",
+  "model": "glm-5.3"
+}

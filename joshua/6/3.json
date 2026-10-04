@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 6:3",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Та бүх дайчид ⟨את⟩ хотыг тойрон, хотыг нэг удаа тойрч гар; ингэж зургаан өдөр хий.",
+  "tokens": [
+    {
+      "surface": "וסבתם",
+      "gloss": "тойрч гар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хотыг"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хотыг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "дайчид"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "дайны"
+    },
+    {
+      "surface": "הקיף",
+      "gloss": "тойрон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хотыг"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хотыг"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "удаа"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "хий"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:06:27.288096124Z",
+  "model": "glm-5.3"
+}

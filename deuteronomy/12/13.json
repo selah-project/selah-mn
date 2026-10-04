@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Сэрэмжил: харж буй бүх газарт шатам тахилуудаа өргөж болохгүй.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "сэрэмжил"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "פן",
+      "gloss": "болохгүй байхыг"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "өргө"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "шатам тахилуудаа"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תראה",
+      "gloss": "харж буй"
+    }
+  ],
+  "timestamp": "2026-10-04T10:56:09.442942710Z",
+  "model": "glm-5.3"
+}

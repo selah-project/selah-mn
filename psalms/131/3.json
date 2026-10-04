@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 131,
+  "translation": "Йисраел Яхвэд найдаг, одооноос мөнх хүртэл.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "найдаг"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "одооноос"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ба хүртэл"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мөнх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:05.784831358Z",
+  "model": "glm-5.3"
+}

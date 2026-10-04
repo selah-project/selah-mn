@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Куш ⟨את⟩ Нимродыг төрүүлжээ. Тэр газар дээр баатар болж эхэлсэн.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "төрүүлжээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нимродыг"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Нимродыг"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "החל",
+      "gloss": "эхэлсэн"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "болж"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "баатар"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газар дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:42.281740238Z",
+  "model": "glm-5.3"
+}

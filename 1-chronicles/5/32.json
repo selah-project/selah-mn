@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Уззи ⟨את⟩ Зерахйаг төрүүлж, Зерахйа ⟨את⟩ Мерайотыг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "Уззи"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зерахйаг"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахйа"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "Зерахйа"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мерайотыг"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мерайот"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:13.812355668Z",
+  "model": "glm-5.3"
+}

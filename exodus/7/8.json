@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Яхвэ Мошед болон Ааронд айлдав, ингэж хэлж байна:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошед"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "болон"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ааронд"
+    },
+    {
+      "surface": "לאмр",
+      "gloss": "ингэж хэлж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T10:06:19.168233947Z",
+  "model": "glm-5.3"
+}

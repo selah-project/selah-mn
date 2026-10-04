@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "алтан таваг нэг, арван шекел жинтэй, утлагаар дүүрэн.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "таваг"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арван"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "дүүрэн"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "утлагаар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:45.551470985Z",
+  "model": "glm-5.3"
+}

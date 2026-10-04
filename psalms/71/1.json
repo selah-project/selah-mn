@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 71,
+  "translation": "Яхвэд ⟨чамд⟩ найдан орлоо, намайг үүрд битгий ичгүүрт болго.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "найдан орлоо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "битгий"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ичгүүрт болго"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:47:05.498740165Z",
+  "model": "glm-5.3"
+}

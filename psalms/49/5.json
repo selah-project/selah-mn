@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 49:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Би чихээ зүйрлэлд хандуулж, хөгжмөөр ⟨нууц⟩ үгээ нээнэ.",
+  "tokens": [
+    {
+      "surface": "אטה",
+      "gloss": "хандуулъя"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "зүйрлэлд"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "чихээ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "нээнэ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "хөгжмөөр"
+    },
+    {
+      "surface": "חידתי",
+      "gloss": "нууц үгээ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:44.570652536Z",
+  "model": "glm-5.3"
+}

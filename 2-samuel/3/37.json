@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Бүх ард түмэн ба бүх Йисраел тэр өдөр мэдэж авав: Авнэрийг, Нэрийн хүүг алах нь хаанаас биш байжээ.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "мэдэж авав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "כי",
+      "gloss": ":"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "байжээ"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "хаанаас"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "алах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авнэрийг"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнэр"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Нэр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:35:13.528852062Z",
+  "model": "glm-5.3"
+}

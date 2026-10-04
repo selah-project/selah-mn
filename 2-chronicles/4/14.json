@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Мөн ⟨את⟩ тавиуруудыг хийж, ⟨את⟩ тогоонуудыг тавиурууд дээр нь хийв.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Мөн ⟨את⟩",
+      "marks": "тавиурууд"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "тавиуруудыг"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийж"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "тогоонууд"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "тогоонуудыг"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийв"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "тавиурууд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:09:19.490733597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Билха, Эцем, Толад ба тэдгээр хотууд.",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "Билха"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "Эцем"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "Толад"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:27.911007992Z",
+  "model": "glm-5.3"
+}

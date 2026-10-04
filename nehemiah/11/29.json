@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "мөн Эйн-Риммон, мөн Цора, мөн Ярмутад.",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "мөн Эйн-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Риммонд"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "мөн Цорад"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "мөн Ярмутад"
+    }
+  ],
+  "timestamp": "2026-10-04T15:57:58.339753878Z",
+  "model": "glm-5.3"
+}

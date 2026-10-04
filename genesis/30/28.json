@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Тэр бас хэлэв: Чиний цалинг надад тодорхойл, би өгье.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Тэр хэлэв"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "тодорхойл"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "чиний цалинг"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "би өгье"
+    }
+  ],
+  "timestamp": "2026-10-04T09:56:07.419513498Z",
+  "model": "glm-5.3"
+}

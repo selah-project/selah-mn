@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 14:27",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Тахилч зүүн алган дээрх тосоос баруун хуруугаараа долоон удаа Яхвэгийн өмнө цацна.",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "цацна"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "хуруугаараа"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "баруун"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-оос"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "тосоос"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-д байгаа"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "алган"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "зүүн"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "удаа"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:27:08.558567318Z",
+  "model": "glm-5.3"
+}

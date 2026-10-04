@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Парошийн хөвгүүд — хоёр мянга нэг зуун далан хоёр.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Парошийн"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хоёр мянга"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "нэг зуун"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "далан"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "хоёр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:51:53.676030936Z",
+  "model": "glm-5.3"
+}

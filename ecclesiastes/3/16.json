@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Нараны дор би дахин харлаа: шүүлтийн газарт тэнд муу ёс, цедекийн газарт тэнд муу ёс.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "би харлаа"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "Нараны"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "шүүлтийн"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "муу ёс"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "цедекийн"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "муу ёс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:25.133388345Z",
+  "model": "glm-5.3"
+}

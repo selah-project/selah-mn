@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 47,
+  "translation": "Өө, Яхвэгийн илд, хир удаан чи амрахгүй байна вэ? Хутгаандаа ор, тайвшар, дуугүй бол.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Өө"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "илд"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хир"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "удаан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "чи амарна"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "ор"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-даа"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "хутгаа"
+    },
+    {
+      "surface": "הרגעי",
+      "gloss": "тайвшар"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "дуугүй бол"
+    }
+  ],
+  "timestamp": "2026-10-04T12:50:22.406284791Z",
+  "model": "glm-5.3"
+}

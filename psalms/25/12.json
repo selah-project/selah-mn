@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Хэн бол Яхвэгээс айдаг хүн? Тэр түүнийг Түүний сонгох замд заан сургана.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Хэн"
+    },
+    {
+      "surface": "זה",
+      "gloss": "бол"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "айдаг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгээс"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "заан сургана"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "замд"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "сонгох"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:14.087292301Z",
+  "model": "glm-5.3"
+}

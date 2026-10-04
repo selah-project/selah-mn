@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Ингэж эш үзүүлэгч рүү хэл: Яхвэ чамд юу хариулсан бэ? Яхвэ юу айлдсан бэ?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ингэж"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "эш үзүүлэгч"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "чамд хариулсан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ба юу"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдсан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:42:20.627289049Z",
+  "model": "glm-5.3"
+}

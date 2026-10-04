@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Тэдний махаас бүү ид, үхсэн биеэр нь бүү хүр; тэд та нарын хувьд бузар.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "тэдний махаас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ид"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "ба үхсэн биеэр нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "хүр"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "бузар"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарын хувьд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:25:03.132223439Z",
+  "model": "glm-5.3"
+}

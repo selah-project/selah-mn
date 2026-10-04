@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Амарйагийн хүү, Азарйагийн хүү, Мерайотын хүү.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарйа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарйа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мерайот"
+    }
+  ],
+  "timestamp": "2026-10-04T14:48:01.256973764Z",
+  "model": "glm-5.3"
+}

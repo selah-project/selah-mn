@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Элифазын хөвгүүд: Теман, Омар, Цефи, Гатам, Кеназ, Тимна, Амалек.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Элифазын"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "ба Омар"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "Цефи"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "Гатам"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназ"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "Тимна"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "Амалек"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:49.176985411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 72:8",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 72,
+  "translation": "Тэр далайгаас далай хүртэл, мөрнөөс газрын хязгаар хүртэл захирна.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "захирна"
+    },
+    {
+      "surface": "מים",
+      "gloss": "далайгаас"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "ים",
+      "gloss": "далай"
+    },
+    {
+      "surface": "ומנהר",
+      "gloss": "мөрнөөс"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "хязгаар"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газрын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:47:35.000578220Z",
+  "model": "glm-5.3"
+}

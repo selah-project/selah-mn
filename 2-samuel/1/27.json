@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Хэрхэн баатарчууд унаж, дайны зэвсгүүд мөхөв!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Хэрхэн"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "унаж"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "баатарчууд"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "мөхөв"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "зэвсгүүд"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "дайны"
+    }
+  ],
+  "timestamp": "2026-10-04T11:35:17.652399430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Мэргэдийн уруул мэдлэлийг түгээнэ, тэнэгүүдийн зүрх тийм биш.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "уруул"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "Мэргэдийн"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "түгээнэ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "мэдлэлийг"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "тэнэгүүдийн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тийм"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:10.003366478Z",
+  "model": "glm-5.3"
+}

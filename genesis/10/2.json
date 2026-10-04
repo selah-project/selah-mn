@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Яфетын хөвгүүд: Гомер, Магог, Мадай, Яван, Тувал, Мешех, Тирас.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Яфетын"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "Магог"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "Мадай"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "Яван"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "Тувал"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "Мешех"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "Тирас"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:10.939180250Z",
+  "model": "glm-5.3"
+}

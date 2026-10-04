@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Түүний өмнө бүх газар чичир; ертөнц бас бэхэгдсэн, хөдлөхгүй.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "чичир"
+    },
+    {
+      "surface": "мלפניו",
+      "gloss": "Түүний өмнө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "אף",
+      "gloss": "бас"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "бэхэгдсэн"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ертөнц"
+    },
+    {
+      "surface": "בל",
+      "gloss": "хөдлөхгүй"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "хөдлөхгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T15:03:59.400557494Z",
+  "model": "glm-5.3"
+}

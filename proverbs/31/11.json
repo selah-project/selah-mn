@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Түүний нөхрийн зүрх түүнд найдаж, олзоор дутагдахгүй.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "найдаж"
+    },
+    {
+      "surface": "בה",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "түүний нөхрийн"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ба олзоор"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "дутагдахгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:41.114619555Z",
+  "model": "glm-5.3"
+}

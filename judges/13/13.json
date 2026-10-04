@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 13:13",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Яхвэгийн тэнгэр элч Маноахад хэлэв: Би эмэнд хэлсэн бүхнээс тэр сэргийлэг.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "тэнгэр элч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Маноах"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "бүхнээс"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Би хэлсэн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "эм"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "сэргийлэг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:36:14.760833760Z",
+  "model": "glm-5.3"
+}

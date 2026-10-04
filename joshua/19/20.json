@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "ха Раббиф, Кишйон, Авец.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "Раббиф"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "Кишйон"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "Авец"
+    }
+  ],
+  "timestamp": "2026-10-04T11:10:50.782783637Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Буруугийн баялаг ашиггүй, харин цедек үхлээс авран гаргадаг.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бус"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "ашиггүй"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "баялаг"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "буруугийн"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "харин цедек"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "авран гаргадаг"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "үхлээс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:17.526272837Z",
+  "model": "glm-5.3"
+}

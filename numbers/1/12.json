@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Данынхан — Ахиэзер, Аммишаддайн хүү.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "Данынхан"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "Ахиэзер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "Аммишаддайн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:00.209551343Z",
+  "model": "glm-5.3"
+}

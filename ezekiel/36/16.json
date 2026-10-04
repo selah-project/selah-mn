@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Яхвэгийн үг над руу ирж, ингэж айлдахад",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болоход"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "над руу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж айлдахад"
+    }
+  ],
+  "timestamp": "2026-10-04T13:11:15.732591201Z",
+  "model": "glm-5.3"
+}

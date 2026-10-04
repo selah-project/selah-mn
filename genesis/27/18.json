@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Тэр эцэг дээрээ очиж хэлэв: Миний эцэг! Тэр хэлэв: Би энд байна. Чи хэн бэ, миний хүү?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "очиж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дээрээ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "миний эцэг"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "би энд байна"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "миний хүү"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:35.278479199Z",
+  "model": "glm-5.3"
+}

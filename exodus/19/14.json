@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Моше уулаас ард түмэн дээр бууж, ⟨את⟩ ард түмнийг ариусгаж, тэд хувцсаа угаав.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "бууж"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "אל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "ариусгаж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ард түмэн"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "угааж"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "хувцсаа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:28:18.876849452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 43,
+  "translation": "Би, Би Яхвэ мөн, Надаас өөр Аврагч алга.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Би"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Би"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ба алга"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "Надаас өөр"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Аврагч"
+    }
+  ],
+  "timestamp": "2026-10-04T12:23:18.520257405Z",
+  "model": "glm-5.3"
+}

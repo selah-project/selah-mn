@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 63,
+  "translation": "Тэд илдэнд цавчуулж, үнэгний завшаан болно.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "цавчуулж"
+    },
+    {
+      "surface": "על",
+      "gloss": "-нд"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "хүчэнд"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "илд"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "завшаан"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "үнэгний"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "болно"
+    }
+  ],
+  "timestamp": "2026-10-04T13:45:17.436463360Z",
+  "model": "glm-5.3"
+}

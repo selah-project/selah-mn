@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Хаман хаанд хэлэв: Хааны хүндлэхэд таатай байдаг хүнд ⟨ингэхэд таарна⟩ —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Хаман"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ямар"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "таатай"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "хүндлэхэд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:37:06.064424527Z",
+  "model": "glm-5.3"
+}

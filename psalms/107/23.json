@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 107,
+  "translation": "Тэнгис далайд онгоцоор бууж, их усан дээр ажил хийдэг хүмүүс.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "бууж яваа"
+    },
+    {
+      "surface": "הים",
+      "gloss": "далайн"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "онгоцоор"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "хийдэг"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ажил"
+    },
+    {
+      "surface": "במים",
+      "gloss": "усан дээр"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "их"
+    }
+  ],
+  "timestamp": "2026-10-04T13:55:47.475130395Z",
+  "model": "glm-5.3"
+}

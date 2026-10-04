@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Ламек наян хоёр жил, зуун жил амьдарч, хөвгүүн төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "амьдарч"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Ламек"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "наян"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хөвгүүн"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:03.345563324Z",
+  "model": "glm-5.3"
+}

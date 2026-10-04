@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 77,
+  "translation": "Эл өршөөхийг мартсан уу? Тэр уураа татаж ⟨את⟩ өршөөлөө хаасан уу? Селах.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "мартсан уу"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "өршөөхийг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אם",
+      "gloss": "уу"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "хаасан"
+    },
+    {
+      "surface": "באף",
+      "gloss": "уураа татаж"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "өршөөлөө"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Селах"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:23.452445412Z",
+  "model": "glm-5.3"
+}

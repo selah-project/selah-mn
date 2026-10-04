@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Чулуун дээр энэ Торагийн ⟨את⟩ бүх үгсийг маш тодорхой бичнэ.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "бичнэ"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "чулуун"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх үгсийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Торагийн"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "тодорхой"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "маш"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:18.453640201Z",
+  "model": "glm-5.3"
+}

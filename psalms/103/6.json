@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 103,
+  "translation": "Яхвэ цедек үйлдэж, дарлагдсан бүхэнд шүүлт үйлддэг.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "үйлддэг"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "ба шүүлт"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүхэнд"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "дарлагдсан"
+    }
+  ],
+  "timestamp": "2026-10-04T13:53:51.629642526Z",
+  "model": "glm-5.3"
+}

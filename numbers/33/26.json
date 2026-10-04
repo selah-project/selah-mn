@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Махелотоос явж, Тахатад буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "явж"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "Махелотоос"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "Тахатад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:10.969716489Z",
+  "model": "glm-5.3"
+}

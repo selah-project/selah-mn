@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Хотын ноён Зебул Гаал Эбедийн хүүний үгсийг сонсов, түүний хилэн асав.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "сонсов"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "Зебул"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ноён"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хотын"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үгс"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Гаал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Эбед"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "асав"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "түүний хилэн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:17:23.332220304Z",
+  "model": "glm-5.3"
+}

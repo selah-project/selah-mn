@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Мөн ⟨את⟩ Хивичууд, ⟨את⟩ Аркичууд, ⟨את⟩ Синичууд.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Хивичууд"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Хивичууд"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Аркичууд"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Аркичууд"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Синичууд"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Синичууд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:52.950124075Z",
+  "model": "glm-5.3"
+}

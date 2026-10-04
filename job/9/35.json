@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Би ярьж, түүнээс айхгүй; учир нь би өөрөө тийм биш.",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "би ярье"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба ... үгүй"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "түүнээс айх"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тийм"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "өөрөө"
+    }
+  ],
+  "timestamp": "2026-10-04T14:16:54.339475172Z",
+  "model": "glm-5.3"
+}

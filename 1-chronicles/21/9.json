@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Яхвэ Давидын хардаг Гад руу айлдаж:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "хардаг"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлэхдээ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:01.004520103Z",
+  "model": "glm-5.3"
+}

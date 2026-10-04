@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Мөн энэ бол нүглийн тахилын Тора: энэ нь ариун нарийн ариун.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "мөн энэ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "нүглийн тахилын"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "нарийн ариун"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ нь"
+    }
+  ],
+  "timestamp": "2026-10-04T10:23:03.350406602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Гадын овгоос Геуел, Макийн хүү.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "Геуел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "Маки"
+    }
+  ],
+  "timestamp": "2026-10-04T10:39:21.579170190Z",
+  "model": "glm-5.3"
+}

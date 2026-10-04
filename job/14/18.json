@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 14:18",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Гэвч уналттай уул элэгдэн мөхөж, хад өөрийн байрнаасаа з hogarдно.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "гэвч"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "נופל",
+      "gloss": "уналттай"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "элэгдэн мөхөж"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "хад"
+    },
+    {
+      "surface": "יעתק",
+      "gloss": "з hogarдно"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "өөрийн байрнаасаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:18:37.598550741Z",
+  "model": "glm-5.3"
+}

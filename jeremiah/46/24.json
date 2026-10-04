@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 46,
+  "translation": "Ичгүүр болов Мицраймын охин, хойд зүгийн ард түмний гарт өгөгдөв.",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "Ичгүүр болов"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "мצרים",
+      "gloss": "Мицрайм"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "өгөгдөв"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "гарт"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ард түмний"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "хойд зүгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:50:34.504109573Z",
+  "model": "glm-5.3"
+}

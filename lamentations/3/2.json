@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр ⟨את⟩ намайг хөөн гаргаж, гүн рүү оруулсан бөгөөд гэрэл байсангүй.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "намайг"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "хөөн гаргаж"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "оруулсан"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "харанхуй руу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "бөгөөд ... байсангүй"
+    },
+    {
+      "surface": "אור",
+      "gloss": "гэрэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:07.707911249Z",
+  "model": "glm-5.3"
+}

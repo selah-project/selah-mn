@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Хариу хүн чамайг магтаг, өөрийн чинь ам биш; харийн хүн, өөрийн чинь уруул биш.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "чамайг магтаг"
+    },
+    {
+      "surface": "זר",
+      "gloss": "хариу хүн"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ам"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "харийн хүн"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "биш"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "уруул"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:39.350939996Z",
+  "model": "glm-5.3"
+}

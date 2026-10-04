@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Тэд ⟨את⟩ үхрийг нядлаж, ⟨את⟩ хөвгүүнийг Элид авчрав.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "нядлаж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "үхрийг"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "үхрийг"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "авчрав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хөвгүүнийг"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "хөвгүүнийг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Элид"
+    }
+  ],
+  "timestamp": "2026-10-04T11:22:58.963984195Z",
+  "model": "glm-5.3"
+}

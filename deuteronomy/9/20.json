@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 9:20",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Яхвэ Ааронтой маш их уурлаж, түүнийг устгахаар зэхсэн; би мөн тэр үед Аароны төлөө залбирсан.",
+  "tokens": [
+    {
+      "surface": "ובאהרן",
+      "gloss": "Ааронтой"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "уурлаж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш их"
+    },
+    {
+      "surface": "להשמידו",
+      "gloss": "устгахаар"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "залбирсан"
+    },
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "төлөө"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аароны"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "үед"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:54:15.154682853Z",
+  "model": "glm-5.3"
+}

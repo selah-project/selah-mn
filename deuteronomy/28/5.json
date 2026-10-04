@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Таны сагс болон таны гурилан таваг ивээгдэх болно.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ивээгдэх болно"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "таны сагс"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "болон таны гурилан таваг"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:51.844761263Z",
+  "model": "glm-5.3"
+}

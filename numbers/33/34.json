@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 33:34",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Ятватаагаас нүүж, Абронад буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүж"
+    },
+    {
+      "surface": "מיטבתה",
+      "gloss": "Ятватаагаас"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בעברנה",
+      "gloss": "Абронад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:09.529674585Z",
+  "model": "glm-5.3"
+}

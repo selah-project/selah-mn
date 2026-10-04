@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Салхиг ажиглагч тарьдаггүй, үүлийг харагч хураалт хийдэггүй.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ажиглагч"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "салхиг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "тарьдаггүй"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ба харагч"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "үүлийг"
+    },
+    {
+      "surface": "ло",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "хураалт хийдэггүй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:14.193440581Z",
+  "model": "glm-5.3"
+}

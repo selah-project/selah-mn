@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Леа хэлэв: Аз жаргал ирлээ. Тэр ⟨את⟩ түүний нэрийг Гад гайлгаж нэрлэв.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Аз жаргал ирлээ"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "нэрлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түүний нэрийг"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "түүний нэр"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    }
+  ],
+  "timestamp": "2026-10-04T09:54:58.625779795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Үхэр, хоньны бүх аравны нэг — саваан дор өнгөрч буй бүхэн — арав дахь нь Яхвэд ариун байна.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "аравны нэг"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "үхрийн"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "хонины"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-г"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "өнгөрч буй"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "саваан"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "арав дахь"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байна"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:33:45.890527040Z",
+  "model": "glm-5.3"
+}

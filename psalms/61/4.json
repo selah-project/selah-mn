@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 61,
+  "translation": "Учир нь чи надад нууцлал байсан, дайсны өмнө хүчний цамхаг.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "היית",
+      "gloss": "чи байсан"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "нууцлал"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "цамхаг"
+    },
+    {
+      "surface": "עז",
+      "gloss": "хүчний"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "дайсны"
+    }
+  ],
+  "timestamp": "2026-10-04T13:45:49.390553283Z",
+  "model": "glm-5.3"
+}

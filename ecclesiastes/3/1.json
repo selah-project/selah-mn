@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Бүхнийд цаг бий, тэнгэрийн дорхь бүх хүсэлд цаг бий.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "бүхнийд"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "цаг"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ба цаг"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "хүсэлд"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дорхь"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "тэнгэрийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:16.819205646Z",
+  "model": "glm-5.3"
+}

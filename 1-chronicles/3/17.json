@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Йехоная хилэнцийн хөвгүүд: Ассир, Шеалтиел түүний хөвгүүн.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Йехоная"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "хилэнц — Ассир"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Шеалтиел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хөвгүүн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:57.811746613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 17:2",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Ухаант зарц ичгүүртэй хүүг ноёрхох бөгөөд ах дүүсийн дунд өвийг хуваанэ.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "зарц"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ухаант"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "ноёрхоно"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "хүүг"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "ичгүүртэй"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "ба ... дунд"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ах дүүсийн"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "хуваанэ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "өвийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:54.073145884Z",
+  "model": "glm-5.3"
+}

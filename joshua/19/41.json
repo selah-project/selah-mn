@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 19:41",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Тэдний өврийн хил Цора, Ештаол ба Нарны хот байв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "тэдний өврийн"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Цора"
+    },
+    {
+      "surface": "ואשתאול",
+      "gloss": "ба Ештаол"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ба ... -ын хот"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Нарны"
+    }
+  ],
+  "timestamp": "2026-10-04T11:10:38.674955252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Би орныхоо дээгүүр мирр, ахалмод, давт цацав.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "би цацав"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "орныхоо дээгүүр"
+    },
+    {
+      "surface": "מר",
+      "gloss": "мирр"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "ахалмод"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "ба давт"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:56.698107834Z",
+  "model": "glm-5.3"
+}

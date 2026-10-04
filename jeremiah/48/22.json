@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Дибон дээр, Нево дээр ба Бейт-Дивлатайм дээр.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Дибон"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт-"
+    },
+    {
+      "surface": "дבלתים",
+      "gloss": "Дивлатайм"
+    }
+  ],
+  "timestamp": "2026-10-04T12:52:30.119285558Z",
+  "model": "glm-5.3"
+}

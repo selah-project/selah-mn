@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Хүүхдээс сургамж бүү хаа; учир нь та түүнийг таягаар зангидвол тэр үхэхгүй.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "хаа"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "хүүхдээс"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "сургамж"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "түүнийг зангидвол"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "таягаар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "үхэх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:16.177261391Z",
+  "model": "glm-5.3"
+}

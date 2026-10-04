@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 47:15",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 47,
+  "translation": "Энэ бол газрын хил: умард талаараа их далайгаас, Хетлоны замаар, Цедад руу орох замаар.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "болон энэ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "талаараа"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "умард"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הים",
+      "gloss": "далай"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "их"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "חתלן",
+      "gloss": "Хетлоны"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "руу орох"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "Цедад"
+    }
+  ],
+  "timestamp": "2026-10-04T13:15:29.139889955Z",
+  "model": "glm-5.3"
+}

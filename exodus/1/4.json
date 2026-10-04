@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Дан ба Нафтали, Гад ба Ашер.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ба Нафтали"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ба Ашер"
+    }
+  ],
+  "timestamp": "2026-10-04T10:05:29.444151594Z",
+  "model": "glm-5.3"
+}

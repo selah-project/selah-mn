@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Каркемиш шиг Калне биш үү? Арпад шиг Хамат биш үү? Дамашек шиг Шомрон биш үү?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "биш үү"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "Каркемиш шиг"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Калне"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "Арпад шиг"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "Дамашек шиг"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    }
+  ],
+  "timestamp": "2026-10-04T12:13:01.567991330Z",
+  "model": "glm-5.3"
+}

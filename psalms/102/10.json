@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 102,
+  "translation": "Учир нь би үнсийг талх шиг идсэн бөгөөд уйлсандаа ундаага холив.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "үнс"
+    },
+    {
+      "surface": "кלחם",
+      "gloss": "талх шиг"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "идсэн"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "ундаага"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "уйлсандаа"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "холив"
+    }
+  ],
+  "timestamp": "2026-10-04T13:53:45.599596324Z",
+  "model": "glm-5.3"
+}

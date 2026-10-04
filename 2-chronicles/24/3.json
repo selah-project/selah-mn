@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 24:3",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Йехояда түүнд хоёр эхнэр авж өгөв; тэрээр хөвгүүд, охид төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "авж өгөв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йехояда"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "эхнэр"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "охид"
+    }
+  ],
+  "timestamp": "2026-10-04T15:16:09.487282494Z",
+  "model": "glm-5.3"
+}

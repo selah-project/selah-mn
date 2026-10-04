@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Нэг үхэр, үхрийн төл, нэг хуц, нэг нэгэн настай хурга, шатаах тахилга болгон.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "төл"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "үхрийн"
+    },
+    {
+      "surface": "איל",
+      "gloss": "хуц"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "нэгэн настай"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "шатаах тахилга болгон"
+    }
+  ],
+  "timestamp": "2026-10-04T15:30:56.257538310Z",
+  "model": "glm-5.3"
+}

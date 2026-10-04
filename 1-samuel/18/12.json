@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Саул Давидаас айв, учир нь Яхвэ түүнтэй байсан бөгөөд Саулаас зайлсан байв.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "айв"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саул"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "нүүрээс"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "түүнтэй"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саул"
+    },
+    {
+      "surface": "סר",
+      "gloss": "зайлсан"
+    }
+  ],
+  "timestamp": "2026-10-04T11:29:25.646912616Z",
+  "model": "glm-5.3"
+}

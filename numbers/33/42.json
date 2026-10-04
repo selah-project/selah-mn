@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Цалмоноос нүүж, Пунонд бүгжээ.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүжээ"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "Цалмоноос"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "бүгжээ"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "Пунонд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:09.448215695Z",
+  "model": "glm-5.3"
+}

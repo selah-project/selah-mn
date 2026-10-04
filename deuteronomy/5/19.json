@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Хулгайлж болохгүй.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ба болохгүй"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "хулгайлж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:39.147975824Z",
+  "model": "glm-5.3"
+}

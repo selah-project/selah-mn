@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Тиймээс би нарны доор хөдөлмөрлөсөн бүх хөдөлмөрийн төлөө ⟨את⟩ зүрхээ шаналгахаар эргэв.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "эргэв"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "шаналгахаар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зүрхээ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "על",
+      "gloss": "төлөө"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "хөдөлмөрийн"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "хөдөлмөрлөсөн"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "доор"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нарны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:56.035625342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 108,
+  "translation": "Дуу, Давидын залмал.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Дуу"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "залмал"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:56:37.359626526Z",
+  "model": "glm-5.3"
+}

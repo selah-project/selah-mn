@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Тэр бас: Би чамд хэлэх нэг үгтэй гэв. Тэр нь: Хэл гэв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "тер бас хэлэв"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нэг үг"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "тер нь хэлэв"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "хэл"
+    }
+  ],
+  "timestamp": "2026-10-04T11:46:46.588753959Z",
+  "model": "glm-5.3"
+}

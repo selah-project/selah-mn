@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Бэйт-Лехемынхэн, зуун хорин гурван.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хүүхдүүд"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бэйт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Лехем"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "гурав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:44:47.341876061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хоол мөнгөөр тэднээс ⟨את⟩ авч ид; бас усыг мөнгөөр тэднээс ⟨את⟩ авч ууцгаа.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "Хоол"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ав"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "тэднээс ⟨את⟩"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "мөнгөөр"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ид"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "מים",
+      "gloss": "усыг"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "ав"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "тэднээс ⟨את⟩"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "мөнгөөр"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "ууцгаа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:08.193601312Z",
+  "model": "glm-5.3"
+}

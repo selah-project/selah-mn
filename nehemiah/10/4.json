@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Пашхур, Амарая, Малкия,",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "Пашхур"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарая"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "Малкия"
+    }
+  ],
+  "timestamp": "2026-10-04T14:53:38.835424513Z",
+  "model": "glm-5.3"
+}

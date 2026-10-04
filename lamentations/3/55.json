@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Доод нүхнээс би Таны нэрийг, Яхвэ, дуудлаа.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "Би дуудлаа"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Таны нэрийг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "нүхнээс"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "доод"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:19.330416570Z",
+  "model": "glm-5.3"
+}

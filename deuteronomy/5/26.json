@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Учир нь бүх махны дотор гал дундаас амьд Элохимын дууг сонссон бидэн шиг хэн байж, амьд үлдсэн бэ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "махны"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "дотор"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "сонссон"
+    },
+    {
+      "surface": "קול",
+      "gloss": "дууг"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ярьж байгаа"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "дундаас"
+    },
+    {
+      "surface": "האש",
+      "gloss": "гал"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "бидэн шиг"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "амьд үлдсэн бэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:52:03.659516473Z",
+  "model": "glm-5.3"
+}

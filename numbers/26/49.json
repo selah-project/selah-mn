@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 26:49",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Йецерийнхэн — Йецер овог, Шиллемийнхэн — Шиллем овог.",
+  "tokens": [
+    {
+      "surface": "ליצר",
+      "gloss": "Йецерийнхэн"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "овог"
+    },
+    {
+      "surface": "היצרי",
+      "gloss": "Йецер"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "Шиллемийнхэн"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "овог"
+    },
+    {
+      "surface": "השלמי",
+      "gloss": "Шиллем"
+    }
+  ],
+  "timestamp": "2026-10-04T10:45:42.414983459Z",
+  "model": "glm-5.3"
+}

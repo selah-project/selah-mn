@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Миний эцэг Давидын зүрхэнд Яхвэ, Йисраэлийн Элохимын нэрийн тулд байшин босгох сан байв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-д"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "зүрхэнд"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Миний эцэг"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "босгох"
+    },
+    {
+      "surface": "בית",
+      "gloss": "байшин"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "нэрийн тулд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:08:56.234129081Z",
+  "model": "glm-5.3"
+}

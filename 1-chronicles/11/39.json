@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Целек Аммоны хүн, Нахарай Беротын хүн, Церуяагийн хүү Йоавын зэвсгийг үүрэгч.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "Целек"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "Аммоны хүн"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "Нахарай"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "Беротын хүн"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "үүрэгч"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "зэвсэг"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Церуяа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:47.063544951Z",
+  "model": "glm-5.3"
+}

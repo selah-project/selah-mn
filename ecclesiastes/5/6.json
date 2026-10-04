@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Учир нь зүүд олон байхад хэрэггүй зүйлс ба үгс олон байдаг; харин ⟨את⟩ Элохимоос ай.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "олон"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "зүүд"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "хэрэггүй зүйлс"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ба үгс"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "олон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "харин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Элохимоос"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:30.176636148Z",
+  "model": "glm-5.3"
+}

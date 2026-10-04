@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 116,
+  "translation": "Би итгэсэн, тийм болохоор ярих болно: би маш их зовж байна.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "итгэсэн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "тийм болохоор"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ярих болно"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "зовж байна"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш их"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:25.238695535Z",
+  "model": "glm-5.3"
+}

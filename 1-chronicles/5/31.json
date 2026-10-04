@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Авишуа ⟨את⟩ Буккиг төрүүлж, Букки ⟨את⟩ Уззиг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "Авишуа"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Буккиг"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Букки"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "Букки"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уззиг"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззи"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:13.812218Z",
+  "model": "glm-5.3"
+}

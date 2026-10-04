@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 42,
+  "translation": "Умард талыг хэмжлээ — таван зуун кан, хэмжүүрийн канаар тойрч.",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "хэмжлээ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "тал"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "умард"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "таван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "кан"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "канаар"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "хэмжүүрийн"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "тойрч"
+    }
+  ],
+  "timestamp": "2026-10-04T13:13:26.196751007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Хаанчлал түүн дээр бэхжмэгц тэрээр эцэг хаанаа ⟨את⟩ алсан боолуудаа ⟨את⟩ алав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "хэзээ"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "бэхжмэгц"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "хаанчлал"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүн дээр"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "алав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "боолуудаа"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "боолуудаа"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "алсан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хаанаа"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаанаа"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцэг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:18:09.547997776Z",
+  "model": "glm-5.3"
+}

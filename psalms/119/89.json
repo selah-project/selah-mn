@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Яхвэ, Таны үг тэнгэрт мөнхөд бэхжин зогсоно.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "мөнхөд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Таны үг"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "бэхжин зогсоно"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "тэнгэрт"
+    }
+  ],
+  "timestamp": "2026-10-04T13:58:48.237069610Z",
+  "model": "glm-5.3"
+}

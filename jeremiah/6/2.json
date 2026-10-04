@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Сүрлэг сайхан бүсгүй болох Бат Чионыг Би устгана.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "сүрлэг"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "Би устгана"
+    },
+    {
+      "surface": "בת",
+      "gloss": "бүсгүй"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Бат Чион"
+    }
+  ],
+  "timestamp": "2026-10-04T12:34:25.335633551Z",
+  "model": "glm-5.3"
+}

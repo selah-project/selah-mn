@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Тиймээс би одоо амьд байгаа амьд нарнаас аль хэдийн үхсэн ⟨את⟩ үхэгсдийг магтлав.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "магтлав"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "аль хэдийн үхсэн үхэгсдийг"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "үхэгсдийг"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "аль хэдийн"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "үхсэн"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-наас"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "амьд нараас"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "- нь"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "одоо хүртэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:05.449337685Z",
+  "model": "glm-5.3"
+}

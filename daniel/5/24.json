@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Тэр үед Түүний өмнөөс алга илгээгдэж, энэ бичиг бичигдсэн.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Тэр үед"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…-аас"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "Түүний өмнөөс"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "илгээгдэж"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "алга"
+    },
+    {
+      "surface": "די",
+      "gloss": "…-н"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "гарын"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "ба бичиг"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "бичигдсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:40:43.708391682Z",
+  "model": "glm-5.3"
+}

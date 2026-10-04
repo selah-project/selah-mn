@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Босоод шөнөөр довтолж, түүний цайзуудыг нураая.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "Босоод"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "довтолж"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "шөнөөр"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "нураая"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "түүний цайзуудыг"
+    }
+  ],
+  "timestamp": "2026-10-04T12:33:37.082101699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 24:15",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Яхвэгийн үг надад ирж, айлдахдаа:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ба ... ирж"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T13:05:55.892247691Z",
+  "model": "glm-5.3"
+}

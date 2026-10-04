@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Йонатан Давидад хэлэв: Ир, бид талд гарцгаая. Тэд хоёулаа талд гарав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Ир"
+    },
+    {
+      "surface": "וונצא",
+      "gloss": "ба гарцгаая"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "талд"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "гарав"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "хоёулаа"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "талд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:29:32.635383423Z",
+  "model": "glm-5.3"
+}

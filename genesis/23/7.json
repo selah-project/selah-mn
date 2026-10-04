@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Аврахам босов, газрын ард Хетийн хөвгүүдэд бөхийж мэндэрчээ.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "босов"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "бөхийж"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ард"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдэд"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хетийн"
+    }
+  ],
+  "timestamp": "2026-10-04T09:51:57.575805981Z",
+  "model": "glm-5.3"
+}

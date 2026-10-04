@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 39,
+  "translation": "Тэд түүн дээр дөрвөн мөр чулуу суурилуулжээ: нэгдүгээр мөрөнд одем, питда ба барeket байв.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "суурилуулжээ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүн дээр"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "мөр"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "чулуу"
+    },
+    {
+      "surface": "טור",
+      "gloss": "мөр"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одем"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "питда"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "ба барeket"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "мөр"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "нэгдүгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:19:36.396420972Z",
+  "model": "glm-5.3"
+}

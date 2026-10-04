@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Тусгаарлалтынх нь бүх өдрүүдэд тэрээр Яхвэд ариун билээ.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "өдрүүдэд"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "тусгаарлалтынх нь"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэрээр"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:59.595236698Z",
+  "model": "glm-5.3"
+}

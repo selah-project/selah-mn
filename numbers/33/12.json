@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 33:12",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Син цөлөөс явж, Доффкахад бүрэлдэн буув.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "явж"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "цөлөөс"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Син"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "бүрэлдэн буув"
+    },
+    {
+      "surface": "בדפקה",
+      "gloss": "Доффкахад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:13.197645362Z",
+  "model": "glm-5.3"
+}

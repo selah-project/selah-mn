@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Атер, Хизкийа, Аззур,",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "Атер"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Хизкийа"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "Аззур"
+    }
+  ],
+  "timestamp": "2026-10-04T14:53:46.330377690Z",
+  "model": "glm-5.3"
+}

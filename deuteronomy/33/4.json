@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тора бидэнд Мошед тушаасан, Яаковын чуулганы өв.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасан"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "өв"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "чуулганы"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковын"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:43.077283411Z",
+  "model": "glm-5.3"
+}

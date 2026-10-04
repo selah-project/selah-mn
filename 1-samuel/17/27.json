@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 17:27",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Хүмүүс түүнд энэ үгийн дагуу хэлэв: Түүнийг цохих хүнд ингэж хийгдэнэ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "העם",
+      "gloss": "хүмүүс"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "үгийн дагуу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлэхдээ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "хийгдэнэ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "цохих"
+    }
+  ],
+  "timestamp": "2026-10-04T11:30:11.906374575Z",
+  "model": "glm-5.3"
+}

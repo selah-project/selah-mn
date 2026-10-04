@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Авнер эргэж хараад: Чи Асаел үү? гэв. Тэр: Би өөрөө гэв.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "эргэж хараад"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ар тийшээ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Чи … үү"
+    },
+    {
+      "surface": "זה",
+      "gloss": "өөрөө"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Асаел"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Би"
+    }
+  ],
+  "timestamp": "2026-10-04T11:35:43.016406987Z",
+  "model": "glm-5.3"
+}

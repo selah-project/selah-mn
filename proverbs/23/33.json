@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 23:33",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Чиний нүд өөр юмсыг харж, чиний зүрх эвдэрхэй үгсийг ярина.",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "чиний нүд"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "харж"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "өөр юмсыг"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "ба чиний зүрх"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ярина"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "эвдэрхэй үгсийг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:55:20.634327324Z",
+  "model": "glm-5.3"
+}

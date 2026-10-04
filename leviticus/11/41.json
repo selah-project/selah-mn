@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Газар дээр мөлхөж буй мөлхөгч бүхэн жигшүүн юм, идэгдэхгүй.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "мөлхөгч"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "мөлхөж буй"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "жигшүүн"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "юм"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "идэгдэх"
+    }
+  ],
+  "timestamp": "2026-10-04T10:25:10.267645696Z",
+  "model": "glm-5.3"
+}

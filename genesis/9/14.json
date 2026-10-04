@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Үүлэн дээр үүл өгөхөд газар дээр нь нум үүлэн дунд харагдана гэв.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ба болно"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "би үүл өгөхөд"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "үүл"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "ба харагдана"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "нум"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "үүлэн дунд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:39.366515268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "ба ⟨את⟩ хэрээ бүхнийг төрөл төрлөөр нь",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "хэрээ бүхэн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "хэрээ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "төрөл төрлөөр нь"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:20.767481961Z",
+  "model": "glm-5.3"
+}

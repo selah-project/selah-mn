@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Хол буй, юу байсан нь; ба гүн, гүн — хэн түүнийг олох ву?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Хол"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ба гүн"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "гүн"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "түүнийг олох"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:34.196121775Z",
+  "model": "glm-5.3"
+}

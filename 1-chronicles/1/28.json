@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Аврахамын хөвгүүд: Йицхак ба Ишмаел.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахамын"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Йицхак"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "ба Ишмаел"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:19.376860920Z",
+  "model": "glm-5.3"
+}

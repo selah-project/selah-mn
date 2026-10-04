@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Түүний амьдралын бүх өдрүүдэд тэрээр бүрэлзэхүйд идэж, их шаналал, өвчин ба ууртай байдаг.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "түүний өдрүүдэд"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "бүрэлзэхүйд"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "шаналал"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "их"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "өвчин"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "уур"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:20.064584794Z",
+  "model": "glm-5.3"
+}

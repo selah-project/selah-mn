@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Боол хаан болох үед, тэднийг үзэн ядагч талхгаа цадтал идэх үед.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "боол"
+    },
+    {
+      "surface": "כי",
+      "gloss": "үед"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "хаан болох"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "ба тэднийг үзэн ядагч"
+    },
+    {
+      "surface": "כי",
+      "gloss": "үед"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "цадтал"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:43.737510027Z",
+  "model": "glm-5.3"
+}

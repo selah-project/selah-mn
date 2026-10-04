@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Йосефын гэр бас Бейт-Эл рүү өөд гарсан бөгөөд Яхвэ тэдэнтэй байв.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "өөд гарсан"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефын"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тэд нар"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "тэдэнтэй байв"
+    }
+  ],
+  "timestamp": "2026-10-04T11:12:38.890861410Z",
+  "model": "glm-5.3"
+}

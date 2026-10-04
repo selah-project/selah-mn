@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр шүдийг минь дайргаар нунтаглав, намайг тоосонд дарлав.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "нунтаглав"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "дайргаар"
+    },
+    {
+      "surface": "שני",
+      "gloss": "шүдийг минь"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "намайг дарлав"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "тоосонд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:13.474942250Z",
+  "model": "glm-5.3"
+}

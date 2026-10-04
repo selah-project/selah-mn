@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Хосолсон даавуу, ноосон бол згийн нэгдсэн даавууг өмсөхгүй.",
+  "tokens": [],
+  "timestamp": "2026-10-04T10:57:32.355266085Z",
+  "model": "glm-5.3"
+}

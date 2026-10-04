@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 107,
+  "translation": "Учир нь тэд Элийн үгсийг зөрж, Өндөрний зөвлөгөөг дорд үзэв.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "зөрж"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "үгсийг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "ба ... зөвлөгөөг"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Өндөрний"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "дорд үзэв"
+    }
+  ],
+  "timestamp": "2026-10-04T13:55:27.525137708Z",
+  "model": "glm-5.3"
+}

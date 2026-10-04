@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 20:21",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Эхэнд шуурхайлан олсон өв, түүний төгсгөл ерөөгдөхгүй.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "өв"
+    },
+    {
+      "surface": "מבחלת",
+      "gloss": "шуурхайлан олсон"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "эхэнд"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "түүний төгсгөл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "ерөөгдөхгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:43.290177188Z",
+  "model": "glm-5.3"
+}

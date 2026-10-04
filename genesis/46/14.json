@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 46,
+  "translation": "Зевулуны хөвгүүд: Серэд, Элон, Яхлеел.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулуны"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "Серэд"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "Элон"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "Яхлеел"
+    }
+  ],
+  "timestamp": "2026-10-04T10:03:28.114750143Z",
+  "model": "glm-5.3"
+}

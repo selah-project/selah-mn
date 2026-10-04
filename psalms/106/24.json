@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 106,
+  "translation": "Тэд дуртай нутгаа үл тоож, Түүний үгэнд итгэсэнгүй.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "үл тоож"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "нутгаа"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "дуртай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "итгэсэн"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "Түүний үгэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:55:09.277236778Z",
+  "model": "glm-5.3"
+}

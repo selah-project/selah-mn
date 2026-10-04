@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Мөлхдөг бүхэн, амьд бүгд таны хоол болно; ногоон өвсний адилаар Би ⟨את⟩ бүгдийг та нарт өгсөн.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "мөлхдөг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ямар нь"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ нь"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "таны"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "хоол"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "ногоон ... адилаар"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "өвсний"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "өгсөн"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүгдийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгдийг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:34.295749397Z",
+  "model": "glm-5.3"
+}

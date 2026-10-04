@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Учир нь та нар одоог хүртэл тэр амралт ба өмчлөлд хүрээгүй билээ — Яхвэ Элохимын танд өгч байгаа өмчлөлд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "хүрээгүй"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ирээгүй"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "амралтад"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба -д"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "өмчлөл"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ямарх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгч байгаа"
+    },
+    {
+      "surface": "לך",
+      "gloss": "танд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:57:11.163897377Z",
+  "model": "glm-5.3"
+}

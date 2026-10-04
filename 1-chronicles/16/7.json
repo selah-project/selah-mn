@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 16:7",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Тэр өдөр тэр үед Давид эхлээд Яхвэд талархахыг Асаф ба түүний ах дүүсийн гарт өгөв.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тэр үед"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "эхлээд"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "талархахын тулд"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "гарт"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "түүний ах дүүс"
+    }
+  ],
+  "timestamp": "2026-10-04T15:03:14.913443124Z",
+  "model": "glm-5.3"
+}

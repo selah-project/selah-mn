@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Яхвэ далайд руу их салхи хаяж, далайд их шуурга болов, онгоц эвдрэхээр тооцогдов.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "хаяж"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "их"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הים",
+      "gloss": "далайд"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "סער",
+      "gloss": "шуурга"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "их"
+    },
+    {
+      "surface": "בים",
+      "gloss": "далайд"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "онгоц"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "тооцогдов"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "эвдрэхээр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:25:07.472333893Z",
+  "model": "glm-5.3"
+}

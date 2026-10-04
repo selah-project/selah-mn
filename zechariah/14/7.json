@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Нэг өдөр байх болно, тэр нь Яхвэд мэдэгдэнэ: өдөр биш, шөнө биш; үдэш болох цагт гэрэл байх болно.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр нь"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "мэдэгдэнэ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба биш"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шөнө"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "цагт"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "үдэш"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх болно"
+    },
+    {
+      "surface": "אור",
+      "gloss": "гэрэл"
+    }
+  ],
+  "timestamp": "2026-10-04T13:32:34.040823401Z",
+  "model": "glm-5.3"
+}

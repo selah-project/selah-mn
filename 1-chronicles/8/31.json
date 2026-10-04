@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "мөн Гедор, Ахио, Захер.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "Гедор"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "Ахио"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "Захер"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:29.165692605Z",
+  "model": "glm-5.3"
+}

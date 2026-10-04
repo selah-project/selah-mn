@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Тэр мөн Рахелд орж, ⟨את⟩ Рахелыг Лиеэс илүү хайрлав; түүнтэй хамт өөр долоон жил бас ажиллав.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "орж"
+    },
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "хайрлав"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахелыг"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахелыг"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "Лиеэс илүү"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "ажиллав"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "түүнтэй хамт"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "бас"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жил"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "өөр"
+    }
+  ],
+  "timestamp": "2026-10-04T09:56:02.168042765Z",
+  "model": "glm-5.3"
+}

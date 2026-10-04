@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Хошуун дээр оосор цамхагтай, утаслан нэхсэн, цэвэр алтан оосор хий.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ба хий"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошуун"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "оосор"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "цамхагтай"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "ажлын"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "утаслан нэхсэн"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "цэвэр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:16:11.816890933Z",
+  "model": "glm-5.3"
+}

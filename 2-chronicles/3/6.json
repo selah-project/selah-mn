@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр ⟨את⟩ сүмийг гоо сайхны тулд үнэт чулуугаар бүрж, алт нь Парваймын алт байв.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "бүрж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сүм"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "сүм"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "чулуу"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "үнэт"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "гоо сайхны тулд"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "болон алт"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алт"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Парвайм"
+    }
+  ],
+  "timestamp": "2026-10-04T15:09:33.953719422Z",
+  "model": "glm-5.3"
+}

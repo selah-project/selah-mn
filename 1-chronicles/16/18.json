@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "гэж айлдаж байна: Чамд Би Канааны газрыг, та нарын өвийн хувь хэмжээг өгье.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "гэж айлдаж байна"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "Би өгье"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Канаан"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "хувь хэмжээ"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "та нарын өв"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:46.392560457Z",
+  "model": "glm-5.3"
+}

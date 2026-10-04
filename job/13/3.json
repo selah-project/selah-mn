@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Гэвч би Шаддайд ярихыг хүснэ, Элтай маргалцахыг хүснэ.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Гэвч"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шаддай"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ярих"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "ба нотолж маргалдах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "хүснэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:17:43.973973740Z",
+  "model": "glm-5.3"
+}

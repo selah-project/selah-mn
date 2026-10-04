@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 140,
+  "translation": "Хөгжмийн удирдагчид — Давидын залбирал.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хөгжмийн удирдагчид"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "залбирал"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:01:42.293636028Z",
+  "model": "glm-5.3"
+}

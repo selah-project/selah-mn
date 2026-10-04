@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Саллагийнх Каллай; Амогийх Эбер.",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "Саллагийнх"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "Каллай"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "Амогийх"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эбер"
+    }
+  ],
+  "timestamp": "2026-10-04T14:54:25.970088164Z",
+  "model": "glm-5.3"
+}

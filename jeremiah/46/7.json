@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 46,
+  "translation": "Энэ хэн бэ? Гол шиг мандаж, голууд шиг ус нь булгарна.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "гол шиг"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "мандаж"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "голууд шиг"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "булгарна"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "ус нь"
+    }
+  ],
+  "timestamp": "2026-10-04T12:50:40.961349978Z",
+  "model": "glm-5.3"
+}

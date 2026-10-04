@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 4:33",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Тэр орж, хоёуланг нь хаалтаны цаана хааж, Яхвэд залбирлаа.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "орж"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "хааж"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "хаалга"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "цаана"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "хоёуланг нь"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "залбирлаа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:59:34.117669821Z",
+  "model": "glm-5.3"
+}

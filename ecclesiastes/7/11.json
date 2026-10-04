@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Өвийн хамт ухаан сайн, нар харагчдад түүнээс илүү ашиг бий.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "сайтал"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ухаан"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "өв"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "илүү ашиг"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "харагчдад"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:23.220752167Z",
+  "model": "glm-5.3"
+}

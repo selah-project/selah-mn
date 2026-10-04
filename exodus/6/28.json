@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Яхвэ Мицраймын газарт Мошетэй ярьсан өдөр болжээ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болжээ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ярьсан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-тэй"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраймын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:06:07.573393204Z",
+  "model": "glm-5.3"
+}

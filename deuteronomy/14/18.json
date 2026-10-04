@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 14:18",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "ба хасида, ба анапа төрөл бүхээр нь, ба духифат, ба аталеф.",
+  "tokens": [
+    {
+      "surface": "והחסידה",
+      "gloss": "ба хасида"
+    },
+    {
+      "surface": "והאנפה",
+      "gloss": "ба анапа"
+    },
+    {
+      "surface": "лמינה",
+      "gloss": "төрөл бүхээр нь"
+    },
+    {
+      "surface": "והדוכיפת",
+      "gloss": "ба духифат"
+    },
+    {
+      "surface": "והעטлף",
+      "gloss": "ба аталеф"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:22.129813769Z",
+  "model": "glm-5.3"
+}

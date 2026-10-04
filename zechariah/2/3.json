@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Яхвэ надад дөрвөн дархныг үзүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "надад үзүүлэв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "дархныг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:30:46.021733073Z",
+  "model": "glm-5.3"
+}

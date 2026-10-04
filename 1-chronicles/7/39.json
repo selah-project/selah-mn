@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Уллагийн хөвгүүд: Арах, Ханниел ба Рицяа.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ба ...-ийн хөвгүүд"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "Улла"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Арах"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "ба Ханниел"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "ба Рицяа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:24.342849717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Бат-Шеба хэлэв: Сайн, би чиний төлөө хаанд ярьсугай.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Шеба"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Сайн"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ярьсугай"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "чиний төлөө"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    }
+  ],
+  "timestamp": "2026-10-04T15:39:09.864172942Z",
+  "model": "glm-5.3"
+}

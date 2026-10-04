@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 16:32",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Далай нүргээлж, дүүрэн нь; тал баясан, дотор нь бүхэн нь.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "нүргээлж"
+    },
+    {
+      "surface": "הים",
+      "gloss": "Далай"
+    },
+    {
+      "surface": "ומלואו",
+      "gloss": "дүүрэн нь"
+    },
+    {
+      "surface": "יעלץ",
+      "gloss": "баясан"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "тал"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "дотор нь"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүний"
+    }
+  ],
+  "timestamp": "2026-10-04T15:03:59.400844286Z",
+  "model": "glm-5.3"
+}

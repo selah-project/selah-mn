@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Яхвэ үхүүлж, амьдуулна; Шеол руу буулгаж, ⟨дахин⟩ өргөнө.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "үхүүлж"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "ба амьдуулна"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "буулгаж"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ба өргөнө"
+    }
+  ],
+  "timestamp": "2026-10-04T11:22:02.574304290Z",
+  "model": "glm-5.3"
+}

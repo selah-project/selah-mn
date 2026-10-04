@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 7:4",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ардаас гурван мянга орчим хүн тийш явж, Айн эрчүүдийн өмнөөс зугтаав.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "явж"
+    },
+    {
+      "surface": "מן",
+      "gloss": "Ардаас"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Ардаас"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тийш"
+    },
+    {
+      "surface": "כשלשת",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "мянга орчим"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "зугтаав"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнөөс"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "эрчүүдийн"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Айн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:08:09.810630797Z",
+  "model": "glm-5.3"
+}

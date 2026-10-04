@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Муу элч муу руу унана, харин үнэнч элч эдгээлт ⟨болно⟩.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "элч"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "унана"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "муу руу"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "харин элч"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "үнэнч"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "эдгээлт"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:09.635086483Z",
+  "model": "glm-5.3"
+}

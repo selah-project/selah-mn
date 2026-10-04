@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Сайны оронд мууг буцаагчийн гэрээс муу хэзээ ч холдохгүй.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "буцаагч"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "мууг"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "-ийн оронд"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "сайны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "хэзээ ч ... үгүй"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "холдох"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "түүний гэрээс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:37.871505025Z",
+  "model": "glm-5.3"
+}

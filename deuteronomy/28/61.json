@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "deuteronomy 28:61",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Мөн энэ Торын номд бичигдээгүй бүх өвчин ба бүх цохилтыг Яхвэ чамайг устгаж дуустал чам дээр буулгана.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "חלי",
+      "gloss": "өвчин"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "цохилт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "бол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "бичигдээгүй"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "номд"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Торын"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "буулгана"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "чам дээр"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дуустал"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "устгаж"
+    }
+  ],
+  "timestamp": "2026-10-04T11:02:48.337062532Z",
+  "model": "glm-5.3"
+}

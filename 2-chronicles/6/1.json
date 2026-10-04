@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Тэгээд Шеломо хэлэв: Яхвэ нягт харанхуйд оршихоор айлдсан.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тэгээд"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдсан"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "оршихоор"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "нягт харанхуйд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:09:51.135053625Z",
+  "model": "glm-5.3"
+}

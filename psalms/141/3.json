@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 141,
+  "translation": "Яхвэ, миний аманд харуул тавиач, миний уруулын хаалгыг хамгаал.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "тавиач"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "харуул"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "миний аманд"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "хамгаал"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "דל",
+      "gloss": "хаалгыг"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "миний уруулын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:02:05.120418733Z",
+  "model": "glm-5.3"
+}

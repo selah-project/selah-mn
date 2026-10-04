@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Сеирийн хөвгүүд: Лотан, Шовал, Цибеон, Ана, Дишон, Эцер ба Дишан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ба ... хөвгүүд"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотан"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ба Шовал"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "ба Цибеон"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "ба Ана"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ба Дишон"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "ба Эцер"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ба Дишан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:23.885452941Z",
+  "model": "glm-5.3"
+}

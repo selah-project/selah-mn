@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Яхвэ минь, миний үгсэд сонс, миний шивнээг ойлго.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "миний үгсэд"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "сонс"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ойлго"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "миний шивнээг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:34:25.597548856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 16:7",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Яхвэ Элохим чинь сонгох газартаа түүнийг чанаж, идэж, өглөө нь эргэж, майхнууддаа яв.",
+  "tokens": [
+    {
+      "surface": "ובשלת",
+      "gloss": "чанаж"
+    },
+    {
+      "surface": "ואкלת",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "газартаа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "сонгох"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохим чинь"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "эргэж"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "өглөө нь"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "яв"
+    },
+    {
+      "surface": "לאהליך",
+      "gloss": "майхнууддаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:56:35.313257655Z",
+  "model": "glm-5.3"
+}

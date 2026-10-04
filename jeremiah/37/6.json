@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Яхвэгийн үг эш үзүүлэгч Йирмейагийн нь өөд ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ийн өөд"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йирмейагийн"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "эш үзүүлэгч"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T15:47:41.972528810Z",
+  "model": "glm-5.3"
+}

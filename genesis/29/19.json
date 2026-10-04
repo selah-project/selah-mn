@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 29:19",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Лаван хэлэв: Түүнийг ⟨את⟩ чамд өгөх нь өөр хүнд ⟨את⟩ өгснөөс дээр — надтай суугаарай.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "תתי",
+      "gloss": "би өгөх"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "түүнийг (чамд)"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "өгснөөс"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "өөр хүнд"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "суугаарай"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "надтай"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:38.465991784Z",
+  "model": "glm-5.3"
+}

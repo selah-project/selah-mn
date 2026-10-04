@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Дарс уугчдын дунд, махан тархичдын дунд бүү бай.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бай"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "уугчдын дунд"
+    },
+    {
+      "surface": "יין",
+      "gloss": "дарс"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "тархичдын донд"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "махан"
+    },
+    {
+      "surface": "למו",
+      "gloss": "тэдний"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:34.636201023Z",
+  "model": "glm-5.3"
+}

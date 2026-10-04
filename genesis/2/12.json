@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Тэр газрын алт ⟨бол⟩ сайхан; тэнд бедолиум ба шохам чулуу бий.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "мөн алт"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "бедолиум"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ба чулуу"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "шохам"
+    }
+  ],
+  "timestamp": "2026-10-04T09:45:49.287902723Z",
+  "model": "glm-5.3"
+}

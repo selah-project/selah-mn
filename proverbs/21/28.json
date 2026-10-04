@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Худал гэрч мөхнө, харин сонсдог хүн үүрд ярина.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "гэрч"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "худал"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "мөхнө"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "харин хүн"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "сонсдог"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "ידбר",
+      "gloss": "ярина"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:05.910075578Z",
+  "model": "glm-5.3"
+}

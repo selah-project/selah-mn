@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 31:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Тэрээр ноос ба ноос эрэв, өөрийн гарын таашаалаар ажиллав.",
+  "tokens": [
+    {
+      "surface": "דרשה",
+      "gloss": "эрэв"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ноос"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "ба ноос"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "ажиллав"
+    },
+    {
+      "surface": "בחפץ",
+      "gloss": "таашаалаар"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "өөрийн гарын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:14:01.300124267Z",
+  "model": "glm-5.3"
+}

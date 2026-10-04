@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Реувен амьд байг, үхээгүй байг, түүний эрчүүд тоогоороо байг.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "амьд байг"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "үхээгүй байг"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "байг"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "түүний эрчүүд"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "тоогоороо"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:54.756752932Z",
+  "model": "glm-5.3"
+}

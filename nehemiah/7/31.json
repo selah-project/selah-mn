@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Михмасын хүмүүс — зуун хорин хоёр.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "хүмүүс"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "Михмас"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "хоёр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:37.666554914Z",
+  "model": "glm-5.3"
+}

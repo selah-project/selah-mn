@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Би ⟨את⟩ нүдээ өргөж харвал, тэгтэл дөрвөн эвэр байв.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "би өргөж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нүдээ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "нүдээ"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "харвал"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "тэгтэл"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "эвэр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:30:46.021351926Z",
+  "model": "glm-5.3"
+}

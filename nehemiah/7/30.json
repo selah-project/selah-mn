@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Рама ба Гивагийн хүмүүс — зургаан зуун хорин нэгэн.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "хүмүүс"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ба Гива"
+    },
+    {
+      "surface": "שש",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "нэгэн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:37.666435545Z",
+  "model": "glm-5.3"
+}

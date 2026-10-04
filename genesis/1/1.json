@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Эхэнд Элохим ⟨את⟩ тэнгэр ба ⟨את⟩ газрыг бүтээв.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "Эхэнд"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "бүтээв"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тэнгэр"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "тэнгэр"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "газар"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрыг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:24.159848427Z",
+  "model": "glm-5.3"
+}

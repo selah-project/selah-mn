@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Яхвэгийн үг Хаггай эш үзүүлэгчийн гарт байж, айлдаж",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байж"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "гарт"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Хаггай"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "эш үзүүлэгчийн"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдаж"
+    }
+  ],
+  "timestamp": "2026-10-04T13:29:20.582115997Z",
+  "model": "glm-5.3"
+}

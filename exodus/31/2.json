@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 31,
+  "translation": "Хар, Бецалелыг нэрээр нь дуудлаа — Уригийн хүү, Хурын хүү, Йисраелын Йахудагийн овгоос",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Хар"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "дуудлаа"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "нэрээр нь"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бецалел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Ури"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хур"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йахуда"
+    }
+  ],
+  "timestamp": "2026-10-04T10:16:06.021514015Z",
+  "model": "glm-5.3"
+}

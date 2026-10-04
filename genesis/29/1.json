@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Яаков хөлөө өргөн дорно зүгийн хөвгүүдийн нутаг руу явав.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "өргөн"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "хөлөө"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "явав"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "нутаг руу"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "дорно зүгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:58.128129828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Ноах даруунаа сэрж, ⟨את⟩ бага хүү нь өөрт нь юу хийснийг мэдэв.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "сэрж"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "даруунаа"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "мэдэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "юу хийснийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийснийг"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөрт нь"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "хүү нь"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "бага"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:23.193979647Z",
+  "model": "glm-5.3"
+}

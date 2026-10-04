@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 68,
+  "translation": "Таны ордноос — Ерушалайм дээр — Танд хаадууд бэлэг авчирна.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "Таны ордноос"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалайм"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Танд"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "авчирна"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "хаадууд"
+    },
+    {
+      "surface": "שי",
+      "gloss": "бэлэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:47:40.636412289Z",
+  "model": "glm-5.3"
+}

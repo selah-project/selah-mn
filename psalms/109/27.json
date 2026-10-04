@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 109,
+  "translation": "Тэгээд тэд мэдэг: энэ бол Таны мөр, Та Яхвэ үүнийг хийсэн.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "мэдэг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Таны мөр"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Та"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "хийсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:56:40.124921350Z",
+  "model": "glm-5.3"
+}

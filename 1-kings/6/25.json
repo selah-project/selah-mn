@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 6:25",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Хоёр дахь керуб арван тохой байв: хоёр керубд нэг хэмжээ, нэг дүр байлаа.",
+  "tokens": [
+    {
+      "surface": "ועשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "тохой"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керуб"
+    },
+    {
+      "surface": "השני",
+      "gloss": "хоёр дахь"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "хэмжээ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "וקצב",
+      "gloss": "дүр"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "керубд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:49:20.458474681Z",
+  "model": "glm-5.3"
+}

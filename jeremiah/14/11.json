@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Яхвэ надад хэлэв: Энэ ард түмний сайн сайхны төлөө бүү залбир.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "залбир"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "төлөө"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмний"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "сайн сайхны"
+    }
+  ],
+  "timestamp": "2026-10-04T12:38:14.638637943Z",
+  "model": "glm-5.3"
+}

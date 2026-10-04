@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Иошуа ард түмний ⟨את⟩ захирагчид тушаав, ингэж хэлжээ:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "тушаав"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "захирагчид"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "захирагчид"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмний"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлжээ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:33:44.591003628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Лайш — араатны дунд баатар, ба хэний ч өмнөөс буцдаггүй;",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "Лайш"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "баатар"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "араатны дунд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба ...үгүй"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "буцдаг"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "өмнөөс"
+    },
+    {
+      "surface": "כל",
+      "gloss": "хэний ч"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:31.061763428Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Хүмүүс газрын нүүр дээр олшрохыг эхэлж, тэдэнд охид төрөх үед",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болоход"
+    },
+    {
+      "surface": "כי",
+      "gloss": "(-х үед)"
+    },
+    {
+      "surface": "החל",
+      "gloss": "эхэлж"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүмүүс"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "олшрох"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүр"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ба охид"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "төрөв"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:48:36.269765949Z",
+  "model": "glm-5.3"
+}

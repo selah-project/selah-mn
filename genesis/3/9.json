@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэ Элохим хүнийг дуудан, түүнд: Чи хаана байна? гэв.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "дуудан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "хаана"
+    }
+  ],
+  "timestamp": "2026-10-04T09:45:45.291019613Z",
+  "model": "glm-5.3"
+}

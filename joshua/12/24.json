@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Тирцахын хаан нэг; нийт хаадууд гучин нэгэн.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Тирцахын"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "нийт"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "хаадууд"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "гучин"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "нэгэн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:08:23.131556841Z",
+  "model": "glm-5.3"
+}

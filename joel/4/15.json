@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 4:15",
+  "book": "joel",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Нар ба сар харлав, одод гэрлээ татав.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "Нар"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ба сар"
+    },
+    {
+      "surface": "קדרו",
+      "gloss": "харлав"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "одод"
+    },
+    {
+      "surface": "אספו",
+      "gloss": "татав"
+    },
+    {
+      "surface": "נגהם",
+      "gloss": "гэрлээ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:21:17.752399419Z",
+  "model": "glm-5.3"
+}

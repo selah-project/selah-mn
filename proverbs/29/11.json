@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Тэнэг бүх руахаа гаргадаг, харин мэргэн хүн түүнийг хожим нь дарж байдаг.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "руахаа"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "гаргадаг"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "тэнэг"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "харин мэргэн"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "хожим"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "дарна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:28.311455700Z",
+  "model": "glm-5.3"
+}

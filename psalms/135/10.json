@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 135:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 135,
+  "translation": "Тэрээр олон үндэстнийг цохиж, хүчтэй хаадыг алсан.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "хэн цохив"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "үндэстнүүдийг"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "олон"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "ба алсан"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "хаадыг"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "хүчтэй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:12.398862824Z",
+  "model": "glm-5.3"
+}

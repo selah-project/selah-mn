@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Хүмүүс тэдний хоолноос авав, харин Яхвэгийн амыг ⟨את⟩ эс асуув.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "авав"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "хүмүүс"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "тэдний хоолноос"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэгийн амыг"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "эс"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "асуув"
+    }
+  ],
+  "timestamp": "2026-10-04T11:06:33.983883156Z",
+  "model": "glm-5.3"
+}

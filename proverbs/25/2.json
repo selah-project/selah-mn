@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Элохимийн алдар бол юм нуух явдал, хаадын алдар бол юм судалж олох явдал.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "алдар"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимийн"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "нуух"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "ба алдар"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "хаадын"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "судалж олох"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "юм"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:46.984177655Z",
+  "model": "glm-5.3"
+}

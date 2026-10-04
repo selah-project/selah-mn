@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Гэмийн тахилга энэ — Яхвэд эсэргүүцэн гэм буруутсан нь гарцаагүй.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "гэмийн тахилга энэ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "гэм буруутсан"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "гарцаагүй"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:22:59.791627794Z",
+  "model": "glm-5.3"
+}

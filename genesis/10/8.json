@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Куш ⟨את⟩ Нимродыг төрүүлжээ; тэрээр газар дээр баатар болж эхэлсэн.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "төрүүлжээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нимродыг"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "Нимрод"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэрээр"
+    },
+    {
+      "surface": "החל",
+      "gloss": "эхэлсэн"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "болж"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "баатар"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газар дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:49.480337526Z",
+  "model": "glm-5.3"
+}

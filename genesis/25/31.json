@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Яаков хэлэв: Өнөөдөр ⟨את⟩ ахлах хүүгийн эрхээ надад зар.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "зар"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ахлах хүүгийн эрхээ"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "ахлах хүүгийн эрхээ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    }
+  ],
+  "timestamp": "2026-10-04T09:54:16.196282417Z",
+  "model": "glm-5.3"
+}

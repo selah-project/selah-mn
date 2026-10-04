@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Иорданы нөгөө талд, Моабын газарт Моше энэ Торыг тайлбарлаж эхэлсэн бөгөөд ингэж хэлсэн:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "нөгөө талд"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иордан"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "эхэлсэн"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "באר",
+      "gloss": "тайлбарлаж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ Торыг"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тор"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:48.980603071Z",
+  "model": "glm-5.3"
+}

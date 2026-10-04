@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Тахилч тосны логаас авч, тахилчийн зүүн алган дээр асгана.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "авч"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилч"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "логоос"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "тосны"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "асгана"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כף",
+      "gloss": "алган"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "тахилчийн"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "зүүн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:27:00.648334367Z",
+  "model": "glm-5.3"
+}

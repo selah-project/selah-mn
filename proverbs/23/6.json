@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Муу нүдтэй хүний ⟨את⟩ талхыг бүү ид, түүний амттаныг бүү хүс.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "ид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "талх"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "עין",
+      "gloss": "нүдтэй хүний"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "хүс"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "түүний амттаныг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:33.951129982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Элимээс явж, Суф тэнгисийн дэргэд бүрэлдэн буув.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "явж"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "Элимээс"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "бүрэлдэн буув"
+    },
+    {
+      "surface": "על",
+      "gloss": "дэргэд"
+    },
+    {
+      "surface": "ים",
+      "gloss": "тэнгисийн"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:13.197441409Z",
+  "model": "glm-5.3"
+}

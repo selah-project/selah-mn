@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Чи бүхэлдээ сайхан, миний хайрт, дутуудал чиний дотор алга.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "чи бүхэлдээ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "миний хайрт"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "дутуудал"
+    },
+    {
+      "surface": "אין",
+      "gloss": "алга"
+    },
+    {
+      "surface": "בך",
+      "gloss": "чиний дотор"
+    }
+  ],
+  "timestamp": "2026-10-04T14:28:20.101900335Z",
+  "model": "glm-5.3"
+}

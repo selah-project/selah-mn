@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Манаачид дуудан, хааны ордонд дотор нь мэдээлэв.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "дуудан"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "манаачид"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "мэдээлэв"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ордонд"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "дотор нь"
+    }
+  ],
+  "timestamp": "2026-10-04T12:01:49.329448260Z",
+  "model": "glm-5.3"
+}

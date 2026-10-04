@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Аврахам түүнд хэлэв: Хүүг минь тийшээ буцаахгүй байхыг сайн анхаар.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "анхаар"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөрөө"
+    },
+    {
+      "surface": "פן",
+      "gloss": "буцаахгүй байхыг"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "буцаах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хүүг минь"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүүг минь"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тийшээ"
+    }
+  ],
+  "timestamp": "2026-10-04T09:52:57.227560565Z",
+  "model": "glm-5.3"
+}

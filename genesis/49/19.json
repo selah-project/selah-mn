@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 49:19",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Гадыг дайны бүл довтлох боловч тэр тэдний өсгийг довтлоно.",
+  "tokens": [
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "дайны бүл"
+    },
+    {
+      "surface": "יגודנו",
+      "gloss": "довтлох"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "יגגד",
+      "gloss": "довтлоно"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "өсгийг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:05:04.256532693Z",
+  "model": "glm-5.3"
+}

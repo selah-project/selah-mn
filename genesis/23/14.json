@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Эфрон Аврахамд хариулж, түүнд хэлэв.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "Эфрон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврахамыг"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахамыг"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлж"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:52:13.719504714Z",
+  "model": "glm-5.3"
+}

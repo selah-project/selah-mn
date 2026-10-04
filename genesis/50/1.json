@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 50,
+  "translation": "Йосеф эцгийнхээ нүүр дээр унаж, түүн дээр уйлж, түүндээ үнсэв.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "унаж"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүр"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "эцгийнхээ"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "уйлж"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүн дээр"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "үнсэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүндээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:04:31.544312460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Йосефын гэр Бейт-Элд тагнуул илгээжээ; тэр хотын нэр өмнө нь Луз байсан.",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "тагнуул илгээжээ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосефын"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Элд"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хотын"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "өмнө нь"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Луз"
+    }
+  ],
+  "timestamp": "2026-10-04T11:12:38.890986018Z",
+  "model": "glm-5.3"
+}

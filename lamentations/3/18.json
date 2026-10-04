@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Би хэлэв: Миний тэсвэр мөхөв, миний найдвар Яхвэгээс.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Би хэлэв"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "мөхөв"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "миний тэсвэр"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "миний найдвар"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "Яхвэгээс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:07.258627002Z",
+  "model": "glm-5.3"
+}

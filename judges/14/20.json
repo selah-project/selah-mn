@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Шимшоны эхнэр түүний нөхөрт — өөрийн халамжлагчид — өгөгдөв.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "өгөгдөв"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "эхнэр"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшоны"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "түүний нөхөрт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "халамжлагч"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:18:49.248052297Z",
+  "model": "glm-5.3"
+}

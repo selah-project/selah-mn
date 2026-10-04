@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Яхвэ Моабын талуудад Ярден Ерихогийн дэргэд Мошед айлдав.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "талуудад"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаб"
+    },
+    {
+      "surface": "על",
+      "gloss": "дэргэд"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Ярден"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Ерихо"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлэхдээ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:51.513805Z",
+  "model": "glm-5.3"
+}

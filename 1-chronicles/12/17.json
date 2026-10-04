@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Бинйамины болон Йехудагийн хөвгүүдээс зарим нь Давид дээрх цайз хүртэл ирэв.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ирэв"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинйамин"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "болон Йехуда"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "цайз руу"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:59:09.529723504Z",
+  "model": "glm-5.3"
+}

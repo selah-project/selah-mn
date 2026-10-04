@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Моше Гад овогт — Гадын хөвгүүдэд овог төрлүүдэд нь өгөв.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "овогт"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдэд"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гадын"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "овог төрлүүдэд нь"
+    }
+  ],
+  "timestamp": "2026-10-04T11:08:45.901743160Z",
+  "model": "glm-5.3"
+}

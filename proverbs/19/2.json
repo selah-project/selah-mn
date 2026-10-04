@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Мөн мэдлэггүй бол нефешь сайн биш, хөлөөрөө яарсан хүн нүдээ алддаг.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "мэдлэггүй бол"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "мэдлэг"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "нефешь"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "яарсан хүн"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "хөлөөрөө"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "нүдээ алддаг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:57.464111821Z",
+  "model": "glm-5.3"
+}

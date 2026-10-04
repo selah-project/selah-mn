@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Үхэр тугалын нэг, хунт нэг, нэг настай хурга нэг, бүрэлдээний тахилгаас.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "тугал"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "-ын"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "үхэр"
+    },
+    {
+      "surface": "איל",
+      "gloss": "хунт"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "хурга"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "бүрэлдээний тахилгаас"
+    }
+  ],
+  "timestamp": "2026-10-04T10:36:34.925665852Z",
+  "model": "glm-5.3"
+}

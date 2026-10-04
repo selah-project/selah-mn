@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 16:23",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Яхвэ Мошетэй ярьж, айлдсан нь:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ярьж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-тэй"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдсан нь"
+    }
+  ],
+  "timestamp": "2026-10-04T10:40:47.946671470Z",
+  "model": "glm-5.3"
+}

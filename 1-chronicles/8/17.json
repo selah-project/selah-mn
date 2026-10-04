@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "ба Зебадай, ба Мешуллам, ба Хизки, ба Хабер.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "ба Зебадай"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ба Мешуллам"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "ба Хизки"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ба Хабер"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:52.715721678Z",
+  "model": "glm-5.3"
+}

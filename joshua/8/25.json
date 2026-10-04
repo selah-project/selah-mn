@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Тэр өдөр унасан бүх хүн, эр хүнээс эм хүн хүртэл, арван хоёр мянга байв — Айгийн бүх эрчүүд.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болсон"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "унасан хүмүүс"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "эр хүнээс"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эм хүн"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "эрчүүд"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Айгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:06:54.922602057Z",
+  "model": "glm-5.3"
+}

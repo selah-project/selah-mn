@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "эртний уулсуудын дээд ба мөнх довцогуудын сайнаас.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "ба дээд"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "уулсуудын"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "эртний"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "сайнаас"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "довцгуудын"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мөнх"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:23.787739207Z",
+  "model": "glm-5.3"
+}

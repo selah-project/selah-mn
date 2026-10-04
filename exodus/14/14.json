@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Яхвэ та нарт тулалдана, та нар бол чимээгүй байцгаа.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "тулалдана"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "та нар бол"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "чимээгүй байцгаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:09:58.879861218Z",
+  "model": "glm-5.3"
+}

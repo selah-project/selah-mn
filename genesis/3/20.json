@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хүн эхнэрийнхөө нэрийг Хава гэж дуудав, учир нь тэр бүх амьд бүхний эх байв.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "дуудав"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэрийг"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "эхнэрийнхөө"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Хава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "байв"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "חי",
+      "gloss": "амьд бүхний"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:56.704506688Z",
+  "model": "glm-5.3"
+}

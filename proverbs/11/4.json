@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Уур хилэнгийн өдөр баялаг тус болохгүй, харин цедек үхлээс аварна.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "тус болохгүй"
+    },
+    {
+      "surface": "הון",
+      "gloss": "баялаг"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "уур хилэнгийн"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ба цедек"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "аварна"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "үхлээс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:07:23.561833053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Нарны доор өвчилмөөр муу юм би харлаа: баялаг эзэнд нь түүний гайгаар нь хадгалагдана.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу юм"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "өвчилмөөр"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "би харлаа"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "доор"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нарны"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "баялаг"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "хадгалагдана"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "эзэнд нь"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "түүний гайгаар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:35.558371373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Сарын таванд — энэ нь хаан Иехоакины цөлөлгөөний тав дахь жил байв.",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "таванд"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "сарын"
+    },
+    {
+      "surface": "היא",
+      "gloss": "энэ нь"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "тав дахь"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "цөлөлгөөний"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "Иехоакин"
+    }
+  ],
+  "timestamp": "2026-10-04T12:55:50.704380172Z",
+  "model": "glm-5.3"
+}

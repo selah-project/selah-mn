@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 16:43",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Бүх ард түмэн хүн бүр өөрийн гэртээ явж, Давид ⟨את⟩ өөрийн гэрээ ерөөхөөр буцав.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "явж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн бүр"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "өөрийн гэртээ"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "буцав"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לברך",
+      "gloss": "ерөөхөөр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өөрийн гэр"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "өөрийн гэрээ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:03:53.379853277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Авшалом зугтааж, Гешур руу явсан бөгөөд тэнд гурван жил болов.",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "зугтааж"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "явсан"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Гешур"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "жил"
+    }
+  ],
+  "timestamp": "2026-10-04T11:38:43.716921068Z",
+  "model": "glm-5.3"
+}

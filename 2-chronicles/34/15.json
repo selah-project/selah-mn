@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 34:15",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Хилкия хариулж, бичээч Шафанд хэлэв: Би Яхвэгийн гэрт Торын ном оллоо. Хилкия ⟨את⟩ номыг Шафанд өгөв.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "хариулж"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Хилкия"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафан"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "бичээч"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ном"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Торын"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "би оллоо"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "гэрт"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "өгөв"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Хилкия"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "номыг"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ном"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафан"
+    }
+  ],
+  "timestamp": "2026-10-04T15:24:31.076581457Z",
+  "model": "glm-5.3"
+}

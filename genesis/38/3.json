@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Тэр жирэмсэлж, хүү төрүүлэв; тэр түүний нэрийг Эр гэж нэрлэв.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "жирэмсэлж"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "нэрлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түүний нэр"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "түүний нэр"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Эр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:00:17.563113121Z",
+  "model": "glm-5.3"
+}

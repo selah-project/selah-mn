@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Өргөн нүд ба өргөн зүрх — муусайнхны хагалгаа — нүгэл.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "нүд"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ба өргөн"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "хагалгаа"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "муусайнхны"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "нүгэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:15.822527505Z",
+  "model": "glm-5.3"
+}

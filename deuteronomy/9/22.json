@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Тавэрад, Массад, Киврот-Хатаавад та нар Яхвэг ⟨את⟩ уурлуулж байсан.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "Тавэрад"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "Массад"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "Киврот-Хатаавад"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "Хатаава"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "уурлуулж"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "та нар байсан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:53:53.981500616Z",
+  "model": "glm-5.3"
+}

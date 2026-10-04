@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 16:11",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Тэнцвэр ба шүүлтийн жин Яхвэд хамаарна; уутны бүх чулуу Түүний үйлс ⟨мөн⟩.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "Тэнцвэр"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "ба жин"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлтийн"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "Түүний үйлс"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "чулуу"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "уутны"
+    }
+  ],
+  "timestamp": "2026-10-04T15:55:29.159725411Z",
+  "model": "glm-5.3"
+}

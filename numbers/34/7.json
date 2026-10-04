@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 34:7",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Энэ бол таны хойд хил бөгөөд Агуу далайгаас Хор уулыг тэмдэглэн тодорхойлно.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Энэ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "танд"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "хойд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הים",
+      "gloss": "далай"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "Агуу"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "тэмдэглэн тодорхойлно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "танд"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Хор"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "уул"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:30.848743430Z",
+  "model": "glm-5.3"
+}

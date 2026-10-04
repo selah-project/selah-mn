@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Мишма, Дума, Масса.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "Мишма"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "Дума"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "Масса"
+    }
+  ],
+  "timestamp": "2026-10-04T09:54:10.675126482Z",
+  "model": "glm-5.3"
+}

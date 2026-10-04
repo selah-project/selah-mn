@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Бид Элохим, Таны хэсэдийг Таны ордны дотор боджээ.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "бид боджээ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Таны хэсэдийг"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "дотор"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "Таны ордны"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:42.939180820Z",
+  "model": "glm-5.3"
+}

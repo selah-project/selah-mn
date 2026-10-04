@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 17:10",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Чи Яхвэ сонгох тэр газраас тэд чамд зарлах үгийн амаар үйлдэж, тэд чамд заах бүхнээр үйлдэхийг сахиж байгтун.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "чи үйлдэж"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ын дагуу"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ам"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "тэд зарлах"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "газар"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "сонгох"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "сахиж"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "үйлдэхийг"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "бүхнээр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "тэд чамд заах"
+    }
+  ],
+  "timestamp": "2026-10-04T10:58:17.489991002Z",
+  "model": "glm-5.3"
+}

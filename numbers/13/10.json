@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Зебулуны овгоос Гаддиэл, Содигийн хүү.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "овгоос"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "Гаддиэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "Соди"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:56.814920747Z",
+  "model": "glm-5.3"
+}

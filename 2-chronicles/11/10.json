@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "мөн ⟨את⟩ Цора, ⟨את⟩ Айалон, ⟨את⟩ Хеврон — Юда, Бениаминд байгаа бэхлэгдсэн хотууд.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "мөн ⟨את⟩",
+      "marks": "Цора"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "Цора"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Айалон"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Айалон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хеврон"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Юдад"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "ба Бениаминд"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "хотууд"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "бэхлэгдсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:11:03.824694271Z",
+  "model": "glm-5.3"
+}

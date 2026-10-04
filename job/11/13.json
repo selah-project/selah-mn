@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 11:13",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Хэрэв чи зүрхээ бэлдэж, Түүн рүү алгаа дэлгэвэл,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Хэрэв"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "бэлдэж"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "зүрхээ"
+    },
+    {
+      "surface": "ופרשת",
+      "gloss": "дэлгэвэл"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "Түүн рүү"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "алгаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:17:32.449469103Z",
+  "model": "glm-5.3"
+}

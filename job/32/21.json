@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Би хүний нүүрийг бүү өргөг гуйя, хүнд сайшаалын нэр бүү өгөг.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "נא",
+      "gloss": "гуйя"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "өргөөсэй"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүрийг"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "сайшаалын нэр өгөөсэй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:22:33.757390212Z",
+  "model": "glm-5.3"
+}

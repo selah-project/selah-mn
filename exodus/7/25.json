@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Яхвэ ⟨את⟩ голыг цохисны дараа долоон хоног дуусжээ.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "дуусжээ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "хоног"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "дараа"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "цохисны"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гол"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "голыг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:07:35.787952346Z",
+  "model": "glm-5.3"
+}

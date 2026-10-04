@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Эфраймын уулсаас нэгэн хүн байв, түүний нэр Михайху байжээ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "איש",
+      "gloss": "нэгэн хүн"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "уулсаас"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Эфраймын"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "түүний нэр"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Михайху"
+    }
+  ],
+  "timestamp": "2026-10-04T11:20:23.129211699Z",
+  "model": "glm-5.3"
+}

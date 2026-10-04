@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Рецинын хөвгүүд, Некодагийн хөвгүүд, Газзамын хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Рецин"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некода"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "Газзам"
+    }
+  ],
+  "timestamp": "2026-10-04T14:46:34.790585146Z",
+  "model": "glm-5.3"
+}

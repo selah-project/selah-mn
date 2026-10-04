@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Лотаны хөвгүүд: Хори ба Хомам; Лотаны эгч бол Тимна.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ба ... хөвгүүд"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотаны"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Хори"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "ба Хомам"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "эгч"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотаны"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:23.885591448Z",
+  "model": "glm-5.3"
+}

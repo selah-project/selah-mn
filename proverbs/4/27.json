@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Баруун тийш бүү гаж, зүүн тийш ч бүү гаж, хөлөө муугаас буруулга.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תט",
+      "gloss": "гаж"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "баруун тийш"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ба зүүн тийш"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "буруулга"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "хөлөө"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "муугаас"
+    }
+  ],
+  "timestamp": "2026-10-04T15:54:18.195745517Z",
+  "model": "glm-5.3"
+}

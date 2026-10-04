@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Тэрээр тахилын амьтдаа нядлаж, дарсаа холив; мөн ширээгээ дэлгэв.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "нядлаж"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "тахилын амьтдаа"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "холив"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "дарсаа"
+    },
+    {
+      "surface": "אף",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "дэлгэв"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "ширээгээ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:14.508000105Z",
+  "model": "glm-5.3"
+}

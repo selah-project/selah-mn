@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 40:14",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Яхвэ таалан намайг аврагтун; Яхвэ миний тус болохоор яар.",
+  "tokens": [
+    {
+      "surface": "רצה",
+      "gloss": "таалан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "намайг аврахаар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "лעזרתי",
+      "gloss": "миний тус"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "яар"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:54.925886586Z",
+  "model": "glm-5.3"
+}

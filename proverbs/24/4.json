@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Мэдлэгээр өрөөнүүд дүүрэн болно — үнэтэй, сайхан бүх баялагаар.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "Мэдлэгээр"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "өрөөнүүд"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "дүүрэн болно"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הון",
+      "gloss": "баялаг"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "үнэтэй"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "сайхан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:08.845762891Z",
+  "model": "glm-5.3"
+}

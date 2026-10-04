@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хатгуур өвсний дунд байгаа саран цэцэг шиг, миний хайрт охидын дунд тийм.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "саран цэцэг шиг"
+    },
+    {
+      "surface": "בין",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "хатгуур өвсний"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тийм"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "миний хайрт"
+    },
+    {
+      "surface": "בין",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "охидын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:28:05.339910513Z",
+  "model": "glm-5.3"
+}

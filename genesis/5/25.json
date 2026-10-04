@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Мэтүшалах наян долоон жил, зуун жил амьдарч, Ламехийг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "амьдарч"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Мэтүшалах"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "наян"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ламехийг"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Ламех"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:03.345010416Z",
+  "model": "glm-5.3"
+}

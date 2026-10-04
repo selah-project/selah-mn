@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 42,
+  "translation": "Олон юм харавч сахисангүй, чих нээгээвч сонссонгүй.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "харавч"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "олон юм"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "-сангүй"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "сахих"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "нээсэн"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "чих"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "-сонгүй"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "сонссон"
+    }
+  ],
+  "timestamp": "2026-10-04T12:24:00.180406398Z",
+  "model": "glm-5.3"
+}

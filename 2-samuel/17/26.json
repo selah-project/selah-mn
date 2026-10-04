@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Йисраел ба Абшалом Гиладад нутагт буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "ба Абшалом"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "нутагт"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гиладад"
+    }
+  ],
+  "timestamp": "2026-10-04T11:40:44.401721444Z",
+  "model": "glm-5.3"
+}

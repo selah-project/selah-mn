@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 69,
+  "translation": "Хувцас болгож даавууг би өмсөв, ба тэдэнд үлгэр болов.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "би ... өмсөв"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "хувцас болгож"
+    },
+    {
+      "surface": "שק",
+      "gloss": "даавуу"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ба ... болов"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "үлгэр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:46:47.017479853Z",
+  "model": "glm-5.3"
+}

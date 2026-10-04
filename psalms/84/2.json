@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 84,
+  "translation": "Яахан хайртай билээ Таны Мишканууд, Яхвэ Цебаот!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "яахан"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "хайртай билээ"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "Таны Мишканууд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    }
+  ],
+  "timestamp": "2026-10-04T13:51:58.167903874Z",
+  "model": "glm-5.3"
+}

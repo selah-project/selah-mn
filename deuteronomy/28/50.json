@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "царайлан зүрх шулуун үндэстэн, хөгшидөд хүндэтгэл үзүүлэхгүй, залууд өршөөл үзүүлэхгүй.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "үндэстэн"
+    },
+    {
+      "surface": "עז",
+      "gloss": "хатуу"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "царай"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юм"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "хүндэтгэл үзүүлэх"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "царай"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "хөгшидөд"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "залууд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "өршөөл үзүүлэх"
+    }
+  ],
+  "timestamp": "2026-10-04T11:01:58.220398022Z",
+  "model": "glm-5.3"
+}

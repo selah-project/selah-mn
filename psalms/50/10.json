@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 50,
+  "translation": "Учир нь ойн бүх араатан Минийх, мянган уулын мал Минийх.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Минийх"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "араатан"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ойн"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "мал"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "уулын"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянган"
+    }
+  ],
+  "timestamp": "2026-10-04T13:42:32.898731038Z",
+  "model": "glm-5.3"
+}

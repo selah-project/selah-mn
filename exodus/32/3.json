@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Бүх ард түмэн чихэн дэх алтан ээмэгүүдээ ⟨את⟩ тайлж, Ааронд авчрав.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "тайлж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "алтан ээмэгүүд"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "ээмэгүүд"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ых"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "чихэн дэх"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "авчрав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    }
+  ],
+  "timestamp": "2026-10-04T10:19:01.975796114Z",
+  "model": "glm-5.3"
+}

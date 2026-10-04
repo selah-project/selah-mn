@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 118,
+  "translation": "Өө Яхвэ, одоо авруул; өө Яхвэ, одоо амжилт хайрла!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "өө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "авруул"
+    },
+    {
+      "surface": "נא",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "өө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "амжилт хайрла"
+    },
+    {
+      "surface": "נא",
+      "gloss": "одоо"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:40.624057625Z",
+  "model": "glm-5.3"
+}

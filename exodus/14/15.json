@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Яхвэ Мошед хэлэв: Надад юунд хашхирав? Йисраелийн хөвгүүдэд яриад, тэд хөдөлцгөө.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юунд"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "хашхирав"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "яриад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "хөдөлцгөө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:09:58.880009085Z",
+  "model": "glm-5.3"
+}

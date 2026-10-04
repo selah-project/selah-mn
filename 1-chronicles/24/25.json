@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Михагийн ах нь Йишийя байв; Йишийягийн хөвгүүдээс Зехариа.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ах"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миха"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Йишийя"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдээс"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Йишийягийн"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "Зехариа"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:28.743035913Z",
+  "model": "glm-5.3"
+}

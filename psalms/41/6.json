@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Миний дайснууд над муу юм хэлнэ: Хэзээ тэр үхэж, түүний нэр мөхөх болов?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "миний дайснууд"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "хэлнэ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу юм"
+    },
+    {
+      "surface": "לי",
+      "gloss": "над"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "хэзээ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "үхэж"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ба мөхөх"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "түүний нэр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:48.598949406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Бид Эрушалаймд ирж, тэнд гурван өдөр буудаллав.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Эрушалаймд"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "гурван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:49:23.534399400Z",
+  "model": "glm-5.3"
+}

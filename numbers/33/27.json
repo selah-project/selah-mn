@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Тахатаас явж, Терахад буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "явж"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "Тахатаас"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "Терахад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:10.969832854Z",
+  "model": "glm-5.3"
+}

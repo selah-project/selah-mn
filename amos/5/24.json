@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "amos 5:24",
+  "book": "amos",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Шүүлт ус мэт урсаг, цедек мөнхийн гол мэт болог.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "урсаг"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ус мэт"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлт"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "цедек"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "гол мэт"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "мөнхийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:22:36.677369461Z",
+  "model": "glm-5.3"
+}

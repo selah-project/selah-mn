@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 113,
+  "translation": "Яхыг магт! Яхвэгийн боолууд минь, магт! Яхвэгийн нэрийг ⟨את⟩ магт!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "магт"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Яхыг"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "магт"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "боолууд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "магт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нэрийг"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэрийг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:56:25.766395875Z",
+  "model": "glm-5.3"
+}

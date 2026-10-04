@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Чиний дотор шөнө тохиолдсон зүйлээс болж ариун бус хүн байвал тэр хурангаас гадагш гарна, хуурны дунд орохгүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байвал"
+    },
+    {
+      "surface": "בך",
+      "gloss": "чингийн дотор"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ариун"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "тохиолдсон зүйлээс"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шөнө"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "гарна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "гадагш"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "хурангаас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "орох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "хуурны"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:35.390665452Z",
+  "model": "glm-5.3"
+}

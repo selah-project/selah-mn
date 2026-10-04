@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Даны тухай хэлэхдээ: Дан бол арслангиын зулзага, Башанаас үсрэн гарна.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "Даны тухай"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэлэхдээ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "גור",
+      "gloss": "зулзага"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "арслангиын"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "үсрэн гарна"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башан"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:02.869602937Z",
+  "model": "glm-5.3"
+}

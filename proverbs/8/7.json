@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Учир нь миний ам үнэнийг амандлана, миний уруулд мууг зэрлэг юм байна.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "үнэнийг"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "амандлана"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "миний ам"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "зэрлэг юм"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "миний уруулд"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "мууг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:29.352506097Z",
+  "model": "glm-5.3"
+}

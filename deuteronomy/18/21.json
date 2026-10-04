@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Хэрэв чи зүрхэндээ хэлбэл: Яахин бид ⟨את⟩ Яхвэгийн ялсангүй үгийг мэдэх вэ?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "чи хэлбэл"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "зүрхэндээ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "яахин"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "бид мэдэх"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэгийн ялсангүй үг"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ялсан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:57:31.885134697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Хахууль бол эзэд нь үзэхэд өршөөлийн чулуу мэт; хаашаа ч хандаж, амжилт олно.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "чулуу"
+    },
+    {
+      "surface": "חן",
+      "gloss": "өршөөл"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "хахууль"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэнд"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "эзэд нь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "хаашаа ч"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "үүнд"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "хандсан"
+    },
+    {
+      "surface": "ישкיל",
+      "gloss": "амжилт олно"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:53.719849808Z",
+  "model": "glm-5.3"
+}

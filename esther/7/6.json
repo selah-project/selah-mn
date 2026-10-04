@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 7:6",
+  "book": "esther",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Естер хэлэв: Дайсан ба өстөн бол энэ муу Хаман. Тэгээд Хаман хаан ба хатны өмнөөс эмээв.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "צר",
+      "gloss": "дайсан"
+    },
+    {
+      "surface": "ואויב",
+      "gloss": "ба өстөн"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Хаман"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "Хаман"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "эмээв"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "өмнөөс"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "והמלכה",
+      "gloss": "ба хатан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:39:36.172396693Z",
+  "model": "glm-5.3"
+}

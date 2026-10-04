@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Чи өөртөө сүлд мөхөөсөл хийхгүй, дээр нь тэнгэрт, доор нь газарт, газрын доорх усанд байгаа ямар ч дүр төрхийн",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "чи хийх"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "сүлд мөхөөсөл"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "дүр төрхийн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "тэнгэрт"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "дээр нь"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ба юу"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "доор нь"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ба юу"
+    },
+    {
+      "surface": "במים",
+      "gloss": "усанд"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "доор нь"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "газрын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:53.218864535Z",
+  "model": "glm-5.3"
+}

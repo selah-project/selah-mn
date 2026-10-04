@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Йорахын хөвгүүд — нэг зуун арван хоёр.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "Йорахын"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "нэг зуун"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    }
+  ],
+  "timestamp": "2026-10-04T14:45:16.855039075Z",
+  "model": "glm-5.3"
+}

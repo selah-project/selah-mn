@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Үүнээс нь та нар усан доторх бүхнээс идэж болно: сэлүүр бол hesitant хайрстай нь бүхнийг идэж болно.",
+  "tokens": [],
+  "timestamp": "2026-10-04T10:55:09.760582915Z",
+  "model": "glm-5.3"
+}

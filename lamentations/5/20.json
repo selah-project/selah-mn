@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Яагаад үүрд биднийг мартаж, урт удаан хугацаанд биднийг орхив?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Яагаад"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "биднийг мартаж"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "биднийг орхив"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "урт удаан хугацаанд"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдрүүдийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:48.874909594Z",
+  "model": "glm-5.3"
+}

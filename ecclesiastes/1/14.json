@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Би нарны дор хийгдсэн ⟨את⟩ бүх үйлсийг харлаа, бүхнээ хар: бүхэн хоосон бөгөөд руахын зовоон.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Би харлаа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх үйлсийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "үйлсийг"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "хийгдсэн"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "дор"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нарны"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "бүхнээ хар"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "бүхэн"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хоосон"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "зовоон"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руахын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:30.611248517Z",
+  "model": "glm-5.3"
+}

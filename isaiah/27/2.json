@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Тэр өдөр та нар түүнд дуул: Хүсэлт сайхан виноградны талхай!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Тэр өдөр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "кרем",
+      "gloss": "виноградны талхай"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "хүсэлт"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "та нар дуул"
+    },
+    {
+      "surface": "לה",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T12:17:58.260986624Z",
+  "model": "glm-5.3"
+}

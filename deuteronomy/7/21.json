@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Тэднээс бүү эмээ: учир нь Яхвэ чиний Элохим чиний дунд ⟨буй⟩ — агуу Эл, аймшигтай.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "эмээ"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "тэднээс"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "чиний Элохим"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "чиний дунд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "болон аймшигтай"
+    }
+  ],
+  "timestamp": "2026-10-04T10:53:26.200211274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Учир нь түүний бүх өдрүүд зовиур ба түүний ажил бухимдал мөн; шөнөд ч түүний зүрх амарч хэвтдэггүй — энэ ч мөн хоосон юм.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "өдрүүд нь"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "зовиур"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ба бухимдал"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "түүний ажил"
+    },
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "шөнөд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "амарч хэвтдэг"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "түүний зүрх"
+    },
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хоосон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "юм"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:00.804376639Z",
+  "model": "glm-5.3"
+}

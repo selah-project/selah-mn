@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Калеб Иефуннегийн хөвгүүдийн хөвгүүд — Иру, Эла, Наам; Элагийн хөвгүүд — Кеназ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калеб"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Иефуннегийн"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Иру"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Эла"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "Наам"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Элагийн"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "Кеназ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:20.862448519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 7:18",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Ус хүчтэй болж, газар дээр маш их үржээ; онгоц усны дээр явж байв.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "хүчтэй болж"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "үржээ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш их"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "явж байв"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "онгоц"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "פני",
+      "gloss": "-ны гадаргуугийн"
+    },
+    {
+      "surface": "המים",
+      "gloss": "усны"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:45.682660513Z",
+  "model": "glm-5.3"
+}

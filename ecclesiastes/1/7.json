@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Бүх гол мөрөн тэнгис рүү урсдаг ч тэнгис дүүрэхгүй; гол мөрөн урсдаг газартаа тэд буцаж урсахаар очдог.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Бүх"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "гол мөрөн"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "урсдаг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "рүү"
+    },
+    {
+      "surface": "הים",
+      "gloss": "тэнгис"
+    },
+    {
+      "surface": "והים",
+      "gloss": "тэнгис"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "бол"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "дүүрэхгүй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "газартаа"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "газар"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "гол мөрөн"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "урсдаг"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "הם",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "буцаж"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "урсахаар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:41.027580175Z",
+  "model": "glm-5.3"
+}

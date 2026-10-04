@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 28:19",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Газраа тариалагч талхаар цадна, харин хоосон хөөгч ядуурлаар цадна.",
+  "tokens": [
+    {
+      "surface": "עבד",
+      "gloss": "тариалагч"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "газраа"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "цадна"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талхаар"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "харин хөөгч"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "хоосон"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "цадна"
+    },
+    {
+      "surface": "ריש",
+      "gloss": "ядуурлаар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:06.392403660Z",
+  "model": "glm-5.3"
+}

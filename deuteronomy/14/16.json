@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "⟨את⟩ кос, ба ⟨את⟩ яншоф, ба тиншемет",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кос"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "кос"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "яншоф"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "яншоф"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ба тиншемет"
+    }
+  ],
+  "timestamp": "2026-10-04T10:55:20.767816318Z",
+  "model": "glm-5.3"
+}

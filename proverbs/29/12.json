@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Хаан худал үг(ийг) сонсовол түүний бүх зарц бузар байна.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "засаглагч"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "чих тавьж сонсогч"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "худал"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "түүний зарцууд"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "бузар"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:28.311571647Z",
+  "model": "glm-5.3"
+}

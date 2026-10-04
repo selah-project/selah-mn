@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Чамайн дунд буй гадаад хүн чам дээр дээш ба дээш гарна, харин чи доош ба доош унана.",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "гадаад хүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "буй"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "чамайн дунд"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "гарна"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "чам дээр"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "дээш"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ба дээш"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "харин чи"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "унана"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "доош"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ба доош"
+    }
+  ],
+  "timestamp": "2026-10-04T11:01:06.026146645Z",
+  "model": "glm-5.3"
+}

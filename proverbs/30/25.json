@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Шоржнууд — хүчгүй ард түмэн, гэсэн ч зун хоолоо бэлтгэдэг.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "Шоржнууд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "—гүй"
+    },
+    {
+      "surface": "עז",
+      "gloss": "хүчтэй"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "бэлтгэдэг"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "зун"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "хоолоо"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:02.390711876Z",
+  "model": "glm-5.3"
+}

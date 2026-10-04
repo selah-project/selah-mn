@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Чи тэр өдрүүдэд байх тахилч Леви нар болон шүүгч дээр очиж, асуугаад, тэд чамд ⟨את⟩ шүүлтийн үгийг зарлана.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "очиж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "тахилч нар"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба -д"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "шүүгч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байх"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "өдрүүдэд"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "асуугаад"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "тэд зарлана"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шүүлтийн үг"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "шүүлтийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:58:17.489757992Z",
+  "model": "glm-5.3"
+}

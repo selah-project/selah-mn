@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Давидын залбирал. Яхвэд өг, Элийн хөвгүүд, Яхвэд алдар ба хүчийг өг.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "залбирал"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "өг"
+    },
+    {
+      "surface": "лיהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "Элийн"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "өг"
+    },
+    {
+      "surface": "лיהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "алдар"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ба хүч"
+    }
+  ],
+  "timestamp": "2026-10-04T13:38:36.526026019Z",
+  "model": "glm-5.3"
+}

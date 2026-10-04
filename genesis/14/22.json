@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 14:22",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Абрам Содомын хаанд хариуд нь: Би Яхвэ, Дээд Эл, тэнгэр ба газрыг Бүтээгчид гарынхаа өргөсөн.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Абрам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Содомын"
+    },
+    {
+      "surface": "הרימתי",
+      "gloss": "өргөсөн"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Дээд"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "Бүтээгч"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "тэнгэр"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "ба газар"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:43.307979027Z",
+  "model": "glm-5.3"
+}

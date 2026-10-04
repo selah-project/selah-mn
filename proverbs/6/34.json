@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Учир нь эрийн атаа хилэн бөгөөд өшөө авах өдөрт халамжлахгүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "атаа"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "хилэн"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "эрийн"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба ... үгүй"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "халамжлана"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөрт"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "өшөө авах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:05:13.694836890Z",
+  "model": "glm-5.3"
+}

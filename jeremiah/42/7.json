@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 42,
+  "translation": "Арав хоногийн дараа Яхвэгийн үг Иеремиад ирэв.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": ""
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "дулаа"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "Арав"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "хоногийн"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ирэв"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Иеремиа"
+    }
+  ],
+  "timestamp": "2026-10-04T12:50:32.738374846Z",
+  "model": "glm-5.3"
+}

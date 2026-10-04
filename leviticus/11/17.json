@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "ба ⟨את⟩ хос шувууг ба ⟨את⟩ шалах ба ⟨את⟩ яношоп",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "хос шувуу"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "хос шувуу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "шалах"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "шалах"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "яношоп"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "яношоп"
+    }
+  ],
+  "timestamp": "2026-10-04T15:29:21.637681535Z",
+  "model": "glm-5.3"
+}

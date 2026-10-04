@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 34:8",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Хор уулаас Хамат руу орох зүгт тэмдэглэнэ; хилийн төгсгөл Цедад буй за.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Хор уулаас"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "тэмдэглэнэ"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "орох"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ба буй"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "төгсгөл"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "хилийн"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "Цедад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:30.848978046Z",
+  "model": "glm-5.3"
+}

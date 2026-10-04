@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Аврахам гараа сунгаж, хүүгээ нядлахын тулд ⟨את⟩ хутгыг авав.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "сунгаж"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гараа"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "гар"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "авав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хутгыг"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "хутга"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "нядлахын тулд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хүүгээ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "хүү"
+    }
+  ],
+  "timestamp": "2026-10-04T09:52:51.901237064Z",
+  "model": "glm-5.3"
+}

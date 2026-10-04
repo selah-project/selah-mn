@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "ба улаан будагласан ухна арьс, тахш арьс, шиттим мод",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ба ... арьс"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ухна"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "улаан будагласан"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "... арьс"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "тахш"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ба ... мод"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шиттим"
+    }
+  ],
+  "timestamp": "2026-10-04T10:14:40.271557088Z",
+  "model": "glm-5.3"
+}

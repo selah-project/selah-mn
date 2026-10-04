@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Сүйрлийн өмнө өөдрөг зан, бүдрэлтийн өмнө өндөр руах.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сүйрлийн"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "өөдрөг зан"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ба өмнө"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "бүдрэлтийн"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:37.162477828Z",
+  "model": "glm-5.3"
+}

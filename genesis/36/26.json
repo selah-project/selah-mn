@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Эдгээр нь Дишанын хөвгүүд юм: Хемдан, Эшбан, Йитран, Керан.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Эдгээр нь"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Дишанын"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Хемдан"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "Эшбан"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "Йитран"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "Керан"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:10.085551888Z",
+  "model": "glm-5.3"
+}

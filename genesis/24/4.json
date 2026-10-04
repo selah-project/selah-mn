@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Харин миний нутаг, миний төрсөн газар руу явж, миний хүү Йицхакад эхнэр ав.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Харин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "миний нутаг"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "миний төрсөн газар"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "явж"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "ав"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "эхнэр"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "миний хүү"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Йицхакад"
+    }
+  ],
+  "timestamp": "2026-10-04T09:52:35.794428567Z",
+  "model": "glm-5.3"
+}

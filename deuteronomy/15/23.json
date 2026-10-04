@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Харин түүний ⟨את⟩ цусыг бүү ид; газар дээр ус шиг цутгаж байгтун.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Харин"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "түүний цусыг"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "түүний цусыг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ид"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "цутгаж байгтун"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ус шиг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:26.301487980Z",
+  "model": "glm-5.3"
+}

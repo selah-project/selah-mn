@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Мишканы хоёр дахь талд, хойд зүгт, хорин самбар.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "хоёр дахь талд"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишканы"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "хоёр дахь"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "зүгт"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "хойд"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "самбар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:15:27.833614730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Энэ үйлдэл Элохимын нүдэд муу байв. Тэрээр ⟨את⟩ Йисраелыг цохив.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "муу байв"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэд"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ын тухай"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үйлдэл"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "цохив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йисраел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелыг"
+    }
+  ],
+  "timestamp": "2026-10-04T15:04:08.596751343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Учир нь Яхвэгийн үг тэгш бөгөөд түүний бүх үйл үнэнчлэлтэй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "тэгш"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "түүний үйл"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "үнэнчлэлтэй"
+    }
+  ],
+  "timestamp": "2026-10-04T13:40:31.061159239Z",
+  "model": "glm-5.3"
+}

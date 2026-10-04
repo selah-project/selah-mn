@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Тэр: Цэцэрлэгт чиний дууг сонсов, нүцгэн учраас би айсан тул нуугдав гэв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "гэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чиний дууг"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "чиний дуу"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "сонсов"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "цэцэрлэгт"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "айсан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учраас"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "нүцгэн"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "нуугдав"
+    }
+  ],
+  "timestamp": "2026-10-04T09:45:45.291378976Z",
+  "model": "glm-5.3"
+}

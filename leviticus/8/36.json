@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Аарон түүний хөвгүүдтэйгээ Яхвэгийн Мошегийн гараар тушаасан бүхнийг ⟨את⟩ хийв.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ба хийв"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ба түүний хөвгүүд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх үгс"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юк"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "гараар"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-10-04T10:24:22.679636272Z",
+  "model": "glm-5.3"
+}

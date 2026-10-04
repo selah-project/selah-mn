@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Яхвэ Цебаот ингэж айлдав: Тахилчдаас Торын тухай асуугаач, гэж хэл:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "асуугаач"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-аач"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тахилчид"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "тахилчдаас"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Торын тухай"
+    },
+    {
+      "surface": "לאмר",
+      "gloss": "гэж хэл"
+    }
+  ],
+  "timestamp": "2026-10-04T13:28:53.850346991Z",
+  "model": "glm-5.3"
+}

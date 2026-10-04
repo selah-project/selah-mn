@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Тахилчны охин харийн эрээс гарбал тэр ариун зүйлсийн өргөлөөс идэж болохгүй.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "тахилчны"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "гарбал"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "эрээс"
+    },
+    {
+      "surface": "זר",
+      "gloss": "харийн"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "өргөлөөс"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ариун зүйлсийн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "идэж болох"
+    }
+  ],
+  "timestamp": "2026-10-04T10:30:19.044343438Z",
+  "model": "glm-5.3"
+}

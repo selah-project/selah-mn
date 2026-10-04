@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 45,
+  "translation": "Үнэхээр Тэгшээ далд байдаг Эл, Йисраелин Элохим, Аврагч минь.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Үнэхээр"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Тэгшээ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "далд байдаг"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелин"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Аврагч"
+    }
+  ],
+  "timestamp": "2026-10-04T12:25:31.249327848Z",
+  "model": "glm-5.3"
+}

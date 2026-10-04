@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Учир нь хорихын байшингаас гарч тэр хаан болов; учир нь өөрийнх нь хаанчлалд ч тэр ядуу төрсөн билээ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…наас"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "хорохын"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "хаан болов"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ч"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "өөрийнх нь хаанчлалд"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "төрсөн"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ядуу"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:35.985124735Z",
+  "model": "glm-5.3"
+}

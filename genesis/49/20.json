@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Ашераас түүний талх тостой бөгөөд тэр хааны амттанг өгнө.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Ашераас"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "тостой"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "түүний талх"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "өгнө"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "амттанг"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хааны"
+    }
+  ],
+  "timestamp": "2026-10-04T10:05:04.256661074Z",
+  "model": "glm-5.3"
+}

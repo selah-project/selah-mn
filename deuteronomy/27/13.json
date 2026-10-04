@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Эдгээр нь хараалын төлөө Эйвал ууланд зогсоно: Реувен, Гад, Ашер, Завулун, Дан, Нафтали.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Эдгээр"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "зогсоно"
+    },
+    {
+      "surface": "על",
+      "gloss": "-ны төлөө"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "хараал"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ууланд"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Эйвал"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ба Ашер"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "болон Завулун"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ба Нафтали"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:18.985300827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Элохим ракиаг Шамайм гэж нэрлэв. Боллоо орой, боллоо өглөө — хоёр дахь өдөр.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "нэрлэв"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "ракиаг"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Шамайм"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "орой"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "боллоо"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "өглөө"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "שני",
+      "gloss": "хоёр дахь"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:34.604776097Z",
+  "model": "glm-5.3"
+}

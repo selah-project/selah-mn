@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Хөлийнхөө замыг тэгшлэ, ба бүх замууд чинь бэхжинэ.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "тэгшлэ"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "замыг"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "хөлийнхөө"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "замууд чинь"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "бэхжинэ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:54:18.195493788Z",
+  "model": "glm-5.3"
+}

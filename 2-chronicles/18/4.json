@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Йехошафат Йисраэлийн хаанд: Өнөөдөр Яхвэгийн ⟨את⟩ үгийг нэг лавлана уу гэв.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йехошафат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлийн"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "лавла"
+    },
+    {
+      "surface": "נא",
+      "gloss": "гоо"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэгийн үг"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үгийг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:14:10.123855729Z",
+  "model": "glm-5.3"
+}

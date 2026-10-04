@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Мөнгө Минийх, алт Минийх гэж Яхвэ Цебаот айлдаж байна.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Минийх"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "мөнгө"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ба Минийх"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "алт"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    }
+  ],
+  "timestamp": "2026-10-04T13:28:53.147669772Z",
+  "model": "glm-5.3"
+}

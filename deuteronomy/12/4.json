@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Та нар Яхвэ болох өөрсдийн Элохимд ингэж бүү үйлд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "үйлд"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "өөрсдийн Элохим"
+    }
+  ],
+  "timestamp": "2026-10-04T10:56:17.782685896Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Яхвэ Мошед хэлж байна:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "хэлж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ийн хэлж байна"
+    }
+  ],
+  "timestamp": "2026-10-04T10:21:49.672198839Z",
+  "model": "glm-5.3"
+}

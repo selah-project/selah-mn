@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Учир нь дарамт мэргэн хүнийг галзуулж, хахууль ⟨את⟩ зүрхийг сүйтгэнэ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "дарамт"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "галзуулж"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мэргэн хүнийг"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "сүйтгэнэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зүрх"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрхийг"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "хахууль"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:13.094482830Z",
+  "model": "glm-5.3"
+}

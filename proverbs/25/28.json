@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Ханаагүй сүйрсэн хот мэт — руахаа барих чадваргүй хүн.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "сүйрсэн"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "хана"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "барих чадвар"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "руахаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:52.320419170Z",
+  "model": "glm-5.3"
+}

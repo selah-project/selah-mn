@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Белаагийн хөвгүүд байв: Аддар, Гера, Авиуд.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "байв"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "Белаагийн"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Аддар"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "Гера"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "Авиуд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:09.425754384Z",
+  "model": "glm-5.3"
+}

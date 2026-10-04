@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 2:14",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Дуулж, баярла, Сион охин; учир нь үз, Би ирж, чамайн дунд оршин сууна гэж Яхвэ айлдаж байна.",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "Дуулж"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "баярла"
+    },
+    {
+      "surface": "בת",
+      "gloss": "охин"
+    },
+    {
+      "surface": "цיון",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "үз"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Би ирж"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "оршин сууна"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "чамайн дунд"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:30:08.787653571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Аарон уулзлын майхны хаалганы аманд Мошед буцаж ирэв, мөн тахал тавигдав.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "буцаж ирэв"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "аманд"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "хаалганы"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "майхны"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "уулзлын"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "тахал"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "тавигдав"
+    }
+  ],
+  "timestamp": "2026-10-04T10:41:08.249381050Z",
+  "model": "glm-5.3"
+}

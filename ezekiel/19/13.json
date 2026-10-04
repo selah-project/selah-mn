@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Одоо тэр цөлд, хуурай ба цангасан газарт суулгагджээ.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Одоо"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "суулгагджээ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "хуурай"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "цангасан"
+    }
+  ],
+  "timestamp": "2026-10-04T13:03:08.130775738Z",
+  "model": "glm-5.3"
+}

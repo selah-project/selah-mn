@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Хаан Шимейд хэлэв: Чи үхэхгүй. Тэгээд хаан түүнд тангараглав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимейд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "чи үхэх"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "тангараглав"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    }
+  ],
+  "timestamp": "2026-10-04T11:43:04.305956334Z",
+  "model": "glm-5.3"
+}

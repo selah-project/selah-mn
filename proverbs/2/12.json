@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Чамайг муу замаас, эвгүй зүйл яригч хүнээс аврахын тулд.",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "чамайг аврахын тулд"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "רע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "хүнээс"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "яригч"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "эвгүй зүйл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:50.186346145Z",
+  "model": "glm-5.3"
+}

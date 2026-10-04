@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Яхвэ Синайн цөлд Мошед айлдаж:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "айлдаж"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синайн"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "хэлж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:34:46.628791816Z",
+  "model": "glm-5.3"
+}

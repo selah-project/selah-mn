@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Лод ба Оно, гэхдээ урланчдын хөндий.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ба Оно"
+    },
+    {
+      "surface": "גי",
+      "gloss": "хөндий"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "урланчдын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:54:30.078613061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Учир нь тэд бол зөвлөгөөгүй үндэстэн, тэдний дотор оюун ухаан байхгүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "үндэстэн"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "зөвлөгөөгүй"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "зөвлөгөө"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "тэдний дотор"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "оюун ухаан"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:31.212348234Z",
+  "model": "glm-5.3"
+}

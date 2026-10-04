@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Тэд шулуун замуудыг орхиж, харанхуйн замуудаар явахын тулд",
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "орхиж"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "замуудыг"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "шулуун"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "явахын тулд"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "замуудаар"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "харанхуйн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:48.449175713Z",
+  "model": "glm-5.3"
+}

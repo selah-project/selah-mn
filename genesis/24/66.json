@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Зарц Йицхакт өөрийн хийсэн бүх үйлсийг ⟨את⟩ ярив.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "ярив"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "зарц"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Йицхакт"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх үйлс"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үйлс"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:50.060528742Z",
+  "model": "glm-5.3"
+}

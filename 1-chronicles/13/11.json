@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 13:11",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Яхвэ Уззад нэвт цохилт үзүүлсэнд Давид дургүйцэв; тэр газрыг өнөөдрийг хүртэл Перец-Узза гэж нэрлэв.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "дургүйцэв"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давидэд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "нэвт цохилох"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "цоxилт"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "Уззад"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "нэрлэв"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "газар"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тер"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Узза"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-т"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:59.848396371Z",
+  "model": "glm-5.3"
+}

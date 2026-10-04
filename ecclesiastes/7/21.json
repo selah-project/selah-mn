@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Мөн яригдсан бүх үгсд сэтгэлээ бүү өг, тэгээд чи ⟨את⟩ боолоо чамайг хараахыг сонсохгүй.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Мөн"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгсд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "яригдсан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "өг"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сэтгэлээ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "сонсох"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "боолоо"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "боолоо"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "чамайг хараах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:34.195597294Z",
+  "model": "glm-5.3"
+}

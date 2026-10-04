@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Адонай Яаковын дунд үг илгээв, тэр нь Йисраел дээр унанэ.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "илгээв"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "Яаковын дунд"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ба унанэ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Йисраел дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T12:14:01.907431262Z",
+  "model": "glm-5.3"
+}

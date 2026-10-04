@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 112,
+  "translation": "Муу мэдээ сонсвол айхгүй; түүний зүрх тогтвортой, Яхвэд найдаж байна.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "сонсвол"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "айх"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "тогтвортой"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "найдаж"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:56:48.955702149Z",
+  "model": "glm-5.3"
+}

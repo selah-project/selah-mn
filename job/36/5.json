@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 36:5",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Ха, Эл хүчит бөгөөд хэнийг ч үл голно; зүрхний хүчээр хүчит.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ха"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "хүчит"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба үл"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "голно"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "хүчит"
+    },
+    {
+      "surface": "כח",
+      "gloss": "хүчээр"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрхний"
+    }
+  ],
+  "timestamp": "2026-10-04T14:24:29.483334152Z",
+  "model": "glm-5.3"
+}

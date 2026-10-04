@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 2:5",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Тэр газрын нэрийг Бохим гэж нэрлэж, тэнд Яхвэд ⟨את⟩ тахил өргөв.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "нэрлэж"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэрийг"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "тэр газрын"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "Бохим"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "тахил өргөв"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:12:38.952346988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Ходеш хэмэххэн эхнэрээсээ ⟨את⟩ Йовав, ⟨את⟩ Цивья, ⟨את⟩ Меша, ⟨את⟩ Малкам нарыг төрүүлжээ.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлжээ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Ходеш"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "эхнэр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йовав"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Цивья"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Цивья"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Меша"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Меша"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Малкам"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Малкам"
+    }
+  ],
+  "timestamp": "2026-10-04T14:59:49.561856346Z",
+  "model": "glm-5.3"
+}

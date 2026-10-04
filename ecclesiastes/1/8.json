@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Бүх үгс туйлдмал; хүн хэлж чадахгүй; нүд үзсэнээрээ цадахгүй, чих сонссоноороо дүүрэхгүй.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Бүх"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "үгс"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "туйлдмал"
+    },
+    {
+      "surface": "לא",
+      "gloss": "чадахгүй"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "чадах"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "хэлж"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "цадахгүй"
+    },
+    {
+      "surface": "עין",
+      "gloss": "нүд"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "үзсэнээрээ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "мөн адил"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "дүүрэхгүй"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "чих"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "сонссоноороо"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:41.027719660Z",
+  "model": "glm-5.3"
+}

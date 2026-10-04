@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Шамма хароды, Элика хароды,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Шамма"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "хароды"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "Элика"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "хароды"
+    }
+  ],
+  "timestamp": "2026-10-04T11:45:07.216500880Z",
+  "model": "glm-5.3"
+}

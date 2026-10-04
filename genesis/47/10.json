@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 47,
+  "translation": "Яаков Паро-г ивээж, Паро-гийн өмнөөс гарчээ.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "ивээж"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Паро-г"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "гарчээ"
+    },
+    {
+      "surface": "мלפני",
+      "gloss": "-ийн өмнөөс"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-10-04T10:03:38.680245791Z",
+  "model": "glm-5.3"
+}

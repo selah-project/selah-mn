@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Суккотоос нүүж, цөлийн захад байдаг Этамд бүрэлдэв.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүж"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "Суккотоос"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "бүрэлдэв"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "Этамд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "захад"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "цөлийн"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:28.235568293Z",
+  "model": "glm-5.3"
+}

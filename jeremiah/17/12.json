@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Сүрлэг сэнтий, эхнээс өндөрт — ариун сүмийн минь газар.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "сэнтий"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "сүрлэг"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "өндөрт"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "эхнээс"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "газар"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "ариун сүмийн минь"
+    }
+  ],
+  "timestamp": "2026-10-04T12:38:22.189813001Z",
+  "model": "glm-5.3"
+}

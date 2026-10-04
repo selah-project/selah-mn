@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "«Йисраелын хөвгүүдэд хэл: Үхрийн, хонины, ямааны өөхийг бүү ид.»",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүдэд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ":"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "өөхийг"
+    },
+    {
+      "surface": "שור",
+      "gloss": "үхрийн"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "хонины"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ямааны"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ид"
+    }
+  ],
+  "timestamp": "2026-10-04T10:22:14.744821656Z",
+  "model": "glm-5.3"
+}

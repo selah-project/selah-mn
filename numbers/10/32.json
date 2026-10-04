@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 10:32",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Хэрэв чи бидэнтэй яввал болно: Яхвэ бидэнд юу сайныг хийх тэр сайныг бид чамд хийе.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "яввал"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "бидэнтэй"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "хийх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "бидэнд"
+    },
+    {
+      "surface": "והטבנו",
+      "gloss": "бид хийе"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:38:33.559589944Z",
+  "model": "glm-5.3"
+}

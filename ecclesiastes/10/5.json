@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Нарны доор би үзсэн муу юм бий: шүүгчийн нүүрээс буруу ойлголтоос гартай төстэй.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу юм"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "би үзсэн"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "доор"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нар"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "буруу ойлголттой төстэй"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "гардаг"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "нүүрээс"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "шүүгчийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:28.819488279Z",
+  "model": "glm-5.3"
+}

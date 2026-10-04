@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Халхул, Бэйт-Цур ба Гдор.",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "Халхул"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бэйт-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цур"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "ба Гдор"
+    }
+  ],
+  "timestamp": "2026-10-04T11:09:52.697432320Z",
+  "model": "glm-5.3"
+}

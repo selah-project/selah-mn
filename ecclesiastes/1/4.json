@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Үе алга болж, үе ирнэ; газар бол үүрд мөнхөр зогсдог.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "үе"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "алга болж"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ба үе"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ирнэ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "харин газар"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "мөнхөр зогсдог"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:21.032242275Z",
+  "model": "glm-5.3"
+}

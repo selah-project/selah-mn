@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Харин Яхвэ өөрийн Элохимд наалдсан та нар бүгд өнөөдөр амьд ⟨байна⟩.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "харин та нар"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "наалдсан"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "өөрийн Элохимд"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өнөөдөр"
+    }
+  ],
+  "timestamp": "2026-10-04T15:33:03.314877434Z",
+  "model": "glm-5.3"
+}

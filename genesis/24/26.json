@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Тэр хүн бөхийж, Яхвэг мөргөв.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "бөхийж"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "тэр хүн"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "мөргөв"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэг"
+    }
+  ],
+  "timestamp": "2026-10-04T09:53:53.758136352Z",
+  "model": "glm-5.3"
+}

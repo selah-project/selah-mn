@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 34,
+  "translation": "Моше шуурхайлж, газар руу бөхийн мөргөв.",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "шуурхайлж"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "бөхийн"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "газар руу"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "мөргөв"
+    }
+  ],
+  "timestamp": "2026-10-04T10:18:37.238122311Z",
+  "model": "glm-5.3"
+}

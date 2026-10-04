@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Мөн гэрэл амттай, нүдэнд ⟨את⟩ нарыг харах нь сайхан.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "мөн … амттай"
+    },
+    {
+      "surface": "האור",
+      "gloss": "гэрэл"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ба … сайхан"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "нүдэнд"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "харах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нарыг"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "нарыг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:53.603344123Z",
+  "model": "glm-5.3"
+}

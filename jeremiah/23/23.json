@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Би ойрхоны Элохим уу, Яхвэ айлдаж байна, алсын Элохим биш үү?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ойрхоны"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "алсын"
+    }
+  ],
+  "timestamp": "2026-10-04T12:41:42.646993669Z",
+  "model": "glm-5.3"
+}

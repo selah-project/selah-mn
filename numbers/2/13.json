@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 2:13",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "түүний цэрэг болон тоологдсон нь тавин есөн мянга гурван зуу байв.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "түүний цэрэг"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "тоологдсон нь"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ес"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуу"
+    }
+  ],
+  "timestamp": "2026-10-04T10:34:38.684307352Z",
+  "model": "glm-5.3"
+}

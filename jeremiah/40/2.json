@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 40:2",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Таллагын ахлах Ирмийахуг авч, түүнд хэлэв: Яхвэ чиний Элохим энэ газарт ⟨את⟩ энэ мууг зарлав.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "авч"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ахлах"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "таллагын"
+    },
+    {
+      "surface": "לירמיהו",
+      "gloss": "Ирмийахуг"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "чиний Элохим"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "зарлав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ мууг"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "мууг"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "рүү"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "газар"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:50:34.120233074Z",
+  "model": "glm-5.3"
+}

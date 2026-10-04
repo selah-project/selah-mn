@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Би хариулж, надад ярьж байсан тэнгэр элчид хэлэв: Эдгээр юу вэ, эзэн минь?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "би хариулж"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "тэнгэр элч"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ярьж байсан"
+    },
+    {
+      "surface": "בי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу вэ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "эзэн минь"
+    }
+  ],
+  "timestamp": "2026-10-04T15:50:58.782393676Z",
+  "model": "glm-5.3"
+}

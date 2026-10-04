@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Эврон, Рехов, Хаммон ба Кана, агуу Сидон хүртэл.",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "Эврон"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "Рехов"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "Хаммон"
+    },
+    {
+      "surface": "иקנה",
+      "gloss": "Кана"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Сидон"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "агуу"
+    }
+  ],
+  "timestamp": "2026-10-04T15:34:50.255737333Z",
+  "model": "glm-5.3"
+}

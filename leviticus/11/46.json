@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 11:46",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Энэ бол мал, жигүүртэн, усанд хөвөгч амьд сэлгээ, газар дээр мөлхөгч сэлгээний Тора мөн.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Энэ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "mal-ын"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "ба жигүүртэн"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амьд сэлгээ"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "амьд"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "хөвөгч"
+    },
+    {
+      "surface": "במים",
+      "gloss": "усанд"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "сэлгээний"
+    },
+    {
+      "surface": "השרצת",
+      "gloss": "мөлхөгч"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:24:18.625554988Z",
+  "model": "glm-5.3"
+}

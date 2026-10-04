@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 32:50",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Чи өөдөлж буй тэр ууландаа үх, ард түмэндээ нэгд — ах Аарон Хор ууланд үхэж, өөрийн ард түмэндээ нэгдсэнтэй адил.",
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "ба үх"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ууландаа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "бол"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "өөдөлж буй"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "והאסף",
+      "gloss": "ба нэгд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "ард түмэндээ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "адил"
+    },
+    {
+      "surface": "מת",
+      "gloss": "үхэж"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ах"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ууланд"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Хор"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "ба нэгдсэн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "ард түмэндээ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:03:38.950145520Z",
+  "model": "glm-5.3"
+}

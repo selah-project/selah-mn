@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Мөн хувцасны цэрц ба байшны тухай.",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "мөн цэрц"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "хувцасны"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ба байшны тухай"
+    }
+  ],
+  "timestamp": "2026-10-04T10:26:26.859997988Z",
+  "model": "glm-5.3"
+}

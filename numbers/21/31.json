@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Йисраел Эморичуудын нутагт суурьшив.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "суурьшив"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраел"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "нутагт"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Эморичуудын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:43:30.877294873Z",
+  "model": "glm-5.3"
+}

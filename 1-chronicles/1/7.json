@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Яваны хөвгүүд: Элиша ба Таршиша, Киттим ба Роданим.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ба хөвгүүд"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Яван"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Элиша"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "ба Таршиша"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Киттим"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "ба Роданим"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:25.554659338Z",
+  "model": "glm-5.3"
+}

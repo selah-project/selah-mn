@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Яхвэгийн үг Ирмеяга ирж, айлдав.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмея"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж айлдахад"
+    }
+  ],
+  "timestamp": "2026-10-04T12:46:32.506035510Z",
+  "model": "glm-5.3"
+}

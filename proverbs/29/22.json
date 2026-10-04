@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Ууртай хүн маргаан өдөөнө, хилэнгийн эзэн олон зөрчил үйлдэнэ.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ууртай"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "өдөөнө"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "маргаан"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ба эзэн"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "хилэнгийн"
+    },
+    {
+      "surface": "רב",
+      "gloss": "олон"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "зөрчил"
+    }
+  ],
+  "timestamp": "2026-10-04T14:12:31.756414272Z",
+  "model": "glm-5.3"
+}

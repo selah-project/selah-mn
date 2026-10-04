@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Мэргэн ухаанаар байшин босдог, ухамсраар ⟨эдгээр⟩ бэхждэг.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "Мэргэн ухаанаар"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "босдог"
+    },
+    {
+      "surface": "בית",
+      "gloss": "байшин"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "ухамсраар"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "бэхждэг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:11:08.845638562Z",
+  "model": "glm-5.3"
+}

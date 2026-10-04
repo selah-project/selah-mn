@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Кериёт дээр, Боцра дээр ба Моабын нутгийн бүх хотууд — холынх нь ба ойрынх нь дээр.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "Кериёт"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "Боцра"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "хотууд"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "нутгийн"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моабын"
+    },
+    {
+      "surface": "הרחוקות",
+      "gloss": "холынх"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "ба ойрынх"
+    }
+  ],
+  "timestamp": "2026-10-04T12:52:30.119529813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Найз ⟨את⟩ чамтай амар тайван сууж байхад нь түүнд бүү муу зохиол.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "бүү зохиол"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "найз"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "муу"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "сууж байхад"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "амар тайван"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "чамтай ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:40.462534664Z",
+  "model": "glm-5.3"
+}

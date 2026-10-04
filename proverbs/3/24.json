@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хэвтвэл айхгүй, хэвтмэгц нойрсоль чинь амттай болог.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "хэрэв \/ хэвтвэл"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "хэвтвэл"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "айх"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "хэвтмэгц"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "ба амттай болог"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "нойрсоль чинь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:52.172219344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Захирагчид, гиттит хөгжмөөр, Давидын залбирал.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Захирагчид"
+    },
+    {
+      "surface": "על",
+      "gloss": "хөгжмөөр"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "гиттит"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "залбирал"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:51:17.468911147Z",
+  "model": "glm-5.3"
+}

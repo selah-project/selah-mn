@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 83,
+  "translation": "Эн-Дор дээр сүйрч, газрын бууц болсон.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "сүйрч"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Эн-Дор"
+    },
+    {
+      "surface": "היו",
+      "gloss": "болсон"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "бууц"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "газрын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:46.172412648Z",
+  "model": "glm-5.3"
+}

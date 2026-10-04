@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Би тэдэнд хэлэв: Яхвэгийн үг надад ирж айлдав.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "би хэлэв"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болсон"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T13:05:40.804448418Z",
+  "model": "glm-5.3"
+}

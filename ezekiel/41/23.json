@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Сүмд ба ариун газарт хоёр хаалга байлаа.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "ба хоёр"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "хаалга"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "сүмд"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "ариун газарт"
+    }
+  ],
+  "timestamp": "2026-10-04T13:12:56.063090086Z",
+  "model": "glm-5.3"
+}

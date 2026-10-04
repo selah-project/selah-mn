@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Энэ бол Яхвэгийн ⟨үгийн⟩ Йеримя руу ган гачгуудын тухай ирсэн нь.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "энэ бол"
+    },
+    {
+      "surface": "היה",
+      "gloss": "болсон"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Йеримя"
+    },
+    {
+      "surface": "על",
+      "gloss": "тухай"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үйл явдлын"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "ган гачгуудын"
+    }
+  ],
+  "timestamp": "2026-10-04T12:38:48.404477760Z",
+  "model": "glm-5.3"
+}

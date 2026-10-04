@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Үзэн ядалтыг худал уруул далдалдаг, гүтгэлэг гаргадаг тэр бол тэнэг.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "далдалдаг"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "үзэн ядалт"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уруул"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "худал"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "ба гаргагч"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "гүтгэлэг"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "тэнэг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:27.801528155Z",
+  "model": "glm-5.3"
+}

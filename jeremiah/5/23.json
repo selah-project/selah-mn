@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Гэвч энэ ард түмэнд хөндлөн гарсан ба босогч зүрх байв; тэд салж, оджээ.",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "Гэвч энэ ард түмэнд"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "байв"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "хөндлөн гарсан"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "ба босогч"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "салж"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "оджээ"
+    }
+  ],
+  "timestamp": "2026-10-04T15:46:01.784472659Z",
+  "model": "glm-5.3"
+}

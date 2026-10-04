@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 107,
+  "translation": "Тэд нарлагт баясан, Тэднийг хүссэн боомт руу хөтлөв.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "баясан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "нарлах үедээ"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "хөтлөв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "боомт"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "хүссэн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:56:15.843730700Z",
+  "model": "glm-5.3"
+}

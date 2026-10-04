@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 91,
+  "translation": "Чи шөнийн аймшаагаас бүү ай, өдөр нисдэг сумнаас ч айхгүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ай"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "аймшаагаас"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шөнийн"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "сумнаас"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "нисдэг"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "өдөр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:52:57.110954492Z",
+  "model": "glm-5.3"
+}

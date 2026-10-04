@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Яаж орхигдсон бэ — магтаалын хот, миний баяр баясгалангийн хот!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "яаж"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "орхигдсон"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "магтаалын"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "хот"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "миний баяр баясгалангийн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:53:24.489737164Z",
+  "model": "glm-5.3"
+}

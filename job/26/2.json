@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Чадалгүй хүнд яаж тусалсан бэ? Бяртай бус шууг яаж авраа вэ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "яаж"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "тусалсан"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "כח",
+      "gloss": "чадал"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "авраа"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "шуу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бус"
+    },
+    {
+      "surface": "עז",
+      "gloss": "бяртай"
+    }
+  ],
+  "timestamp": "2026-10-04T15:55:59.487615610Z",
+  "model": "glm-5.3"
+}

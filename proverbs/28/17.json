@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Хүний цусыг дарлаж ядах нь нүх хүртэл зугтах болно, түүнийг бүү тэтгэгтүн.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "darlan зовоогч"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "цусаар"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "амь"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "בור",
+      "gloss": "нүх"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "зугтана"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "тэтгэг"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнийг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:06.391977104Z",
+  "model": "glm-5.3"
+}

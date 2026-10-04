@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Яхвэ Моше ба Ааронд Эдомын газрын хил дээрх Хор ууланд айлдав, ингэж хэлж байна:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ба -д"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ууланд"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "тэр уул"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Эдомын"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж хэлж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:42:31.324989495Z",
+  "model": "glm-5.3"
+}

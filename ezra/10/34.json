@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Банийн хөвгүүдээс: Маадай, Амрам ба Уэл.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "хөвгүүдээс"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Банийн"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "Маадай"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "ба Уэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:48:31.715912112Z",
+  "model": "glm-5.3"
+}

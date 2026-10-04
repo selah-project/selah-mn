@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Та нар ч бас, Кушитууд, миний илдний халдлагатнууд болж унах болно.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ч бас"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "та нар"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "Кушитууд"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "халдлагатнууд"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "миний илдний"
+    },
+    {
+      "surface": "המה",
+      "gloss": "болно"
+    }
+  ],
+  "timestamp": "2026-10-04T13:28:14.005034642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Тэд зөвхөн чамд л байг, харь хүмүүс ⟨את⟩ чамтай хамт байхгүй байг.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "байг"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "зөвхөн чамд л"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ба байхгүй"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "харь хүмүүстэй"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ чамтай",
+      "marks": "чамтай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:31.614257953Z",
+  "model": "glm-5.3"
+}

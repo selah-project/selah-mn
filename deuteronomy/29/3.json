@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Яхвэ та нарт мэдэх зүрх, харах нүд, сонсох чих өгсөнгүй энэ өдөр хүртэл.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "харин үгүй"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгсөнгүй"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "мэдэх"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ба нүд"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "харах"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ба чих"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "сонсох"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:02:11.055678203Z",
+  "model": "glm-5.3"
+}

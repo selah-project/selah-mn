@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Харин чи гарахаас татгалзвал, энэ бол Яхвэ надад үзүүлсэн үг юм.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "харин хэрэв"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "татгалзвал"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "гарах"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "надад үзүүлсэн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T12:49:31.905988471Z",
+  "model": "glm-5.3"
+}

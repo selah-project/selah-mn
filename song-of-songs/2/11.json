@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Учир нь үзэгтүн, өвөл өнгөрч, бороо дайран одсон.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "үзэгтүн"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "өвөл"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "өнгөрч"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "бороо"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "дайран"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "одсон"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөрийн замдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:27:18.952392911Z",
+  "model": "glm-5.3"
+}

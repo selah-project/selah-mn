@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Үлдсэн овгуудын хувьд дорно зүгээс өрнийн зүг хүртэл Биньямин нэг хэсэг.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "Үлдсэн"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "овгуудын"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "зүгээс"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "дорно"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "зүг"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "өрнийн"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Биньямин"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг хэсэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:16:59.052975838Z",
+  "model": "glm-5.3"
+}

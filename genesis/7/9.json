@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Хоёр хоёроороо ⟨את⟩ Ной руу, онгоц руу орлоо — эрэл, эмэл — Элохим Нойд тушаасны адилаар.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "באו",
+      "gloss": "орлоо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ной"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "онгоц"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "эрэл"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "эмэл"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "адилаар"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "тушаасан"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ной"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ной"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:12.940776623Z",
+  "model": "glm-5.3"
+}

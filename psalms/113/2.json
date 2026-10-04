@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 113,
+  "translation": "Яхвэгийн нэр ийнхүү ерөөгдөх болтуг, одоо хойш мөнх хүртэл.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "болтуг"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ерөөгдөх"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "одоо хойш"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "мөнх"
+    }
+  ],
+  "timestamp": "2026-10-04T13:56:25.766633075Z",
+  "model": "glm-5.3"
+}

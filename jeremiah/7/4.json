@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Худал үгэнд найдаж, «Яхвэгийн сүм, Яхвэгийн сүм, Яхвэгийн сүм» гэж бүү хэл.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "надад бүү итгэ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "үгэнд"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "худал"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "сүм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "сүм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "сүм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "המה",
+      "gloss": "эдгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T12:34:49.816620990Z",
+  "model": "glm-5.3"
+}

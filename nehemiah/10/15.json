@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Ард түмний тэргүүнүүд: Парош, Пахат-Моав, Эйлам, Затту, Бани",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "тэргүүнүүд"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмний"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Парош"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Пахат-"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Эйлам"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Затту"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    }
+  ],
+  "timestamp": "2026-10-04T14:54:01.975536639Z",
+  "model": "glm-5.3"
+}

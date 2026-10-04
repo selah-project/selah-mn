@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 129,
+  "translation": "Нарийг бөөрийнх нь гар дүүрэлгүй, боодлынх нь ташаа дүүрэлгүй.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "эс"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "дүүрэлгүй"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "гар"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "нарийг"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ташаа"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "боодлынх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:00:08.276141474Z",
+  "model": "glm-5.3"
+}

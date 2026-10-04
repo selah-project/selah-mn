@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 24:9",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Яахвэ Элохим чинь Мицраймаас гарч явах зам дээрээ Мириамд ⟨את⟩ юу хийснийг сана.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "сана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "юу хийснийг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "юу"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийсэн"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Элохим чинь"
+    },
+    {
+      "surface": "למרים",
+      "gloss": "Мириамд"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "зам дээрээ"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "гарч явах"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицраймаас"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:36.000573798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 12:40",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Тэнд Давидтай гурван өдөр байж, идэж уув; учир нь ахан дүүс нь тэдэнд бэлтгэсэн байв.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "байж"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "гурван"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "идэж"
+    },
+    {
+      "surface": "ושותים",
+      "gloss": "уув"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "бэлтгэсэн"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ахан дүүс нь"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:45.726781461Z",
+  "model": "glm-5.3"
+}

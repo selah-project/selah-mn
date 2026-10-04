@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Гуниг инээд баяраас дээр, учир нь нүүрний харам дор зүрх сайжирдаг.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "гуниг"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "инээд баяраас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "харам дор"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "нүүрний"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "сайжирдаг"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:52.626714979Z",
+  "model": "glm-5.3"
+}

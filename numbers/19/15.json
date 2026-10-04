@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Дээр нь боолт оосоргүй нээлттэй ямар ч сав бузар байна.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "сав"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "нээлттэй"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "бол"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "боолт"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "оосор"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "дээр нь"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "бузар"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "байна"
+    }
+  ],
+  "timestamp": "2026-10-04T10:43:12.590728893Z",
+  "model": "glm-5.3"
+}

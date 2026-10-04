@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Элишамаа, Эльядаа, Элифелет — ес.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "Элишамаа"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "Эльядаа"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "Элифелет"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ес"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:41.656814189Z",
+  "model": "glm-5.3"
+}

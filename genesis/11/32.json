@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Терахын амьдарсан өдрүүдийн тоо хоёр зуун таван жил байв; Терах Харанд үхэв.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "байв"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "өдрүүд"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терахын"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "таван"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр зуун"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үхэв"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "Харанд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:50:05.363367230Z",
+  "model": "glm-5.3"
+}

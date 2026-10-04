@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 65,
+  "translation": "Хөгжмийн захираагчид — Давидын мазмур, дуу.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "захираагчид"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмур"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "дуу"
+    }
+  ],
+  "timestamp": "2026-10-04T13:46:04.872741228Z",
+  "model": "glm-5.3"
+}

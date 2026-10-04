@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Могой эмэгтэйд хэлэв: Та нар ёстой үхэхгүй.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "могой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "эмэгтэй"
+    },
+    {
+      "surface": "לא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхэх"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "үхнэ"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:40.168785354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 16:16",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Хагар Аврамд ⟨את⟩ Ишмаелыг төрүүлэх үед Аврам наян зургаан настай байв.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "настай"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "наян"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "нас"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "настай"
+    },
+    {
+      "surface": "בלדת",
+      "gloss": "төрүүлэх үед"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Хагар"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ишмаел"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ишмаелыг"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Аврамд"
+    }
+  ],
+  "timestamp": "2026-10-04T09:50:55.534334586Z",
+  "model": "glm-5.3"
+}

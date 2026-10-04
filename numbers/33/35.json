@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 33:35",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Абронаас нүүж, Эцён Геберт буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүж"
+    },
+    {
+      "surface": "מעברנה",
+      "gloss": "Абронаас"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "Эцён"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Геберт"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:09.529805548Z",
+  "model": "glm-5.3"
+}

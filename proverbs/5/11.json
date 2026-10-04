@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 5:11",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Тэгээд эцэстээ, мах ба биеэ дуусган байхдаа чинээ гаслана.",
+  "tokens": [
+    {
+      "surface": "ונהמת",
+      "gloss": "гаслана"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "эцэстээ"
+    },
+    {
+      "surface": "בכלות",
+      "gloss": "дуусган байхдаа"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "мах"
+    },
+    {
+      "surface": "ושארך",
+      "gloss": "ба бие"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:04.444407963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Тэд хүн бүр ах дүүгээсээ хэлэлцэнэ: Ха, зүүдний эзэн энэ ирж явана.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "тэд хэлэлцэнэ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн бүр"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ах дүүгээ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ха"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "эзэн"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "зүүдний"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ирж явана"
+    }
+  ],
+  "timestamp": "2026-10-04T09:59:09.191426005Z",
+  "model": "glm-5.3"
+}

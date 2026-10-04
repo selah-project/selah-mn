@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Бүх үнэт баялаг олдох буй, бидний гэрүүдийг олзоор дүүргье.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Бүх"
+    },
+    {
+      "surface": "הון",
+      "gloss": "баялаг"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "үнэт"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "олдох"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "дүүргье"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "бидний гэрүүдийг"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "олзоор"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:28.510235348Z",
+  "model": "glm-5.3"
+}

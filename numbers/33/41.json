@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 33:41",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Хор уулаас нүүж, Цалмонад бүгжээ.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "нүүжээ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "уулаас"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Хор"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "бүгжээ"
+    },
+    {
+      "surface": "בצלמנה",
+      "gloss": "Цалмонад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:09.447949927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Тэр намайг дарсны байшинд авчрав, түүний туг миний дээгүүр хайр ⟨юм⟩.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Тэр намайг авчрав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "байшинд"
+    },
+    {
+      "surface": "היין",
+      "gloss": "дарсны"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "түүний туг"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "миний дээгүүр"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "хайр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:28:05.340225384Z",
+  "model": "glm-5.3"
+}

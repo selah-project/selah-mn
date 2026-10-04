@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 56,
+  "translation": "Тал нутгийн амьтад бүгд, ирцгээнэ, залгихын тулд; ойн амьтад бүгд.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "амьтад"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "тал нутгийн"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "ирцгээнэ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "залгихын тулд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "амьтад"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ойн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:27:25.594237881Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Санаж байна, дахин санаж байна, миний сүнс над дотор дарлагдав.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Санаж байна"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "дахин санаж байна"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "дарлагдав"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над дотор"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "миний сүнс"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:07.258856100Z",
+  "model": "glm-5.3"
+}

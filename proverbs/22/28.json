@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 22,
+  "translation": "Эртний хилийн тэмдгийг бүү зөө — өвөг дээдэс чинь тавьсныг.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "зөө"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хилийн тэмдгийг"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "эртний"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "тавьсныг"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "өвөг дээдэс чинь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:56.317119348Z",
+  "model": "glm-5.3"
+}

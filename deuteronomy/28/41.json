@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Хөвгүүд болон охид төрүүлж, тэд чамд байхгүй байх болно, учир нь тэд олзлолд явагдана.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "болон охид"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "төрүүлж"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "байх болно"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "явагдана"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "олзлолд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:01:06.025773941Z",
+  "model": "glm-5.3"
+}

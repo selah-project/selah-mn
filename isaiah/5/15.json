@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Хүн бөхийж, эр хүн доордож, өндөрсгийн нүднүүд доордоно.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "бөхийж"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Хүн"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "доордож"
+    },
+    {
+      "surface": "איש",
+      "gloss": "эр хүн"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "нүднүүд"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "өндөрсгийн"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "доордоно"
+    }
+  ],
+  "timestamp": "2026-10-04T12:11:37.545769836Z",
+  "model": "glm-5.3"
+}

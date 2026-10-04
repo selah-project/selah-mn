@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 5:28",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Хэрэв эмэгтэй бузарлаагүй, харин цэвэр бол тэр суллагдаж, үр тогтоно.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "бузарлаагүй"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "эмэгтэй"
+    },
+    {
+      "surface": "וטהרה",
+      "gloss": "цэвэр"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бол"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "суллагдана"
+    },
+    {
+      "surface": "вנזרעה",
+      "gloss": "үр тогтоно"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "үр"
+    }
+  ],
+  "timestamp": "2026-10-04T10:36:55.256864491Z",
+  "model": "glm-5.3"
+}

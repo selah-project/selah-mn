@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 26,
+  "translation": "Яхвэд үүрд итгэгтүн, учир нь Ях ⟨бол⟩ Яхвэ — мөнхүүдийн хад чулуу.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "итгэгтүн"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "үүрд"
+    },
+    {
+      "surface": "עד",
+      "gloss": "үргэлжид"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "хад чулуу"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "мөнхүүдийн"
+    }
+  ],
+  "timestamp": "2026-10-04T12:17:39.062428009Z",
+  "model": "glm-5.3"
+}

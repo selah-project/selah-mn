@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Ифдейя ба Пенуэл ба Шашакийн хөвгүүд бөгөөд",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "ба Ифдейя"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "ба Пенуэл"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "Шашакийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:21.789271607Z",
+  "model": "glm-5.3"
+}

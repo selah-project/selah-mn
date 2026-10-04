@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 41,
+  "translation": "Тэр ⟨את⟩ өндөр юмс бүгдийг харна; тэр бүх давлагаатны хаан.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "өндөр юмс бүгдийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "өндөр юмс"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "харна"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "על",
+      "gloss": "- ын"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…-ынхан"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "давлагаатнууд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:26:56.120862406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Түүний ууган хүү нь Абдон, мөн Цур, Киши, Баал, Нер, Надав байв.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "Түүний хүү нь"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ууган"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Абдон"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "мөн Цур"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "Киши"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "Нер"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "Надав байв"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:25.635672228Z",
+  "model": "glm-5.3"
+}

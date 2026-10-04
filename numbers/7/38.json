@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Алтан алга сав нэг, арван шекел жинтэй, утсан илдэгээр дүүрэн.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "алга сав"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арван"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "дүүрэн"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "утсан илдэг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:39.094669354Z",
+  "model": "glm-5.3"
+}

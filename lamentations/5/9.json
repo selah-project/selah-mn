@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Бидний амьдрал аюулд өртөж бид талхаа олж авав, цөлний илднээс болоод.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "бидний амьдрал"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "олж авав"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "бидний талхаа"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "-аас болоод"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "илд"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "цөлний"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:57.529575338Z",
+  "model": "glm-5.3"
+}

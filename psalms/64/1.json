@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 64,
+  "translation": "Хөгжмийн удирдагчид — Давидын залгамал дуу.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хөгжмийн удирдагчид"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "залгамал дуу"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:46:03.165593946Z",
+  "model": "glm-5.3"
+}

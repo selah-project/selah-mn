@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 75,
+  "translation": "Эврээ өндөрт бүү өргө, хатуу хүзүүгээр бүү ярь.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "өргө"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "өндөрт"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "эвэрээ (та нарын)"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ярь"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "хүзүүгээр"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "хатуу (зөрүүд)"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:48.877609073Z",
+  "model": "glm-5.3"
+}

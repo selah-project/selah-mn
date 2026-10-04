@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 5:10",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Давид яван болж, ихэд өсөв, Яхвэ Цебаотын Элохим түүнтэй байв.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "яван"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "болж"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ихэд өсөв"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "түүнтэй байв"
+    }
+  ],
+  "timestamp": "2026-10-04T11:36:48.999379002Z",
+  "model": "glm-5.3"
+}

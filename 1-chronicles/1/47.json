@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Хадад үхэж, түүний оронд Масрекагаас Самла хаанчлав.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "үхэж"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "хаанчлав"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "түүний оронд"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "Масрекагаас"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:40.439976016Z",
+  "model": "glm-5.3"
+}

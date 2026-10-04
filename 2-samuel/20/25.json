@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Шева бичээч байв; Цадок ба Эвйатар тахилчид байв.",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "бичээч"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "Эвйатар"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "тахилчид"
+    }
+  ],
+  "timestamp": "2026-10-04T11:42:31.346201044Z",
+  "model": "glm-5.3"
+}

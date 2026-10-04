@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Учир нь далавч эзэлсэн бүхний нүдэнд торыг дэлгэх нь утгагүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "утгагүй"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "дэлгэх"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "торыг"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэнд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхний"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "эзэлсэн"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "далавч"
+    }
+  ],
+  "timestamp": "2026-10-04T14:03:29.302622961Z",
+  "model": "glm-5.3"
+}

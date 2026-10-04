@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Та орохдоо ивээгдэх бөгөөд гарахдаа ивээгдэх болно.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ивээгдэх"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "та"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "орохдоо"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "бөгөөд ивээгдэх"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "та"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "гарахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:51.844930572Z",
+  "model": "glm-5.3"
+}

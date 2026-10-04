@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Зебулунын хилээс зүүн талаас баруун тал хүртэл Гадад нэг хэсэг.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "-н хилээс"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "хил"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зебулун"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "талас"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "зүүн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "пאת",
+      "gloss": "тал"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "баруун"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:17:13.370871875Z",
+  "model": "glm-5.3"
+}

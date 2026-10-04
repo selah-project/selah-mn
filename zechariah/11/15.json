@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Яхвэ надад айлдаж байна: Дахиад өөртөө тэнэг хоньчны хэрэгслийг ав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахиад"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ав"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "хэрэгслийг"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "хоньчны"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "тэнэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:32:18.077784894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 9:28",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Тэд Офирт ирж, тэндээс дөрвөн зуу хорин кикар алт авч, хаан Шеломохд авчрав.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "אופירה",
+      "gloss": "Офирт"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "авч"
+    },
+    {
+      "surface": "משם",
+      "gloss": "тэндээс"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алт"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуу"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "кикар"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "авчрав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломох"
+    }
+  ],
+  "timestamp": "2026-10-04T11:51:18.646161965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Харин түүнд ⟨את⟩ гараа үнэхээр нээж, түүнд дутагдаж буй хэрээр нь зээл өг.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "харин"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "үнэхээр нээж"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "нээ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гараа"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "зээл өгөх"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "түүнд өг"
+    },
+    {
+      "surface": "די",
+      "gloss": "хэрээр"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "дутагдаж буй"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яагаад гэвэл"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "дутагдаж буй"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:56:38.088888567Z",
+  "model": "glm-5.3"
+}

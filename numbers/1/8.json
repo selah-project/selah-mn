@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Йиссаскараас — Нетанэл, Цуарын хүү.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "Йиссаскараас"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанэл"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цуар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:32:52.126496204Z",
+  "model": "glm-5.3"
+}

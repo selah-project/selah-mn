@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Хэлэлцсэн зүйл хааны нүдэнд ба бүх чуулганы нүдэнд зөв байв.",
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "ба хэлэлцсэн зүйл"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "хэлэлцсэн зүйл"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "нүдэнд"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ба нүдэнд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "чуулганы"
+    }
+  ],
+  "timestamp": "2026-10-04T16:01:36.957476553Z",
+  "model": "glm-5.3"
+}

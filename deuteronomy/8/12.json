@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Хооллож, цадаж, сайхан байшин бариж, тэндээ нутаглах үедээ сэргийл.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "сэргийл"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "Хооллож"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "цадаж"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "байшин"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "бариж"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "нутаглах"
+    }
+  ],
+  "timestamp": "2026-10-04T15:32:51.960585980Z",
+  "model": "glm-5.3"
+}

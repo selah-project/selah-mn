@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 24:13",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Моше босов, түүний зарц Иехошуа ч босов; Моше Элохимын уул руу өгсөв.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "босов"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויהושע",
+      "gloss": "Иехошуа ч"
+    },
+    {
+      "surface": "משרתו",
+      "gloss": "түүний зарц"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "өгсөв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:13:36.234575638Z",
+  "model": "glm-5.3"
+}

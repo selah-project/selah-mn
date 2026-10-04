@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Миний хүч чулууны хүч мөн үү, эсвэл миний мах зэсэн мөн үү?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ухаан"
+    },
+    {
+      "surface": "כח",
+      "gloss": "хүч"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "чулуун"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "миний хүч"
+    },
+    {
+      "surface": "אם",
+      "gloss": "эсвэл"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "миний мах"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "зэсэн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:15:48.530310979Z",
+  "model": "glm-5.3"
+}

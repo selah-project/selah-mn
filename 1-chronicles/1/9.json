@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Кушийн хөвгүүд: Сева, Хавила, Савта, Раама, Савтека. Раамагийн хөвгүүд: Шева ба Дедан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Кушийн"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "Сева"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "Хавила"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "Савта"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "Раама"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "Савтека"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "Раамагийн"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "Дедан"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:42.281473562Z",
+  "model": "glm-5.3"
+}

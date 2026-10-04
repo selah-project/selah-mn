@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Тэр дахин өөр долоон хоног хүлээв, ⟨את⟩ голыг онгоцноос дахин сэнээв.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "хүлээв"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "долоон"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "хоног"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "сэнээв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голыг"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "голыг"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-наас"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "онгоцноос"
+    }
+  ],
+  "timestamp": "2026-10-04T09:47:30.563516981Z",
+  "model": "glm-5.3"
+}

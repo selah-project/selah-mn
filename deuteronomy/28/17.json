@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Хараагдана хөрөөс чинь ба гурилан далай чинь.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "хараагдана"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "хөрөөс чинь"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ба гурилан далай чинь"
+    }
+  ],
+  "timestamp": "2026-10-04T11:02:36.413164198Z",
+  "model": "glm-5.3"
+}

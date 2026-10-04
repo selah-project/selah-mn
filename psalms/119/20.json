@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Миний амь Таны шүүлтүүдийг тэмүүлж бүх үед шаналж байна.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "шаналж"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "миний амь"
+    },
+    {
+      "surface": "לתאбה",
+      "gloss": "тэмүүлж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "Таны шүүлтүүдийг"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עת",
+      "gloss": "үед"
+    }
+  ],
+  "timestamp": "2026-10-04T13:57:56.169512969Z",
+  "model": "glm-5.3"
+}

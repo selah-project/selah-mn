@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Бос, керамистийн гэр рүү бууж оч, тэнд Би Өөрийн үгсийг ⟨את⟩ чамд сонсгоно.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Бос"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "бууж оч"
+    },
+    {
+      "surface": "בית",
+      "gloss": "гэр"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "керамистийн"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "тэнд"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "сонсгоно"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Миний үгс"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "Миний үгс"
+    }
+  ],
+  "timestamp": "2026-10-04T12:40:40.658030878Z",
+  "model": "glm-5.3"
+}

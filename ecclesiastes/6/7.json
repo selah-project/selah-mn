@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Хүний бүх хөдөлмөр амных нь төлөө бөгөөд гэсэн ч нэфеш хангалттай цаддаггүй.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "хөдөлмөр"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "хүний"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "амных нь төлөө"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "гэсэн ч"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "нэфеш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "цаддаггүй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:00.305782768Z",
+  "model": "glm-5.3"
+}

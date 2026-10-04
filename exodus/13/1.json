@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Яхвэ Мошед хэлж байна: ⟨хэлэхдээ⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "хэлж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨хэлэхдээ⟩"
+    }
+  ],
+  "timestamp": "2026-10-04T10:10:20.752363966Z",
+  "model": "glm-5.3"
+}

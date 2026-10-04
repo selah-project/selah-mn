@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Аврахам нутгийн ард түмний өмнө бөхөв.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "бөхөв"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ард түмний"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "нутгийн"
+    }
+  ],
+  "timestamp": "2026-10-04T09:52:14.443584632Z",
+  "model": "glm-5.3"
+}

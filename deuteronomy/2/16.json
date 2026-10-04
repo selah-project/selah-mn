@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Дайны хүмүүс бүгд ард түмний дундаас үхэж дуусмагц ийм болов.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ийм болов"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "дуусмагц"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "дуусмагц"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "хүмүүс"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "дайны"
+    },
+    {
+      "surface": "למות",
+      "gloss": "үхэж"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "дундаас"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмний"
+    }
+  ],
+  "timestamp": "2026-10-04T10:50:33.664413145Z",
+  "model": "glm-5.3"
+}

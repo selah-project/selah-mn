@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Салмон Боазын эцэг болж, Боаз Оведын эцэг болов.",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "Салмон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "эцэг болж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Боаз"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Боаз"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "Боаз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "эцэг болов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Овед"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овед"
+    }
+  ],
+  "timestamp": "2026-10-04T14:28:46.477871197Z",
+  "model": "glm-5.3"
+}

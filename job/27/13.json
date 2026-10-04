@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 27:13",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Энэ бол муу хүний Эл-ээс авах хувь, хэрцгийнхний өв — Шаддайгаас тэд авна.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "хувь"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "муу"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ээс"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "ба өв"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "хэрцгийнхэн"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "Шаддайгаас"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "авна"
+    }
+  ],
+  "timestamp": "2026-10-04T14:21:42.948316350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Гадна бай, чи надад барьцаа гаргаж өгөх ёстой.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "гадна"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "бай"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "харин хүн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "зээлүүлсэн"
+    },
+    {
+      "surface": "בו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "гаргаж өгнө"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "чиний уруу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "барьцааг"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "барьцааг"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "гадагш"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:36.001049875Z",
+  "model": "glm-5.3"
+}

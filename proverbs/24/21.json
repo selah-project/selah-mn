@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Хүү минь, Яхвэ болон хаанаасаа ⟨את⟩ Яхвэг ай; өөрчлөгчидтэй холилдохгүй бай.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхвэ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хүү минь"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "болон хаан"
+    },
+    {
+      "surface": "עם",
+      "gloss": "-тай"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "өөрчлөгчид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "холилдохгүй бай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:45.032802945Z",
+  "model": "glm-5.3"
+}

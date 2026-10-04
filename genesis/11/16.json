@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Эвер дөчин дөрвөн жил амьдарч, ⟨את⟩ Пелегийг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "амьдарч"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Эвер"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "дөрвөн"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "дөчин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пелегийг"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Пелег"
+    }
+  ],
+  "timestamp": "2026-10-04T09:49:05.732085001Z",
+  "model": "glm-5.3"
+}

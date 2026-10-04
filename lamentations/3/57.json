@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Би Таныг дуудах өдөр Та ойртож ирээд, хэлсэн: Бүү ай.",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "Та ойртож ирээд"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "Би Таныг дуудах"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "хэлсэн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:17.026204082Z",
+  "model": "glm-5.3"
+}

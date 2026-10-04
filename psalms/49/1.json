@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 49,
+  "translation": "Захираагчид — Корахын хөвгүүдэд — зул.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Захираагчид"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдэд"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корахын"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "зул"
+    }
+  ],
+  "timestamp": "2026-10-04T13:43:03.457540823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 46,
+  "translation": "Левигийн хөвгүүд: Гершон, Кехат ба Мерари.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левигийн"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "Мерари"
+    }
+  ],
+  "timestamp": "2026-10-04T10:03:14.753530571Z",
+  "model": "glm-5.3"
+}

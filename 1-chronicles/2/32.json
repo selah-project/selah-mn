@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Шаммайн ах Ядагийн хөвгүүд Йетер, Йонатан байв; Йетер үр хүүхэдгүй үхэв.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Яда"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ах"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шаммай"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ба Йонатан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үхэв"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "хөвгүүд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:06.118455071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 14:47",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Байшинд унтсан хүн хувцсаа угааж, байшинд идсэн хүн хувцсаа угаана.",
+  "tokens": [
+    {
+      "surface": "והשכב",
+      "gloss": "унтсан хүн"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "байшинд"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "угааж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хувцсаа"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "хувцсаа"
+    },
+    {
+      "surface": "והאכל",
+      "gloss": "идсэн хүн"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "байшинд"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "угаана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хувцсаа"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "хувцсаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:27:24.664843703Z",
+  "model": "glm-5.3"
+}

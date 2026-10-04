@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Давид бэхлэлт дотор суув. Тийм учраас түүнийг Давидын хот гэж нэрлэжээ.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "суув"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "бэхлэлт дотор"
+    },
+    {
+      "surface": "על",
+      "gloss": "тийм учраас"
+    },
+    {
+      "surface": "כן",
+      "gloss": "улмаар"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "нэрлэжээ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнийг"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:57.788618743Z",
+  "model": "glm-5.3"
+}

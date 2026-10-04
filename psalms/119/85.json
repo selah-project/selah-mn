@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Заргорууд надад нүх ухажээ, Торын чинь дагуу бус.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "ухажээ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "заргорууд"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "нүх"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бус"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "Торын чинь дагуу"
+    }
+  ],
+  "timestamp": "2026-10-04T13:59:21.016784890Z",
+  "model": "glm-5.3"
+}

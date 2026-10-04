@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Яхвэ Цебаот ингэж айлдаж байна: Өөрийн замдаа зүрхээ тавь.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "тавь"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "зүрхээ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "өөрийн зам"
+    }
+  ],
+  "timestamp": "2026-10-04T13:29:22.722338698Z",
+  "model": "glm-5.3"
+}

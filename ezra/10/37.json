@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Маттаня, Маттенай ба Яасав,",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "Маттаня"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "Маттенай"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ба Яасав"
+    }
+  ],
+  "timestamp": "2026-10-04T14:48:21.505847475Z",
+  "model": "glm-5.3"
+}

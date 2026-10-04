@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 109,
+  "translation": "Түүн дээр буруутан гараг, сатр ושטט הнийн бүрээс нь зогтуг",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "гараг"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүн дээр"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "буруутан"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "сатран"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "зогтуг"
+    },
+    {
+      "surface": "על",
+      "gloss": "-н"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "барун гараас нь"
+    }
+  ],
+  "timestamp": "2026-10-04T13:56:36.160334622Z",
+  "model": "glm-5.3"
+}

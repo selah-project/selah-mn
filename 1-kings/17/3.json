@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Эндээс явж, зүүн зүгт эргэ, Иорданы нүүрэн дээрх Керит горхинд нуугд.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "яв"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "эндээс"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "эргэ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "өөртөө"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "зүүн зүгт"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "нуугд"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "горхинд"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Керит"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээрх"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүрэн"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Иорданы"
+    }
+  ],
+  "timestamp": "2026-10-04T11:54:28.651133159Z",
+  "model": "glm-5.3"
+}

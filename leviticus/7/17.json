@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Харин тахилын махаас үлдсэн нь гурав дахь өдөр галд шатаагдана.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "харин үлдсэн нь"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "махаас"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "тахилын"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "гурав дахь"
+    },
+    {
+      "surface": "באש",
+      "gloss": "галд"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "шатаагдана"
+    }
+  ],
+  "timestamp": "2026-10-04T10:23:17.261154286Z",
+  "model": "glm-5.3"
+}

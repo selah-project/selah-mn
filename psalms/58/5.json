@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 58,
+  "translation": "Тэдний хор могойн хортой адил, дүлий хярс чихээ хаадаг шиг",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "хор"
+    },
+    {
+      "surface": "למו",
+      "gloss": "тэдний"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "адилаар"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "хор"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "могойн"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "шиг"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "хярс"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "дүлий"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "хаадаг"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "чихээ"
+    }
+  ],
+  "timestamp": "2026-10-04T13:44:43.681528197Z",
+  "model": "glm-5.3"
+}

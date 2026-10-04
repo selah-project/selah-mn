@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 21:18",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Бүх энэрийн дараа Яхвэ түүний гэдсийг эдгэрэлгүй өвчнөөр цохив.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "дараа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "цохив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "במעיו",
+      "gloss": "түүний гэдсийг"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "өвчнөөр"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "эдгэрэлгүй буюу"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "эдгэрэлгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T15:15:55.182767903Z",
+  "model": "glm-5.3"
+}

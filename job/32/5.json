@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 32:5",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 32,
+  "translation": "Елиху нар гурвын аманд хариул байхгүйг харав, түүний уур асав.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "харав"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Елиху"
+    },
+    {
+      "surface": "כי",
+      "gloss": "г"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "хариул"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "аманд"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "нар гурвын"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "нар"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "асав"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "түүний уур"
+    }
+  ],
+  "timestamp": "2026-10-04T14:23:18.025108951Z",
+  "model": "glm-5.3"
+}

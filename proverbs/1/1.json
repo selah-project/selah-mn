@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Шеломогийн сургаалын үгс — Давидын хүү, Йисраелын хаан Шеломогийнх.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "сургаалын үгс"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломогийн"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидын"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:54:18.361266711Z",
+  "model": "glm-5.3"
+}

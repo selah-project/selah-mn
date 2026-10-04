@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Моше хэлэв: Яхвэ ингэж айлдаж байна: Шөнийн дунд бүрд би Мицраймын дунд гарна.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "бүрд"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "шөнийн"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "гарна"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраймын"
+    }
+  ],
+  "timestamp": "2026-10-04T10:08:54.008821495Z",
+  "model": "glm-5.3"
+}

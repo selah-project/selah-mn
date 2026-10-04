@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 40:23",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Яа, гол давлахад тэр яарахгүй; Йарден түүний ам руу өрнөсөн ч тэр найдна.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "яа"
+    },
+    {
+      "surface": "יעשק",
+      "gloss": "давлахад"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "гол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "יחפוז",
+      "gloss": "яарах"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "найдна"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэдий"
+    },
+    {
+      "surface": "יגיח",
+      "gloss": "өрнөсөн"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Йарден"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "түүний ам"
+    }
+  ],
+  "timestamp": "2026-10-04T14:25:32.259891860Z",
+  "model": "glm-5.3"
+}

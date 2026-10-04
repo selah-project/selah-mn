@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Яхвэ-гийн элч түүнийг цөлд усны булгийн дэргэд, Шурын зам дээр буй булгийн дэргэд олжээ.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "олжээ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "элч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ-гийн"
+    },
+    {
+      "surface": "על",
+      "gloss": "дэргэд"
+    },
+    {
+      "surface": "עין",
+      "gloss": "булаг"
+    },
+    {
+      "surface": "המים",
+      "gloss": "усны"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "цөлд"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "העין",
+      "gloss": "булгийн"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Шурын"
+    }
+  ],
+  "timestamp": "2026-10-04T15:25:15.090696366Z",
+  "model": "glm-5.3"
+}

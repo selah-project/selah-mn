@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Элазар ⟨את⟩ Пинехасыг төрүүлэв, Пинехас ⟨את⟩ Авишуаг төрүүлэв.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Элазар"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пинехасыг"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинехас"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинехас"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "төрүүлэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авишуаг"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Авишуа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:13.812039401Z",
+  "model": "glm-5.3"
+}

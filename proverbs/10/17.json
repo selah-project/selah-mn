@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Амьдралын зам — мөрдүүллийг сахигч; зэмлэлийг орхигч төөрдөг.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "зам"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "амьдралын"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "сахигч"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "мөрдүүлэл"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "ба орхигч"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "зэмлэл"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "төөрдөг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:06:27.801260989Z",
+  "model": "glm-5.3"
+}

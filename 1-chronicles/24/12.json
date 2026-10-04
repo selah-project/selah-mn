@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Арван нэгдүгээрт Эльяшив, арван хоёрдугаарт Йаким.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "Эльяшивд"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "арван нэг"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨нэгээс⟩ арван"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "Йакимд"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:23.754588619Z",
+  "model": "glm-5.3"
+}

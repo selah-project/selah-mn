@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Хорон муу ирэхэд доромжлол ч бас ирнэ, бас ичгүүртэй хамт жүшлэл.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ирэхэд"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "хорон муу"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ирнэ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "доромжлол"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ичгүүртэй"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "жүшлэл"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:10.505122839Z",
+  "model": "glm-5.3"
+}

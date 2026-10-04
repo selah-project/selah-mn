@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 19,
+  "translation": "Толгойнхоо захыг бүү тайр, сахлынхаа захыг бүү эвд.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "тайр"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "захыг"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "толгойнхоо"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба бүү"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "эвд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сахлынхаа захыг"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "захыг"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "сахлынхаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:29:55.254759231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Эдгээр нь бас мэргэдэд хамаарна. Шүүлтэд нүүрийг ялгавчлан үзэх нь сайнгүй.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "мэргэдэд"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "ялгавчлан үзэх"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "нүүр"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "шүүлтэд"
+    },
+    {
+      "surface": "בל",
+      "gloss": "сайнгүй"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:45.033151832Z",
+  "model": "glm-5.3"
+}

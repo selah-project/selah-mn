@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 21:34",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Аврахам Плиштимийн газарт олон өдөр буурь суув.",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "буурь суув"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимийн"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "олон"
+    }
+  ],
+  "timestamp": "2026-10-04T09:51:48.058208422Z",
+  "model": "glm-5.3"
+}

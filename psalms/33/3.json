@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Түүнд шинэ дуу дуул; теруагийн чимээгээр сайхан хөгжимд.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "дуул"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "шинэ"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "сайхан"
+    },
+    {
+      "surface": "נגר",
+      "gloss": "хөгжимд"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "теруагийн чимээгээр"
+    }
+  ],
+  "timestamp": "2026-10-04T13:40:31.061049231Z",
+  "model": "glm-5.3"
+}

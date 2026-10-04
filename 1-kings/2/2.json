@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Би бүх газрын замаар явж байна; чи бэхжиж, эр хүн бологтун.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Би"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "явж байна"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "замагаар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "бэхжиж"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "бологтун"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "эр хүн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:47:48.655156867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 36,
+  "translation": "Бела Беорын хөвгүүн Эдомд хаанчлав; түүний хотын нэр Динхаба байв.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "хаанчлав"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Эдомд"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хөвгүүн"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "Беорын"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "хотын нь"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Динхаба"
+    }
+  ],
+  "timestamp": "2026-10-04T09:58:07.847894841Z",
+  "model": "glm-5.3"
+}

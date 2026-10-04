@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Гэтэл Шеол руу тааруулагдан унагагдаж, нүхний гүн рүү орно.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Гэтэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "тааруулагдан унагагдана"
+    },
+    {
+      "surface": "אל",
+      "gloss": "рүү"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "гүн"
+    },
+    {
+      "surface": "בור",
+      "gloss": "нүхний"
+    }
+  ],
+  "timestamp": "2026-10-04T12:13:25.889109213Z",
+  "model": "glm-5.3"
+}

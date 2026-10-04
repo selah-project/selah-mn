@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Тэр бол Яхвэ, бидний Элохим; түүний шүүлтүүд бүх газар дэлгэрсэн.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Тэр"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "бидний Элохим"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "түүний шүүлтүүд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:03:07.271170542Z",
+  "model": "glm-5.3"
+}

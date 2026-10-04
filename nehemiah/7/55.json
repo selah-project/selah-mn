@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Баркосын хөвгүүд, Сисерагийн хөвгүүд, Тамахын хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "Баркосын"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисерагийн"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "Тамахын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:52:42.898863801Z",
+  "model": "glm-5.3"
+}

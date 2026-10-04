@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Харин би чамд орших байшин, үүрд амьдрах сууц барьсан.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Харин би"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "барьсан"
+    },
+    {
+      "surface": "בית",
+      "gloss": "байшин"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "орших"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "сууц"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "амьдрах"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "үүрд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:09:51.135308148Z",
+  "model": "glm-5.3"
+}

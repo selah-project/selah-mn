@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Ноёд тэдний гараар дүүжлэгдэв; өсвүүний царай хүндлэгдсэнгүй.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "тэдний гараар"
+    },
+    {
+      "surface": "נתлו",
+      "gloss": "дүүжлэгдэв"
+    },
+    {
+      "surface": "פני",
+      "gloss": "царай"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "өсвүүний"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "хүндлэгдсэнгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:57.530098841Z",
+  "model": "glm-5.3"
+}

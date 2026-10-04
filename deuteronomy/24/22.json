@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Чи Мицраймийн нутагт боол байснаа сана: тийм учраас Би чамд энэ үйлийг хийхийг тушааж байна ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "сана"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ки"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "боол"
+    },
+    {
+      "surface": "היית",
+      "gloss": "байснаа"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "нутагт"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраймийн"
+    },
+    {
+      "surface": "על",
+      "gloss": "тийм"
+    },
+    {
+      "surface": "כן",
+      "gloss": "учраас"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Би"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "тушааж байна"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "хийхийг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ үйлийг"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "энэ үйл"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:59:12.189584966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Учир нь мэргэн ухаан их байх тусам бухимдал их, мэдлэг нэмэгдэх тусам өвчин нэмэгдэнэ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "их байх тусам"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мэргэн ухаан"
+    },
+    {
+      "surface": "רב",
+      "gloss": "их"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "бухимдал"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ба нэмэгдэнэ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "мэдлэг"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "нэмэгдэнэ"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "өвчин"
+    }
+  ],
+  "timestamp": "2026-10-04T14:32:50.954994135Z",
+  "model": "glm-5.3"
+}

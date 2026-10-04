@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 43,
+  "translation": "Яхвэгийн алдар нүүр нь зүүн зүгт харсан хаалгын замаар байшин руу орж ирэв.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "алдар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "בא",
+      "gloss": "орж ирэв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "байшин"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "замаар"
+    },
+    {
+      "surface": "שער",
+      "gloss": "хаалгын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "энэ нь"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "нүүр нь"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "зүгт"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "зүүн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:14:02.933845855Z",
+  "model": "glm-5.3"
+}

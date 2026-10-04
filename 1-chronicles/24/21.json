@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Рехабягийнхэн: Рехабягийн хөвгүүдээс ⟨тэргүүн нь⟩ Ишийя.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "Рехабягийнхэн"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдээс"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "Рехабя"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "тэргүүн нь"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Ишийя"
+    }
+  ],
+  "timestamp": "2026-10-04T15:05:25.027378753Z",
+  "model": "glm-5.3"
+}

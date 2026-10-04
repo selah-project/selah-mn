@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Учир нь тэр юу болохыг мэдэхгүй, учир нь юу болох үед хэн түүнд хэлэх вэ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "тэр үгүй"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "мэдэх"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "болохыг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "үед"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болох"
+    },
+    {
+      "surface": "מי",
+      "gloss": "хэн"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "хэлэх"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:35:17.756646800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 11:8",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Тэнгэрийн өндөр — чи юу хийх вэ? Шеолоос гүн — чи юуг мэдэх вэ?",
+  "tokens": [
+    {
+      "surface": "גבהי",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "Тэнгэрийн"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юу"
+    },
+    {
+      "surface": "תפעל",
+      "gloss": "хийх вэ"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "гүн"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "Шеолоос"
+    },
+    {
+      "surface": "מה",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "мэдэх вэ"
+    }
+  ],
+  "timestamp": "2026-10-04T14:18:00.372502356Z",
+  "model": "glm-5.3"
+}

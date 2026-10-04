@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Даны хүмүүсээс дайны журамтай хорин найман мянга, зургаан зуу байв.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "-ээс"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "Даны"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "журамтай"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "дайны"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "хорин"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "найман"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "мянга"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "зургаан"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуу"
+    }
+  ],
+  "timestamp": "2026-10-04T15:02:25.127676361Z",
+  "model": "glm-5.3"
+}

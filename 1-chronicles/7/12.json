@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Шупим ба Хупим Ирийн хөвгүүд; Хушим Ахерийн хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ба Шупим"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "Хупим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ир"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хушим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "Ахер"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:10.971669864Z",
+  "model": "glm-5.3"
+}

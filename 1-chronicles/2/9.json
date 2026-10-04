@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хецронын түүнд төрсөн хөвгүүд нь ⟨את⟩ Ерахмел, ба ⟨את⟩ Рам, ба ⟨את⟩ Келубай билээ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "түүнд төрсөн"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "төрсөн"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ерахмел"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Ерахмел"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Рам"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Келубай"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Келубай"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:50.185425443Z",
+  "model": "glm-5.3"
+}

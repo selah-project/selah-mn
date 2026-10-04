@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 35,
+  "translation": "Улаанаар будсан хуцны арьс, тахшнуудын арьс, шитт мод.",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "ба арьс"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "хуцны"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "улаанаар будсан"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "ба арьс"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "тахшнуудын"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "ба мод"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шитт"
+    }
+  ],
+  "timestamp": "2026-10-04T10:17:52.322343640Z",
+  "model": "glm-5.3"
+}

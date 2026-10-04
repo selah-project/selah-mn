@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Хоёрдугаар голын нэр Гихон; тэр бол Кушын ⟨את⟩ бүх нутгийг тойрч урсдаг.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "голын"
+    },
+    {
+      "surface": "השני",
+      "gloss": "хоёрдугаар"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Гихон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "тойрч урсдаг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Кушын бүх нутгийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "нутаг"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Кушын"
+    }
+  ],
+  "timestamp": "2026-10-04T09:46:10.386731768Z",
+  "model": "glm-5.3"
+}

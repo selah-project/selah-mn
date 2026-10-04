@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Мөн өвдөлт, ховхор болон цайвар толбоны тухай.",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "мөн өвдөлт"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "ховхор"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "цайвар толбоны тухай"
+    }
+  ],
+  "timestamp": "2026-10-04T10:26:26.860164155Z",
+  "model": "glm-5.3"
+}

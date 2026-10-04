@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 17,
+  "translation": "Аврам нүүрээрээ унаж, Элохим ⟨את⟩ түүнтэй ярив.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "унав"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "על",
+      "gloss": "-р"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "нүүрээрээ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ярив"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ түүнтэй",
+      "marks": "түүнтэй"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    }
+  ],
+  "timestamp": "2026-10-04T09:51:32.381724680Z",
+  "model": "glm-5.3"
+}

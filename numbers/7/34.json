@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Нүглийн тахилд нэг эр ямаа.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "эр ямаа"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ямааны"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "нүглийн тахилд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:35:53.934090705Z",
+  "model": "glm-5.3"
+}

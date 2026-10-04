@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 68,
+  "translation": "Баян ноёд Мицраймаас ирнэ; Куш Элохимд гараа хүргэхийг түргэлнэ.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "ирнэ"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "баян ноёд"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайм"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "түргэлнэ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "гараа"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Элохимд"
+    }
+  ],
+  "timestamp": "2026-10-04T13:47:40.636769974Z",
+  "model": "glm-5.3"
+}

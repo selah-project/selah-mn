@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Тиймээс Яхвэгийн уур тэр газар дээр асаж, түүн дээр энэ номд бичигдсэн ⟨את⟩ бүх хараалыг авчрах болсон.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "асаж"
+    },
+    {
+      "surface": "אף",
+      "gloss": "уур"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газар дээр"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "авчрах"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "түүн дээр"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх хараал"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "хараал"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "бичигдсэн"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "номд"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:02:06.522327634Z",
+  "model": "glm-5.3"
+}

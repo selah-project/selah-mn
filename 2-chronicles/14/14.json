@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 14:14",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 14,
+  "translation": "Малын майхнуудыг бас цохив, олон хонь, тэмээ олзолж авч Ерушалайм руу буцав.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "бас"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "майхнуудыг"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "малын"
+    },
+    {
+      "surface": "הכו",
+      "gloss": "цохив"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "олзолж авав"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "хонь"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "олон"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "тэмээ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "буцав"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалайм руу"
+    }
+  ],
+  "timestamp": "2026-10-04T15:13:00.162752221Z",
+  "model": "glm-5.3"
+}

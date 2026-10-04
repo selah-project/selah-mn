@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Иехошуа ⟨את⟩ эдгээр бүх хаадтай олон өдөр дайн хийв.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "олон"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийв"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Иехошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "эдгээр бүх хаад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "хаад"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "дайн"
+    }
+  ],
+  "timestamp": "2026-10-04T11:09:34.570308870Z",
+  "model": "glm-5.3"
+}

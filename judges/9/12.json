@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Моддууд усан үзэмд хэлэв: Чи ирж, бидний дээр хаанчлаач.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "моддууд"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "усан үзэмд"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "чи ирж"
+    },
+    {
+      "surface": "את",
+      "gloss": "чи"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "хаанчлаач"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "бидний дээр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:16:55.695036523Z",
+  "model": "glm-5.3"
+}

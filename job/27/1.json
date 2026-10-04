@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 27:1",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 27,
+  "translation": "Айов өөрийн зүйр үгийг дэлгэрүүлж, хэлэв.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "дэлгэрүүлж"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Айов"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "өөрийн зүйр үгийг"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "зүйр үг"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    }
+  ],
+  "timestamp": "2026-10-04T14:22:07.748901215Z",
+  "model": "glm-5.3"
+}

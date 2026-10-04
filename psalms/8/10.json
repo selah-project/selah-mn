@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Яхвэ, бидний Адонай, Таны нэр хаа сайгүй дэлхий даяар хэр агуу!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "бидний Адонай"
+    },
+    {
+      "surface": "מה",
+      "gloss": "хэр"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "агуу"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Таны нэр"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "хаа сайгүй даяар"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "дэлхий"
+    }
+  ],
+  "timestamp": "2026-10-04T13:35:17.164525429Z",
+  "model": "glm-5.3"
+}

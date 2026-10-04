@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Тэнэгийн ам түүнд сүйрэл мөн, түүний уруул түүний амийн урхи.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ам"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "тэнэгийн"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "сүйрэл"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "ба түүний уруул"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "урхи"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "түүний амь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:07.803936004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Эвед-Мелех хааны ордноос гарч, хаанд ярьж, ингэж айлдав:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Эвед-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Мелех"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ордноос"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ярьж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ингэж айлдав"
+    }
+  ],
+  "timestamp": "2026-10-04T12:49:36.207007138Z",
+  "model": "glm-5.3"
+}

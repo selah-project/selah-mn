@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 40,
+  "translation": "Тэр хаалганы үүдэгний ⟨את⟩ сүм зүгийг нэг модоор хэмжэв.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "хэмжэв"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хаалганы үүдэн"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "үүдэн"
+    },
+    {
+      "surface": "השער",
+      "gloss": "хаалганы"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "сүм зүгээс"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "мод"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    }
+  ],
+  "timestamp": "2026-10-04T13:14:26.620402530Z",
+  "model": "glm-5.3"
+}

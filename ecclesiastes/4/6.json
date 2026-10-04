@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Амар амгалангаар дүүрэн нэг алг, зүдэрлэл ба руахын шаналлаар дүүрэн хоёр алгаас дээр.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "дүүрэн"
+    },
+    {
+      "surface": "כף",
+      "gloss": "алг"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "амар амгалангаар"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "дүүрэн"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "хоёр алга"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "зүдэрлэл"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ба шаналал"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    }
+  ],
+  "timestamp": "2026-10-04T15:55:56.244784537Z",
+  "model": "glm-5.3"
+}

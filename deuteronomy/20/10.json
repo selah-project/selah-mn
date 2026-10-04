@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Хэрэв та нэг хот руу дайтахгаар ойртох юм бол түүнд энх тайвны талаар дуудаж уриа.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "ойртох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "хот"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "дайтахгаар"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "түүнтэй"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "дуудаж уриа"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "энх тайвны талаар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:57:30.257768491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Гамшгийн өдөр тэд надад элрэв; Яхвэ бол надад тулгуур болов.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "надад элрэв"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "гамшгийн"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "бол"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "тулгуур"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    }
+  ],
+  "timestamp": "2026-10-04T13:37:05.214391256Z",
+  "model": "glm-5.3"
+}

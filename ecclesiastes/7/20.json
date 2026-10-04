@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Учир нь газар дээр шударга хүн байхгүй, сайныг үйлдэж, нүгэл үйлдэхгүй хэн ч үгүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "אין",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "шударга"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газар дээр"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "үйлдэж"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайныг"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "үйлдэхгүй"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "нүгэл үйлдэх"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:59.775910025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 30,
+  "translation": "Гүрвэл гараар баригддаг, гэсэн ч тэр хааны ордонд байдаг.",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "Гүрвэл"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "гараар"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "баригддаг"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "ордонд"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хааны"
+    }
+  ],
+  "timestamp": "2026-10-04T14:13:02.391292935Z",
+  "model": "glm-5.3"
+}

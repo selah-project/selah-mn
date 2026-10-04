@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Түүний дурсгал газраас алга болно, гадаа түүнд нэр үл байх болно.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "түүний дурсгал"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "алга болно"
+    },
+    {
+      "surface": "מני",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба үгүй"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүр"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "гадаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:19:11.060425978Z",
+  "model": "glm-5.3"
+}

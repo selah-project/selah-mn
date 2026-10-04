@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 76,
+  "translation": "Тэнд нумаас гартал галт сум, бамбай, илд ба дайныг нь эвдэв. Сэла.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Тэнд"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "эвдэв"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "галт сум"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "нумаас гартал"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "бамбай"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ба илд"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ба дайныг"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Сэла"
+    }
+  ],
+  "timestamp": "2026-10-04T13:48:08.675174656Z",
+  "model": "glm-5.3"
+}

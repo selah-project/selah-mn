@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Идо, Гиннетон, Абија:",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "Идо"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "Гиннетон"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Абија"
+    }
+  ],
+  "timestamp": "2026-10-04T15:58:04.239455869Z",
+  "model": "glm-5.3"
+}

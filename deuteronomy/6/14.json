@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Танаар байгаа ард түмнүүдийн бурхдын дагуу өөр бурхдын хойноос бүү яв.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "яв"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "хойноос"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "бурхдын"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "өөр"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "бурхдын"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ард түмнүүдийн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тэдгээр"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "танаар байгаа"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:50.295147546Z",
+  "model": "glm-5.3"
+}

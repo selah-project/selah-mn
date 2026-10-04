@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Цэргийн баатарнууд: Асаел, Йоабын ах, Элханан, Додоын хүү, Бейт-Лехемийнх.",
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "ба баатарнууд"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "цэргийн"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Асаел"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ах"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоабын"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Элханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "додו",
+      "gloss": "Додоын"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "...-ын"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Бейт-Лехем"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:02.247563167Z",
+  "model": "glm-5.3"
+}

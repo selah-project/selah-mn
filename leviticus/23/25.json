@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Ямар ч ажлын үйлс бүү хий; харин Яхвэд гал шатаах тахил өргөнө.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "ажлын"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "боолчлолын үйлс"
+    },
+    {
+      "surface": "לא",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "хий"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "өргөнө"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "гал шатаах тахил"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:31:52.003341250Z",
+  "model": "glm-5.3"
+}

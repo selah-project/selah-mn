@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Гидделийн хөвгүүд, Гахарын хөвгүүд, Реаягийн хөвгүүд.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Гиддель"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "Гахар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Реая"
+    }
+  ],
+  "timestamp": "2026-10-04T14:46:34.790474368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Ой ухааны замаас төөрсөн хүн Рефаимын чуулганд амарна.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "төөрсөн"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "замаас"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "ой ухааны"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "чуулганд"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаимын"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "амарна"
+    }
+  ],
+  "timestamp": "2026-10-04T15:55:14.720800425Z",
+  "model": "glm-5.3"
+}

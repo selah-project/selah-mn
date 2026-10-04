@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-kings 9:29",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Йорамын хүү Ахавын арван нэгдүгээр жилд Ахазия Йехудад хаан болов.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "…ны жилд"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арван"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "жил"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "Йорамын"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахавын"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан болов"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "Ахазия"
+    },
+    {
+      "surface": "על",
+      "gloss": "…д"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    }
+  ],
+  "timestamp": "2026-10-04T12:01:30.423789293Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Моше үүлний дунд орж, уул руу өргөгдөв; Моше уул дээр дөчин өдөр, дөчин шөнө байв.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "орж"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "үүлний"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "өргөгдөв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "уул"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "байв"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "уул дээр"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "дөчин"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ба дөчин"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "шөнө"
+    }
+  ],
+  "timestamp": "2026-10-04T10:14:31.954340361Z",
+  "model": "glm-5.3"
+}

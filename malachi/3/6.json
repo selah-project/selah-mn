@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Учир нь Би Яхвэ, Би өөрчлөгддөггүй; тийм учраас та нар, Яаковын хөвгүүд, устсангүй.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Би"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "өөрчлөв"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ба та нар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаковын"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "устсан"
+    }
+  ],
+  "timestamp": "2026-10-04T13:34:41.327026577Z",
+  "model": "glm-5.3"
+}

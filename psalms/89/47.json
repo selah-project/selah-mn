@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 89,
+  "translation": "Хэдий хүртэл, Яхвэ ээ, Та мөнхөд нуугдах вэ? Таны хилэн гал мэт бадарна уу?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "מה",
+      "gloss": "хэдий"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "нуугдах вэ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "мөнхөд"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "бадарна уу"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "мэт"
+    },
+    {
+      "surface": "אש",
+      "gloss": "гал"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "Таны хилэн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:51:35.217388801Z",
+  "model": "glm-5.3"
+}

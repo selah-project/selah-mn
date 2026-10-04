@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 48,
+  "translation": "Дуу, залбирлын шүлэг, Корахын хөвгүүдийн.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Дуу"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "залбирлын шүлэг"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корахын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:43:11.011209658Z",
+  "model": "glm-5.3"
+}

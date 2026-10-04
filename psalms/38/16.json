@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 38,
+  "translation": "Учир нь Яхвэд би найдаж тэвнэ; Та хариулна, Адонай, Элохим минь.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "би найдаж тэвнэ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Та"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "хариулна"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Элохим минь"
+    }
+  ],
+  "timestamp": "2026-10-04T13:41:27.708860186Z",
+  "model": "glm-5.3"
+}

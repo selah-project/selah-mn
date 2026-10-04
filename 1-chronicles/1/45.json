@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Йоваб үхэж, түүний оронд Теманачуудын нутгаас Хушам хаанчлав.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "үхэж"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йоваб"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "хаанчлав"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "түүний оронд"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "Хушам"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "нутгаас"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Теманачуудын"
+    }
+  ],
+  "timestamp": "2026-10-04T14:55:40.439543802Z",
+  "model": "glm-5.3"
+}

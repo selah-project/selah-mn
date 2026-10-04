@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Энээр миний сүнс энх амгаас холлогдов, би сайныг мартав.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "холлогдов"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "энх амгаас"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "миний сүнс"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "мартав"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "сайныг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:07.258419417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Тэр нэгийг нь Бейт-Элд, харин нэгийг нь Данд тавив.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "тавив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нэгийг нь"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "нэгийг нь"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Бейт-Элд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Бейт-Эл"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "нэгийг нь"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "нэгийг нь"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "тавив"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Данд"
+    }
+  ],
+  "timestamp": "2026-10-04T11:53:32.524831200Z",
+  "model": "glm-5.3"
+}

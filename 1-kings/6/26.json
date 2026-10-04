@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Нэг керубийн өндөр арван тохой байв, хоёр дахь керуб мөн адил.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керубийн"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "арван"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "тохой"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "мөн адил"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "керуб"
+    },
+    {
+      "surface": "השני",
+      "gloss": "хоёр дахь"
+    }
+  ],
+  "timestamp": "2026-10-04T11:49:20.458674024Z",
+  "model": "glm-5.3"
+}

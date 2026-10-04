@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "translation": "Хецро Кармелхэн, Наарай Езбайн хүү.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Хецро"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "Кармелхэн"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "Наарай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "Езбай"
+    }
+  ],
+  "timestamp": "2026-10-04T15:00:47.063076696Z",
+  "model": "glm-5.3"
+}

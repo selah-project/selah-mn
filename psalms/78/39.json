@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 78,
+  "translation": "Тэр тэд мах болохыг санав — руах, явж буй бөгөөд буцахгүй.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "Тэр санав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "болохыг"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "явж буй"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба үгүй"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "буцахгүй"
+    }
+  ],
+  "timestamp": "2026-10-04T13:49:22.538733590Z",
+  "model": "glm-5.3"
+}

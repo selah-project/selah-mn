@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Неарјахын хөвгүүд: Элјехоенай ба Хизкија ба Азрикам, гурван.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "Неарја"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "Элјехоенай"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "Хизкија"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "Азрикам"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "гурван"
+    }
+  ],
+  "timestamp": "2026-10-04T15:58:02.913830713Z",
+  "model": "glm-5.3"
+}

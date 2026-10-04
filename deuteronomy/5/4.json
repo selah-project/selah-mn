@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Нүүр нүүрээ Яхвэ та нарт уулан дээр, гал дундаас айлдав.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "нүүр"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "нүүрээ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "уулан дээр"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "дундаас"
+    },
+    {
+      "surface": "האש",
+      "gloss": "гал"
+    }
+  ],
+  "timestamp": "2026-10-04T10:52:24.483817416Z",
+  "model": "glm-5.3"
+}

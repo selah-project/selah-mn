@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Мөн өөрийн ажилдаа сул явдаг хүн сүйтгэгчийн ах мөн.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "сул явдаг"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "өөрийн ажилдаа"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ах"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "мөн ⟨тэр⟩"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "эзэнд"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "сүйтгэгч"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:01.525226497Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "тэр эмэгтэй түүний гэрээс гарч, явж, өөр эрэгтэйн эхнэр болно.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "түүний гэрээс"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "явж"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "эрэгтэйн"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "өөр"
+    }
+  ],
+  "timestamp": "2026-10-04T11:00:30.095311916Z",
+  "model": "glm-5.3"
+}

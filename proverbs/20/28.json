@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 20,
+  "translation": "Хэсэд ба үнэн хааныг хамгаална, түүний сэнть хэсдээр түшигдэнэ.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "хэсэд"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "ба үнэн"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "хамгаална"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хааныг"
+    },
+    {
+      "surface": "וסעד",
+      "gloss": "түшигдэнэ"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "хэсдээр"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "түүний сэнть"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:55.147834623Z",
+  "model": "glm-5.3"
+}

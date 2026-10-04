@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Яхвэ айлдав: Чамд их уурлах нь зөв үү?",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "айлдав"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "הַהֵיטֵב",
+      "gloss": "зөв үү"
+    },
+    {
+      "surface": "חָרָה",
+      "gloss": "уурлах"
+    },
+    {
+      "surface": "לָךְ",
+      "gloss": "чамд"
+    }
+  ],
+  "timestamp": "2026-10-04T15:51:00.781055715Z",
+  "model": "glm-5.3"
+}

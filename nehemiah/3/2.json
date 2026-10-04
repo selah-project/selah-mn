@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Түүний гар дээр Иерихогийн эрчүүд барьж, түүний гар дээр Заккур, Имригийн хүү барьжээ.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "Түүний гар"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "барьж"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "эрчүүд"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Иерихогийн"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "түүний гар"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "барьжээ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Заккур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Имригийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:51:18.671508742Z",
+  "model": "glm-5.3"
+}

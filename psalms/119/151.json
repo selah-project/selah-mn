@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 119,
+  "translation": "Ойр байдаг Та, Яхвэ; Таны бүх тушаалууд бол үнэн.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ойр байдаг"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Та"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүх"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Таны тушаалууд"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "үнэн"
+    }
+  ],
+  "timestamp": "2026-10-04T13:58:35.694882151Z",
+  "model": "glm-5.3"
+}

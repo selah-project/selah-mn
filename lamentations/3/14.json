@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Би бүх ард түмний доог болов, өдөржин тэдний дуу болов.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "доог"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ард түмний"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "тэдний дуу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "өдөржин"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдөр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:31:13.474643305Z",
+  "model": "glm-5.3"
+}

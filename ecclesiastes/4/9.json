@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 4,
+  "translation": "Хоёр нь нэгнээс дээр, учир нь тэдэнд хөдөлмөрийнхөө сайн шагнал ⟨бий⟩.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "יש",
+      "gloss": "бий"
+    },
+    {
+      "surface": "להם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "шагнал"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "сайн"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "хөдөлмөрийнхөө"
+    }
+  ],
+  "timestamp": "2026-10-04T14:33:12.858854963Z",
+  "model": "glm-5.3"
+}

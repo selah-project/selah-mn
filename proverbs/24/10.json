@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Хэрэв чи зовлонгийн өдөр суларвал, чиний хүч хомс.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "суларвал"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "өдөр",
+      "surface_note": ""
+    },
+    {
+      "surface": "צרה",
+      "gloss": "зовлонгийн"
+    },
+    {
+      "surface": "צר",
+      "gloss": "хомс"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "чиний хүч"
+    }
+  ],
+  "timestamp": "2026-10-04T14:10:59.882931484Z",
+  "model": "glm-5.3"
+}

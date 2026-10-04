@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 16:30",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Нүдээ анин буруу зүйлс зохиодог, уруулаа хазаж мууг бүтээдэг.",
+  "tokens": [
+    {
+      "surface": "עצה",
+      "gloss": "анивч"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "нүдээ"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "зохиодог"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "буруу зүйлс"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "хазаж"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "уруулаа"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "бүтээдэг"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "мууг"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:42.464840408Z",
+  "model": "glm-5.3"
+}

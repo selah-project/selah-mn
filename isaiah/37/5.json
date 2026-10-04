@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 37,
+  "translation": "Хизкия хааны зарц нарын Изагiah руу орж ирэв.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "орж ирэв"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "зарц нарын"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкия"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Изагiah"
+    }
+  ],
+  "timestamp": "2026-10-04T15:43:37.722512348Z",
+  "model": "glm-5.3"
+}

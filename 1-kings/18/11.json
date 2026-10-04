@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Одоо чи «Яв, өөрийн эзэнд хэл: Ха, Элияху энд байна гэж» хэлж байна.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Одоо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэлж байна"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Яв"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "өөрийн эзэнд"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ха"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Элияху"
+    }
+  ],
+  "timestamp": "2026-10-04T11:55:15.439378883Z",
+  "model": "glm-5.3"
+}

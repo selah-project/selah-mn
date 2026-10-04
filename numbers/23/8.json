@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 23,
+  "translation": "Би юуг хараах вэ? Эл хараагаагүй юмныг. Би юуг зэвүүцэх вэ? Яхвэ зэвүүцээгүй юмныг.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "юуг"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "би хараах"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "хараагаагүй"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ба юуг"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "би зэвүүцэх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "зэвүүцээгүй"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T10:44:58.375924590Z",
+  "model": "glm-5.3"
+}

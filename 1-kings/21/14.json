@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Тэд Изебелд мэдэгдэж: «Навот чулуудагдав, тэр үхэв» гэв.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "илгээв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Изебел"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "чулуудагдав"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Навот"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үхэв"
+    }
+  ],
+  "timestamp": "2026-10-04T11:56:38.766335266Z",
+  "model": "glm-5.3"
+}

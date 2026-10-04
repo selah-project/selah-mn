@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 24:15",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 24,
+  "translation": "Йисраэлийн хөвгүүдэд хэл: Хүн өөрийн Элохимаа хараалбал тэр өөрийн нүглийг үүрнэ.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраэлийн"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "хэл"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ":"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "хараалбал"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "өөрийн Элохимоо"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "үүрнэ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "өөрийн нүглийг"
+    }
+  ],
+  "timestamp": "2026-10-04T10:31:58.379884008Z",
+  "model": "glm-5.3"
+}

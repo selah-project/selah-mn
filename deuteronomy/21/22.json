@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 21,
+  "translation": "Хэрэв хүнд үхлээр шийтгэх нүгэл байж, тэр үхсэн бол чи түүнийг ⟨את⟩ модон дээр өлгөвөл,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "байж"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "хүнд"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "нүгэл"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шийтгэх"
+    },
+    {
+      "surface": "מות",
+      "gloss": "үхлээр"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "үхсэн бол"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "өлгөвөл"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ түүнийг",
+      "marks": "түүнийг"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "модон"
+    }
+  ],
+  "timestamp": "2026-10-04T10:57:36.522075532Z",
+  "model": "glm-5.3"
+}

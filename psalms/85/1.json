@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 85,
+  "translation": "Хөгжмийн удирдагчид — Корахын хөвгүүдийн нэгэн дуу.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "хөгжмийн удирдагчид"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "хөвгүүдийн"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корахын"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "дуу"
+    }
+  ],
+  "timestamp": "2026-10-04T13:50:49.557514545Z",
+  "model": "glm-5.3"
+}

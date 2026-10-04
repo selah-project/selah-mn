@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Яахвэ, яагаад хол зогсодог юм бэ? Шаналлын үед яагаад нуугддаг юм бэ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яахвэ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "зогсодог"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "хол"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "нуугддаг"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "үед"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "шаналлын"
+    }
+  ],
+  "timestamp": "2026-10-04T13:36:19.377213099Z",
+  "model": "glm-5.3"
+}

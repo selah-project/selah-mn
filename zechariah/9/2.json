@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 9,
+  "translation": "Хамат ч бас түүнтэй хил залгана; Цор ба Цидон, учир нь мэргэн ухаан нь маш их билээ.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ба ч"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "хил залгана"
+    },
+    {
+      "surface": "בה",
+      "gloss": "түүнтэй"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "ба Цидон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мэргэн ухаан"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "маш их"
+    }
+  ],
+  "timestamp": "2026-10-04T13:31:18.119793480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 16,
+  "translation": "Яхвэд жигшилтэй нь өндөр зүрхтэй бүх хүн; гар гартаа хүрсэн ч тэр цагаатгагдахгүй.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "жигшилтэй нь"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "өндөр"
+    },
+    {
+      "surface": "לב",
+      "gloss": "зүрхтэй"
+    },
+    {
+      "surface": "יד",
+      "gloss": "гар"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "гартаа хүрсэн"
+    },
+    {
+      "surface": "לא",
+      "gloss": "-гүй"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "цагаатгагдах"
+    }
+  ],
+  "timestamp": "2026-10-04T14:08:28.536540478Z",
+  "model": "glm-5.3"
+}

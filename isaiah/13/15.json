@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Олдсон хүн бүр хутгаар хатгуулна, барьсан бүхэн илдэнд унана.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "бүр"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "олдсон"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "хатгуулна"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ба бүхэн"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "барьсан"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "унана"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "илдэнд"
+    }
+  ],
+  "timestamp": "2026-10-04T12:13:13.376068005Z",
+  "model": "glm-5.3"
+}

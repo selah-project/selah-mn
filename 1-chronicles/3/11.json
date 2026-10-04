@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Йорам түүний хөвгүүд, Ахазja түүний хөвгүүд, Йоаш түүний хөвгүүд",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "Йорам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хөвгүүд"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ахазja"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хөвгүүд"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "түүний хөвгүүд"
+    }
+  ],
+  "timestamp": "2026-10-04T14:56:45.290563288Z",
+  "model": "glm-5.3"
+}

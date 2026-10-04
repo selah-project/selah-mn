@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 33,
+  "translation": "Тэд Терахаас явж, Миткад буудаллав.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "явж"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "Терахаас"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "буудаллав"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "Миткад"
+    }
+  ],
+  "timestamp": "2026-10-04T10:49:10.969939790Z",
+  "model": "glm-5.3"
+}

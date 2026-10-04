@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 12,
+  "translation": "Мишманна дөрөвдүгээр, Ирмея тавдугаар.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "Мишманна"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "дөрөвдүгээр"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Ирмея"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "тавдугаар"
+    }
+  ],
+  "timestamp": "2026-10-04T15:01:09.087321088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Моше үүнийг сонсоод түүний нүдэд сайхан болов.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "сонсоод"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "сайхан болов"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "түүний нүдэд"
+    }
+  ],
+  "timestamp": "2026-10-04T10:24:26.701007315Z",
+  "model": "glm-5.3"
+}

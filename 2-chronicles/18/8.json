@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Йисраелийн хаан нэг түшмэлд дуудан хэлэв: Йимлагийн хүү Михайхугийг шууд авчир.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "дуудан"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "түшмэл"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "шууд"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "Михайхугийг"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "Йимлагийн"
+    }
+  ],
+  "timestamp": "2026-10-04T15:14:02.079240102Z",
+  "model": "glm-5.3"
+}

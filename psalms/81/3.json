@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 81,
+  "translation": "Дуу өргөж, бөмбөр өг, сэтгэл татам хуур, навтаар хамт.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "өргөж"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "дуу"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ба өг"
+    },
+    {
+      "surface": "תף",
+      "gloss": "бөмбөр"
+    },
+    {
+      "surface": "кннор",
+      "gloss": "хуур"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "сэтгэл татам"
+    },
+    {
+      "surface": "עם",
+      "gloss": "хамт"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "навтаар"
+    }
+  ],
+  "timestamp": "2026-10-04T13:50:08.991218789Z",
+  "model": "glm-5.3"
+}

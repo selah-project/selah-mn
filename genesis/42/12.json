@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 42,
+  "translation": "Тэр тэдэнд хэлэв: Үгүй, та нар газрын нууц сул талыг харахаар ирсэн.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "тэдэнд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Үгүй"
+    },
+    {
+      "surface": "כי",
+      "gloss": "харин"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "нууц сул талыг"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "та нар ирсэн"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "харахаар"
+    }
+  ],
+  "timestamp": "2026-10-04T10:01:51.526877735Z",
+  "model": "glm-5.3"
+}

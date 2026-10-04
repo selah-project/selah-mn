@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "translation": "Орохдоо ч чи хараагдана, гарахдаа ч чи хараагдана.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "хараагдана"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "орохдоо"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ч хараагдана"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "гарахдаа"
+    }
+  ],
+  "timestamp": "2026-10-04T11:02:36.413704255Z",
+  "model": "glm-5.3"
+}

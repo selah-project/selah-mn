@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 81,
+  "translation": "Учир нь энэ бол Йисраелд ⟨хэрэглэх⟩ журам, Яаковын Элохимын шүүлт.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Учир нь"
+    },
+    {
+      "surface": "חק",
+      "gloss": "журам"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "Йисраелд"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ бол"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлт"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-10-04T13:50:24.703030957Z",
+  "model": "glm-5.3"
+}

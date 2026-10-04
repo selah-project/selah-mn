@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 2,
+  "translation": "Нетофагийнхэн, тавин зургаан.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "эрчүүд"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "Нетофа"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "тавин"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "зургаа"
+    }
+  ],
+  "timestamp": "2026-10-04T14:44:47.342239615Z",
+  "model": "glm-5.3"
+}

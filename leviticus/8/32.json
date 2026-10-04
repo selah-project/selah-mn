@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 8,
+  "translation": "Мах ба талхнаас үлдсэнийг галд шатаагтун.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "үлдсэнийг"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "мах"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "ба талхнаас"
+    },
+    {
+      "surface": "באש",
+      "gloss": "галд"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "шатаагтун"
+    }
+  ],
+  "timestamp": "2026-10-04T10:25:32.779487759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 18,
+  "translation": "Хүн сонсохоосоо өмнө үг хариулах нь — тэр бол түүнд тэнэглэл ба ичгүүр юм.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "хариулах нь"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "сонсохоосоо"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "тэнэглэл"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тер бол"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "ба ичгүүр"
+    }
+  ],
+  "timestamp": "2026-10-04T14:09:12.440703477Z",
+  "model": "glm-5.3"
+}

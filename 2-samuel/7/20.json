@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 7:20",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Давид Танд юу гэж дахин нэмж хэлэх билээ? Та ⟨את⟩ боолоо мэддэг, Адонай Яхвэ.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "ба юу"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "дахин нэмж"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "дахин"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "хэлэх"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Танд"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "Та"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "мэддэг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "боолоо"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "боолоо"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-04T11:37:17.096509075Z",
+  "model": "glm-5.3"
+}

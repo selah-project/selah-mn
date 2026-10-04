@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Мөнгийг хайрлагч мөнгөөр цатгаланахгүй, ба баялгийг хайрлагчид орлого үгүй; энэ ч бас хевел.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "хайрлагч"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "мөнгийг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "цатгаланахгүй"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "мөнгөө"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ба хэн"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "хайрлагч"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "баялгийг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "орлого"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ч бас"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:35.557760841Z",
+  "model": "glm-5.3"
+}

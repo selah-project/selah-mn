@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 25,
+  "translation": "Арваад хоногийн дараа Яхвэ ⟨את⟩ Навалыг цохив, тэр үхов.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "болоод"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "арваад"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "хоногийн"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "цохив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Навалыг"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Навалыг"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "үхов"
+    }
+  ],
+  "timestamp": "2026-10-04T11:33:20.587783658Z",
+  "model": "glm-5.3"
+}

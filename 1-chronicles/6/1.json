@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 6,
+  "translation": "Левигийн хөвгүүд: Гершом, Кеат, Мерари.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левигийн"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кеат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "Мерари"
+    }
+  ],
+  "timestamp": "2026-10-04T14:57:39.164465297Z",
+  "model": "glm-5.3"
+}

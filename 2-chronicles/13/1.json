@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "mn",
+  "chapter": 13,
+  "translation": "Иеробоам хааны арван наймдугаар жилд Абиа Йехудад хаанчилж эхэлвэ.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "жилд"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "найм(ан)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "арван"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Иеробоам"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "хаанчилж эхэлвэ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Абиа"
+    },
+    {
+      "surface": "על",
+      "gloss": "…д"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    }
+  ],
+  "timestamp": "2026-10-04T15:13:52.210247015Z",
+  "model": "glm-5.3"
+}

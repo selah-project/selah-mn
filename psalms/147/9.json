@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 147,
+  "translation": "Тэр амьтанд түүний талхыг өгдөг, дуудах нялх хэрээнд өгдөг.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "өгдөг"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "амьтанд"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "түүний талхыг"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "нялх"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "хэрээнд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "дуудах"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-10-04T14:02:45.362483504Z",
+  "model": "glm-5.3"
+}

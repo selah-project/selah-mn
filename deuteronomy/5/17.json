@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 5,
+  "translation": "Хөнөөж болохгүй.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "болохгүй"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "хөнөөж"
+    }
+  ],
+  "timestamp": "2026-10-04T10:51:39.147676321Z",
+  "model": "glm-5.3"
+}

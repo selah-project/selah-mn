@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "mn",
+  "chapter": 1,
+  "translation": "Одоо тэгээд Яхвэ Цебаот ингэж айлдаж байна: Өөрийн замдаа зүрхээ тавь.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "одоо тэгээд"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ингэж"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "тавь"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "зүрхээ"
+    },
+    {
+      "surface": "על",
+      "gloss": "-д"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "өөрийн зам"
+    }
+  ],
+  "timestamp": "2026-10-04T13:29:22.721918788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 15,
+  "translation": "Төмөр — хойд төмөр, зэсийг хэн эвдэж чадах билээ?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "эвдэж чадах билээ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "төмөр"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "төмөр"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "хойноос"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ба зэс"
+    }
+  ],
+  "timestamp": "2026-10-04T12:37:51.742436772Z",
+  "model": "glm-5.3"
+}

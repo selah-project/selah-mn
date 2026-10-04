@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 29,
+  "translation": "Яаков Рахелийг үнсэж, ⟨את⟩ дуугаа өргөн уйлав.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "үнсэж"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Рахелийг"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "өргөн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дуугаа"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "дуугаа"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "уйлав"
+    }
+  ],
+  "timestamp": "2026-10-04T09:55:20.600790648Z",
+  "model": "glm-5.3"
+}

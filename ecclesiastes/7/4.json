@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "mn",
+  "chapter": 7,
+  "translation": "Мэргэдийн зүрх гашуудлын байшинд байх ба тэнэгүүдийн зүрх баяр хөөрийн байшинд байх аж.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "зүрх"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мэргэдийн"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "байшинд"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "гашуудлын"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ба зүрх"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "тэнэгүүдийн"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "байшинд"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "баяр хөөрийн"
+    }
+  ],
+  "timestamp": "2026-10-04T14:34:52.626878211Z",
+  "model": "glm-5.3"
+}

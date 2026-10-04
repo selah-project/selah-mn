@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "mn",
+  "chapter": 3,
+  "translation": "Хүү минь, миний Тораг бүү март, миний тушаалуудыг зүрх чинь сахь.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "хүү минь"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "миний Тораг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "март"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "ба миний тушаалуудыг"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "сахь"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "зүрх чинь"
+    }
+  ],
+  "timestamp": "2026-10-04T14:04:48.138823Z",
+  "model": "glm-5.3"
+}
