@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "mn",
   "chapter": 5,
-  "translation": "Яахвэ Мошед ярин хэлэхдээ,",
+  "translation": "Яхвэ Мошед ярин хэлэхдээ,",
   "tokens": [
     {
       "surface": "וידבר",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Яахвэ"
+      "gloss": "Яхвэ"
     },
     {
       "surface": "אל",

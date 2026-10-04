@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "mn",
   "chapter": 27,
-  "translation": "Моше Яахвэд хандаж хэлэв.",
+  "translation": "Моше Яхвэд хандаж хэлэв.",
   "tokens": [
     {
       "surface": "וידבר",
@@ -17,11 +17,11 @@
     },
     {
       "surface": "אל",
-      "gloss": "Яахвэд хандаж"
+      "gloss": "Яхвэд хандаж"
     },
     {
       "surface": "יהוה",
-      "gloss": "Яахвэ"
+      "gloss": "Яхвэ"
     },
     {
       "surface": "לאמר",

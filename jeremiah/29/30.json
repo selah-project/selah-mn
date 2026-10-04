@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "mn",
   "chapter": 29,
-  "translation": "Яхвэгийн үг Йирмeyахуд ирж, айлдав.",
+  "translation": "Яхвэгийн үг Йирмеуахуд ирж, айлдав.",
   "tokens": [
     {
       "surface": "ויהי",
@@ -25,7 +25,7 @@
     },
     {
       "surface": "ירמיהו",
-      "gloss": "Йирмeyаху"
+      "gloss": "Йирмеуаху"
     },
     {
       "surface": "לאמר",
