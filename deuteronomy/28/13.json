@@ -1,0 +1,131 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 28:13",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ингэнэ",
+      "rationale": "Еврей хэлэнд «учир нь» гэсэн гол өгүүлбэрийн төгсгөл дутуу байна"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сүүл",
+      "rationale": "לזנב «сүүл» — толгой\/сүүлний сөрөг зүйрлэл, утгаа хадгалсан"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "לראש\/לזנב · למעלה\/למטה",
+      "rationale": "Давхар эсрэг харьцуулалт: толгой–сүүл, дээш–доош"
+    }
+  ],
+  "translation": "Яхвэ чамайг толгой болгоно, сүүл биш; чи зөвхөн дээш байж, доош байхгүй; учир нь чи өнөөдөр Би чамд тушаасан Өөрийн Элохим Яхвэгийн тушаалуудыг сонсож, тэдгээрийг сахиж, биелүүлбэл ингэнэ.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "03c402b062dc3963ca3c3f79a688ac257471d1edddfdbde8062f82a08b89785b",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/deuteronomy\/28\/13-13.1791272198372.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונתנך",
+      "gloss": "чамайг болгоно"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "толгой"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "биш"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "сүүл"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "чи байж"
+    },
+    {
+      "surface": "רק",
+      "gloss": "зөвхөн"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "дээш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "байхгүй"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "байх"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "доош"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "сонсож"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "тушаалуудыг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Өөрийн Элохим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Би"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "чамд тушаасан"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "сахиж"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "биелүүлбэл"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:38.373214331Z",
+  "model": "glm-5.3"
+}

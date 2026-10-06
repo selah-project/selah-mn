@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "mn",
+  "chapter": 10,
+  "translation": "Ванья, Мерemoth, Эльяшив,",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "7263af3599cc4b32fe07aa153a967e2c0238bb407c73ad5cf0c805ab1f6f86d1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/ezra\/10\/36-36.1791272199356.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וַנְיָ֥ה",
+      "gloss": "Ванья"
+    },
+    {
+      "surface": "מְרֵמ֖וֹת",
+      "gloss": "Мерemoth"
+    },
+    {
+      "surface": "אֶלְיָשִֽׁיב",
+      "gloss": "Эльяшив"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:39.356941278Z",
+  "model": "glm-5.3"
+}

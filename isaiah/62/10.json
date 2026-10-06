@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 62:10",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סלו סלו",
+      "rationale": "Давтан үлдээсэн тул давталтыг хадгалсан: өндөрлө, өндөрлө."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Гарцгаа, гарцгаа",
+      "rationale": "Тушаалын давталттай дуудлага — Сионий охинд эргэлтийн мэдээг бэлтгэхэд уриалж байна."
+    },
+    {
+      "kind": "substitution",
+      "subject": "цэвэрлэ",
+      "rationale": "סקלו үндсэндээ 'чулуугаас нь ялгах\/устгах' гэсэн үйлдэл бөгөөд 'цэвэрлэ' гэж буулгав."
+    }
+  ],
+  "translation": "Гарцгаа, дааман хаалгаар гарцгаа; ард түмэнд замыг нээцгээ; товч замыг өндөрлө, өндөрлө; чулууг цэвэрлэ; ард түмнүүд дээд тугыг өргө.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "2ca5527b9fbbb68b3df04e0e86a32ced1a830fcf83228c0dc0df53d7ced95714",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/isaiah\/62\/10-10.1791272197787.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "гарцгаа"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "гарцгаа"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "дааман хаалгаар"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "нээцгээ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "зам"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэнд"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "өндөрлө"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "өндөрлө"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "товч замыг"
+    },
+    {
+      "surface": "סקלו",
+      "gloss": "цэвэрлэ"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "чулууг"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "өргө"
+    },
+    {
+      "surface": "נס",
+      "gloss": "туг"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээд"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ард түмнүүд"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:37.788948328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 97,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бурхад",
+      "rationale": "Энд אלהים олон тоогоор бусад бурхдыг зааж байна, тул Элохим биш жижиг үсгийн бурхад гэв."
+    },
+    {
+      "kind": "crux",
+      "subject": "бүх бурхад түүнд мөргөөрэй",
+      "rationale": "Хэний өмнө мөргөх вэ: Яхвэ (Ps 97 хэсэг) эсвэл хаан (дараагийн өгүүлбэртэй холбоотой) — LXX 'его' гэж орчуулсан."
+    },
+    {
+      "kind": "elision",
+      "subject": "יבשו subjunctive",
+      "rationale": "Еврей нь зөвшөөрөх хэлбэртэй болгохын тулд монгол -туг\/-түг нөхцөл нэмэв."
+    }
+  ],
+  "translation": "Шүтээнийг үйлчлэгчид бүгд ичгүүр болтуг, буурьгүй юманд дүрэлзэгчид ичгүүртүг; бүх бурхад түүнд мөргөөрэй.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "f9306420b3d0dbb6471d9a4f11a7187f03a30f067c17d46abd8ba5a0115e4b64",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/psalms\/97\/7-7.1791272204880.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ичгүүр болтуг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "үйлчлэгчид"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "шүтээнийг"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "дүрэлзэгчид"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "буурьгүй юманд"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "мөргөөрэй"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "бурхад"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:44.881703745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 6:15",
+  "book": "zechariah",
+  "lang": "mn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "שמוע תשמעון",
+      "rationale": "Infinity + finite verb repetition: 'sonsoh sonsoh' — a doubling that signifies thorough obedience, rendered once in Mongolian."
+    },
+    {
+      "kind": "addition",
+      "subject": "энэ бүхэн биелэх болно",
+      "rationale": "The apodosis of והיה אם (condition) is omitted in the Hebrew and has been added in Mongolian."
+    },
+    {
+      "kind": "you",
+      "subject": "to returned exiles in Jerusalem",
+      "rationale": "The verse directly addresses 'you' (אליכם, אלהיכם) — the community being addressed through Zechariah."
+    }
+  ],
+  "translation": "Алс холынхон ирж, Яхвэгийн сүмд барилга болгох бөгөөд та нар Яхвэ Цебаот намайг та нарт илгээснийг мэдэх болно. Хэрэв та нар өөрсдийн Элохим Яхвэгийн дуу хоолойг сонсох юм бол энэ бүхэн биелэх болно.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "78a79b00b1af9ee3b66ae5e664e33308e60b17b2dc1fbd90547cc6b37d278fc1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/zechariah\/6\/15-15.1791272207500.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ורחוקים",
+      "gloss": "алс холынхон"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "ובנו",
+      "gloss": "барилга болгох болно"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "сүмд"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "ба та нар мэдэх болно"
+    },
+    {
+      "surface": "כי",
+      "gloss": "яагаад гэвэл"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цебаот"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "намайг илгээснийг"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "сайтар сонсох"
+    },
+    {
+      "surface": "תשמעון",
+      "gloss": "та нар сонсох юм бол"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "дуу хоолойг"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "өөрсдийн Элохим"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:47.502295812Z",
+  "model": "glm-5.3"
+}

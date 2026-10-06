@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 65:12",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 65,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "жилийг титэмлэв",
+      "rationale": "KJV 'crownest the year' — жилийг титэмлэх эсвэл YLT шиг 'жилийн сайныг титэмлэх' гэсэн хоёр уншилт бий."
+    },
+    {
+      "kind": "substitution",
+      "subject": "тос",
+      "rationale": "דשפ нь тос\/таргалалт — элбэг дэлбэгийн дүр слүүдэнд хэрэглэгдсэн; 'тос' гэж үлдээв."
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨את⟩",
+      "rationale": "עטרת дээр объектын тэмдэг эх бичигт алга — өмнөх ишлэлтэй зэрэгцүүлбэл баримтжуулсан."
+    }
+  ],
+  "translation": "Чи ⟨את⟩ жилийг өөрийн сайнаараа титэмлэв, Таны мөрүүд тосоор дуслуулан цацна.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "0ef435ceb85de7a82cb62586a8978b4246ec761750222132f2e49d0307a1132e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/psalms\/65\/12-12.1791272195936.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "титэмлэв"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "жилийг"
+    },
+    {
+      "surface": "טובתך",
+      "gloss": "өөрийн сайнаараа"
+    },
+    {
+      "surface": "ומעגליך",
+      "gloss": "Таны мөрүүд"
+    },
+    {
+      "surface": "ירעפון",
+      "gloss": "дуслуулан цацна"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "тосоор"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:35.937901161Z",
+  "model": "glm-5.3"
+}

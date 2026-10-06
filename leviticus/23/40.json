@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 23:40",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עץ הדר",
+      "rationale": "«Сугаа \/ гоёмсог мод» гэсэн хоёр уншилт бий: хэмжээний (этрог) ба чанарын тайлбар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "сугаа",
+      "rationale": "הדар гэдэг нь «гоёмсог байдал, сүр жавхлан» гэсэн утгатай тул үүнийг модны нэр гэж үзсэн"
+    }
+  ],
+  "translation": "Эхний өдөр өөрсдөдөө сугааны жимс, далавчит суганы олонл, зузаан навчит модны мөчир, голын бургас авч, Яхвэ болон өөрийн Элохимын өмнө долоо хоног баярлангүүт.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "e95538d0b12fb9dfba9de9fa58a48c1de655631960476b70e615adb352e632f7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/leviticus\/23\/40-40.1791272197902.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "авч"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "өөрсдөдөө"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "эхний"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "жимс"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "модны"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "сугааны"
+    },
+    {
+      "surface": "כפת",
+      "gloss": "далавчууд"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "суганы"
+    },
+    {
+      "surface": "וענף",
+      "gloss": "мөчир"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "модны"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "зузаан навчит"
+    },
+    {
+      "surface": "וערבי",
+      "gloss": "бургас"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "голын"
+    },
+    {
+      "surface": "ושמחתם",
+      "gloss": "баярлаж"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "долоо"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдөр"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:37.903342353Z",
+  "model": "glm-5.3"
+}

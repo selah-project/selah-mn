@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 1:2",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח нэг үг гурван утгатай тул 'руах' гээд үлдээв, 'сүнс' болгон тогтоохгүй"
+    },
+    {
+      "kind": "crux",
+      "subject": "мрхфת",
+      "rationale": "מרחפת: 'нисэх\/дээгүүр хөөрөх' (шувуу өндгөө дарах дүрслэл) эсхлээ 'хөдөлгөх' гэсэн уншлага"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "תהו ובהו",
+      "rationale": "тоху-воху хоёрлиг давтлага, ургалсан авиа, монголоор алдагдана"
+    }
+  ],
+  "translation": "Газар бол хоосон, дүүргүй байв; харанхуй гүнгийн нүүрэн дээр байлаа; Элохимын руах усны нүүрэн дээр дээгүүр нисэж байв.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "07993bf91e3c2909fe4ed8300fbd9eaa4f543ad992295899dc3a7e62c014b5e7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/genesis\/1\/2-2.1791272196324.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "Газар"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "байв"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "хоосон"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "дүүргүй"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "харанхуй"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүрэн"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "гүн"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "מרחפת",
+      "gloss": "нисэж байв"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "פני",
+      "gloss": "нүүрэн"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ус"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:36.325158565Z",
+  "model": "glm-5.3"
+}

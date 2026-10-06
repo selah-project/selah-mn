@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 28:15",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 28,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "вקול שמוע",
+      "rationale": "Hebrew 'hear the voice of' means obey; rendered as 'сонсох' with the object retained literally."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "והשיגוך",
+      "rationale": "Same verb as v.2 blessings 'overtake' (והשיגך) — blessings pursue or curses pursue, mirrored structure."
+    },
+    {
+      "kind": "alternative",
+      "subject": "וחקתיו",
+      "rationale": "Rendered 'хууль дүрмүүд'; a single-word option 'зуршил' (custom) exists but 'statute' sense fits covenant context."
+    }
+  ],
+  "translation": "Хэрэв чи Яхвэ болон чиний Элохимын дуу хоолыг сонсохгүй, түүний ⟨את⟩ бүх тушаалууд болон хууль дүрмүүдийг — өнөөдөр би чамд тушааж буй — сахиж биелүүлэхгүй бол эдгээр хараалууд бүгд чам дээр ирж, чамайг гүйцэж хүрнэ.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "bdc702ba0a42898710ce6bf5d865848ac2f44264a0e69ceb98ff240cda2a1028",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/deuteronomy\/28\/15-15.1791272198684.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "сонсохгүй"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "дуу хоол"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "чиний Элохим"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "сахих"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "биелүүлэх"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх тушаалууд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "түүний тушаалууд"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "болон түүний хууль дүрмүүд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—ийг"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "чамд тушааж буй"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ирж"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "чам дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгд"
+    },
+    {
+      "surface": "הקללות",
+      "gloss": "хараалууд"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "эдгээр"
+    },
+    {
+      "surface": "והשיגוך",
+      "gloss": "чамайг гүйцэж хүрнэ"
+    }
+  ],
+  "timestamp": "2026-10-06T07:36:38.684875601Z",
+  "model": "glm-5.3"
+}
