@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezekiel 23:43",
+  "book": "ezekiel",
+  "lang": "mn",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "עת יזנה",
+      "rationale": "'одоо тэр завхайрна' гэсэн уншлага — KJV 'тэд түүнтэй завхайрна уу', JPS 'тэд түүнтэй завхайрсаар байна' гэж өөрөөр уншдаг"
+    },
+    {
+      "kind": "substitution",
+      "subject": "בלה",
+      "rationale": "'балагдах' — хуучирч дуусах утгаар; зарим орчуулга 'өтлөсөн' гэдэг"
+    },
+    {
+      "kind": "addition",
+      "subject": "өөрөө",
+      "rationale": "והיא нь эмфазтай төлөөний үг, 'тэр өөрөө' гэж бэлэнгээр илэрхийлэв"
+    }
+  ],
+  "translation": "Би хэлсэн: завхайралаа балагдсан тухай — одоо тэр түүний завхайрлаар завхайрна, ба тэр өөрөө.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "0370a5773198b1ea56c91f56b35b1934be40f6b0db972983dbf1b84faabf8457",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/ezekiel\/23\/43-43.1791264168707.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וָאֹמַ֕ר",
+      "gloss": "Би хэлсэн"
+    },
+    {
+      "surface": "לַבָּלָ֖ה",
+      "gloss": "балагдсан"
+    },
+    {
+      "surface": "נִֽאוּפִ֑ים",
+      "gloss": "завхайралт"
+    },
+    {
+      "surface": "עת",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "יזנה",
+      "gloss": "тэр завхайрна"
+    },
+    {
+      "surface": "תַּזְנוּתֶ֖הָ",
+      "gloss": "түүний завхайрал"
+    },
+    {
+      "surface": "וָהִֽיא",
+      "gloss": "ба тэр өөрөө"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:48.717362775Z",
+  "model": "glm-5.3"
+}

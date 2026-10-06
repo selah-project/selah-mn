@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 8:3",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוחם — 'тэдний руах' — уур\/сэтгэлийн хөдөлгөөн гэсэн утгаар; орос маягийн 'дух' биш"
+    },
+    {
+      "kind": "addition",
+      "subject": "билээ",
+      "rationale": "Монгол хэлэнд асуултанд орших өнгө аясыг тодруулахын тулд нэмсэн"
+    },
+    {
+      "kind": "crux",
+      "subject": "נתן",
+      "rationale": "'өгсөн' — KJV 'хүлэлгэн өгсөн'; еврей эх зүгээр 'өгөх' л үг хэрэглэсэн"
+    }
+  ],
+  "translation": "Таны чинь Элохим Мидяны ноёд болох Оребыг ⟨את⟩ болон Зеевыг ⟨את⟩ өгсөн бөгөөд би та нарын адил юу чадах байсан билээ? Тэр үгээ хэлмэгц тэдний руах түүнээс намжлав.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "bb850b507fa3164e01a537651dbcc5ade7afa0fd76505cb994532c0c9eac89ed",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/judges\/8\/3-3.1791264112427.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בידכם",
+      "gloss": "Таны чинь"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "өгсөн"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Элохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мидяны ноёд"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ноёд"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидяны"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оребыг"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "Ореб"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "Зеевыг"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "Зеев"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ба юу"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "би чадах"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "хийх"
+    },
+    {
+      "surface": "ככם",
+      "gloss": "та нарын адил"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тэр үед"
+    },
+    {
+      "surface": "רפתה",
+      "gloss": "намжлав"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "тэдний руах"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "түүнээс"
+    },
+    {
+      "surface": "בדברו",
+      "gloss": "тэр үгээ хэлмэгц"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "үг"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-06T05:21:52.435487120Z",
+  "model": "glm-5.3"
+}

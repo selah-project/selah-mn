@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 13:18",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "зөв болно",
+      "rationale": "אצדק: 'би зөв болно' (YLT\/ASV) эсвэл 'би зөвтгэгдэнэ' (KJV\/JPS) — өөрийн зөв байдлаа батлуулах уу, өөрийг нь зөвтгэх үү."
+    },
+    {
+      "kind": "substitution",
+      "subject": "эмхлэв",
+      "rationale": "ערך — шүүх хэлэлцээнд өмгөөлөгч шиг үгээ дараалуулж бэлтгэх нь; зүгээр 'бэлтгэх' гэж бууруулсан."
+    },
+    {
+      "kind": "invitation",
+      "subject": "Үзэгтүн, одоо",
+      "rationale": "Иов найзууддаа хэлсэн үгээ дугтуйлж байна — הנה נא нь сонсогчдыг дууддаг."
+    }
+  ],
+  "translation": "Үзэгтүн, одоо би шүүлтээ эмхлэв; би зөв болно гэдгээ мэднэ.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "dde742757d2c027aee5429d27cc28121178cbb6862afd9b90f4702428f76bf8e",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/job\/13\/18-18.1791264156495.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Үзэгтүн"
+    },
+    {
+      "surface": "נא",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "би эмхлэв"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлтээ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "би мэднэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "гэдгээ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "би"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "зөв болно"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:36.497538540Z",
+  "model": "glm-5.3"
+}

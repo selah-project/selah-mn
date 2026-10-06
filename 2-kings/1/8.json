@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 1:8",
+  "book": "2-kings",
+  "lang": "mn",
+  "chapter": 1,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "үсэрхэг хүн",
+      "rationale": "אישׁ בעל שער үсээ эзэмшдэг хүн — 'hairy man' буюу үсэрхэг хүн; зарим орчуулга 'ноосон хувцас өмссөн хүн' гэж өөрчилдөг"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "אזור ... אזור",
+      "rationale": "Ижил үндэс давтагдсан: 'ба бүс ... бүсэлсэн' — язгуур давталт монголоор дутуу мэдрэгдэнэ"
+    },
+    {
+      "kind": "you",
+      "subject": "хаанд",
+      "rationale": "Түшмэд хааны асуултад хариулж байна; 2-р хаад 1:7-ийн хэлцлэлийн үргэлжлэл"
+    }
+  ],
+  "translation": "Тэд түүнд хэлэв: Үсэрхэг хүн, бүснээс нь бүсэлсэн арьсан бүстэй байсан. Тэрээр хэлэв: Тэр бол Элияг Тишби нь билээ.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "8de4dd2d6e6de7b52f4e82fcd8cf0619e9f4d61d2706ba2dcdc40268743aefd9",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/2-kings\/1\/8-8.1791264168276.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "тэд хэлэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "-эрхт"
+    },
+    {
+      "surface": "שער",
+      "gloss": "үсэрхэг"
+    },
+    {
+      "surface": "ואזור",
+      "gloss": "ба бүс"
+    },
+    {
+      "surface": "עור",
+      "gloss": "арьсан"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "бүсэлсэн"
+    },
+    {
+      "surface": "במתניו",
+      "gloss": "бүснээс нь"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "тэрээр хэлэв"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "Элияг"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "Тишби"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "бол ... билээ"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:48.282132424Z",
+  "model": "glm-5.3"
+}

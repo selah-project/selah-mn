@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "jeremiah 51:63",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 51,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "болно",
+      "rationale": "ככלתך-ийн үйлдлийн дараах үр дагалдахыг илэрхийлэхэд монгол хэлэнд хэрэгтэй"
+    },
+    {
+      "kind": "substitution",
+      "subject": "Перат",
+      "rationale": "פרת — Ефрат мөрөн, гэхдээ нэрийг еврей дуудлагаар нь үлдээв"
+    }
+  ],
+  "translation": "Чи ⟨את⟩ энэ номыг уншиж дуусгамагц түүн дээр нь чулуу боож, түүнийг Перат мөрний дунд руу шидэж орхиё.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "4ccae9a33034a3c0829cb677559e154df71f53d4082169e0028b1c8db823ecc0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/jeremiah\/51\/63-63.1791264152298.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "ככלתך",
+      "gloss": "чи дуусгаж"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "унших"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "энэ номыг"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "энэ номыг"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "תקשר",
+      "gloss": "боо"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "түүн дээр нь"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "чулуу"
+    },
+    {
+      "surface": "והשלכתו",
+      "gloss": "түүнийг шидэж"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "дунд"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Перат"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:32.303709644Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "judges 9:35",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нууц байрлал",
+      "rationale": "מארב нь отолт, нууц байрлал гэсэн утгатай."
+    }
+  ],
+  "translation": "Гаал Эбедийн хүү гарч, хотын дааман хаалганы амгалт босоод, АбиМелех ⟨את⟩ түүнтэй хамт байсан хүмүүс нууц байрлалаас босов.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "559429413aca2a8cafd7481f0541c68352fb5024e6a3eb86cc914b1d22b3d8f3",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/judges\/9\/35-35.1791264118575.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Гаал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Эбедийн"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "босоод"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ам"
+    },
+    {
+      "surface": "שער",
+      "gloss": "дааман хаалганы"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "хотын"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "босов"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "АбиМелех"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "хүмүүс"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тэр"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ түүнтэй хамт"
+    },
+    {
+      "surface": "מן",
+      "gloss": "-аас"
+    },
+    {
+      "surface": "המארב",
+      "gloss": "нууц байрлал"
+    }
+  ],
+  "timestamp": "2026-10-06T05:21:58.582065221Z",
+  "model": "glm-5.3"
+}

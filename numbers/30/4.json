@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 30:4",
+  "book": "numbers",
+  "lang": "mn",
+  "chapter": 30,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "эмэгтэй",
+      "rationale": "Хууль эцгийн гэрт буй залуу охинд хандаж байна."
+    },
+    {
+      "kind": "substitution",
+      "subject": "боо",
+      "rationale": "אסר нь өөрийгөө хорих, хязгаарлах үүрэг; боо гэсэн дүрслэлтэй."
+    }
+  ],
+  "translation": "Эмэгтэй хэрэв Яхвэд амлалт өргөж, эцгийнхээ гэрт, залуу насандаа байхдаа өөртөө боо тогтоовол,",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "aba1a21a703b8c0caed2c6efcb099877096926517915f6fc87539ae859bb85aa",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/numbers\/30\/4-4.1791264136348.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "Эмэгтэй хэрэв"
+    },
+    {
+      "surface": "כי",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "амлалт өргөж"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "амлалт"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхвэд"
+    },
+    {
+      "surface": "ואסרה",
+      "gloss": "боо тогтоовол"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "боо"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "гэрт"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "эцгийнхээ"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "залуу насандаа"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:16.350919694Z",
+  "model": "glm-5.3"
+}

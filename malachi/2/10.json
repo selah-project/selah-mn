@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "malachi 2:10",
+  "book": "malachi",
+  "lang": "mn",
+  "chapter": 2,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "הלוא",
+      "rationale": "Literally 'not?', used as an affirmative rhetorical question; rendered as 'бус уу?' \/ 'гэж үү?'"
+    },
+    {
+      "kind": "crux",
+      "subject": "one father",
+      "rationale": "'Нэг эцэг': Abraham\/Israel as common ancestor vs. God as Father; the Hebrew keeps the ambiguity"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "נבגד ... לחלל ברית",
+      "rationale": "Root בגד recurs in the next verse (Judah 'deals treacherously'); the rhetorical question binds both sins together"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel \/ to the priests",
+      "rationale": "First-person plural rhetorical questions address the community directly"
+    }
+  ],
+  "translation": "Бид бүгдэд нэг эцэг бус уу? Нэг Эл биднийг бүтээгээгүй гэж үү? Тэгсэн атлаа яагаад бидний эцэг эхийн гэрээг бузарлахын тулд хүн бүр өөрийн ахын эсрэг итгэлэлзэнэ?",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "1e12c6c8989be55d4e1eea0da18207daa51d075b09a6c2e1fee7c2e27a72ca43",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/malachi\/2\/10-10.1791264179740.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "бус уу"
+    },
+    {
+      "surface": "אב",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "бид бүгдэд"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "гэж үү"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Эл"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг"
+    },
+    {
+      "surface": "בראנו",
+      "gloss": "биднийг бүтээгээгүй"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "яагаад"
+    },
+    {
+      "surface": "נבגד",
+      "gloss": "итгэлэлзэнэ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн бүр"
+    },
+    {
+      "surface": "באחיו",
+      "gloss": "өөрийн ахын эсрэг"
+    },
+    {
+      "surface": "לחלל",
+      "gloss": "бузарлахын тулд"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "гэрээг"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "бидний эцэг эхийн"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:59.746299572Z",
+  "model": "glm-5.3"
+}

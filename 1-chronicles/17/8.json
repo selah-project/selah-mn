@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 17:8",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "you",
+      "subject": "Давид",
+      "rationale": "Яхвэ Цебаот өмнөх ишлэлд Давид боолдоо хандан ярьж байна."
+    },
+    {
+      "kind": "crux",
+      "subject": "нэр хийж өгье",
+      "rationale": "ועשיתי нь өнгөрсөн ('хийсэн') эсвэл ирээдүй ('хийж өгье') гэж уншигдахыг зөвшөөрдөг; KJV нэгэнт хийсэн, JPS\/ASV ирээдүй хэлбэртэй."
+    }
+  ],
+  "translation": "Би чамтай явсан газар бүрт байсан бөгөөд чиний ⟨את⟩ бүх дайсдыг чиний нүүрэнээс тасалж, чамд агуу хүмүүсийн нэр шиг нэр хийж өгье, тэдгээр нь газар дээр буй агуу хүмүүсийн нэр шиг.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "51fc1144fc27952b1fc998617113fc0360ef994cfb9317b2097b1aed28e538dd",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/1-chronicles\/17\/8-8.1791264192261.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ואהיה",
+      "gloss": "байсан"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "чамтай"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "бүрт"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "газар"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "явсан"
+    },
+    {
+      "surface": "ואכרית",
+      "gloss": "тасалж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх дайсдыг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "дайсдыг"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "чиний нүүрэнээс"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "хийж өгье"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "שם",
+      "gloss": "нэр"
+    },
+    {
+      "surface": "כשם",
+      "gloss": "нэр шиг"
+    },
+    {
+      "surface": "הגדולים",
+      "gloss": "агуу хүмүүсийн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "тэдгээр нь"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газар дээр"
+    }
+  ],
+  "timestamp": "2026-10-06T05:23:12.267461933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 41:43",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 41,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "אברך",
+      "rationale": "Хамгийн алдартай маргаан: «Аврех» (еврей үг дээр үлдээсэн, JPS шиг) эсвэл «өвдгөө нугал» (KJV, Египет хэлний үг гэж үзсэн) — энд үгийг хэлбэрээр нь хадгалав."
+    },
+    {
+      "kind": "alternative",
+      "subject": "המשנה",
+      "rationale": "\"Хоёр дахь\" (тооны утга) эсвэл \"хамгийн дэвсгэр\" — Гэнева \"save one\" гэж орчуулсан."
+    },
+    {
+      "kind": "addition",
+      "subject": "гэж",
+      "rationale": "Дуудах үгийг тэмдэглэхийн тулд монгол хэлэнд «гэж» нэмсэн."
+    }
+  ],
+  "translation": "Тэр түүнийг өөрийнх нь хоёр дахь тэрэгнд унуулаад, түүний өмнө «Аврех» гэж хашгирав; түүнийг бүхэл Мицрайм газрын дээр тавив.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "1e18b4b1b7ca5c04f7e383a058cbe873061cf652eb185dbfcbf7f41687882a63",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/genesis\/41\/43-43.1791264123314.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "унуулаад"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "түүнийг"
+    },
+    {
+      "surface": "במרכבת",
+      "gloss": "тэрэгнд"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "хоёр дахь"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ямар нь"
+    },
+    {
+      "surface": "לו",
+      "gloss": "өөрийнх нь"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "хашгирав"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "түүний өмнө"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "«Аврех»"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "тавив"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "түүнийг"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүхэл"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрайм"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:03.319858940Z",
+  "model": "glm-5.3"
+}

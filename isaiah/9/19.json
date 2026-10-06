@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "זרעו",
+      "rationale": "Зөвхөн эгшиг ялгаруулалт нь זְרֹעַ (гар) болохыг харуулна — זֶרַע (үр) биш; үргэлжлүүлсэн утга нь мах идэхтэй холбогдоно."
+    },
+    {
+      "kind": "alternative",
+      "subject": "ויגזר",
+      "rationale": "Илүү түгээмэл уншилт нь 'татаж авах, амтархан идэх'; үндсэн утга нь 'таслах'."
+    }
+  ],
+  "translation": "Баруун талаас нь татаж авахад өлсөж, зүүн талаас нь идээд цаддаггүй; хүн бүр өөрийн гарын махыг иднэ.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "cb850f9e5c80c766d2c0d7786a9d135867abff18ab0623a81f738c1290c2094f",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/isaiah\/9\/19-19.1791264180080.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "татаж авахад"
+    },
+    {
+      "surface": "על",
+      "gloss": "талаас"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "баруун"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "өлсөж"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "идээд"
+    },
+    {
+      "surface": "על",
+      "gloss": "талаас"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "зүүн"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба үгүй"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "цаддаггүй"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн бүр"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "махыг"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "өөрийн гарын"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "иднэ"
+    }
+  ],
+  "timestamp": "2026-10-06T05:23:00.084555735Z",
+  "model": "glm-5.3"
+}

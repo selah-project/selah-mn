@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 21:34",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 21,
+  "notes": [
+    {
+      "kind": "elision",
+      "subject": "את",
+      "rationale": "Эх бичигт את байхгүй тул энд ⟨את⟩ тэмдэг оруулаагүй; төлбөрийг нь төлнө гэсэн обьект шууд дагана"
+    },
+    {
+      "kind": "addition",
+      "subject": "⟨амьтан⟩",
+      "rationale": "והמת — үхсэн гэдэг тухайн амьтныг илэрхийлнэ; монгол хэлэнд нэр байхыг нь нэмлээ"
+    },
+    {
+      "kind": "alternative",
+      "subject": "нүхний эзэн",
+      "rationale": "בעל הבור — нүхийн малтсан\/эзэмшигч хүн; JPS-ийн 'the owner of the pit'-тэй нийцнэ"
+    }
+  ],
+  "translation": "Нүхний эзэн ⟨את⟩ төлбөрийг төлнө; мөнгийг нь эзэнд нь буцааж өгнө; үхсэн ⟨амьтан⟩ түүнийх болно.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "ebdca69432d257cc6cc183652e511f0f8ba3abf6daca1b6030f152c6f8d300b8",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/exodus\/21\/34-34.1791264106964.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעל",
+      "gloss": "эзэн"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "нүхний"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "төлнө"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "мөнгө"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "буцааж өгнө"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "эзэнд нь"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "болон үхсэн нь"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнийх"
+    }
+  ],
+  "timestamp": "2026-10-06T05:21:46.969324954Z",
+  "model": "glm-5.3"
+}

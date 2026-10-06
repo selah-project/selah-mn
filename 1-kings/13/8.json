@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "ч гэсэн",
+      "rationale": "Монгол нөхцөл өгүүлбэрт эвтэйхийн тулд нэмсэн, эх бичигт алга"
+    },
+    {
+      "kind": "you",
+      "subject": "хаанд",
+      "rationale": "Элохимын хүн хаанд шууд хандаж байна"
+    }
+  ],
+  "translation": "Элохимын хүн хаанд хэлэв: Хэрэв та надад ⟨את⟩ гэрийнхээ талыг өгвөл ч гэсэн би тантай явахгүй, талх идэхгүй, ус уухгүй энэ газарт.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "cf56e35d1ad506843cebbbbac08b3423a72def41c2b28f65f0dbafb584f1b712",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/1-kings\/13\/8-8.1791264130218.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "איש",
+      "gloss": "хүн"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Элохимын"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хаанд"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "өгвөл"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гэрийнхээ талыг"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "талыг"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "гэрийнхээ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "үгүй"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "явъя"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "тантай"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "мөн идэхгүй"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "идэхгүй"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "талх"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "мөн уухгүй"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "уухгүй"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ус"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:10.223374060Z",
+  "model": "glm-5.3"
+}

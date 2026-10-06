@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 6:12",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 6,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "гар сунгах",
+      "rationale": "על...ידי נטה — «гар сунгах» идиом: шүүлт\/хүч хэрэглэхийн зураглал."
+    },
+    {
+      "kind": "crux",
+      "subject": "על",
+      "rationale": "«төлөө\/эсрэг»: KJV «upon», YLT «against» — Яхвэгийн гар газрын оршин суугчдын эсрэг чиглэж байна."
+    }
+  ],
+  "translation": "Тэдний гэрүүд бусдад эргэгдэнэ, хээрийн талбайнууд ба эхнэрүүд хамтдаа, учир нь Би газрын оршин суугчдын төлөө ⟨את⟩ гартаа сунгана, Яхвэ айлдаж байна.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "82f6a1c3d2415ccc74acfd344affbc145372ca27805e5863899b9b8c441ae1b4",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/jeremiah\/6\/12-12.1791264158791.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ונסבו",
+      "gloss": "эргэгдэнэ"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "тэдний гэрүүд"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "бусдад"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "талбайнууд"
+    },
+    {
+      "surface": "ונשים",
+      "gloss": "ба эхнэрүүд"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "хамтдаа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "אטה",
+      "gloss": "сунгана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гарт"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "гартаа"
+    },
+    {
+      "surface": "על",
+      "gloss": "төлөө"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "оршин суугчдын"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрын"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "айлдаж байна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:38.793987136Z",
+  "model": "glm-5.3"
+}

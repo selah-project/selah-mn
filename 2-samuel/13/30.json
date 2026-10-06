@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 13:30",
+  "book": "2-samuel",
+  "lang": "mn",
+  "chapter": 13,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "алж",
+      "rationale": "הכה literally 'цохив\/довтлов' — 'алж' гэсэн нь мэдээний агуулгаас гарсан дүгнэлт"
+    },
+    {
+      "kind": "addition",
+      "subject": "ч",
+      "rationale": "'нэг нь ч' — монгол хэлний отгоч үг, еврей бичигт байхгүй"
+    }
+  ],
+  "translation": "Тэд замд байхад нь Давидад мэдээ ирж, айлдахдаа: Авшалом хааны хөвгүүд бүгдийг ⟨את⟩ алж, тэднээс нэг нь ч үлдсэнгүй гэв.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "dace8af4b7fe21877e145a6916feac2ce39d440ca0fca826cecc9884ad9b56a5",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/2-samuel\/13\/30-30.1791264125431.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ба боллоо"
+    },
+    {
+      "surface": "המה",
+      "gloss": "тэд"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "замд"
+    },
+    {
+      "surface": "והשמעה",
+      "gloss": "харин сонсгол мэдээ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ирэв"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "айлдахдаа"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "алж"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хааны хөвгүүд бүгдийг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүгдийг"
+    },
+    {
+      "surface": "בני",
+      "gloss": "хөвгүүд"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба үгүй"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "үлдсэнгүй"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "тэднээс"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "нэг нь ч"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:05.435284763Z",
+  "model": "glm-5.3"
+}

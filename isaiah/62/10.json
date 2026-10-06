@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 62:10",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 62,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "עברו עברו · סלו סלו",
+      "rationale": "Давхар тушаал үгүүд — эхний чанга давталт монгол орчуулгад хэсэгчлэн хадгалагдав."
+    },
+    {
+      "kind": "invitation",
+      "subject": "тушаалууд",
+      "rationale": "Сион охины ард түмэнд зориулж долоон тушаал өгсөн — зам бэлтгэх урилга."
+    },
+    {
+      "kind": "you",
+      "subject": "ард түмэн \/ өргөн чөлөөний заншил",
+      "rationale": "Тушаалын хүлээн авагчид — буцааж ирэгчид, Сионд орох ард түмэн."
+    },
+    {
+      "kind": "substitution",
+      "subject": "нэс — далбаа",
+      "rationale": "нэс бол туг, дохионы шонг илэрхийлнэ; далбаа ойрын дүр зураг."
+    }
+  ],
+  "translation": "Гарайн дээгүүр даваад, даваад; ард түмэнд замыг засаж, хөөрөгд, хөөрөгд ⟨ה⟩ их замыг; чулууг цэвэрлэж, ард олны дээр далбаа өргө.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "2ca5527b9fbbb68b3df04e0e86a32ced1a830fcf83228c0dc0df53d7ced95714",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/isaiah\/62\/10-10.1791264176303.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "даваад"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "даваад"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "гарайн дээгүүр"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "засаж"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "замыг"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэнд"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "хөөрөгд"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "хөөрөгд"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "⟨ה⟩ их замыг"
+    },
+    {
+      "surface": "סקלו",
+      "gloss": "цэвэрлэж"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "чулууг"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "өргө"
+    },
+    {
+      "surface": "נס",
+      "gloss": "далбаа"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ард олны"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:56.308136352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "mn",
+  "chapter": 8,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "мөн",
+      "rationale": "Еврей хэл холбох үйл үггүй, монгол хэл \"мөн\" шаардана"
+    },
+    {
+      "kind": "elision",
+      "subject": "ולא → юу ч мэдэхгүй",
+      "rationale": "отрицание үгийн дараалал монгол хэлэнд өөр байрладаг тул -гүй нөхцөлд шингэв"
+    }
+  ],
+  "translation": "Учир нь бид өчигдөрхөн билээ, юу ч мэдэхгүй, учир нь өдрүүд нь газар дээрх сүүдэр мөн.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "e36847b4ffd07a6ce87b5e98ef43971da3e7fd81b6f3d20b1b623e9775ff5528",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/job\/8\/9-9.1791264160176.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "өчигдөрхөн"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "бид"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба юу ч"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "мэдэхгүй"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "צל",
+      "gloss": "сүүдэр"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "өдрүүд"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "газар"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:40.178512144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "mn",
+  "chapter": 37,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "-д",
+      "rationale": "Монгол хэлэнд локатив нөхцөл шаардагдана, еврейн אל-ыг Ишая үгэнд залгав"
+    }
+  ],
+  "translation": "Хизкия хааны зарцууд Ишаяд очиж,",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "663ca9c2ccf18c617781143cd9316e6919eaf249cc2e97a0f61e04b0c0ffd8d7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/isaiah\/37\/5-5.1791264166109.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "очиж"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "зарцууд"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "хааны"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкия"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-д"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ишая"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:46.113677372Z",
+  "model": "glm-5.3"
+}

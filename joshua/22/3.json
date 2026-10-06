@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 22:3",
+  "book": "joshua",
+  "lang": "mn",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хамгаалалт",
+      "rationale": "משמרת бол манаачлал, хамгаалалтын үүргийн үг — 'асар' гэж орчуулахгүй"
+    },
+    {
+      "kind": "addition",
+      "subject": "— ... —",
+      "rationale": "еврейн үргэлжлэлд холбоос байхгүй тул монгол хэлэнд завсарлага нэмсэн"
+    },
+    {
+      "kind": "wordplay",
+      "subject": "שמר\/משמרת",
+      "rationale": "үйл үг ба түүний үүргийн үндэс давтагдсан — сахих\/хамгаалалт"
+    }
+  ],
+  "translation": "Та нар ах дүүсээ орхисонгүй — энэ олон өдрүүдээс өнөөдөр хүртэл — бас Яхвэ болон таны Элохимын тушаалын хамгаалалтыг сахисан.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "5294891aa7fe549c06a84ce85192da864471552f69aa80466e49d024abf8cc57",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/joshua\/22\/3-3.1791264117230.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "гүй"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "орхисонгүй"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ах дүүсээ"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ах дүүүсээ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "өдрүүд"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "олон"
+    },
+    {
+      "surface": "עד",
+      "gloss": "хүртэл"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өнөөдөр"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "бас сахисан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хамгаалалтыг"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "хамгаалалт"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "тушаалын"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "таны Элохим"
+    }
+  ],
+  "timestamp": "2026-10-06T05:21:57.236026419Z",
+  "model": "glm-5.3"
+}

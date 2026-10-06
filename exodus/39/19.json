@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 39:19",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "хөхний хамгаалалт",
+      "rationale": "החשן бол хөхний хамгаалалт буюу хөхний хэсэгт өмсдөг эд юм"
+    },
+    {
+      "kind": "substitution",
+      "subject": "зах",
+      "rationale": "שׂפתו үгийн шууд утга бол хөхний хамгаалалтын зах, хил хязгаар"
+    },
+    {
+      "kind": "substitution",
+      "subject": "дотор тийш",
+      "rationale": "ביתה гэдэг нь гэр (байт) зүглэсэн буюу дотор тийш чиглэсэн гэсэн утгатай"
+    }
+  ],
+  "translation": "Тэд хоёр алтан бөгж хийж, хөхний хамгаалалтын хоёр үзүүр дээр, эфодын талд байгаа түүний захын дээр, эфодын эсрэг талд нь байрлуулав.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "15eac316d01a1c69e74aa870ada2451e51cf3672506b1166d184ddd2af8cb4f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/exodus\/39\/19-20.1791264109412.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Тэд хийж"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "бөгж"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "байрлуулав"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "שני",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "үзүүр"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хөхний хамгаалалтын"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "түүний захын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "энэ нь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-руу"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "талд"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "эфодын"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "дотор тийш"
+    }
+  ],
+  "timestamp": "2026-10-06T05:21:49.417008921Z",
+  "model": "glm-5.3"
+}

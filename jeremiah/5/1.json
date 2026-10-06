@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 5:1",
+  "book": "jeremiah",
+  "lang": "mn",
+  "chapter": 5,
+  "notes": [
+    {
+      "kind": "alternative",
+      "subject": "אמונа → үнэн",
+      "rationale": "А literal option is «шулуун үнэнч байдал» (firmness, fidelity); «үнэн» follows context, cf. KJV 'truth'."
+    },
+    {
+      "kind": "substitution",
+      "subject": "לה → түүнд (emх)",
+      "rationale": "Feminine suffix points to Jerusalem (the city), rendered 'түүнд' — city forgiveness."
+    },
+    {
+      "kind": "invitation",
+      "subject": "imperatives",
+      "rationale": "Chain of five imperatives (эргэлдэж, харж, мэдэж, хайж) summons hearers to search the city."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ובקשו \/ מבקש",
+      "rationale": "Same verb בקש: 'seek a man' who himself 'seeks' faithfulness — the search mirrors its object, lost in Mongolian."
+    }
+  ],
+  "translation": "Ерушалаймын гудамжуудаар эргэлдэж, харж, мэдэж, түүний өргөн талбайнуудад хайж, хэрэв та нар нэг хүн олж, хэрэв шүүлт хийдэг, үнэнийг эрэлхийлдэг хэн нэгэн байгаа бол — Би түүнд уучлал үзүүлье.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "4445c11c667f378203b9ac4c81406ed3a6c143a972c2d5a28113ab405a16681d",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/jeremiah\/5\/1-1.1791264175559.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "שוטטו",
+      "gloss": "эргэлдэж"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "гудамжуудаар"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерушалаймын"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "харж"
+    },
+    {
+      "surface": "נא",
+      "gloss": "одоо"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "мэдэж"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "хайж"
+    },
+    {
+      "surface": "ברחובותיה",
+      "gloss": "түүний өргөн талбайнуудад"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "та нар олж"
+    },
+    {
+      "surface": "איש",
+      "gloss": "нэг хүн"
+    },
+    {
+      "surface": "אם",
+      "gloss": "хэрэв"
+    },
+    {
+      "surface": "יש",
+      "gloss": "байгаа бол"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "хийдэг"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "шүүлт"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "эрэлхийлдэг"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "үнэнийг"
+    },
+    {
+      "surface": "ואסלח",
+      "gloss": "Би уучлал үзүүлье"
+    },
+    {
+      "surface": "לה",
+      "gloss": "түүнд"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:55.565056692Z",
+  "model": "glm-5.3"
+}

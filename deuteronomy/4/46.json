@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 4:46",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "нирвэсэн",
+      "rationale": "הכה үндсэн утгаараа «цохив»; хааныг ялсныг хэлэхэд «нирвэсэн» гэж орчуулав"
+    },
+    {
+      "kind": "alternative",
+      "subject": "цохив",
+      "rationale": "הכה-г байнгын үг утгаараа «цохив» гэж хадгалах боломжтой"
+    }
+  ],
+  "translation": "Йорданы нөгөө эрэгт, Бет-Пеорын өөдөх талд хөндийд, Хешбонд суудаг байсан Аморын хаан Сихонын газарт — Моше болон Йисраелын хөвгүүд түүнийг Мицраймаас гарч ирэхдээ нирвэсэн.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "e97a3f5758b52af667c214d7ec609a164e2784a24000e8af41a2847c61a94ff6",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/deuteronomy\/4\/46-46.1791264133052.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "нөгөө эрэгт"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йорданы"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "хөндийд"
+    },
+    {
+      "surface": "מול",
+      "gloss": "өөдөх талд"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеорын"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "газарт"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихонын"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "хаан"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Аморын"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кийг"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "суудаг байсан"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "Хешбонд"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кийг"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "нирвэсэн"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "болон хөвгүүд"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Йисраелын"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "гарч ирэхдээ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "Мицраймаас"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:13.059912116Z",
+  "model": "glm-5.3"
+}

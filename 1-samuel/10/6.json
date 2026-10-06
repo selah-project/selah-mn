@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 10:6",
+  "book": "1-samuel",
+  "lang": "mn",
+  "chapter": 10,
+  "notes": [
+    {
+      "kind": "crux",
+      "subject": "давран ирнэ",
+      "rationale": "וצלחה: KJV 'come', ASV\/JPS 'come mightily', BSB 'rush' — даврах\/хүчтэй ирэх утга."
+    },
+    {
+      "kind": "substitution",
+      "subject": "руах",
+      "rationale": "רוח нь сүнс, салхи, амьсгал гэсэн гурван утгатай нэг үг — руах гэж үлдээв."
+    }
+  ],
+  "translation": "Яхвэгийн руах чам дээр давран ирэхэд чи тэдэнтэй хамт эш үзүүлж, өөр хүн болж хувирна.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "d801d0758a41da6b7b2b0719f6d4b591cc76c7e91c554e8d2fc3654fb103a1a7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/1-samuel\/10\/6-6.1791264132970.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וצלחה",
+      "gloss": "давран ирнэ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "чам дээр"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "והתנבית",
+      "gloss": "эш үзүүлж"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "тэдэнтэй хамт"
+    },
+    {
+      "surface": "ונהפכת",
+      "gloss": "хувирна"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "хүн болж"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "өөр"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:12.975834184Z",
+  "model": "glm-5.3"
+}

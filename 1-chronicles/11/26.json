@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "mn",
+  "chapter": 11,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "бол ... байв",
+      "rationale": "Еврей нэрсийн жагсаалтад монгол хэлэнд шаардагдах холбох үг нэмэв"
+    },
+    {
+      "kind": "measurement",
+      "subject": "баатрын жагсаалт",
+      "rationale": "Энэ хэсэг нь Давидын баатруудын нэрийн жагсаалт юм"
+    }
+  ],
+  "translation": "Мөн цэргийн баатрууд бол Асаэл, Йоабын ах, Элханан, Додогийн хүү, Бет-Лехемийнхэн байв.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "47047bb64fdc7da1b5b927bd9901a9e99543d999cafb74d03419eb56dcf337ff",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/1-chronicles\/11\/26-26.1791264189761.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "Мөн баатрууд"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "цэргийн"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Асаэл"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Асаэл"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ах"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоабын"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Элханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "хүү"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Додогийн"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "Бет-Лехемийн"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Бет-Лехемийнхэн"
+    }
+  ],
+  "timestamp": "2026-10-06T05:23:09.764518818Z",
+  "model": "glm-5.3"
+}

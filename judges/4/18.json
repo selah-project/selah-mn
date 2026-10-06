@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 4:18",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "wordplay",
+      "subject": "סורה...סורה...ויסר",
+      "rationale": "'Буц' гэдэг үг давтан хэлэгдээд Сисерагийн үйлдэлд буцаж байна — Яелын урилга түүний хувь заяа болохыг дохиолдог"
+    },
+    {
+      "kind": "you",
+      "subject": "Сисерад",
+      "rationale": "Яел Сисератай шууд хөндлөн өгүүлж, 'эзэн минь' гэж дуудан зөвшөөрүүлж байна"
+    },
+    {
+      "kind": "crux",
+      "subject": "בשמיכה",
+      "rationale": "Бүүрхүүл\/ий оронд 'хивс' (KJV mantle), 'хөнжил' гэсэн янз бүрийн орчуулга байдаг"
+    }
+  ],
+  "translation": "Яел Сисераг угтахаар гарч, түүнд хэлэв: Эзэн минь, буц, над руу буц, бүү ай. Тэр түүн рүү асар руу буцаж орж, тэр түүнийг бүүрхүүлээр бүүрхүүлэв.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "0c1da3b9fb093377e88e3e5044a847d50aad2bcace10db75c688f4ef040493a1",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/judges\/4\/18-18.1791264117875.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "гарч"
+    },
+    {
+      "surface": "יעל",
+      "gloss": "Яел"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "угтахаар"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисераг"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "סורה",
+      "gloss": "буц"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "эзэн минь"
+    },
+    {
+      "surface": "סורה",
+      "gloss": "буц"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "над руу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бүү"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ай"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "буцаж"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "түүн рүү"
+    },
+    {
+      "surface": "האהלה",
+      "gloss": "асар руу"
+    },
+    {
+      "surface": "ותכסהו",
+      "gloss": "түүнийг бүүрхүүлэв"
+    },
+    {
+      "surface": "בשמיכה",
+      "gloss": "бүүрхүүлээр"
+    }
+  ],
+  "timestamp": "2026-10-06T05:21:57.883660404Z",
+  "model": "glm-5.3"
+}

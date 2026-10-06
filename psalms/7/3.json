@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "mn",
+  "chapter": 7,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "амьсгал бүхий нас",
+      "rationale": "נפש нь амьсгал \/ тэмтрэл \/ амьдралын хүч, «сүнс» гэсэн ойлголт биш"
+    },
+    {
+      "kind": "addition",
+      "subject": "Тэр",
+      "rationale": "еврей эхтэнд субьект байхгүй, өмнөх эшлэлийн дайсныг заасан"
+    },
+    {
+      "kind": "crux",
+      "subject": "Тэр \/ тэд",
+      "rationale": "ASV «lest they tear» олон тоо, KJV\/JPS «he» ганц тоо; еврей дүрмийн үйл үг нь заагчгүй"
+    }
+  ],
+  "translation": "Тэр арслан мэт миний амьсгал бүхий насыг тасдаж, хагалж болох вуй гэж, учир нь аврагч үгүй.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "88d434d4213b0b458601a26084310fc6f21d87d47dd3789339d42f1e698ac400",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/psalms\/7\/3-3.1791264155512.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "вуй гэж"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "тасдаж"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "арслан мэт"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "миний амьсгал бүхий насыг"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "хагалж"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "учир нь үгүй"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "аврагч"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:35.513343499Z",
+  "model": "glm-5.3"
+}

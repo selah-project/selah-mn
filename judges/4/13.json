@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 4:13",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 4,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "есөн зуун төмөр дөнгөт тэрэг",
+      "rationale": "Тэрэгний тоог тоолсон бичлэг."
+    },
+    {
+      "kind": "substitution",
+      "subject": "горхи",
+      "rationale": "נחל бол өвлийн урсгал, горхи ба нарийн хөндий хоёулын утгатай үг."
+    }
+  ],
+  "translation": "Сисера өөрийн бүх дөнгөт тэрэгнээ — есөн зуун төмөр дөнгөт тэрэг — дуудан цуглуулж, түүнтэй хамт байгаа бүх ард түмнээ Харь үндэстнүүдийн Харошетоос Кишоны горхи руу авчрав.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "644f18f56260656a7803e04ad7de9a59d15e5d4c6825a231dafd25d91a0bfdb7",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/judges\/4\/13-13.1791264110714.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "дуудан цуглуулж"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисера"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бүх дөнгөт тэрэг"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "өөрийн дөнгөт тэрэгнээ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "есөн"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "зуун"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "дөнгөт тэрэг"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "төмөр"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ба ⟨את⟩",
+      "marks": "бүх ард түмэн"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ард түмэн"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-ыг"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "түүнтэй хамт ⟨את⟩"
+    },
+    {
+      "surface": "מחרשת",
+      "gloss": "Харошет"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "харь үндэстнүүдийн"
+    },
+    {
+      "surface": "אל",
+      "gloss": "руу"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "горхи"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "Кишон"
+    }
+  ],
+  "timestamp": "2026-10-06T05:21:50.722157680Z",
+  "model": "glm-5.3"
+}

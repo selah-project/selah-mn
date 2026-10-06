@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 22:22",
+  "book": "1-kings",
+  "lang": "mn",
+  "chapter": 22,
+  "notes": [
+    {
+      "kind": "addition",
+      "subject": "Яхвэ",
+      "rationale": "Хоёр дахь ויאמר-ын субьект эх бичигт байхгүй; хэн хэлснийг тодруулахын тулд нэмлээ"
+    },
+    {
+      "kind": "addition",
+      "subject": "түүнийг",
+      "rationale": "תפתה-ийн объект эх бичигт байхгүй, монгол хэл шаардаж байна"
+    },
+    {
+      "kind": "crux",
+      "subject": "תפתה",
+      "rationale": "Худал руахын үг: 'төөрүүлэх, мэхлэх, хөтлөх' — орчуулгууд 'entice\/persuade\/deceive' гэж зөрүүлдэг"
+    }
+  ],
+  "translation": "Тэр хэлэв: Би гарч, түүний бүх эш үзүүлэгч нарын аманд худал руах болж, Яхвэ хэлэв: Чи түүнийг төөрүүлж чадна, мөн чадах болно; гар, тэгж гүйцэтгэ.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "c79ab9cdda6bd21c4412757dc23cdf86accd42266ee8136a3213106173c7fd16",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/1-kings\/22\/22-22.1791264127066.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Тэр хэлэв"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "Би гарч"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "болж"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "руах"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "худал"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "аманд"
+    },
+    {
+      "surface": "כל",
+      "gloss": "бүх"
+    },
+    {
+      "surface": "נביאיו",
+      "gloss": "түүний эш үзүүлэгч нарын"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Яхвэ хэлэв"
+    },
+    {
+      "surface": "תפתה",
+      "gloss": "Чи түүнийг төөрүүлж чадна"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "мөн"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "чадах болно"
+    },
+    {
+      "surface": "צא",
+      "gloss": "гар"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "тэгж гүйцэтгэ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тэгж"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:07.070929156Z",
+  "model": "glm-5.3"
+}

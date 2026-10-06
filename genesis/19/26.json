@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "mn",
+  "chapter": 19,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "багана",
+      "rationale": "נציב нь босоо зүйл, хөшөө, байрлал гэсэн утгатай — давсны багана гэж орчуулав."
+    },
+    {
+      "kind": "wordplay",
+      "subject": "ותבט ... נציב",
+      "rationale": "Харсан (нэг удаа харсан ч) — хөдөлгөөнгүй зүйл болов: харах үйлдэл бус, өөрөө харагдах зүйл болж хувирсан нь монголоор бүрэн илэрхийлэгдэхгүй."
+    },
+    {
+      "kind": "elision",
+      "subject": "мэдээлэх -ад (-ыг)",
+      "rationale": "Монгол хэлэнд заах нөхцөл шаардлагатай тул заагдсан объектын тэмдэг байхгүй ч ⟨…⟩-гүйгээр нэмлээ."
+    }
+  ],
+  "translation": "Түүний эхнэр түүний ардас харахад давсны багана болов.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "24a43a4400d570a675c82505dec10fde01238c00fa60f20ce0d39dff631ca26c",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/genesis\/19\/26-26.1791264128037.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "харахад"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "эхнэр"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "түүний ардас"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "болов"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "багана"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "давсны"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:08.040747905Z",
+  "model": "glm-5.3"
+}

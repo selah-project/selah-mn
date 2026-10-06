@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 9:23",
+  "book": "deuteronomy",
+  "lang": "mn",
+  "chapter": 9,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бослоголж",
+      "rationale": "ותמרу 'амьдагдах, гутрах, бослох' — КЖВ 'commandment' гэж орчуулсан боловч эх үг 'ам'-тай холбоотой дүрслэл"
+    },
+    {
+      "kind": "addition",
+      "subject": "өөрсдийн",
+      "rationale": "Элохимын өмнөх төрөл нөхцөл монголоор тодруулагдлаа"
+    },
+    {
+      "kind": "you",
+      "subject": "to Israel",
+      "rationale": "Моше Йисраелд шууд хандаж тэдний бослогыг дурдаж байна"
+    }
+  ],
+  "translation": "Яхвэ та нарыг Кадеш-Барнеагаас илгээж, Өгсөгтүн, би та нарт өгсөн газрыг эзэлтүгэнэ гэхэд та нар өөрсдийн Элохим Яхвэгийн аманд ⟨את⟩ бослоголж, Түүнд итгэсэнгүй, Түүний дуу хоолойг сонсоногүй.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "a8481a0a5040e81fc8e657013e7568a082ff5245e4bfa97a1889a06069be755a",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/deuteronomy\/9\/23-23.1791264134022.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ובשלח",
+      "gloss": "илгээх үед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ та нарыг"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "Кадеш"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "-Барнеагаас"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "гэж"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "өгсөгтүн"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "эзэлтүн"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "газрыг"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "яг"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "би өгсөн"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "та нарт"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "бослож"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэгийн"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "өөрсдийн Элохим"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "האמנתם",
+      "gloss": "итгэсэнгүй"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Түүнд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ба"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "сонсоногүй"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "Түүний дуу хоолойг"
+    }
+  ],
+  "timestamp": "2026-10-06T05:22:14.033525840Z",
+  "model": "glm-5.3"
+}

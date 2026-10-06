@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 39:20",
+  "book": "exodus",
+  "lang": "mn",
+  "chapter": 39,
+  "notes": [
+    {
+      "kind": "substitution",
+      "subject": "бүс",
+      "rationale": "חשב бол нарийн хээтэй, утаслаж уястай бүс юм"
+    },
+    {
+      "kind": "substitution",
+      "subject": "холбосон хэсэг",
+      "rationale": "מחברתו нь эфодын холбогдсон, оёдолтой хэсгийг заана"
+    },
+    {
+      "kind": "addition",
+      "subject": "тэдгээрийг",
+      "rationale": "ויתנם дагуулъя үгийн объект нь өмнөх бөгжнүүдийг заасан тул монголоор тодруулав"
+    }
+  ],
+  "translation": "Тэд хоёр алтан бөгж хийж, эфодын хоёр мөрний доод хэсэгт, түүний нүүрний эсрэг, холбосон хэсгийн дээр, эфодын бүсний дээр байрлуулав.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "15eac316d01a1c69e74aa870ada2451e51cf3672506b1166d184ddd2af8cb4f2",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/exodus\/39\/19-20.1791264109412.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Тэд хийж"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "бөгж"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "алтан"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "тэдгээрийг өгч байрлуулав"
+    },
+    {
+      "surface": "על",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "Шתי",
+      "gloss": "хоёр"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "мөрний"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "эфодын"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "доод хэсэгт"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "эсрэг"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "түүний нүүрний"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "хажууд"
+    },
+    {
+      "surface": "מחברתו",
+      "gloss": "түүний холбосон хэсгийн"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "дээр"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "бүсний"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "эфодын"
+    }
+  ],
+  "timestamp": "2026-10-06T05:21:49.420113320Z",
+  "model": "glm-5.3"
+}

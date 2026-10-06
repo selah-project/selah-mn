@@ -1,0 +1,119 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 17:10",
+  "book": "judges",
+  "lang": "mn",
+  "chapter": 17,
+  "notes": [
+    {
+      "kind": "measurement",
+      "subject": "מöнгө арав жил бүр",
+      "rationale": "Микахийн тавьсан цалин — жилд арав мөнгө, хувцас, амьжилт."
+    },
+    {
+      "kind": "crux",
+      "subject": "לימים",
+      "rationale": "'өдрүүдэд' гэж үгэндээ — жил бүр гэж уншдаг (KJV\/ASV) эсвэл 'өдрүүд бүр' гэсэн хоёр уншилт бий."
+    },
+    {
+      "kind": "substitution",
+      "subject": "בолж",
+      "rationale": "והיה 'бол' — Монгол хэлэнд '-ж' нөхцөлөөр холбогдсон бөгөөд еврейн тангараглалын хэлбэрийг хадгалахыг оролдсон."
+    }
+  ],
+  "translation": "Миках түүнд хэлэв: Надтай суу, надад эцэг ба тахилч болж, би чамд жил бүр мөнгө арав, хувцасны бүрдэл ба чиний амьжилтыг өгье. Тэгээд Леви эр дотор оров.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "0972372d6f295cccd5f3a731a9f82a79f9652b387de59010720fed82146844a0",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/judges\/17\/10-10.1791264112888.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "хэлэв"
+    },
+    {
+      "surface": "לו",
+      "gloss": "түүнд"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миках"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "суу"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "надтай"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "болж"
+    },
+    {
+      "surface": "לי",
+      "gloss": "надад"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "эцэг"
+    },
+    {
+      "surface": "ולכהן",
+      "gloss": "ба тахилч"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "би"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "өгье"
+    },
+    {
+      "surface": "לך",
+      "gloss": "чамд"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "арав"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "мөнгө"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "жил бүр"
+    },
+    {
+      "surface": "וערך",
+      "gloss": "ба бүрдэл"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "хувцасны"
+    },
+    {
+      "surface": "ומחיתך",
+      "gloss": "чиний амьжилт"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "дотор оров"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Леви эр"
+    }
+  ],
+  "timestamp": "2026-10-06T05:21:52.892795462Z",
+  "model": "glm-5.3"
+}
