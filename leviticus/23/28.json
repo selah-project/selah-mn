@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 23:28",
+  "book": "leviticus",
+  "lang": "mn",
+  "chapter": 23,
+  "notes": [
+    {
+      "kind": "idiom",
+      "subject": "בעצם היום",
+      "rationale": "Еврей хэлний хэллэг «өдрийн яс\/махбодь» нь «яг энэ өдөр» гэсэн утгатай; биет утгыг нь гэмтээжээ."
+    },
+    {
+      "kind": "substitution",
+      "subject": "цагааргалл",
+      "rationale": "כפר гэдэг нь бүрхэх, бүрхэн далдлах гэсэн утгатай; цагааргалл ойролцоо утга."
+    },
+    {
+      "kind": "you",
+      "subject": "Израилийн ард түмэнд",
+      "rationale": "Та нар гэсэн шууд хандлага."
+    }
+  ],
+  "translation": "Яг энэ өдрийн өөрөө та нар ямар ч ажил хийж болохгүй, учир нь энэ бол цагааргаллын өдөр бөгөөд Яхвэ болон та нарын Элохимын өмнө та нарыг цагааргах өдөр юм.",
+  "provenance": {
+    "system-sha256": "f5d818365e9fe39d7be22a2ca9d297b89fc1cdc7108e14b762b3c60548866bdb",
+    "user-sha256": "9f88e951c7f7351d2d8f95d1d623be6f1b3990ec456e170c119abefdaf059368",
+    "prompt-file": ".selah\/sources\/translations\/prompts\/mn\/leviticus\/23\/28-28.1791273124932.json",
+    "code": "c024393f-dirty",
+    "model": "glm-5.3",
+    "tier": "glm-5.2",
+    "clean-room?": false
+  },
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ямар ч"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ажил"
+    },
+    {
+      "surface": "לא",
+      "gloss": "хийж болохгүй"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "та нар хийх"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "өөрөө"
+    },
+    {
+      "surface": "היום",
+      "gloss": "өдрийн"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "энэ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "учир нь"
+    },
+    {
+      "surface": "יום",
+      "gloss": "өдөр"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "цагааргаллын"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "энэ бол"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "цагааргах"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "та нарыг"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "өмнө"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхвэ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "та нарын Элохим"
+    }
+  ],
+  "timestamp": "2026-10-06T07:52:04.933907444Z",
+  "model": "glm-5.3"
+}
